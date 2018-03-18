@@ -1,0 +1,10268 @@
+<aiml version="1.0.1" encoding="UTF-8">
+
+<category>
+	<pattern>OOMB</pattern>
+	<template>
+		<random>
+			<li>Ms. Kalyani Karule teaches OBJECT ORIENTED MODELLING</li>
+			<li>Ms. Kalyani Karule</li>
+			<li>OBJECT ORIENTED MODELLING is taught by Ms. Kalyani Karule</li>
+		</random>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * O O MODELLING * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * OO MODELLING * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ PROFESSOR * O O MODELLING * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * OO MODELLING * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR * O O MODELLING * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR * OO MODELLING * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR * O O MODELLING * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR * OO MODELLING * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * O O MODELLING B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * OO MODELLING B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR * O O MODELLING B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR * OO MODELLING B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR O O MODELLING * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR OO MODELLING * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR O O MODELLING * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR OO MODELLING * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR O O MODELLING * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR OO MODELLING * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR O O MODELLING * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR OO MODELLING * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR O O MODELLING B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR OO MODELLING B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR O O MODELLING B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR OO MODELLING B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+
+
+<category>
+	<pattern>_ PROFESSOR * B * O O MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * B * OO MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * B * O O MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * B * OO MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR * B * O O MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR * B * OO MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR * B * O O MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR * B * OO MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR B * O O MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR B * OO MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR B * O O MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR B * OO MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR B * O O MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR B * OO MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR B * O O MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR B * OO MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * B O O MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * B OO MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * B O O MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * B OO MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR * B O O MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR * B OO MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR * B O O MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR * B OO MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>_ O O MODELLING PROFESSOR * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OO MODELLING PROFESSOR * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ O O MODELLING PROFESSOR * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OO MODELLING PROFESSOR * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>O O MODELLING PROFESSOR * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OO MODELLING PROFESSOR * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>O O MODELLING PROFESSOR * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OO MODELLING PROFESSOR * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ O O MODELLING PROFESSOR B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OO MODELLING PROFESSOR B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>O O MODELLING PROFESSOR B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OO MODELLING PROFESSOR B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>_ O O MODELLING * B PROFESSOR *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OO MODELLING * B PROFESSOR *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ O O MODELLING * B PROFESSOR</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OO MODELLING * B PROFESSOR</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>O O MODELLING * B PROFESSOR *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OO MODELLING * B PROFESSOR *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>O O MODELLING * B PROFESSOR</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OO MODELLING * B PROFESSOR</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ O O MODELLING B * PROFESSOR *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OO MODELLING B * PROFESSOR *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ O O MODELLING B * PROFESSOR</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OO MODELLING B * PROFESSOR</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>O O MODELLING B * PROFESSOR *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OO MODELLING B * PROFESSOR *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>O O MODELLING B * PROFESSOR</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OO MODELLING B * PROFESSOR</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>_ B PROFESSOR * O O MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROFESSOR * OO MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROFESSOR * O O MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROFESSOR * OO MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR * O O MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR * OO MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR * O O MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR * OO MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROFESSOR O O MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROFESSOR OO MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROFESSOR O O MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ B PROFESSOR OO MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR O O MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR OO MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR O O MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR OO MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+
+
+<category>
+	<pattern>_ B O O MODELLING PROFESSOR *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B OO MODELLING PROFESSOR *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B O O MODELLING PROFESSOR</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B OO MODELLING PROFESSOR</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * O O MODELLING PROFESSOR *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * OO MODELLING PROFESSOR *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * O O MODELLING PROFESSOR</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * OO MODELLING PROFESSOR</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY * O O MODELLING * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * OO MODELLING * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ FACULTY * O O MODELLING * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * OO MODELLING * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY * O O MODELLING * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY * OO MODELLING * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY * O O MODELLING * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY * OO MODELLING * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * O O MODELLING B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * OO MODELLING B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY * O O MODELLING B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY * OO MODELLING B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY O O MODELLING * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY OO MODELLING * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY O O MODELLING * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY OO MODELLING * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY O O MODELLING * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY OO MODELLING * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY O O MODELLING * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY OO MODELLING * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY O O MODELLING B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY OO MODELLING B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY O O MODELLING B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY OO MODELLING B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+
+
+<category>
+	<pattern>_ FACULTY * B * O O MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * B * OO MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * B * O O MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * B * OO MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY * B * O O MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY * B * OO MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY * B * O O MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY * B * OO MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY B * O O MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY B * OO MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY B * O O MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY B * OO MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY B * O O MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY B * OO MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY B * O O MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY B * OO MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * B O O MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * B OO MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * B O O MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * B OO MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY * B O O MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY * B OO MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY * B O O MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY * B OO MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>_ O O MODELLING FACULTY * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OO MODELLING FACULTY * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ O O MODELLING FACULTY * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OO MODELLING FACULTY * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>O O MODELLING FACULTY * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OO MODELLING FACULTY * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>O O MODELLING FACULTY * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OO MODELLING FACULTY * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ O O MODELLING FACULTY B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OO MODELLING FACULTY B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>O O MODELLING FACULTY B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OO MODELLING FACULTY B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>_ O O MODELLING * B FACULTY *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OO MODELLING * B FACULTY *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ O O MODELLING * B FACULTY</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OO MODELLING * B FACULTY</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>O O MODELLING * B FACULTY *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OO MODELLING * B FACULTY *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>O O MODELLING * B FACULTY</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OO MODELLING * B FACULTY</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ O O MODELLING B * FACULTY *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OO MODELLING B * FACULTY *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ O O MODELLING B * FACULTY</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OO MODELLING B * FACULTY</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>O O MODELLING B * FACULTY *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OO MODELLING B * FACULTY *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>O O MODELLING B * FACULTY</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OO MODELLING B * FACULTY</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>_ B FACULTY * O O MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B FACULTY * OO MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B FACULTY * O O MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B FACULTY * OO MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY * O O MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY * OO MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY * O O MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY * OO MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B FACULTY O O MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B FACULTY OO MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B FACULTY O O MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ B FACULTY OO MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY O O MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY OO MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY O O MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY OO MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+
+
+<category>
+	<pattern>_ B O O MODELLING FACULTY *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B OO MODELLING FACULTY *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B O O MODELLING FACULTY</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B OO MODELLING FACULTY</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * O O MODELLING FACULTY *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * OO MODELLING FACULTY *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * O O MODELLING FACULTY</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * OO MODELLING FACULTY</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF * O O MODELLING * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * OO MODELLING * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ PROF * O O MODELLING * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * OO MODELLING * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF * O O MODELLING * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF * OO MODELLING * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF * O O MODELLING * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF * OO MODELLING * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * O O MODELLING B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * OO MODELLING B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF * O O MODELLING B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF * OO MODELLING B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF O O MODELLING * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF OO MODELLING * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF O O MODELLING * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF OO MODELLING * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF O O MODELLING * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF OO MODELLING * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF O O MODELLING * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF OO MODELLING * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF O O MODELLING B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF OO MODELLING B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF O O MODELLING B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF OO MODELLING B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+
+
+<category>
+	<pattern>_ PROF * B * O O MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * B * OO MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * B * O O MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * B * OO MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF * B * O O MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF * B * OO MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF * B * O O MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF * B * OO MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF B * O O MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF B * OO MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF B * O O MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF B * OO MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF B * O O MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF B * OO MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF B * O O MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF B * OO MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * B O O MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * B OO MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * B O O MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * B OO MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF * B O O MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF * B OO MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF * B O O MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF * B OO MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>_ O O MODELLING PROF * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OO MODELLING PROF * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ O O MODELLING PROF * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OO MODELLING PROF * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>O O MODELLING PROF * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OO MODELLING PROF * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>O O MODELLING PROF * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OO MODELLING PROF * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ O O MODELLING PROF B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OO MODELLING PROF B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>O O MODELLING PROF B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OO MODELLING PROF B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>_ O O MODELLING * B PROF *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OO MODELLING * B PROF *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ O O MODELLING * B PROF</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OO MODELLING * B PROF</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>O O MODELLING * B PROF *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OO MODELLING * B PROF *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>O O MODELLING * B PROF</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OO MODELLING * B PROF</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ O O MODELLING B * PROF *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OO MODELLING B * PROF *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ O O MODELLING B * PROF</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OO MODELLING B * PROF</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>O O MODELLING B * PROF *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OO MODELLING B * PROF *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>O O MODELLING B * PROF</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OO MODELLING B * PROF</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>_ B PROF * O O MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROF * OO MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROF * O O MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROF * OO MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF * O O MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF * OO MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF * O O MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF * OO MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROF O O MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROF OO MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROF O O MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ B PROF OO MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF O O MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF OO MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF O O MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF OO MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+
+
+<category>
+	<pattern>_ B O O MODELLING PROF *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B OO MODELLING PROF *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B O O MODELLING PROF</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B OO MODELLING PROF</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * O O MODELLING PROF *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * OO MODELLING PROF *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * O O MODELLING PROF</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * OO MODELLING PROF</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+
+
+<category>
+	<pattern>_ LECTURER * O O MODELLING * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * OO MODELLING * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ LECTURER * O O MODELLING * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * OO MODELLING * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER * O O MODELLING * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER * OO MODELLING * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER * O O MODELLING * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER * OO MODELLING * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * O O MODELLING B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * OO MODELLING B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER * O O MODELLING B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER * OO MODELLING B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER O O MODELLING * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER OO MODELLING * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER O O MODELLING * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER OO MODELLING * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER O O MODELLING * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER OO MODELLING * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER O O MODELLING * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER OO MODELLING * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER O O MODELLING B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER OO MODELLING B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER O O MODELLING B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER OO MODELLING B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+
+
+<category>
+	<pattern>_ LECTURER * B * O O MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * B * OO MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * B * O O MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * B * OO MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER * B * O O MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER * B * OO MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER * B * O O MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER * B * OO MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER B * O O MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER B * OO MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER B * O O MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER B * OO MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER B * O O MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER B * OO MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER B * O O MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER B * OO MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * B O O MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * B OO MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * B O O MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * B OO MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER * B O O MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER * B OO MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER * B O O MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER * B OO MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>_ O O MODELLING LECTURER * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OO MODELLING LECTURER * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ O O MODELLING LECTURER * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OO MODELLING LECTURER * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>O O MODELLING LECTURER * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OO MODELLING LECTURER * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>O O MODELLING LECTURER * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OO MODELLING LECTURER * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ O O MODELLING LECTURER B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OO MODELLING LECTURER B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>O O MODELLING LECTURER B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OO MODELLING LECTURER B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>_ O O MODELLING * B LECTURER *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OO MODELLING * B LECTURER *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ O O MODELLING * B LECTURER</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OO MODELLING * B LECTURER</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>O O MODELLING * B LECTURER *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OO MODELLING * B LECTURER *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>O O MODELLING * B LECTURER</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OO MODELLING * B LECTURER</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ O O MODELLING B * LECTURER *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OO MODELLING B * LECTURER *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ O O MODELLING B * LECTURER</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OO MODELLING B * LECTURER</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>O O MODELLING B * LECTURER *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OO MODELLING B * LECTURER *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>O O MODELLING B * LECTURER</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OO MODELLING B * LECTURER</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>_ B LECTURER * O O MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LECTURER * OO MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LECTURER * O O MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LECTURER * OO MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER * O O MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER * OO MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER * O O MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER * OO MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LECTURER O O MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LECTURER OO MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LECTURER O O MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ B LECTURER OO MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER O O MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER OO MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER O O MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER OO MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+
+
+<category>
+	<pattern>_ B O O MODELLING LECTURER *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B OO MODELLING LECTURER *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B O O MODELLING LECTURER</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B OO MODELLING LECTURER</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * O O MODELLING LECTURER *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * OO MODELLING LECTURER *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * O O MODELLING LECTURER</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * OO MODELLING LECTURER</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+
+
+<category>
+	<pattern>_ LECT * O O MODELLING * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * OO MODELLING * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ LECT * O O MODELLING * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * OO MODELLING * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT * O O MODELLING * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT * OO MODELLING * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT * O O MODELLING * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT * OO MODELLING * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * O O MODELLING B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * OO MODELLING B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT * O O MODELLING B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT * OO MODELLING B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT O O MODELLING * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT OO MODELLING * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT O O MODELLING * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT OO MODELLING * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT O O MODELLING * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT OO MODELLING * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT O O MODELLING * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT OO MODELLING * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT O O MODELLING B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT OO MODELLING B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT O O MODELLING B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT OO MODELLING B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+
+
+<category>
+	<pattern>_ LECT * B * O O MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * B * OO MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * B * O O MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * B * OO MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT * B * O O MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT * B * OO MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT * B * O O MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT * B * OO MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT B * O O MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT B * OO MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT B * O O MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT B * OO MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT B * O O MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT B * OO MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT B * O O MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT B * OO MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * B O O MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * B OO MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * B O O MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * B OO MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT * B O O MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT * B OO MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT * B O O MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT * B OO MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>_ O O MODELLING LECT * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OO MODELLING LECT * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ O O MODELLING LECT * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OO MODELLING LECT * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>O O MODELLING LECT * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OO MODELLING LECT * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>O O MODELLING LECT * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OO MODELLING LECT * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ O O MODELLING LECT B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OO MODELLING LECT B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>O O MODELLING LECT B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OO MODELLING LECT B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>_ O O MODELLING * B LECT *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OO MODELLING * B LECT *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ O O MODELLING * B LECT</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OO MODELLING * B LECT</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>O O MODELLING * B LECT *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OO MODELLING * B LECT *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>O O MODELLING * B LECT</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OO MODELLING * B LECT</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ O O MODELLING B * LECT *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OO MODELLING B * LECT *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ O O MODELLING B * LECT</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OO MODELLING B * LECT</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>O O MODELLING B * LECT *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OO MODELLING B * LECT *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>O O MODELLING B * LECT</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OO MODELLING B * LECT</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>_ B LECT * O O MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LECT * OO MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LECT * O O MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LECT * OO MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT * O O MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT * OO MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT * O O MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT * OO MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LECT O O MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LECT OO MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LECT O O MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ B LECT OO MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT O O MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT OO MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT O O MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT OO MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+
+
+<category>
+	<pattern>_ B O O MODELLING LECT *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B OO MODELLING LECT *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B O O MODELLING LECT</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B OO MODELLING LECT</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * O O MODELLING LECT *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * OO MODELLING LECT *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * O O MODELLING LECT</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * OO MODELLING LECT</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>_ TEACHER * O O MODELLING * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * OO MODELLING * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ TEACHER * O O MODELLING * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * OO MODELLING * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER * O O MODELLING * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER * OO MODELLING * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER * O O MODELLING * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER * OO MODELLING * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * O O MODELLING B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * OO MODELLING B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER * O O MODELLING B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER * OO MODELLING B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER O O MODELLING * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER OO MODELLING * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER O O MODELLING * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER OO MODELLING * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER O O MODELLING * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER OO MODELLING * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER O O MODELLING * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER OO MODELLING * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER O O MODELLING B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER OO MODELLING B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER O O MODELLING B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER OO MODELLING B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * B * O O MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * B * OO MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * B * O O MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * B * OO MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER * B * O O MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER * B * OO MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER * B * O O MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER * B * OO MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER B * O O MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER B * OO MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER B * O O MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER B * OO MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER B * O O MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER B * OO MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER B * O O MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER B * OO MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * B O O MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * B OO MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * B O O MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * B OO MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER * B O O MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER * B OO MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER * B O O MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER * B OO MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>_ O O MODELLING TEACHER * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OO MODELLING TEACHER * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ O O MODELLING TEACHER * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OO MODELLING TEACHER * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>O O MODELLING TEACHER * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OO MODELLING TEACHER * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>O O MODELLING TEACHER * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OO MODELLING TEACHER * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ O O MODELLING TEACHER B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OO MODELLING TEACHER B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>O O MODELLING TEACHER B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OO MODELLING TEACHER B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>_ O O MODELLING * B TEACHER *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OO MODELLING * B TEACHER *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ O O MODELLING * B TEACHER</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OO MODELLING * B TEACHER</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>O O MODELLING * B TEACHER *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OO MODELLING * B TEACHER *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>O O MODELLING * B TEACHER</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OO MODELLING * B TEACHER</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ O O MODELLING B * TEACHER *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OO MODELLING B * TEACHER *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ O O MODELLING B * TEACHER</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OO MODELLING B * TEACHER</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>O O MODELLING B * TEACHER *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OO MODELLING B * TEACHER *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>O O MODELLING B * TEACHER</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OO MODELLING B * TEACHER</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>_ B TEACHER * O O MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B TEACHER * OO MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B TEACHER * O O MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B TEACHER * OO MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER * O O MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER * OO MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER * O O MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER * OO MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B TEACHER O O MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B TEACHER OO MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B TEACHER O O MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ B TEACHER OO MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER O O MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER OO MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER O O MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER OO MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+
+
+<category>
+	<pattern>_ B O O MODELLING TEACHER *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B OO MODELLING TEACHER *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B O O MODELLING TEACHER</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B OO MODELLING TEACHER</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * O O MODELLING TEACHER *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * OO MODELLING TEACHER *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * O O MODELLING TEACHER</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * OO MODELLING TEACHER</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ TEACHES O O MODELLING * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES OO MODELLING * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES O O MODELLING * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES OO MODELLING * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES O O MODELLING B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES OO MODELLING B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES * B O O MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES * B OO MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES * B O O MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES * B OO MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES B * O O MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES B * OO MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES B * O O MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES B * OO MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ O O MODELLING * B * TAUGHT *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OO MODELLING * B * TAUGHT *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>O O MODELLING * B * TAUGHT *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OO MODELLING * B * TAUGHT *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ O O MODELLING B * TAUGHT *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OO MODELLING B * TAUGHT *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>O O MODELLING B * TAUGHT *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OO MODELLING B * TAUGHT *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ O O MODELLING * B TAUGHT *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OO MODELLING * B TAUGHT *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>O O MODELLING * B TAUGHT *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OO MODELLING * B TAUGHT *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURES * O O MODELLING * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURES * OO MODELLING * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURES * O O MODELLING * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURES * OO MODELLING * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURES * O O MODELLING B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURES * OO MODELLING B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR * OBJECT ORIENTED MODELLING * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * OOM * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ PROFESSOR * OBJECT ORIENTED MODELLING * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * OOM * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR * OBJECT ORIENTED MODELLING * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR * OOM * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR * OBJECT ORIENTED MODELLING * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR * OOM * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * OBJECT ORIENTED MODELLING B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * OOM B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR * OBJECT ORIENTED MODELLING B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR * OOM B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR OBJECT ORIENTED MODELLING * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR OOM * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR OBJECT ORIENTED MODELLING * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR OOM * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR OBJECT ORIENTED MODELLING * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR OOM * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR OBJECT ORIENTED MODELLING * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR OOM * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR OBJECT ORIENTED MODELLING B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR OOM B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR OBJECT ORIENTED MODELLING B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR OOM B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+
+
+<category>
+	<pattern>_ PROFESSOR * B * OBJECT ORIENTED MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * B * OOM *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * B * OBJECT ORIENTED MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * B * OOM</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR * B * OBJECT ORIENTED MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR * B * OOM *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR * B * OBJECT ORIENTED MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR * B * OOM</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR B * OBJECT ORIENTED MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR B * OOM *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR B * OBJECT ORIENTED MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR B * OOM</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR B * OBJECT ORIENTED MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR B * OOM *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR B * OBJECT ORIENTED MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR B * OOM</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * B OBJECT ORIENTED MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * B OOM *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * B OBJECT ORIENTED MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * B OOM</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR * B OBJECT ORIENTED MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR * B OOM *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR * B OBJECT ORIENTED MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR * B OOM</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>_ OBJECT ORIENTED MODELLING PROFESSOR * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OOM PROFESSOR * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OBJECT ORIENTED MODELLING PROFESSOR * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OOM PROFESSOR * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OBJECT ORIENTED MODELLING PROFESSOR * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OOM PROFESSOR * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OBJECT ORIENTED MODELLING PROFESSOR * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OOM PROFESSOR * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OBJECT ORIENTED MODELLING PROFESSOR B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OOM PROFESSOR B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OBJECT ORIENTED MODELLING PROFESSOR B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OOM PROFESSOR B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>_ OBJECT ORIENTED MODELLING * B PROFESSOR *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OOM * B PROFESSOR *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OBJECT ORIENTED MODELLING * B PROFESSOR</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OOM * B PROFESSOR</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OBJECT ORIENTED MODELLING * B PROFESSOR *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OOM * B PROFESSOR *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OBJECT ORIENTED MODELLING * B PROFESSOR</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OOM * B PROFESSOR</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OBJECT ORIENTED MODELLING B * PROFESSOR *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OOM B * PROFESSOR *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OBJECT ORIENTED MODELLING B * PROFESSOR</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OOM B * PROFESSOR</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OBJECT ORIENTED MODELLING B * PROFESSOR *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OOM B * PROFESSOR *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OBJECT ORIENTED MODELLING B * PROFESSOR</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OOM B * PROFESSOR</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>_ B PROFESSOR * OBJECT ORIENTED MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROFESSOR * OOM *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROFESSOR * OBJECT ORIENTED MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROFESSOR * OOM</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR * OBJECT ORIENTED MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR * OOM *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR * OBJECT ORIENTED MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR * OOM</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROFESSOR OBJECT ORIENTED MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROFESSOR OOM *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROFESSOR OBJECT ORIENTED MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ B PROFESSOR OOM</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR OBJECT ORIENTED MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR OOM *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR OBJECT ORIENTED MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR OOM</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+
+
+<category>
+	<pattern>_ B OBJECT ORIENTED MODELLING PROFESSOR *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B OOM PROFESSOR *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B OBJECT ORIENTED MODELLING PROFESSOR</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B OOM PROFESSOR</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * OBJECT ORIENTED MODELLING PROFESSOR *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * OOM PROFESSOR *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * OBJECT ORIENTED MODELLING PROFESSOR</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * OOM PROFESSOR</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY * OBJECT ORIENTED MODELLING * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * OOM * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ FACULTY * OBJECT ORIENTED MODELLING * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * OOM * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY * OBJECT ORIENTED MODELLING * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY * OOM * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY * OBJECT ORIENTED MODELLING * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY * OOM * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * OBJECT ORIENTED MODELLING B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * OOM B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY * OBJECT ORIENTED MODELLING B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY * OOM B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY OBJECT ORIENTED MODELLING * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY OOM * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY OBJECT ORIENTED MODELLING * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY OOM * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY OBJECT ORIENTED MODELLING * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY OOM * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY OBJECT ORIENTED MODELLING * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY OOM * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY OBJECT ORIENTED MODELLING B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY OOM B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY OBJECT ORIENTED MODELLING B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY OOM B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+
+
+<category>
+	<pattern>_ FACULTY * B * OBJECT ORIENTED MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * B * OOM *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * B * OBJECT ORIENTED MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * B * OOM</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY * B * OBJECT ORIENTED MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY * B * OOM *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY * B * OBJECT ORIENTED MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY * B * OOM</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY B * OBJECT ORIENTED MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY B * OOM *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY B * OBJECT ORIENTED MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY B * OOM</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY B * OBJECT ORIENTED MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY B * OOM *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY B * OBJECT ORIENTED MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY B * OOM</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * B OBJECT ORIENTED MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * B OOM *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * B OBJECT ORIENTED MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * B OOM</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY * B OBJECT ORIENTED MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY * B OOM *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY * B OBJECT ORIENTED MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY * B OOM</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>_ OBJECT ORIENTED MODELLING FACULTY * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OOM FACULTY * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OBJECT ORIENTED MODELLING FACULTY * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OOM FACULTY * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OBJECT ORIENTED MODELLING FACULTY * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OOM FACULTY * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OBJECT ORIENTED MODELLING FACULTY * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OOM FACULTY * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OBJECT ORIENTED MODELLING FACULTY B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OOM FACULTY B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OBJECT ORIENTED MODELLING FACULTY B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OOM FACULTY B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>_ OBJECT ORIENTED MODELLING * B FACULTY *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OOM * B FACULTY *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OBJECT ORIENTED MODELLING * B FACULTY</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OOM * B FACULTY</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OBJECT ORIENTED MODELLING * B FACULTY *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OOM * B FACULTY *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OBJECT ORIENTED MODELLING * B FACULTY</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OOM * B FACULTY</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OBJECT ORIENTED MODELLING B * FACULTY *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OOM B * FACULTY *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OBJECT ORIENTED MODELLING B * FACULTY</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OOM B * FACULTY</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OBJECT ORIENTED MODELLING B * FACULTY *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OOM B * FACULTY *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OBJECT ORIENTED MODELLING B * FACULTY</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OOM B * FACULTY</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>_ B FACULTY * OBJECT ORIENTED MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B FACULTY * OOM *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B FACULTY * OBJECT ORIENTED MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B FACULTY * OOM</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY * OBJECT ORIENTED MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY * OOM *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY * OBJECT ORIENTED MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY * OOM</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B FACULTY OBJECT ORIENTED MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B FACULTY OOM *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B FACULTY OBJECT ORIENTED MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ B FACULTY OOM</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY OBJECT ORIENTED MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY OOM *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY OBJECT ORIENTED MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY OOM</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+
+
+<category>
+	<pattern>_ B OBJECT ORIENTED MODELLING FACULTY *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B OOM FACULTY *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B OBJECT ORIENTED MODELLING FACULTY</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B OOM FACULTY</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * OBJECT ORIENTED MODELLING FACULTY *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * OOM FACULTY *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * OBJECT ORIENTED MODELLING FACULTY</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * OOM FACULTY</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * OBJECT ORIENTED MODELLING * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * OOM * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ PROF * OBJECT ORIENTED MODELLING * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * OOM * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF * OBJECT ORIENTED MODELLING * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF * OOM * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF * OBJECT ORIENTED MODELLING * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF * OOM * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * OBJECT ORIENTED MODELLING B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * OOM B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF * OBJECT ORIENTED MODELLING B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF * OOM B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF OBJECT ORIENTED MODELLING * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF OOM * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF OBJECT ORIENTED MODELLING * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF OOM * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF OBJECT ORIENTED MODELLING * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF OOM * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF OBJECT ORIENTED MODELLING * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF OOM * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF OBJECT ORIENTED MODELLING B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF OOM B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF OBJECT ORIENTED MODELLING B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF OOM B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+
+
+<category>
+	<pattern>_ PROF * B * OBJECT ORIENTED MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * B * OOM *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * B * OBJECT ORIENTED MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * B * OOM</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF * B * OBJECT ORIENTED MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF * B * OOM *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF * B * OBJECT ORIENTED MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF * B * OOM</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF B * OBJECT ORIENTED MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF B * OOM *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF B * OBJECT ORIENTED MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF B * OOM</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF B * OBJECT ORIENTED MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF B * OOM *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF B * OBJECT ORIENTED MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF B * OOM</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * B OBJECT ORIENTED MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * B OOM *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * B OBJECT ORIENTED MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * B OOM</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF * B OBJECT ORIENTED MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF * B OOM *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF * B OBJECT ORIENTED MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF * B OOM</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>_ OBJECT ORIENTED MODELLING PROF * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OOM PROF * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OBJECT ORIENTED MODELLING PROF * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OOM PROF * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OBJECT ORIENTED MODELLING PROF * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OOM PROF * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OBJECT ORIENTED MODELLING PROF * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OOM PROF * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OBJECT ORIENTED MODELLING PROF B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OOM PROF B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OBJECT ORIENTED MODELLING PROF B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OOM PROF B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>_ OBJECT ORIENTED MODELLING * B PROF *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OOM * B PROF *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OBJECT ORIENTED MODELLING * B PROF</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OOM * B PROF</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OBJECT ORIENTED MODELLING * B PROF *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OOM * B PROF *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OBJECT ORIENTED MODELLING * B PROF</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OOM * B PROF</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OBJECT ORIENTED MODELLING B * PROF *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OOM B * PROF *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OBJECT ORIENTED MODELLING B * PROF</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OOM B * PROF</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OBJECT ORIENTED MODELLING B * PROF *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OOM B * PROF *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OBJECT ORIENTED MODELLING B * PROF</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OOM B * PROF</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>_ B PROF * OBJECT ORIENTED MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROF * OOM *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROF * OBJECT ORIENTED MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROF * OOM</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF * OBJECT ORIENTED MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF * OOM *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF * OBJECT ORIENTED MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF * OOM</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROF OBJECT ORIENTED MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROF OOM *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROF OBJECT ORIENTED MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ B PROF OOM</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF OBJECT ORIENTED MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF OOM *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF OBJECT ORIENTED MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF OOM</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+
+
+<category>
+	<pattern>_ B OBJECT ORIENTED MODELLING PROF *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B OOM PROF *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B OBJECT ORIENTED MODELLING PROF</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B OOM PROF</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * OBJECT ORIENTED MODELLING PROF *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * OOM PROF *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * OBJECT ORIENTED MODELLING PROF</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * OOM PROF</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+
+
+<category>
+	<pattern>_ LECTURER * OBJECT ORIENTED MODELLING * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * OOM * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ LECTURER * OBJECT ORIENTED MODELLING * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * OOM * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER * OBJECT ORIENTED MODELLING * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER * OOM * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER * OBJECT ORIENTED MODELLING * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER * OOM * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * OBJECT ORIENTED MODELLING B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * OOM B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER * OBJECT ORIENTED MODELLING B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER * OOM B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER OBJECT ORIENTED MODELLING * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER OOM * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER OBJECT ORIENTED MODELLING * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER OOM * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER OBJECT ORIENTED MODELLING * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER OOM * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER OBJECT ORIENTED MODELLING * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER OOM * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER OBJECT ORIENTED MODELLING B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER OOM B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER OBJECT ORIENTED MODELLING B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER OOM B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+
+
+<category>
+	<pattern>_ LECTURER * B * OBJECT ORIENTED MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * B * OOM *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * B * OBJECT ORIENTED MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * B * OOM</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER * B * OBJECT ORIENTED MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER * B * OOM *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER * B * OBJECT ORIENTED MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER * B * OOM</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER B * OBJECT ORIENTED MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER B * OOM *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER B * OBJECT ORIENTED MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER B * OOM</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER B * OBJECT ORIENTED MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER B * OOM *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER B * OBJECT ORIENTED MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER B * OOM</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * B OBJECT ORIENTED MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * B OOM *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * B OBJECT ORIENTED MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * B OOM</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER * B OBJECT ORIENTED MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER * B OOM *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER * B OBJECT ORIENTED MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER * B OOM</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>_ OBJECT ORIENTED MODELLING LECTURER * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OOM LECTURER * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OBJECT ORIENTED MODELLING LECTURER * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OOM LECTURER * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OBJECT ORIENTED MODELLING LECTURER * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OOM LECTURER * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OBJECT ORIENTED MODELLING LECTURER * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OOM LECTURER * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OBJECT ORIENTED MODELLING LECTURER B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OOM LECTURER B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OBJECT ORIENTED MODELLING LECTURER B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OOM LECTURER B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>_ OBJECT ORIENTED MODELLING * B LECTURER *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OOM * B LECTURER *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OBJECT ORIENTED MODELLING * B LECTURER</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OOM * B LECTURER</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OBJECT ORIENTED MODELLING * B LECTURER *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OOM * B LECTURER *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OBJECT ORIENTED MODELLING * B LECTURER</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OOM * B LECTURER</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OBJECT ORIENTED MODELLING B * LECTURER *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OOM B * LECTURER *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OBJECT ORIENTED MODELLING B * LECTURER</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OOM B * LECTURER</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OBJECT ORIENTED MODELLING B * LECTURER *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OOM B * LECTURER *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OBJECT ORIENTED MODELLING B * LECTURER</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OOM B * LECTURER</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>_ B LECTURER * OBJECT ORIENTED MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LECTURER * OOM *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LECTURER * OBJECT ORIENTED MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LECTURER * OOM</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER * OBJECT ORIENTED MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER * OOM *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER * OBJECT ORIENTED MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER * OOM</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LECTURER OBJECT ORIENTED MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LECTURER OOM *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LECTURER OBJECT ORIENTED MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ B LECTURER OOM</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER OBJECT ORIENTED MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER OOM *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER OBJECT ORIENTED MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER OOM</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+
+
+<category>
+	<pattern>_ B OBJECT ORIENTED MODELLING LECTURER *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B OOM LECTURER *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B OBJECT ORIENTED MODELLING LECTURER</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B OOM LECTURER</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * OBJECT ORIENTED MODELLING LECTURER *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * OOM LECTURER *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * OBJECT ORIENTED MODELLING LECTURER</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * OOM LECTURER</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+
+
+<category>
+	<pattern>_ LECT * OBJECT ORIENTED MODELLING * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * OOM * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ LECT * OBJECT ORIENTED MODELLING * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * OOM * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT * OBJECT ORIENTED MODELLING * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT * OOM * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT * OBJECT ORIENTED MODELLING * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT * OOM * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * OBJECT ORIENTED MODELLING B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * OOM B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT * OBJECT ORIENTED MODELLING B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT * OOM B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT OBJECT ORIENTED MODELLING * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT OOM * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT OBJECT ORIENTED MODELLING * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT OOM * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT OBJECT ORIENTED MODELLING * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT OOM * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT OBJECT ORIENTED MODELLING * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT OOM * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT OBJECT ORIENTED MODELLING B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT OOM B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT OBJECT ORIENTED MODELLING B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT OOM B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+
+
+<category>
+	<pattern>_ LECT * B * OBJECT ORIENTED MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * B * OOM *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * B * OBJECT ORIENTED MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * B * OOM</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT * B * OBJECT ORIENTED MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT * B * OOM *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT * B * OBJECT ORIENTED MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT * B * OOM</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT B * OBJECT ORIENTED MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT B * OOM *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT B * OBJECT ORIENTED MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT B * OOM</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT B * OBJECT ORIENTED MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT B * OOM *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT B * OBJECT ORIENTED MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT B * OOM</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * B OBJECT ORIENTED MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * B OOM *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * B OBJECT ORIENTED MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * B OOM</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT * B OBJECT ORIENTED MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT * B OOM *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT * B OBJECT ORIENTED MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT * B OOM</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>_ OBJECT ORIENTED MODELLING LECT * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OOM LECT * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OBJECT ORIENTED MODELLING LECT * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OOM LECT * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OBJECT ORIENTED MODELLING LECT * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OOM LECT * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OBJECT ORIENTED MODELLING LECT * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OOM LECT * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OBJECT ORIENTED MODELLING LECT B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OOM LECT B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OBJECT ORIENTED MODELLING LECT B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OOM LECT B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>_ OBJECT ORIENTED MODELLING * B LECT *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OOM * B LECT *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OBJECT ORIENTED MODELLING * B LECT</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OOM * B LECT</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OBJECT ORIENTED MODELLING * B LECT *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OOM * B LECT *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OBJECT ORIENTED MODELLING * B LECT</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OOM * B LECT</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OBJECT ORIENTED MODELLING B * LECT *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OOM B * LECT *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OBJECT ORIENTED MODELLING B * LECT</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OOM B * LECT</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OBJECT ORIENTED MODELLING B * LECT *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OOM B * LECT *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OBJECT ORIENTED MODELLING B * LECT</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OOM B * LECT</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>_ B LECT * OBJECT ORIENTED MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LECT * OOM *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LECT * OBJECT ORIENTED MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LECT * OOM</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT * OBJECT ORIENTED MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT * OOM *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT * OBJECT ORIENTED MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT * OOM</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LECT OBJECT ORIENTED MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LECT OOM *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LECT OBJECT ORIENTED MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ B LECT OOM</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT OBJECT ORIENTED MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT OOM *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT OBJECT ORIENTED MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT OOM</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+
+
+<category>
+	<pattern>_ B OBJECT ORIENTED MODELLING LECT *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B OOM LECT *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B OBJECT ORIENTED MODELLING LECT</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B OOM LECT</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * OBJECT ORIENTED MODELLING LECT *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * OOM LECT *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * OBJECT ORIENTED MODELLING LECT</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * OOM LECT</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>_ TEACHER * OBJECT ORIENTED MODELLING * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * OOM * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ TEACHER * OBJECT ORIENTED MODELLING * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * OOM * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER * OBJECT ORIENTED MODELLING * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER * OOM * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER * OBJECT ORIENTED MODELLING * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER * OOM * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * OBJECT ORIENTED MODELLING B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * OOM B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER * OBJECT ORIENTED MODELLING B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER * OOM B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER OBJECT ORIENTED MODELLING * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER OOM * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER OBJECT ORIENTED MODELLING * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER OOM * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER OBJECT ORIENTED MODELLING * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER OOM * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER OBJECT ORIENTED MODELLING * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER OOM * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER OBJECT ORIENTED MODELLING B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER OOM B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER OBJECT ORIENTED MODELLING B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER OOM B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+
+
+<category>
+	<pattern>_ TEACHER * B * OBJECT ORIENTED MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * B * OOM *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * B * OBJECT ORIENTED MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * B * OOM</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER * B * OBJECT ORIENTED MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER * B * OOM *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER * B * OBJECT ORIENTED MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER * B * OOM</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER B * OBJECT ORIENTED MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER B * OOM *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER B * OBJECT ORIENTED MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER B * OOM</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER B * OBJECT ORIENTED MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER B * OOM *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER B * OBJECT ORIENTED MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER B * OOM</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * B OBJECT ORIENTED MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * B OOM *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * B OBJECT ORIENTED MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * B OOM</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER * B OBJECT ORIENTED MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER * B OOM *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER * B OBJECT ORIENTED MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER * B OOM</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>_ OBJECT ORIENTED MODELLING TEACHER * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OOM TEACHER * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OBJECT ORIENTED MODELLING TEACHER * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OOM TEACHER * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OBJECT ORIENTED MODELLING TEACHER * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OOM TEACHER * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OBJECT ORIENTED MODELLING TEACHER * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OOM TEACHER * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OBJECT ORIENTED MODELLING TEACHER B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OOM TEACHER B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OBJECT ORIENTED MODELLING TEACHER B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OOM TEACHER B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>_ OBJECT ORIENTED MODELLING * B TEACHER *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OOM * B TEACHER *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OBJECT ORIENTED MODELLING * B TEACHER</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OOM * B TEACHER</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OBJECT ORIENTED MODELLING * B TEACHER *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OOM * B TEACHER *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OBJECT ORIENTED MODELLING * B TEACHER</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OOM * B TEACHER</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OBJECT ORIENTED MODELLING B * TEACHER *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OOM B * TEACHER *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OBJECT ORIENTED MODELLING B * TEACHER</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OOM B * TEACHER</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OBJECT ORIENTED MODELLING B * TEACHER *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OOM B * TEACHER *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OBJECT ORIENTED MODELLING B * TEACHER</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OOM B * TEACHER</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>_ B TEACHER * OBJECT ORIENTED MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B TEACHER * OOM *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B TEACHER * OBJECT ORIENTED MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B TEACHER * OOM</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER * OBJECT ORIENTED MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER * OOM *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER * OBJECT ORIENTED MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER * OOM</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B TEACHER OBJECT ORIENTED MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B TEACHER OOM *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B TEACHER OBJECT ORIENTED MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ B TEACHER OOM</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER OBJECT ORIENTED MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER OOM *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER OBJECT ORIENTED MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER OOM</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+
+
+<category>
+	<pattern>_ B OBJECT ORIENTED MODELLING TEACHER *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B OOM TEACHER *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B OBJECT ORIENTED MODELLING TEACHER</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B OOM TEACHER</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * OBJECT ORIENTED MODELLING TEACHER *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * OOM TEACHER *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * OBJECT ORIENTED MODELLING TEACHER</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * OOM TEACHER</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ TEACHES OBJECT ORIENTED MODELLING * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES OOM * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES OBJECT ORIENTED MODELLING * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES OOM * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES OBJECT ORIENTED MODELLING B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES OOM B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES * B OBJECT ORIENTED MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES * B OOM *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES * B OBJECT ORIENTED MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES * B OOM</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES B * OBJECT ORIENTED MODELLING *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES B * OOM *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES B * OBJECT ORIENTED MODELLING</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES B * OOM</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OBJECT ORIENTED MODELLING * B * TAUGHT *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OOM * B * TAUGHT *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OBJECT ORIENTED MODELLING * B * TAUGHT *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OOM * B * TAUGHT *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OBJECT ORIENTED MODELLING B * TAUGHT *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OOM B * TAUGHT *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OBJECT ORIENTED MODELLING B * TAUGHT *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OOM B * TAUGHT *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OBJECT ORIENTED MODELLING * B TAUGHT *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OOM * B TAUGHT *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OBJECT ORIENTED MODELLING * B TAUGHT *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OOM * B TAUGHT *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURES * OBJECT ORIENTED MODELLING * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURES * OOM * B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURES * OBJECT ORIENTED MODELLING * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURES * OOM * B</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURES * OBJECT ORIENTED MODELLING B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURES * OOM B *</pattern>
+	<template>
+		<srai>OOMB</srai>
+	</template>
+</category>
+
+
+</aiml>

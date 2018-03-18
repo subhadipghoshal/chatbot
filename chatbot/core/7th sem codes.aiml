@@ -1,0 +1,247 @@
+<aiml version="1.0.1" encoding="UTF-8">
+
+<category>
+	<pattern>AI</pattern>
+	<template>CT1451</template>
+</category>
+
+<category>
+	<pattern>_ CODE * ARTIFICIAL INTELLIGENCE *</pattern>
+	<template>
+		<srai>AI</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE * AI *</pattern>
+	<template>
+		<srai>AI</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE * ARTIFICIAL INTELLIGENCE</pattern>
+	<template>
+		<srai>AI</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE * AI</pattern>
+	<template>
+		<srai>AI</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE ARTIFICIAL INTELLIGENCE *</pattern>
+	<template>
+		<srai>AI</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE AI *</pattern>
+	<template>
+		<srai>AI</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CODE ARTIFICIAL INTELLIGENCE</pattern>
+	<template>
+		<srai>AI</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE AI</pattern>
+	<template>
+		<srai>AI</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ARTIFICIAL INTELLIGENCE * CODE *</pattern>
+	<template>
+		<srai>AI</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ AI * CODE *</pattern>
+	<template>
+		<srai>AI</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ARTIFICIAL INTELLIGENCE * CODE</pattern>
+	<template>
+		<srai>AI</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ AI * CODE</pattern>
+	<template>
+		<srai>AI</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ARTIFICIAL INTELLIGENCE * CODE *</pattern>
+	<template>
+		<srai>AI</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>AI * CODE *</pattern>
+	<template>
+		<srai>AI</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ARTIFICIAL INTELLIGENCE * CODE</pattern>
+	<template>
+		<srai>AI</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>AI * CODE</pattern>
+	<template>
+		<srai>AI</srai>
+	</template>
+</category>
+
+
+
+
+
+
+<category>
+	<pattern>NS</pattern>
+	<template>CT1415</template>
+</category>
+
+<category>
+	<pattern>_ CODE * NETWORK SECURITY *</pattern>
+	<template>
+		<srai>NS</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE * NS *</pattern>
+	<template>
+		<srai>NS</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE * NETWORK SECURITY</pattern>
+	<template>
+		<srai>NS</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE * NS</pattern>
+	<template>
+		<srai>NS</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CODE NETWORK SECURITY *</pattern>
+	<template>
+		<srai>NS</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE NS *</pattern>
+	<template>
+		<srai>NS</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE NETWORK SECURITY</pattern>
+	<template>
+		<srai>NS</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE NS</pattern>
+	<template>
+		<srai>NS</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ NETWORK SECURITY * CODE *</pattern>
+	<template>
+		<srai>NS</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ NS * CODE *</pattern>
+	<template>
+		<srai>NS</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ NETWORK SECURITY * CODE</pattern>
+	<template>
+		<srai>NS</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ NS * CODE</pattern>
+	<template>
+		<srai>NS</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>NETWORK SECURITY * CODE *</pattern>
+	<template>
+		<srai>NS</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>NS * CODE *</pattern>
+	<template>
+		<srai>NS</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>NETWORK SECURITY * CODE</pattern>
+	<template>
+		<srai>NS</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>NS * CODE</pattern>
+	<template>
+		<srai>NS</srai>
+	</template>
+</category>
+
+
+</aiml>

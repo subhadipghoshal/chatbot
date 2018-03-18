@@ -1,0 +1,4581 @@
+<aiml version="1.0.1" encoding="UTF-8">
+
+<category>
+	<pattern>TFCSB</pattern>
+	<template>
+		<random>
+			<li>Mr. Rajeev Nandkishor Verma teaches THEORETICAL FOUNDATION OF COMPUTER SCIENCE</li>
+			<li>Mr. Rajeev Nandkishor Verma</li>
+			<li>THEORETICAL FOUNDATION OF COMPUTER SCIENCE is taught by Mr. Rajeev Nandkishor Verma</li>
+		</random>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * THEORETICAL FOUNDATION OF COMPUTER SCIENCE * B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * THEORETICAL FOUNDATION OF COMPUTER SCIENCE * B</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * THEORETICAL FOUNDATION OF COMPUTER SCIENCE * B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * THEORETICAL FOUNDATION OF COMPUTER SCIENCE * B</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * THEORETICAL FOUNDATION OF COMPUTER SCIENCE B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * THEORETICAL FOUNDATION OF COMPUTER SCIENCE B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR THEORETICAL FOUNDATION OF COMPUTER SCIENCE * B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR THEORETICAL FOUNDATION OF COMPUTER SCIENCE * B</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR THEORETICAL FOUNDATION OF COMPUTER SCIENCE * B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR THEORETICAL FOUNDATION OF COMPUTER SCIENCE * B</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR THEORETICAL FOUNDATION OF COMPUTER SCIENCE B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR THEORETICAL FOUNDATION OF COMPUTER SCIENCE B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR * B * THEORETICAL FOUNDATION OF COMPUTER SCIENCE *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR * B * THEORETICAL FOUNDATION OF COMPUTER SCIENCE</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * B * THEORETICAL FOUNDATION OF COMPUTER SCIENCE *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * B * THEORETICAL FOUNDATION OF COMPUTER SCIENCE</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR B * THEORETICAL FOUNDATION OF COMPUTER SCIENCE *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR B * THEORETICAL FOUNDATION OF COMPUTER SCIENCE</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR B * THEORETICAL FOUNDATION OF COMPUTER SCIENCE *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR B * THEORETICAL FOUNDATION OF COMPUTER SCIENCE</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * B THEORETICAL FOUNDATION OF COMPUTER SCIENCE *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * B THEORETICAL FOUNDATION OF COMPUTER SCIENCE</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * B THEORETICAL FOUNDATION OF COMPUTER SCIENCE *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * B THEORETICAL FOUNDATION OF COMPUTER SCIENCE</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ THEORETICAL FOUNDATION OF COMPUTER SCIENCE PROFESSOR * B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ THEORETICAL FOUNDATION OF COMPUTER SCIENCE PROFESSOR * B</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>THEORETICAL FOUNDATION OF COMPUTER SCIENCE PROFESSOR * B</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ THEORETICAL FOUNDATION OF COMPUTER SCIENCE PROFESSOR B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>THEORETICAL FOUNDATION OF COMPUTER SCIENCE PROFESSOR B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ THEORETICAL FOUNDATION OF COMPUTER SCIENCE * B PROFESSOR *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ THEORETICAL FOUNDATION OF COMPUTER SCIENCE * B PROFESSOR</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>THEORETICAL FOUNDATION OF COMPUTER SCIENCE * B PROFESSOR *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>THEORETICAL FOUNDATION OF COMPUTER SCIENCE * B PROFESSOR</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ THEORETICAL FOUNDATION OF COMPUTER SCIENCE B * PROFESSOR *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ THEORETICAL FOUNDATION OF COMPUTER SCIENCE B * PROFESSOR</pattern>
+
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>THEORETICAL FOUNDATION OF COMPUTER SCIENCE B * PROFESSOR *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>THEORETICAL FOUNDATION OF COMPUTER SCIENCE B * PROFESSOR</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROFESSOR * THEORETICAL FOUNDATION OF COMPUTER SCIENCE *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROFESSOR * THEORETICAL FOUNDATION OF COMPUTER SCIENCE</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR * THEORETICAL FOUNDATION OF COMPUTER SCIENCE *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR * THEORETICAL FOUNDATION OF COMPUTER SCIENCE</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROFESSOR THEORETICAL FOUNDATION OF COMPUTER SCIENCE *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROFESSOR THEORETICAL FOUNDATION OF COMPUTER SCIENCE</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * PROFESSOR THEORETICAL FOUNDATION OF COMPUTER SCIENCE *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR THEORETICAL FOUNDATION OF COMPUTER SCIENCE</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B THEORETICAL FOUNDATION OF COMPUTER SCIENCE PROFESSOR *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B THEORETICAL FOUNDATION OF COMPUTER SCIENCE PROFESSOR</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * THEORETICAL FOUNDATION OF COMPUTER SCIENCE PROFESSOR *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * THEORETICAL FOUNDATION OF COMPUTER SCIENCE PROFESSOR</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * THEORETICAL FOUNDATION OF COMPUTER SCIENCE * B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * THEORETICAL FOUNDATION OF COMPUTER SCIENCE * B</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * THEORETICAL FOUNDATION OF COMPUTER SCIENCE * B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * THEORETICAL FOUNDATION OF COMPUTER SCIENCE * B</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * THEORETICAL FOUNDATION OF COMPUTER SCIENCE B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * THEORETICAL FOUNDATION OF COMPUTER SCIENCE B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF THEORETICAL FOUNDATION OF COMPUTER SCIENCE * B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF THEORETICAL FOUNDATION OF COMPUTER SCIENCE * B</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF THEORETICAL FOUNDATION OF COMPUTER SCIENCE * B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF THEORETICAL FOUNDATION OF COMPUTER SCIENCE * B</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF THEORETICAL FOUNDATION OF COMPUTER SCIENCE B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF THEORETICAL FOUNDATION OF COMPUTER SCIENCE B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF * B * THEORETICAL FOUNDATION OF COMPUTER SCIENCE *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF * B * THEORETICAL FOUNDATION OF COMPUTER SCIENCE</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * B * THEORETICAL FOUNDATION OF COMPUTER SCIENCE *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * B * THEORETICAL FOUNDATION OF COMPUTER SCIENCE</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF B * THEORETICAL FOUNDATION OF COMPUTER SCIENCE *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF B * THEORETICAL FOUNDATION OF COMPUTER SCIENCE</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF B * THEORETICAL FOUNDATION OF COMPUTER SCIENCE *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF B * THEORETICAL FOUNDATION OF COMPUTER SCIENCE</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * B THEORETICAL FOUNDATION OF COMPUTER SCIENCE *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * B THEORETICAL FOUNDATION OF COMPUTER SCIENCE</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * B THEORETICAL FOUNDATION OF COMPUTER SCIENCE *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * B THEORETICAL FOUNDATION OF COMPUTER SCIENCE</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ THEORETICAL FOUNDATION OF COMPUTER SCIENCE PROF * B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ THEORETICAL FOUNDATION OF COMPUTER SCIENCE PROF * B</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>THEORETICAL FOUNDATION OF COMPUTER SCIENCE PROF * B</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ THEORETICAL FOUNDATION OF COMPUTER SCIENCE PROF B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>THEORETICAL FOUNDATION OF COMPUTER SCIENCE PROF B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ THEORETICAL FOUNDATION OF COMPUTER SCIENCE * B PROF *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ THEORETICAL FOUNDATION OF COMPUTER SCIENCE * B PROF</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>THEORETICAL FOUNDATION OF COMPUTER SCIENCE * B PROF *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>THEORETICAL FOUNDATION OF COMPUTER SCIENCE * B PROF</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ THEORETICAL FOUNDATION OF COMPUTER SCIENCE B * PROF *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ THEORETICAL FOUNDATION OF COMPUTER SCIENCE B * PROF</pattern>
+
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>THEORETICAL FOUNDATION OF COMPUTER SCIENCE B * PROF *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>THEORETICAL FOUNDATION OF COMPUTER SCIENCE B * PROF</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROF * THEORETICAL FOUNDATION OF COMPUTER SCIENCE *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROF * THEORETICAL FOUNDATION OF COMPUTER SCIENCE</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF * THEORETICAL FOUNDATION OF COMPUTER SCIENCE *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF * THEORETICAL FOUNDATION OF COMPUTER SCIENCE</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROF THEORETICAL FOUNDATION OF COMPUTER SCIENCE *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROF THEORETICAL FOUNDATION OF COMPUTER SCIENCE</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * PROF THEORETICAL FOUNDATION OF COMPUTER SCIENCE *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF THEORETICAL FOUNDATION OF COMPUTER SCIENCE</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B THEORETICAL FOUNDATION OF COMPUTER SCIENCE PROF *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B THEORETICAL FOUNDATION OF COMPUTER SCIENCE PROF</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * THEORETICAL FOUNDATION OF COMPUTER SCIENCE PROF *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * THEORETICAL FOUNDATION OF COMPUTER SCIENCE PROF</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * THEORETICAL FOUNDATION OF COMPUTER SCIENCE * B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * THEORETICAL FOUNDATION OF COMPUTER SCIENCE * B</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * THEORETICAL FOUNDATION OF COMPUTER SCIENCE * B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * THEORETICAL FOUNDATION OF COMPUTER SCIENCE * B</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * THEORETICAL FOUNDATION OF COMPUTER SCIENCE B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * THEORETICAL FOUNDATION OF COMPUTER SCIENCE B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER THEORETICAL FOUNDATION OF COMPUTER SCIENCE * B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER THEORETICAL FOUNDATION OF COMPUTER SCIENCE * B</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER THEORETICAL FOUNDATION OF COMPUTER SCIENCE * B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER THEORETICAL FOUNDATION OF COMPUTER SCIENCE * B</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER THEORETICAL FOUNDATION OF COMPUTER SCIENCE B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER THEORETICAL FOUNDATION OF COMPUTER SCIENCE B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER * B * THEORETICAL FOUNDATION OF COMPUTER SCIENCE *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER * B * THEORETICAL FOUNDATION OF COMPUTER SCIENCE</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * B * THEORETICAL FOUNDATION OF COMPUTER SCIENCE *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * B * THEORETICAL FOUNDATION OF COMPUTER SCIENCE</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER B * THEORETICAL FOUNDATION OF COMPUTER SCIENCE *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER B * THEORETICAL FOUNDATION OF COMPUTER SCIENCE</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER B * THEORETICAL FOUNDATION OF COMPUTER SCIENCE *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER B * THEORETICAL FOUNDATION OF COMPUTER SCIENCE</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * B THEORETICAL FOUNDATION OF COMPUTER SCIENCE *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * B THEORETICAL FOUNDATION OF COMPUTER SCIENCE</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * B THEORETICAL FOUNDATION OF COMPUTER SCIENCE *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * B THEORETICAL FOUNDATION OF COMPUTER SCIENCE</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ THEORETICAL FOUNDATION OF COMPUTER SCIENCE LECTURER * B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ THEORETICAL FOUNDATION OF COMPUTER SCIENCE LECTURER * B</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>THEORETICAL FOUNDATION OF COMPUTER SCIENCE LECTURER * B</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ THEORETICAL FOUNDATION OF COMPUTER SCIENCE LECTURER B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>THEORETICAL FOUNDATION OF COMPUTER SCIENCE LECTURER B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ THEORETICAL FOUNDATION OF COMPUTER SCIENCE * B LECTURER *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ THEORETICAL FOUNDATION OF COMPUTER SCIENCE * B LECTURER</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>THEORETICAL FOUNDATION OF COMPUTER SCIENCE * B LECTURER *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>THEORETICAL FOUNDATION OF COMPUTER SCIENCE * B LECTURER</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ THEORETICAL FOUNDATION OF COMPUTER SCIENCE B * LECTURER *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ THEORETICAL FOUNDATION OF COMPUTER SCIENCE B * LECTURER</pattern>
+
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>THEORETICAL FOUNDATION OF COMPUTER SCIENCE B * LECTURER *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>THEORETICAL FOUNDATION OF COMPUTER SCIENCE B * LECTURER</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LECTURER * THEORETICAL FOUNDATION OF COMPUTER SCIENCE *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECTURER * THEORETICAL FOUNDATION OF COMPUTER SCIENCE</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER * THEORETICAL FOUNDATION OF COMPUTER SCIENCE *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER * THEORETICAL FOUNDATION OF COMPUTER SCIENCE</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECTURER THEORETICAL FOUNDATION OF COMPUTER SCIENCE *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECTURER THEORETICAL FOUNDATION OF COMPUTER SCIENCE</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * LECTURER THEORETICAL FOUNDATION OF COMPUTER SCIENCE *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER THEORETICAL FOUNDATION OF COMPUTER SCIENCE</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B THEORETICAL FOUNDATION OF COMPUTER SCIENCE LECTURER *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B THEORETICAL FOUNDATION OF COMPUTER SCIENCE LECTURER</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * THEORETICAL FOUNDATION OF COMPUTER SCIENCE LECTURER *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * THEORETICAL FOUNDATION OF COMPUTER SCIENCE LECTURER</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * THEORETICAL FOUNDATION OF COMPUTER SCIENCE * B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * THEORETICAL FOUNDATION OF COMPUTER SCIENCE * B</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * THEORETICAL FOUNDATION OF COMPUTER SCIENCE * B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * THEORETICAL FOUNDATION OF COMPUTER SCIENCE * B</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * THEORETICAL FOUNDATION OF COMPUTER SCIENCE B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * THEORETICAL FOUNDATION OF COMPUTER SCIENCE B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT THEORETICAL FOUNDATION OF COMPUTER SCIENCE * B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT THEORETICAL FOUNDATION OF COMPUTER SCIENCE * B</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT THEORETICAL FOUNDATION OF COMPUTER SCIENCE * B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT THEORETICAL FOUNDATION OF COMPUTER SCIENCE * B</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT THEORETICAL FOUNDATION OF COMPUTER SCIENCE B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT THEORETICAL FOUNDATION OF COMPUTER SCIENCE B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT * B * THEORETICAL FOUNDATION OF COMPUTER SCIENCE *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT * B * THEORETICAL FOUNDATION OF COMPUTER SCIENCE</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * B * THEORETICAL FOUNDATION OF COMPUTER SCIENCE *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * B * THEORETICAL FOUNDATION OF COMPUTER SCIENCE</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT B * THEORETICAL FOUNDATION OF COMPUTER SCIENCE *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT B * THEORETICAL FOUNDATION OF COMPUTER SCIENCE</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT B * THEORETICAL FOUNDATION OF COMPUTER SCIENCE *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT B * THEORETICAL FOUNDATION OF COMPUTER SCIENCE</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * B THEORETICAL FOUNDATION OF COMPUTER SCIENCE *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * B THEORETICAL FOUNDATION OF COMPUTER SCIENCE</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * B THEORETICAL FOUNDATION OF COMPUTER SCIENCE *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * B THEORETICAL FOUNDATION OF COMPUTER SCIENCE</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ THEORETICAL FOUNDATION OF COMPUTER SCIENCE LECT * B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ THEORETICAL FOUNDATION OF COMPUTER SCIENCE LECT * B</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>THEORETICAL FOUNDATION OF COMPUTER SCIENCE LECT * B</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ THEORETICAL FOUNDATION OF COMPUTER SCIENCE LECT B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>THEORETICAL FOUNDATION OF COMPUTER SCIENCE LECT B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ THEORETICAL FOUNDATION OF COMPUTER SCIENCE * B LECT *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ THEORETICAL FOUNDATION OF COMPUTER SCIENCE * B LECT</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>THEORETICAL FOUNDATION OF COMPUTER SCIENCE * B LECT *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>THEORETICAL FOUNDATION OF COMPUTER SCIENCE * B LECT</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ THEORETICAL FOUNDATION OF COMPUTER SCIENCE B * LECT *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ THEORETICAL FOUNDATION OF COMPUTER SCIENCE B * LECT</pattern>
+
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>THEORETICAL FOUNDATION OF COMPUTER SCIENCE B * LECT *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>THEORETICAL FOUNDATION OF COMPUTER SCIENCE B * LECT</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LECT * THEORETICAL FOUNDATION OF COMPUTER SCIENCE *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECT * THEORETICAL FOUNDATION OF COMPUTER SCIENCE</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT * THEORETICAL FOUNDATION OF COMPUTER SCIENCE *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT * THEORETICAL FOUNDATION OF COMPUTER SCIENCE</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECT THEORETICAL FOUNDATION OF COMPUTER SCIENCE *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECT THEORETICAL FOUNDATION OF COMPUTER SCIENCE</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * LECT THEORETICAL FOUNDATION OF COMPUTER SCIENCE *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT THEORETICAL FOUNDATION OF COMPUTER SCIENCE</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B THEORETICAL FOUNDATION OF COMPUTER SCIENCE LECT *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B THEORETICAL FOUNDATION OF COMPUTER SCIENCE LECT</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * THEORETICAL FOUNDATION OF COMPUTER SCIENCE LECT *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * THEORETICAL FOUNDATION OF COMPUTER SCIENCE LECT</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * THEORETICAL FOUNDATION OF COMPUTER SCIENCE * B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * THEORETICAL FOUNDATION OF COMPUTER SCIENCE * B</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * THEORETICAL FOUNDATION OF COMPUTER SCIENCE * B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * THEORETICAL FOUNDATION OF COMPUTER SCIENCE * B</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * THEORETICAL FOUNDATION OF COMPUTER SCIENCE B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * THEORETICAL FOUNDATION OF COMPUTER SCIENCE B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER THEORETICAL FOUNDATION OF COMPUTER SCIENCE * B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER THEORETICAL FOUNDATION OF COMPUTER SCIENCE * B</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER THEORETICAL FOUNDATION OF COMPUTER SCIENCE * B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER THEORETICAL FOUNDATION OF COMPUTER SCIENCE * B</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER THEORETICAL FOUNDATION OF COMPUTER SCIENCE B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER THEORETICAL FOUNDATION OF COMPUTER SCIENCE B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER * B * THEORETICAL FOUNDATION OF COMPUTER SCIENCE *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER * B * THEORETICAL FOUNDATION OF COMPUTER SCIENCE</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * B * THEORETICAL FOUNDATION OF COMPUTER SCIENCE *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * B * THEORETICAL FOUNDATION OF COMPUTER SCIENCE</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER B * THEORETICAL FOUNDATION OF COMPUTER SCIENCE *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER B * THEORETICAL FOUNDATION OF COMPUTER SCIENCE</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER B * THEORETICAL FOUNDATION OF COMPUTER SCIENCE *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER B * THEORETICAL FOUNDATION OF COMPUTER SCIENCE</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * B THEORETICAL FOUNDATION OF COMPUTER SCIENCE *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * B THEORETICAL FOUNDATION OF COMPUTER SCIENCE</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * B THEORETICAL FOUNDATION OF COMPUTER SCIENCE *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * B THEORETICAL FOUNDATION OF COMPUTER SCIENCE</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ THEORETICAL FOUNDATION OF COMPUTER SCIENCE TEACHER * B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ THEORETICAL FOUNDATION OF COMPUTER SCIENCE TEACHER * B</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>THEORETICAL FOUNDATION OF COMPUTER SCIENCE TEACHER * B</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ THEORETICAL FOUNDATION OF COMPUTER SCIENCE TEACHER B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>THEORETICAL FOUNDATION OF COMPUTER SCIENCE TEACHER B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ THEORETICAL FOUNDATION OF COMPUTER SCIENCE * B TEACHER *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ THEORETICAL FOUNDATION OF COMPUTER SCIENCE * B TEACHER</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>THEORETICAL FOUNDATION OF COMPUTER SCIENCE * B TEACHER *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>THEORETICAL FOUNDATION OF COMPUTER SCIENCE * B TEACHER</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ THEORETICAL FOUNDATION OF COMPUTER SCIENCE B * TEACHER *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ THEORETICAL FOUNDATION OF COMPUTER SCIENCE B * TEACHER</pattern>
+
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>THEORETICAL FOUNDATION OF COMPUTER SCIENCE B * TEACHER *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>THEORETICAL FOUNDATION OF COMPUTER SCIENCE B * TEACHER</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B TEACHER * THEORETICAL FOUNDATION OF COMPUTER SCIENCE *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B TEACHER * THEORETICAL FOUNDATION OF COMPUTER SCIENCE</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER * THEORETICAL FOUNDATION OF COMPUTER SCIENCE *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER * THEORETICAL FOUNDATION OF COMPUTER SCIENCE</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B TEACHER THEORETICAL FOUNDATION OF COMPUTER SCIENCE *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B TEACHER THEORETICAL FOUNDATION OF COMPUTER SCIENCE</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * TEACHER THEORETICAL FOUNDATION OF COMPUTER SCIENCE *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER THEORETICAL FOUNDATION OF COMPUTER SCIENCE</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B THEORETICAL FOUNDATION OF COMPUTER SCIENCE TEACHER *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B THEORETICAL FOUNDATION OF COMPUTER SCIENCE TEACHER</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * THEORETICAL FOUNDATION OF COMPUTER SCIENCE TEACHER *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * THEORETICAL FOUNDATION OF COMPUTER SCIENCE TEACHER</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ FACULTY * THEORETICAL FOUNDATION OF COMPUTER SCIENCE * B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * THEORETICAL FOUNDATION OF COMPUTER SCIENCE * B</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * THEORETICAL FOUNDATION OF COMPUTER SCIENCE * B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * THEORETICAL FOUNDATION OF COMPUTER SCIENCE * B</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * THEORETICAL FOUNDATION OF COMPUTER SCIENCE B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * THEORETICAL FOUNDATION OF COMPUTER SCIENCE B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY THEORETICAL FOUNDATION OF COMPUTER SCIENCE * B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY THEORETICAL FOUNDATION OF COMPUTER SCIENCE * B</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY THEORETICAL FOUNDATION OF COMPUTER SCIENCE * B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY THEORETICAL FOUNDATION OF COMPUTER SCIENCE * B</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY THEORETICAL FOUNDATION OF COMPUTER SCIENCE B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY THEORETICAL FOUNDATION OF COMPUTER SCIENCE B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY * B * THEORETICAL FOUNDATION OF COMPUTER SCIENCE *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY * B * THEORETICAL FOUNDATION OF COMPUTER SCIENCE</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * B * THEORETICAL FOUNDATION OF COMPUTER SCIENCE *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * B * THEORETICAL FOUNDATION OF COMPUTER SCIENCE</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY B * THEORETICAL FOUNDATION OF COMPUTER SCIENCE *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY B * THEORETICAL FOUNDATION OF COMPUTER SCIENCE</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY B * THEORETICAL FOUNDATION OF COMPUTER SCIENCE *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY B * THEORETICAL FOUNDATION OF COMPUTER SCIENCE</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * B THEORETICAL FOUNDATION OF COMPUTER SCIENCE *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * B THEORETICAL FOUNDATION OF COMPUTER SCIENCE</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * B THEORETICAL FOUNDATION OF COMPUTER SCIENCE *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * B THEORETICAL FOUNDATION OF COMPUTER SCIENCE</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ THEORETICAL FOUNDATION OF COMPUTER SCIENCE FACULTY * B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ THEORETICAL FOUNDATION OF COMPUTER SCIENCE FACULTY * B</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>THEORETICAL FOUNDATION OF COMPUTER SCIENCE FACULTY * B</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ THEORETICAL FOUNDATION OF COMPUTER SCIENCE FACULTY B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>THEORETICAL FOUNDATION OF COMPUTER SCIENCE FACULTY B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ THEORETICAL FOUNDATION OF COMPUTER SCIENCE * B FACULTY *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ THEORETICAL FOUNDATION OF COMPUTER SCIENCE * B FACULTY</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>THEORETICAL FOUNDATION OF COMPUTER SCIENCE * B FACULTY *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>THEORETICAL FOUNDATION OF COMPUTER SCIENCE * B FACULTY</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ THEORETICAL FOUNDATION OF COMPUTER SCIENCE B * FACULTY *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ THEORETICAL FOUNDATION OF COMPUTER SCIENCE B * FACULTY</pattern>
+
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>THEORETICAL FOUNDATION OF COMPUTER SCIENCE B * FACULTY *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>THEORETICAL FOUNDATION OF COMPUTER SCIENCE B * FACULTY</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B FACULTY * THEORETICAL FOUNDATION OF COMPUTER SCIENCE *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B FACULTY * THEORETICAL FOUNDATION OF COMPUTER SCIENCE</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY * THEORETICAL FOUNDATION OF COMPUTER SCIENCE *</pattern>
+	<template><srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY * THEORETICAL FOUNDATION OF COMPUTER SCIENCE</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B FACULTY THEORETICAL FOUNDATION OF COMPUTER SCIENCE *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B FACULTY THEORETICAL FOUNDATION OF COMPUTER SCIENCE</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * FACULTY THEORETICAL FOUNDATION OF COMPUTER SCIENCE *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY THEORETICAL FOUNDATION OF COMPUTER SCIENCE</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B THEORETICAL FOUNDATION OF COMPUTER SCIENCE FACULTY *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B THEORETICAL FOUNDATION OF COMPUTER SCIENCE FACULTY</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * THEORETICAL FOUNDATION OF COMPUTER SCIENCE FACULTY *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * THEORETICAL FOUNDATION OF COMPUTER SCIENCE FACULTY</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ TEACHES THEORETICAL FOUNDATION OF COMPUTER SCIENCE * B</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES THEORETICAL FOUNDATION OF COMPUTER SCIENCE B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHES * B THEORETICAL FOUNDATION OF COMPUTER SCIENCE *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES * B THEORETICAL FOUNDATION OF COMPUTER SCIENCE</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ TEACHES B * THEORETICAL FOUNDATION OF COMPUTER SCIENCE *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES B * THEORETICAL FOUNDATION OF COMPUTER SCIENCE</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ THEORETICAL FOUNDATION OF COMPUTER SCIENCE * B * TAUGHT *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>THEORETICAL FOUNDATION OF COMPUTER SCIENCE * B * TAUGHT *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ THEORETICAL FOUNDATION OF COMPUTER SCIENCE B * TAUGHT *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>THEORETICAL FOUNDATION OF COMPUTER SCIENCE B * TAUGHT *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ THEORETICAL FOUNDATION OF COMPUTER SCIENCE * B TAUGHT *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>THEORETICAL FOUNDATION OF COMPUTER SCIENCE * B TAUGHT *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURES * THEORETICAL FOUNDATION OF COMPUTER SCIENCE * B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * THEORETICAL FOUNDATION OF COMPUTER SCIENCE * B</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * THEORETICAL FOUNDATION OF COMPUTER SCIENCE B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES THEORETICAL FOUNDATION OF COMPUTER SCIENCE * B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES THEORETICAL FOUNDATION OF COMPUTER SCIENCE * B</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES THEORETICAL FOUNDATION OF COMPUTER SCIENCE B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ PROFESSOR * TFCS * B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * TFCS * B</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * TFCS * B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * TFCS * B</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * TFCS B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * TFCS B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR TFCS * B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR TFCS * B</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR TFCS * B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR TFCS * B</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR TFCS B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR TFCS B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR * B * TFCS *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR * B * TFCS</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * B * TFCS *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * B * TFCS</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR B * TFCS *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR B * TFCS</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR B * TFCS *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR B * TFCS</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * B TFCS *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * B TFCS</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * B TFCS *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * B TFCS</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TFCS PROFESSOR * B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TFCS PROFESSOR * B</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TFCS PROFESSOR * B</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TFCS PROFESSOR B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TFCS PROFESSOR B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TFCS * B PROFESSOR *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TFCS * B PROFESSOR</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TFCS * B PROFESSOR *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TFCS * B PROFESSOR</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ TFCS B * PROFESSOR *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TFCS B * PROFESSOR</pattern>
+
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TFCS B * PROFESSOR *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TFCS B * PROFESSOR</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROFESSOR * TFCS *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROFESSOR * TFCS</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR * TFCS *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR * TFCS</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROFESSOR TFCS *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROFESSOR TFCS</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * PROFESSOR TFCS *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR TFCS</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B TFCS PROFESSOR *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B TFCS PROFESSOR</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * TFCS PROFESSOR *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TFCS PROFESSOR</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * TFCS * B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * TFCS * B</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * TFCS * B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * TFCS * B</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * TFCS B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * TFCS B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF TFCS * B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF TFCS * B</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF TFCS * B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF TFCS * B</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF TFCS B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF TFCS B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF * B * TFCS *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF * B * TFCS</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * B * TFCS *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * B * TFCS</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF B * TFCS *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF B * TFCS</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF B * TFCS *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF B * TFCS</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * B TFCS *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * B TFCS</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * B TFCS *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * B TFCS</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TFCS PROF * B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TFCS PROF * B</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TFCS PROF * B</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TFCS PROF B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TFCS PROF B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TFCS * B PROF *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TFCS * B PROF</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TFCS * B PROF *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TFCS * B PROF</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ TFCS B * PROF *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TFCS B * PROF</pattern>
+
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TFCS B * PROF *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TFCS B * PROF</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROF * TFCS *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROF * TFCS</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF * TFCS *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF * TFCS</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROF TFCS *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROF TFCS</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * PROF TFCS *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF TFCS</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B TFCS PROF *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B TFCS PROF</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * TFCS PROF *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * TFCS PROF</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * TFCS * B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * TFCS * B</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * TFCS * B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * TFCS * B</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * TFCS B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * TFCS B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER TFCS * B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER TFCS * B</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER TFCS * B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER TFCS * B</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER TFCS B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER TFCS B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER * B * TFCS *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER * B * TFCS</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * B * TFCS *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * B * TFCS</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER B * TFCS *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER B * TFCS</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER B * TFCS *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER B * TFCS</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * B TFCS *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * B TFCS</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * B TFCS *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * B TFCS</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TFCS LECTURER * B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TFCS LECTURER * B</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TFCS LECTURER * B</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TFCS LECTURER B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TFCS LECTURER B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TFCS * B LECTURER *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TFCS * B LECTURER</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TFCS * B LECTURER *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TFCS * B LECTURER</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ TFCS B * LECTURER *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TFCS B * LECTURER</pattern>
+
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TFCS B * LECTURER *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TFCS B * LECTURER</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LECTURER * TFCS *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECTURER * TFCS</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER * TFCS *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER * TFCS</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECTURER TFCS *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECTURER TFCS</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * LECTURER TFCS *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER TFCS</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B TFCS LECTURER *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B TFCS LECTURER</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * TFCS LECTURER *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TFCS LECTURER</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * TFCS * B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * TFCS * B</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * TFCS * B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * TFCS * B</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * TFCS B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * TFCS B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT TFCS * B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT TFCS * B</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT TFCS * B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT TFCS * B</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT TFCS B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT TFCS B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT * B * TFCS *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT * B * TFCS</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * B * TFCS *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * B * TFCS</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT B * TFCS *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT B * TFCS</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT B * TFCS *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT B * TFCS</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * B TFCS *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * B TFCS</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * B TFCS *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * B TFCS</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TFCS LECT * B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TFCS LECT * B</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TFCS LECT * B</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TFCS LECT B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TFCS LECT B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TFCS * B LECT *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TFCS * B LECT</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TFCS * B LECT *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TFCS * B LECT</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ TFCS B * LECT *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TFCS B * LECT</pattern>
+
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TFCS B * LECT *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TFCS B * LECT</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LECT * TFCS *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECT * TFCS</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT * TFCS *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT * TFCS</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECT TFCS *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECT TFCS</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * LECT TFCS *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT TFCS</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B TFCS LECT *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B TFCS LECT</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * TFCS LECT *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TFCS LECT</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * TFCS * B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * TFCS * B</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * TFCS * B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * TFCS * B</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * TFCS B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * TFCS B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER TFCS * B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER TFCS * B</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER TFCS * B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER TFCS * B</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER TFCS B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER TFCS B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER * B * TFCS *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER * B * TFCS</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * B * TFCS *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * B * TFCS</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER B * TFCS *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER B * TFCS</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER B * TFCS *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER B * TFCS</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * B TFCS *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * B TFCS</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * B TFCS *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * B TFCS</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TFCS TEACHER * B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TFCS TEACHER * B</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TFCS TEACHER * B</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TFCS TEACHER B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TFCS TEACHER B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TFCS * B TEACHER *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TFCS * B TEACHER</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TFCS * B TEACHER *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TFCS * B TEACHER</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ TFCS B * TEACHER *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TFCS B * TEACHER</pattern>
+
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TFCS B * TEACHER *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TFCS B * TEACHER</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B TEACHER * TFCS *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B TEACHER * TFCS</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER * TFCS *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER * TFCS</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B TEACHER TFCS *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B TEACHER TFCS</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * TEACHER TFCS *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER TFCS</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B TFCS TEACHER *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B TFCS TEACHER</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * TFCS TEACHER *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TFCS TEACHER</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ FACULTY * TFCS * B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * TFCS * B</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * TFCS * B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * TFCS * B</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * TFCS B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * TFCS B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY TFCS * B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY TFCS * B</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY TFCS * B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY TFCS * B</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY TFCS B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY TFCS B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY * B * TFCS *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY * B * TFCS</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * B * TFCS *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * B * TFCS</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY B * TFCS *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY B * TFCS</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY B * TFCS *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY B * TFCS</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * B TFCS *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * B TFCS</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * B TFCS *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * B TFCS</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TFCS FACULTY * B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TFCS FACULTY * B</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TFCS FACULTY * B</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TFCS FACULTY B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TFCS FACULTY B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TFCS * B FACULTY *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TFCS * B FACULTY</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TFCS * B FACULTY *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TFCS * B FACULTY</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ TFCS B * FACULTY *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TFCS B * FACULTY</pattern>
+
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TFCS B * FACULTY *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TFCS B * FACULTY</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B FACULTY * TFCS *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B FACULTY * TFCS</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY * TFCS *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY * TFCS</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B FACULTY TFCS *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B FACULTY TFCS</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * FACULTY TFCS *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY TFCS</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B TFCS FACULTY *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B TFCS FACULTY</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * TFCS FACULTY *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TFCS FACULTY</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ TEACHES TFCS * B</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES TFCS B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHES * B TFCS *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES * B TFCS</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ TEACHES B * TFCS *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES B * TFCS</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TFCS * B * TAUGHT *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TFCS * B * TAUGHT *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TFCS B * TAUGHT *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TFCS B * TAUGHT *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TFCS * B TAUGHT *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TFCS * B TAUGHT *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * TFCS * B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * TFCS * B</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * TFCS B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES TFCS * B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES TFCS * B</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES TFCS B *</pattern>
+	<template>
+		<srai>TFCSB</srai>
+	</template>
+</category>
+
+
+
+</aiml>

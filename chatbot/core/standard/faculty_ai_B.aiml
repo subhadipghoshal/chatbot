@@ -1,0 +1,5090 @@
+<aiml version="1.0.1" encoding="UTF-8">
+
+<category>
+	<pattern>AIB</pattern>
+	<template>
+		<random>
+			<li>Mrs. Gauri Manoj Dhopavkar teaches ARTIFICIAL INTELLIGENCE</li>
+			<li>Mrs. Gauri Manoj Dhopavkar</li>
+			<li>ARTIFICIAL INTELLIGENCE is taught by Mrs. Gauri Manoj Dhopavkar</li>
+		</random>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ PROFESSOR * ARTIFICIAL INTELLIGENCE * B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * AI * B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ PROFESSOR * ARTIFICIAL INTELLIGENCE * B</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * AI * B</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR * ARTIFICIAL INTELLIGENCE * B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR * AI * B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR * ARTIFICIAL INTELLIGENCE * B</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR * AI * B</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * ARTIFICIAL INTELLIGENCE B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * AI B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR * ARTIFICIAL INTELLIGENCE B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR * AI B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR ARTIFICIAL INTELLIGENCE * B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR AI * B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR ARTIFICIAL INTELLIGENCE * B</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR AI * B</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR ARTIFICIAL INTELLIGENCE * B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR AI * B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR ARTIFICIAL INTELLIGENCE * B</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR AI * B</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR ARTIFICIAL INTELLIGENCE B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR AI B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR ARTIFICIAL INTELLIGENCE B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR AI B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+
+
+<category>
+	<pattern>_ PROFESSOR * B * ARTIFICIAL INTELLIGENCE *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * B * AI *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * B * ARTIFICIAL INTELLIGENCE</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * B * AI</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR * B * ARTIFICIAL INTELLIGENCE *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR * B * AI *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR * B * ARTIFICIAL INTELLIGENCE</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR * B * AI</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR B * ARTIFICIAL INTELLIGENCE *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR B * AI *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR B * ARTIFICIAL INTELLIGENCE</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR B * AI</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR B * ARTIFICIAL INTELLIGENCE *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR B * AI *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR B * ARTIFICIAL INTELLIGENCE</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR B * AI</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * B ARTIFICIAL INTELLIGENCE *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * B AI *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * B ARTIFICIAL INTELLIGENCE</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * B AI</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR * B ARTIFICIAL INTELLIGENCE *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR * B AI *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR * B ARTIFICIAL INTELLIGENCE</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR * B AI</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>_ ARTIFICIAL INTELLIGENCE PROFESSOR * B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ AI PROFESSOR * B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ ARTIFICIAL INTELLIGENCE PROFESSOR * B</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ AI PROFESSOR * B</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ARTIFICIAL INTELLIGENCE PROFESSOR * B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>AI PROFESSOR * B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ARTIFICIAL INTELLIGENCE PROFESSOR * B</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>AI PROFESSOR * B</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ ARTIFICIAL INTELLIGENCE PROFESSOR B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ AI PROFESSOR B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ARTIFICIAL INTELLIGENCE PROFESSOR B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>AI PROFESSOR B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>_ ARTIFICIAL INTELLIGENCE * B PROFESSOR *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ AI * B PROFESSOR *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ ARTIFICIAL INTELLIGENCE * B PROFESSOR</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ AI * B PROFESSOR</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ARTIFICIAL INTELLIGENCE * B PROFESSOR *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>AI * B PROFESSOR *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ARTIFICIAL INTELLIGENCE * B PROFESSOR</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>AI * B PROFESSOR</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ ARTIFICIAL INTELLIGENCE B * PROFESSOR *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ AI B * PROFESSOR *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ ARTIFICIAL INTELLIGENCE B * PROFESSOR</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ AI B * PROFESSOR</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ARTIFICIAL INTELLIGENCE B * PROFESSOR *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>AI B * PROFESSOR *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ARTIFICIAL INTELLIGENCE B * PROFESSOR</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>AI B * PROFESSOR</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>_ B PROFESSOR * ARTIFICIAL INTELLIGENCE *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROFESSOR * AI *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROFESSOR * ARTIFICIAL INTELLIGENCE</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROFESSOR * AI</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR * ARTIFICIAL INTELLIGENCE *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR * AI *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR * ARTIFICIAL INTELLIGENCE</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR * AI</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROFESSOR ARTIFICIAL INTELLIGENCE *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROFESSOR AI *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROFESSOR ARTIFICIAL INTELLIGENCE</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ B PROFESSOR AI</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR ARTIFICIAL INTELLIGENCE *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR AI *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR ARTIFICIAL INTELLIGENCE</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR AI</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+
+
+<category>
+	<pattern>_ B ARTIFICIAL INTELLIGENCE PROFESSOR *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B AI PROFESSOR *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B ARTIFICIAL INTELLIGENCE PROFESSOR</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B AI PROFESSOR</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * ARTIFICIAL INTELLIGENCE PROFESSOR *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * AI PROFESSOR *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * ARTIFICIAL INTELLIGENCE PROFESSOR</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * AI PROFESSOR</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY * ARTIFICIAL INTELLIGENCE * B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * AI * B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ FACULTY * ARTIFICIAL INTELLIGENCE * B</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * AI * B</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY * ARTIFICIAL INTELLIGENCE * B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY * AI * B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY * ARTIFICIAL INTELLIGENCE * B</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY * AI * B</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * ARTIFICIAL INTELLIGENCE B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * AI B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY * ARTIFICIAL INTELLIGENCE B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY * AI B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY ARTIFICIAL INTELLIGENCE * B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY AI * B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY ARTIFICIAL INTELLIGENCE * B</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY AI * B</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY ARTIFICIAL INTELLIGENCE * B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY AI * B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY ARTIFICIAL INTELLIGENCE * B</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY AI * B</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY ARTIFICIAL INTELLIGENCE B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY AI B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY ARTIFICIAL INTELLIGENCE B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY AI B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+
+
+<category>
+	<pattern>_ FACULTY * B * ARTIFICIAL INTELLIGENCE *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * B * AI *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * B * ARTIFICIAL INTELLIGENCE</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * B * AI</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY * B * ARTIFICIAL INTELLIGENCE *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY * B * AI *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY * B * ARTIFICIAL INTELLIGENCE</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY * B * AI</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY B * ARTIFICIAL INTELLIGENCE *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY B * AI *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY B * ARTIFICIAL INTELLIGENCE</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY B * AI</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY B * ARTIFICIAL INTELLIGENCE *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY B * AI *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY B * ARTIFICIAL INTELLIGENCE</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY B * AI</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * B ARTIFICIAL INTELLIGENCE *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * B AI *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * B ARTIFICIAL INTELLIGENCE</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * B AI</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY * B ARTIFICIAL INTELLIGENCE *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY * B AI *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY * B ARTIFICIAL INTELLIGENCE</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY * B AI</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>_ ARTIFICIAL INTELLIGENCE FACULTY * B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ AI FACULTY * B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ ARTIFICIAL INTELLIGENCE FACULTY * B</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ AI FACULTY * B</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ARTIFICIAL INTELLIGENCE FACULTY * B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>AI FACULTY * B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ARTIFICIAL INTELLIGENCE FACULTY * B</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>AI FACULTY * B</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ ARTIFICIAL INTELLIGENCE FACULTY B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ AI FACULTY B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ARTIFICIAL INTELLIGENCE FACULTY B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>AI FACULTY B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>_ ARTIFICIAL INTELLIGENCE * B FACULTY *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ AI * B FACULTY *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ ARTIFICIAL INTELLIGENCE * B FACULTY</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ AI * B FACULTY</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ARTIFICIAL INTELLIGENCE * B FACULTY *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>AI * B FACULTY *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ARTIFICIAL INTELLIGENCE * B FACULTY</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>AI * B FACULTY</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ ARTIFICIAL INTELLIGENCE B * FACULTY *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ AI B * FACULTY *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ ARTIFICIAL INTELLIGENCE B * FACULTY</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ AI B * FACULTY</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ARTIFICIAL INTELLIGENCE B * FACULTY *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>AI B * FACULTY *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ARTIFICIAL INTELLIGENCE B * FACULTY</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>AI B * FACULTY</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>_ B FACULTY * ARTIFICIAL INTELLIGENCE *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B FACULTY * AI *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B FACULTY * ARTIFICIAL INTELLIGENCE</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B FACULTY * AI</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY * ARTIFICIAL INTELLIGENCE *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY * AI *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY * ARTIFICIAL INTELLIGENCE</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY * AI</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B FACULTY ARTIFICIAL INTELLIGENCE *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B FACULTY AI *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B FACULTY ARTIFICIAL INTELLIGENCE</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ B FACULTY AI</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY ARTIFICIAL INTELLIGENCE *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY AI *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY ARTIFICIAL INTELLIGENCE</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY AI</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+
+
+<category>
+	<pattern>_ B ARTIFICIAL INTELLIGENCE FACULTY *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B AI FACULTY *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B ARTIFICIAL INTELLIGENCE FACULTY</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B AI FACULTY</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * ARTIFICIAL INTELLIGENCE FACULTY *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * AI FACULTY *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * ARTIFICIAL INTELLIGENCE FACULTY</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * AI FACULTY</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF * ARTIFICIAL INTELLIGENCE * B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF * AI * B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF * ARTIFICIAL INTELLIGENCE * B</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF * AI * B</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * ARTIFICIAL INTELLIGENCE * B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * AI * B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * ARTIFICIAL INTELLIGENCE * B</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * AI * B</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF * ARTIFICIAL INTELLIGENCE B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF * AI B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * ARTIFICIAL INTELLIGENCE B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * AI B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF ARTIFICIAL INTELLIGENCE * B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF AI * B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF ARTIFICIAL INTELLIGENCE * B</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF AI * B</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF ARTIFICIAL INTELLIGENCE * B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF AI * B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF ARTIFICIAL INTELLIGENCE * B</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF AI * B</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF ARTIFICIAL INTELLIGENCE B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF AI B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF ARTIFICIAL INTELLIGENCE B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF AI B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF * B * ARTIFICIAL INTELLIGENCE *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF * B * AI *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF * B * ARTIFICIAL INTELLIGENCE</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF * B * AI</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * B * ARTIFICIAL INTELLIGENCE *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * B * AI *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * B * ARTIFICIAL INTELLIGENCE</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * B * AI</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF B * ARTIFICIAL INTELLIGENCE *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF B * AI *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF B * ARTIFICIAL INTELLIGENCE</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF B * AI</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF B * ARTIFICIAL INTELLIGENCE *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF B * AI *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF B * ARTIFICIAL INTELLIGENCE</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF B * AI</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF * B ARTIFICIAL INTELLIGENCE *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF * B AI *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF * B ARTIFICIAL INTELLIGENCE</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF * B AI</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * B ARTIFICIAL INTELLIGENCE *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * B AI *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * B ARTIFICIAL INTELLIGENCE</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * B AI</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ARTIFICIAL INTELLIGENCE PROF * B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ AI PROF * B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ARTIFICIAL INTELLIGENCE PROF * B</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ AI PROF * B</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ARTIFICIAL INTELLIGENCE PROF * B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>AI PROF * B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ARTIFICIAL INTELLIGENCE PROF * B</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>AI PROF * B</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ ARTIFICIAL INTELLIGENCE PROF B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ AI PROF B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ARTIFICIAL INTELLIGENCE PROF B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>AI PROF B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>_ ARTIFICIAL INTELLIGENCE * B PROF *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ AI * B PROF *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ ARTIFICIAL INTELLIGENCE * B PROF</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ AI * B PROF</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ARTIFICIAL INTELLIGENCE * B PROF *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>AI * B PROF *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ARTIFICIAL INTELLIGENCE * B PROF</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>AI * B PROF</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ ARTIFICIAL INTELLIGENCE B * PROF *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ AI B * PROF *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ ARTIFICIAL INTELLIGENCE B * PROF</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ AI B * PROF</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ARTIFICIAL INTELLIGENCE B * PROF *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>AI B * PROF *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ARTIFICIAL INTELLIGENCE B * PROF</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>AI B * PROF</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>_ B PROF * ARTIFICIAL INTELLIGENCE *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROF * AI *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROF * ARTIFICIAL INTELLIGENCE</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROF * AI</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF * ARTIFICIAL INTELLIGENCE *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF * AI *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF * ARTIFICIAL INTELLIGENCE</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF * AI</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROF ARTIFICIAL INTELLIGENCE *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROF AI *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROF ARTIFICIAL INTELLIGENCE</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ B PROF AI</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF ARTIFICIAL INTELLIGENCE *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF AI *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF ARTIFICIAL INTELLIGENCE</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF AI</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+
+
+<category>
+	<pattern>_ B ARTIFICIAL INTELLIGENCE PROF *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B AI PROF *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B ARTIFICIAL INTELLIGENCE PROF</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B AI PROF</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * ARTIFICIAL INTELLIGENCE PROF *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * AI PROF *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * ARTIFICIAL INTELLIGENCE PROF</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * AI PROF</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+
+
+<category>
+	<pattern>_ LECTURER * ARTIFICIAL INTELLIGENCE * B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * AI * B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ LECTURER * ARTIFICIAL INTELLIGENCE * B</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * AI * B</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER * ARTIFICIAL INTELLIGENCE * B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER * AI * B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER * ARTIFICIAL INTELLIGENCE * B</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER * AI * B</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * ARTIFICIAL INTELLIGENCE B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * AI B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER * ARTIFICIAL INTELLIGENCE B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER * AI B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER ARTIFICIAL INTELLIGENCE * B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER AI * B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER ARTIFICIAL INTELLIGENCE * B</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER AI * B</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER ARTIFICIAL INTELLIGENCE * B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER AI * B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER ARTIFICIAL INTELLIGENCE * B</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER AI * B</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER ARTIFICIAL INTELLIGENCE B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER AI B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER ARTIFICIAL INTELLIGENCE B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER AI B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+
+
+<category>
+	<pattern>_ LECTURER * B * ARTIFICIAL INTELLIGENCE *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * B * AI *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * B * ARTIFICIAL INTELLIGENCE</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * B * AI</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER * B * ARTIFICIAL INTELLIGENCE *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER * B * AI *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER * B * ARTIFICIAL INTELLIGENCE</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER * B * AI</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER B * ARTIFICIAL INTELLIGENCE *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER B * AI *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER B * ARTIFICIAL INTELLIGENCE</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER B * AI</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER B * ARTIFICIAL INTELLIGENCE *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER B * AI *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER B * ARTIFICIAL INTELLIGENCE</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER B * AI</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * B ARTIFICIAL INTELLIGENCE *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * B AI *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * B ARTIFICIAL INTELLIGENCE</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * B AI</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER * B ARTIFICIAL INTELLIGENCE *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER * B AI *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER * B ARTIFICIAL INTELLIGENCE</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER * B AI</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>_ ARTIFICIAL INTELLIGENCE LECTURER * B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ AI LECTURER * B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ ARTIFICIAL INTELLIGENCE LECTURER * B</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ AI LECTURER * B</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ARTIFICIAL INTELLIGENCE LECTURER * B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>AI LECTURER * B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ARTIFICIAL INTELLIGENCE LECTURER * B</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>AI LECTURER * B</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ ARTIFICIAL INTELLIGENCE LECTURER B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ AI LECTURER B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ARTIFICIAL INTELLIGENCE LECTURER B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>AI LECTURER B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>_ ARTIFICIAL INTELLIGENCE * B LECTURER *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ AI * B LECTURER *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ ARTIFICIAL INTELLIGENCE * B LECTURER</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ AI * B LECTURER</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ARTIFICIAL INTELLIGENCE * B LECTURER *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>AI * B LECTURER *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ARTIFICIAL INTELLIGENCE * B LECTURER</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>AI * B LECTURER</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ ARTIFICIAL INTELLIGENCE B * LECTURER *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ AI B * LECTURER *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ ARTIFICIAL INTELLIGENCE B * LECTURER</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ AI B * LECTURER</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ARTIFICIAL INTELLIGENCE B * LECTURER *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>AI B * LECTURER *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ARTIFICIAL INTELLIGENCE B * LECTURER</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>AI B * LECTURER</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>_ B LECTURER * ARTIFICIAL INTELLIGENCE *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LECTURER * AI *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LECTURER * ARTIFICIAL INTELLIGENCE</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LECTURER * AI</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER * ARTIFICIAL INTELLIGENCE *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER * AI *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER * ARTIFICIAL INTELLIGENCE</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER * AI</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LECTURER ARTIFICIAL INTELLIGENCE *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LECTURER AI *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LECTURER ARTIFICIAL INTELLIGENCE</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ B LECTURER AI</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER ARTIFICIAL INTELLIGENCE *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER AI *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER ARTIFICIAL INTELLIGENCE</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER AI</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+
+
+<category>
+	<pattern>_ B ARTIFICIAL INTELLIGENCE LECTURER *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B AI LECTURER *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B ARTIFICIAL INTELLIGENCE LECTURER</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B AI LECTURER</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * ARTIFICIAL INTELLIGENCE LECTURER *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * AI LECTURER *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * ARTIFICIAL INTELLIGENCE LECTURER</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * AI LECTURER</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+
+
+<category>
+	<pattern>_ LECT * ARTIFICIAL INTELLIGENCE * B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * AI * B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ LECT * ARTIFICIAL INTELLIGENCE * B</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * AI * B</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT * ARTIFICIAL INTELLIGENCE * B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT * AI * B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT * ARTIFICIAL INTELLIGENCE * B</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT * AI * B</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * ARTIFICIAL INTELLIGENCE B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * AI B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT * ARTIFICIAL INTELLIGENCE B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT * AI B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT ARTIFICIAL INTELLIGENCE * B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT AI * B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT ARTIFICIAL INTELLIGENCE * B</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT AI * B</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT ARTIFICIAL INTELLIGENCE * B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT AI * B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT ARTIFICIAL INTELLIGENCE * B</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT AI * B</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT ARTIFICIAL INTELLIGENCE B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT AI B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT ARTIFICIAL INTELLIGENCE B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT AI B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+
+
+<category>
+	<pattern>_ LECT * B * ARTIFICIAL INTELLIGENCE *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * B * AI *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * B * ARTIFICIAL INTELLIGENCE</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * B * AI</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT * B * ARTIFICIAL INTELLIGENCE *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT * B * AI *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT * B * ARTIFICIAL INTELLIGENCE</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT * B * AI</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT B * ARTIFICIAL INTELLIGENCE *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT B * AI *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT B * ARTIFICIAL INTELLIGENCE</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT B * AI</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT B * ARTIFICIAL INTELLIGENCE *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT B * AI *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT B * ARTIFICIAL INTELLIGENCE</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT B * AI</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * B ARTIFICIAL INTELLIGENCE *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * B AI *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * B ARTIFICIAL INTELLIGENCE</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * B AI</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT * B ARTIFICIAL INTELLIGENCE *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT * B AI *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT * B ARTIFICIAL INTELLIGENCE</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT * B AI</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>_ ARTIFICIAL INTELLIGENCE LECT * B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ AI LECT * B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ ARTIFICIAL INTELLIGENCE LECT * B</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ AI LECT * B</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ARTIFICIAL INTELLIGENCE LECT * B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>AI LECT * B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ARTIFICIAL INTELLIGENCE LECT * B</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>AI LECT * B</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ ARTIFICIAL INTELLIGENCE LECT B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ AI LECT B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ARTIFICIAL INTELLIGENCE LECT B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>AI LECT B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>_ ARTIFICIAL INTELLIGENCE * B LECT *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ AI * B LECT *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ ARTIFICIAL INTELLIGENCE * B LECT</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ AI * B LECT</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ARTIFICIAL INTELLIGENCE * B LECT *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>AI * B LECT *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ARTIFICIAL INTELLIGENCE * B LECT</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>AI * B LECT</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ ARTIFICIAL INTELLIGENCE B * LECT *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ AI B * LECT *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ ARTIFICIAL INTELLIGENCE B * LECT</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ AI B * LECT</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ARTIFICIAL INTELLIGENCE B * LECT *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>AI B * LECT *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ARTIFICIAL INTELLIGENCE B * LECT</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>AI B * LECT</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>_ B LECT * ARTIFICIAL INTELLIGENCE *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LECT * AI *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LECT * ARTIFICIAL INTELLIGENCE</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LECT * AI</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT * ARTIFICIAL INTELLIGENCE *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT * AI *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT * ARTIFICIAL INTELLIGENCE</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT * AI</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LECT ARTIFICIAL INTELLIGENCE *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LECT AI *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LECT ARTIFICIAL INTELLIGENCE</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ B LECT AI</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT ARTIFICIAL INTELLIGENCE *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT AI *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT ARTIFICIAL INTELLIGENCE</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT AI</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+
+
+<category>
+	<pattern>_ B ARTIFICIAL INTELLIGENCE LECT *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B AI LECT *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B ARTIFICIAL INTELLIGENCE LECT</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B AI LECT</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * ARTIFICIAL INTELLIGENCE LECT *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * AI LECT *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * ARTIFICIAL INTELLIGENCE LECT</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * AI LECT</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>_ TEACHER * ARTIFICIAL INTELLIGENCE * B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * AI * B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ TEACHER * ARTIFICIAL INTELLIGENCE * B</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * AI * B</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER * ARTIFICIAL INTELLIGENCE * B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER * AI * B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER * ARTIFICIAL INTELLIGENCE * B</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER * AI * B</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * ARTIFICIAL INTELLIGENCE B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * AI B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER * ARTIFICIAL INTELLIGENCE B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER * AI B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER ARTIFICIAL INTELLIGENCE * B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER AI * B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER ARTIFICIAL INTELLIGENCE * B</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER AI * B</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER ARTIFICIAL INTELLIGENCE * B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER AI * B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER ARTIFICIAL INTELLIGENCE * B</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER AI * B</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER ARTIFICIAL INTELLIGENCE B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER AI B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER ARTIFICIAL INTELLIGENCE B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER AI B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+
+
+<category>
+	<pattern>_ TEACHER * B * ARTIFICIAL INTELLIGENCE *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * B * AI *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * B * ARTIFICIAL INTELLIGENCE</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * B * AI</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER * B * ARTIFICIAL INTELLIGENCE *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER * B * AI *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER * B * ARTIFICIAL INTELLIGENCE</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER * B * AI</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER B * ARTIFICIAL INTELLIGENCE *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER B * AI *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER B * ARTIFICIAL INTELLIGENCE</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER B * AI</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER B * ARTIFICIAL INTELLIGENCE *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER B * AI *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER B * ARTIFICIAL INTELLIGENCE</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER B * AI</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * B ARTIFICIAL INTELLIGENCE *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * B AI *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * B ARTIFICIAL INTELLIGENCE</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * B AI</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER * B ARTIFICIAL INTELLIGENCE *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER * B AI *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER * B ARTIFICIAL INTELLIGENCE</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER * B AI</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>_ ARTIFICIAL INTELLIGENCE TEACHER * B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ AI TEACHER * B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ ARTIFICIAL INTELLIGENCE TEACHER * B</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ AI TEACHER * B</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ARTIFICIAL INTELLIGENCE TEACHER * B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>AI TEACHER * B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ARTIFICIAL INTELLIGENCE TEACHER * B</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>AI TEACHER * B</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ ARTIFICIAL INTELLIGENCE TEACHER B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ AI TEACHER B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ARTIFICIAL INTELLIGENCE TEACHER B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>AI TEACHER B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>_ ARTIFICIAL INTELLIGENCE * B TEACHER *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ AI * B TEACHER *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ ARTIFICIAL INTELLIGENCE * B TEACHER</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ AI * B TEACHER</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ARTIFICIAL INTELLIGENCE * B TEACHER *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>AI * B TEACHER *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ARTIFICIAL INTELLIGENCE * B TEACHER</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>AI * B TEACHER</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ ARTIFICIAL INTELLIGENCE B * TEACHER *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ AI B * TEACHER *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ ARTIFICIAL INTELLIGENCE B * TEACHER</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ AI B * TEACHER</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ARTIFICIAL INTELLIGENCE B * TEACHER *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>AI B * TEACHER *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ARTIFICIAL INTELLIGENCE B * TEACHER</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>AI B * TEACHER</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>_ B TEACHER * ARTIFICIAL INTELLIGENCE *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B TEACHER * AI *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B TEACHER * ARTIFICIAL INTELLIGENCE</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B TEACHER * AI</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER * ARTIFICIAL INTELLIGENCE *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER * AI *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER * ARTIFICIAL INTELLIGENCE</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER * AI</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B TEACHER ARTIFICIAL INTELLIGENCE *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B TEACHER AI *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B TEACHER ARTIFICIAL INTELLIGENCE</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ B TEACHER AI</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER ARTIFICIAL INTELLIGENCE *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER AI *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER ARTIFICIAL INTELLIGENCE</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER AI</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+
+
+<category>
+	<pattern>_ B ARTIFICIAL INTELLIGENCE TEACHER *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B AI TEACHER *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B ARTIFICIAL INTELLIGENCE TEACHER</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B AI TEACHER</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * ARTIFICIAL INTELLIGENCE TEACHER *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * AI TEACHER *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * ARTIFICIAL INTELLIGENCE TEACHER</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * AI TEACHER</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ TEACHES ARTIFICIAL INTELLIGENCE * B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES AI * B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES ARTIFICIAL INTELLIGENCE * B</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES AI * B</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES ARTIFICIAL INTELLIGENCE B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES AI B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES * B ARTIFICIAL INTELLIGENCE *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES * B AI *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES * B ARTIFICIAL INTELLIGENCE</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES * B AI</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES B * ARTIFICIAL INTELLIGENCE *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES B * AI *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES B * ARTIFICIAL INTELLIGENCE</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES B * AI</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ ARTIFICIAL INTELLIGENCE * B * TAUGHT *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ AI * B * TAUGHT *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ARTIFICIAL INTELLIGENCE * B * TAUGHT *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>AI * B * TAUGHT *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ ARTIFICIAL INTELLIGENCE B * TAUGHT *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ AI B * TAUGHT *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ARTIFICIAL INTELLIGENCE B * TAUGHT *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>AI B * TAUGHT *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ ARTIFICIAL INTELLIGENCE * B TAUGHT *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ AI * B TAUGHT *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ARTIFICIAL INTELLIGENCE * B TAUGHT *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>AI * B TAUGHT *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURES * ARTIFICIAL INTELLIGENCE * B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURES * AI * B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURES * ARTIFICIAL INTELLIGENCE * B</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURES * AI * B</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURES * ARTIFICIAL INTELLIGENCE B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURES * AI B *</pattern>
+	<template>
+		<srai>AIB</srai>
+	</template>
+</category>
+
+
+
+</aiml>

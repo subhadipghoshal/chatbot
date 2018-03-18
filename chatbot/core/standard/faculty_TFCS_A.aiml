@@ -1,0 +1,4581 @@
+<aiml version="1.0.1" encoding="UTF-8">
+
+<category>
+	<pattern>TFCSA</pattern>
+	<template>
+		<random>
+			<li>Mr. Shailesh Digambar Kamble teaches THEORETICAL FOUNDATION OF COMPUTER SCIENCE</li>
+			<li>Mr. Shailesh Digambar Kamble</li>
+			<li>THEORETICAL FOUNDATION OF COMPUTER SCIENCE is taught by Mr. Shailesh Digambar Kamble</li>
+		</random>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * THEORETICAL FOUNDATION OF COMPUTER SCIENCE * A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * THEORETICAL FOUNDATION OF COMPUTER SCIENCE * A</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * THEORETICAL FOUNDATION OF COMPUTER SCIENCE * A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * THEORETICAL FOUNDATION OF COMPUTER SCIENCE * A</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * THEORETICAL FOUNDATION OF COMPUTER SCIENCE A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * THEORETICAL FOUNDATION OF COMPUTER SCIENCE A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR THEORETICAL FOUNDATION OF COMPUTER SCIENCE * A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR THEORETICAL FOUNDATION OF COMPUTER SCIENCE * A</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR THEORETICAL FOUNDATION OF COMPUTER SCIENCE * A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR THEORETICAL FOUNDATION OF COMPUTER SCIENCE * A</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR THEORETICAL FOUNDATION OF COMPUTER SCIENCE A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR THEORETICAL FOUNDATION OF COMPUTER SCIENCE A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR * A * THEORETICAL FOUNDATION OF COMPUTER SCIENCE *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR * A * THEORETICAL FOUNDATION OF COMPUTER SCIENCE</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * A * THEORETICAL FOUNDATION OF COMPUTER SCIENCE *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * A * THEORETICAL FOUNDATION OF COMPUTER SCIENCE</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR A * THEORETICAL FOUNDATION OF COMPUTER SCIENCE *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR A * THEORETICAL FOUNDATION OF COMPUTER SCIENCE</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR A * THEORETICAL FOUNDATION OF COMPUTER SCIENCE *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR A * THEORETICAL FOUNDATION OF COMPUTER SCIENCE</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * A THEORETICAL FOUNDATION OF COMPUTER SCIENCE *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * A THEORETICAL FOUNDATION OF COMPUTER SCIENCE</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * A THEORETICAL FOUNDATION OF COMPUTER SCIENCE *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * A THEORETICAL FOUNDATION OF COMPUTER SCIENCE</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ THEORETICAL FOUNDATION OF COMPUTER SCIENCE PROFESSOR * A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ THEORETICAL FOUNDATION OF COMPUTER SCIENCE PROFESSOR * A</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>THEORETICAL FOUNDATION OF COMPUTER SCIENCE PROFESSOR * A</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ THEORETICAL FOUNDATION OF COMPUTER SCIENCE PROFESSOR A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>THEORETICAL FOUNDATION OF COMPUTER SCIENCE PROFESSOR A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ THEORETICAL FOUNDATION OF COMPUTER SCIENCE * A PROFESSOR *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ THEORETICAL FOUNDATION OF COMPUTER SCIENCE * A PROFESSOR</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>THEORETICAL FOUNDATION OF COMPUTER SCIENCE * A PROFESSOR *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>THEORETICAL FOUNDATION OF COMPUTER SCIENCE * A PROFESSOR</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ THEORETICAL FOUNDATION OF COMPUTER SCIENCE A * PROFESSOR *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ THEORETICAL FOUNDATION OF COMPUTER SCIENCE A * PROFESSOR</pattern>
+
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>THEORETICAL FOUNDATION OF COMPUTER SCIENCE A * PROFESSOR *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>THEORETICAL FOUNDATION OF COMPUTER SCIENCE A * PROFESSOR</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A PROFESSOR * THEORETICAL FOUNDATION OF COMPUTER SCIENCE *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROFESSOR * THEORETICAL FOUNDATION OF COMPUTER SCIENCE</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROFESSOR * THEORETICAL FOUNDATION OF COMPUTER SCIENCE *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROFESSOR * THEORETICAL FOUNDATION OF COMPUTER SCIENCE</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROFESSOR THEORETICAL FOUNDATION OF COMPUTER SCIENCE *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROFESSOR THEORETICAL FOUNDATION OF COMPUTER SCIENCE</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * PROFESSOR THEORETICAL FOUNDATION OF COMPUTER SCIENCE *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROFESSOR THEORETICAL FOUNDATION OF COMPUTER SCIENCE</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A THEORETICAL FOUNDATION OF COMPUTER SCIENCE PROFESSOR *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A THEORETICAL FOUNDATION OF COMPUTER SCIENCE PROFESSOR</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * THEORETICAL FOUNDATION OF COMPUTER SCIENCE PROFESSOR *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * THEORETICAL FOUNDATION OF COMPUTER SCIENCE PROFESSOR</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * THEORETICAL FOUNDATION OF COMPUTER SCIENCE * A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * THEORETICAL FOUNDATION OF COMPUTER SCIENCE * A</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * THEORETICAL FOUNDATION OF COMPUTER SCIENCE * A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * THEORETICAL FOUNDATION OF COMPUTER SCIENCE * A</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * THEORETICAL FOUNDATION OF COMPUTER SCIENCE A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * THEORETICAL FOUNDATION OF COMPUTER SCIENCE A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF THEORETICAL FOUNDATION OF COMPUTER SCIENCE * A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF THEORETICAL FOUNDATION OF COMPUTER SCIENCE * A</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF THEORETICAL FOUNDATION OF COMPUTER SCIENCE * A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF THEORETICAL FOUNDATION OF COMPUTER SCIENCE * A</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF THEORETICAL FOUNDATION OF COMPUTER SCIENCE A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF THEORETICAL FOUNDATION OF COMPUTER SCIENCE A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF * A * THEORETICAL FOUNDATION OF COMPUTER SCIENCE *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF * A * THEORETICAL FOUNDATION OF COMPUTER SCIENCE</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * A * THEORETICAL FOUNDATION OF COMPUTER SCIENCE *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * A * THEORETICAL FOUNDATION OF COMPUTER SCIENCE</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF A * THEORETICAL FOUNDATION OF COMPUTER SCIENCE *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF A * THEORETICAL FOUNDATION OF COMPUTER SCIENCE</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF A * THEORETICAL FOUNDATION OF COMPUTER SCIENCE *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF A * THEORETICAL FOUNDATION OF COMPUTER SCIENCE</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * A THEORETICAL FOUNDATION OF COMPUTER SCIENCE *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * A THEORETICAL FOUNDATION OF COMPUTER SCIENCE</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * A THEORETICAL FOUNDATION OF COMPUTER SCIENCE *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * A THEORETICAL FOUNDATION OF COMPUTER SCIENCE</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ THEORETICAL FOUNDATION OF COMPUTER SCIENCE PROF * A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ THEORETICAL FOUNDATION OF COMPUTER SCIENCE PROF * A</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>THEORETICAL FOUNDATION OF COMPUTER SCIENCE PROF * A</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ THEORETICAL FOUNDATION OF COMPUTER SCIENCE PROF A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>THEORETICAL FOUNDATION OF COMPUTER SCIENCE PROF A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ THEORETICAL FOUNDATION OF COMPUTER SCIENCE * A PROF *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ THEORETICAL FOUNDATION OF COMPUTER SCIENCE * A PROF</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>THEORETICAL FOUNDATION OF COMPUTER SCIENCE * A PROF *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>THEORETICAL FOUNDATION OF COMPUTER SCIENCE * A PROF</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ THEORETICAL FOUNDATION OF COMPUTER SCIENCE A * PROF *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ THEORETICAL FOUNDATION OF COMPUTER SCIENCE A * PROF</pattern>
+
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>THEORETICAL FOUNDATION OF COMPUTER SCIENCE A * PROF *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>THEORETICAL FOUNDATION OF COMPUTER SCIENCE A * PROF</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A PROF * THEORETICAL FOUNDATION OF COMPUTER SCIENCE *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROF * THEORETICAL FOUNDATION OF COMPUTER SCIENCE</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROF * THEORETICAL FOUNDATION OF COMPUTER SCIENCE *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROF * THEORETICAL FOUNDATION OF COMPUTER SCIENCE</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROF THEORETICAL FOUNDATION OF COMPUTER SCIENCE *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROF THEORETICAL FOUNDATION OF COMPUTER SCIENCE</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * PROF THEORETICAL FOUNDATION OF COMPUTER SCIENCE *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROF THEORETICAL FOUNDATION OF COMPUTER SCIENCE</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A THEORETICAL FOUNDATION OF COMPUTER SCIENCE PROF *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A THEORETICAL FOUNDATION OF COMPUTER SCIENCE PROF</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * THEORETICAL FOUNDATION OF COMPUTER SCIENCE PROF *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * THEORETICAL FOUNDATION OF COMPUTER SCIENCE PROF</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * THEORETICAL FOUNDATION OF COMPUTER SCIENCE * A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * THEORETICAL FOUNDATION OF COMPUTER SCIENCE * A</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * THEORETICAL FOUNDATION OF COMPUTER SCIENCE * A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * THEORETICAL FOUNDATION OF COMPUTER SCIENCE * A</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * THEORETICAL FOUNDATION OF COMPUTER SCIENCE A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * THEORETICAL FOUNDATION OF COMPUTER SCIENCE A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER THEORETICAL FOUNDATION OF COMPUTER SCIENCE * A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER THEORETICAL FOUNDATION OF COMPUTER SCIENCE * A</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER THEORETICAL FOUNDATION OF COMPUTER SCIENCE * A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER THEORETICAL FOUNDATION OF COMPUTER SCIENCE * A</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER THEORETICAL FOUNDATION OF COMPUTER SCIENCE A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER THEORETICAL FOUNDATION OF COMPUTER SCIENCE A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER * A * THEORETICAL FOUNDATION OF COMPUTER SCIENCE *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER * A * THEORETICAL FOUNDATION OF COMPUTER SCIENCE</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * A * THEORETICAL FOUNDATION OF COMPUTER SCIENCE *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * A * THEORETICAL FOUNDATION OF COMPUTER SCIENCE</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER A * THEORETICAL FOUNDATION OF COMPUTER SCIENCE *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER A * THEORETICAL FOUNDATION OF COMPUTER SCIENCE</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER A * THEORETICAL FOUNDATION OF COMPUTER SCIENCE *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER A * THEORETICAL FOUNDATION OF COMPUTER SCIENCE</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * A THEORETICAL FOUNDATION OF COMPUTER SCIENCE *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * A THEORETICAL FOUNDATION OF COMPUTER SCIENCE</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * A THEORETICAL FOUNDATION OF COMPUTER SCIENCE *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * A THEORETICAL FOUNDATION OF COMPUTER SCIENCE</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ THEORETICAL FOUNDATION OF COMPUTER SCIENCE LECTURER * A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ THEORETICAL FOUNDATION OF COMPUTER SCIENCE LECTURER * A</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>THEORETICAL FOUNDATION OF COMPUTER SCIENCE LECTURER * A</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ THEORETICAL FOUNDATION OF COMPUTER SCIENCE LECTURER A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>THEORETICAL FOUNDATION OF COMPUTER SCIENCE LECTURER A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ THEORETICAL FOUNDATION OF COMPUTER SCIENCE * A LECTURER *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ THEORETICAL FOUNDATION OF COMPUTER SCIENCE * A LECTURER</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>THEORETICAL FOUNDATION OF COMPUTER SCIENCE * A LECTURER *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>THEORETICAL FOUNDATION OF COMPUTER SCIENCE * A LECTURER</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ THEORETICAL FOUNDATION OF COMPUTER SCIENCE A * LECTURER *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ THEORETICAL FOUNDATION OF COMPUTER SCIENCE A * LECTURER</pattern>
+
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>THEORETICAL FOUNDATION OF COMPUTER SCIENCE A * LECTURER *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>THEORETICAL FOUNDATION OF COMPUTER SCIENCE A * LECTURER</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A LECTURER * THEORETICAL FOUNDATION OF COMPUTER SCIENCE *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECTURER * THEORETICAL FOUNDATION OF COMPUTER SCIENCE</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECTURER * THEORETICAL FOUNDATION OF COMPUTER SCIENCE *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECTURER * THEORETICAL FOUNDATION OF COMPUTER SCIENCE</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECTURER THEORETICAL FOUNDATION OF COMPUTER SCIENCE *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECTURER THEORETICAL FOUNDATION OF COMPUTER SCIENCE</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * LECTURER THEORETICAL FOUNDATION OF COMPUTER SCIENCE *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECTURER THEORETICAL FOUNDATION OF COMPUTER SCIENCE</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A THEORETICAL FOUNDATION OF COMPUTER SCIENCE LECTURER *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A THEORETICAL FOUNDATION OF COMPUTER SCIENCE LECTURER</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * THEORETICAL FOUNDATION OF COMPUTER SCIENCE LECTURER *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * THEORETICAL FOUNDATION OF COMPUTER SCIENCE LECTURER</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * THEORETICAL FOUNDATION OF COMPUTER SCIENCE * A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * THEORETICAL FOUNDATION OF COMPUTER SCIENCE * A</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * THEORETICAL FOUNDATION OF COMPUTER SCIENCE * A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * THEORETICAL FOUNDATION OF COMPUTER SCIENCE * A</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * THEORETICAL FOUNDATION OF COMPUTER SCIENCE A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * THEORETICAL FOUNDATION OF COMPUTER SCIENCE A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT THEORETICAL FOUNDATION OF COMPUTER SCIENCE * A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT THEORETICAL FOUNDATION OF COMPUTER SCIENCE * A</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT THEORETICAL FOUNDATION OF COMPUTER SCIENCE * A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT THEORETICAL FOUNDATION OF COMPUTER SCIENCE * A</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT THEORETICAL FOUNDATION OF COMPUTER SCIENCE A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT THEORETICAL FOUNDATION OF COMPUTER SCIENCE A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT * A * THEORETICAL FOUNDATION OF COMPUTER SCIENCE *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT * A * THEORETICAL FOUNDATION OF COMPUTER SCIENCE</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * A * THEORETICAL FOUNDATION OF COMPUTER SCIENCE *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * A * THEORETICAL FOUNDATION OF COMPUTER SCIENCE</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT A * THEORETICAL FOUNDATION OF COMPUTER SCIENCE *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT A * THEORETICAL FOUNDATION OF COMPUTER SCIENCE</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT A * THEORETICAL FOUNDATION OF COMPUTER SCIENCE *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT A * THEORETICAL FOUNDATION OF COMPUTER SCIENCE</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * A THEORETICAL FOUNDATION OF COMPUTER SCIENCE *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * A THEORETICAL FOUNDATION OF COMPUTER SCIENCE</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * A THEORETICAL FOUNDATION OF COMPUTER SCIENCE *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * A THEORETICAL FOUNDATION OF COMPUTER SCIENCE</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ THEORETICAL FOUNDATION OF COMPUTER SCIENCE LECT * A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ THEORETICAL FOUNDATION OF COMPUTER SCIENCE LECT * A</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>THEORETICAL FOUNDATION OF COMPUTER SCIENCE LECT * A</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ THEORETICAL FOUNDATION OF COMPUTER SCIENCE LECT A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>THEORETICAL FOUNDATION OF COMPUTER SCIENCE LECT A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ THEORETICAL FOUNDATION OF COMPUTER SCIENCE * A LECT *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ THEORETICAL FOUNDATION OF COMPUTER SCIENCE * A LECT</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>THEORETICAL FOUNDATION OF COMPUTER SCIENCE * A LECT *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>THEORETICAL FOUNDATION OF COMPUTER SCIENCE * A LECT</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ THEORETICAL FOUNDATION OF COMPUTER SCIENCE A * LECT *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ THEORETICAL FOUNDATION OF COMPUTER SCIENCE A * LECT</pattern>
+
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>THEORETICAL FOUNDATION OF COMPUTER SCIENCE A * LECT *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>THEORETICAL FOUNDATION OF COMPUTER SCIENCE A * LECT</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A LECT * THEORETICAL FOUNDATION OF COMPUTER SCIENCE *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECT * THEORETICAL FOUNDATION OF COMPUTER SCIENCE</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECT * THEORETICAL FOUNDATION OF COMPUTER SCIENCE *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECT * THEORETICAL FOUNDATION OF COMPUTER SCIENCE</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECT THEORETICAL FOUNDATION OF COMPUTER SCIENCE *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECT THEORETICAL FOUNDATION OF COMPUTER SCIENCE</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * LECT THEORETICAL FOUNDATION OF COMPUTER SCIENCE *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECT THEORETICAL FOUNDATION OF COMPUTER SCIENCE</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A THEORETICAL FOUNDATION OF COMPUTER SCIENCE LECT *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A THEORETICAL FOUNDATION OF COMPUTER SCIENCE LECT</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * THEORETICAL FOUNDATION OF COMPUTER SCIENCE LECT *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * THEORETICAL FOUNDATION OF COMPUTER SCIENCE LECT</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * THEORETICAL FOUNDATION OF COMPUTER SCIENCE * A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * THEORETICAL FOUNDATION OF COMPUTER SCIENCE * A</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * THEORETICAL FOUNDATION OF COMPUTER SCIENCE * A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * THEORETICAL FOUNDATION OF COMPUTER SCIENCE * A</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * THEORETICAL FOUNDATION OF COMPUTER SCIENCE A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * THEORETICAL FOUNDATION OF COMPUTER SCIENCE A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER THEORETICAL FOUNDATION OF COMPUTER SCIENCE * A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER THEORETICAL FOUNDATION OF COMPUTER SCIENCE * A</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER THEORETICAL FOUNDATION OF COMPUTER SCIENCE * A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER THEORETICAL FOUNDATION OF COMPUTER SCIENCE * A</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER THEORETICAL FOUNDATION OF COMPUTER SCIENCE A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER THEORETICAL FOUNDATION OF COMPUTER SCIENCE A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER * A * THEORETICAL FOUNDATION OF COMPUTER SCIENCE *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER * A * THEORETICAL FOUNDATION OF COMPUTER SCIENCE</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * A * THEORETICAL FOUNDATION OF COMPUTER SCIENCE *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * A * THEORETICAL FOUNDATION OF COMPUTER SCIENCE</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER A * THEORETICAL FOUNDATION OF COMPUTER SCIENCE *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER A * THEORETICAL FOUNDATION OF COMPUTER SCIENCE</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER A * THEORETICAL FOUNDATION OF COMPUTER SCIENCE *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER A * THEORETICAL FOUNDATION OF COMPUTER SCIENCE</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * A THEORETICAL FOUNDATION OF COMPUTER SCIENCE *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * A THEORETICAL FOUNDATION OF COMPUTER SCIENCE</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * A THEORETICAL FOUNDATION OF COMPUTER SCIENCE *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * A THEORETICAL FOUNDATION OF COMPUTER SCIENCE</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ THEORETICAL FOUNDATION OF COMPUTER SCIENCE TEACHER * A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ THEORETICAL FOUNDATION OF COMPUTER SCIENCE TEACHER * A</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>THEORETICAL FOUNDATION OF COMPUTER SCIENCE TEACHER * A</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ THEORETICAL FOUNDATION OF COMPUTER SCIENCE TEACHER A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>THEORETICAL FOUNDATION OF COMPUTER SCIENCE TEACHER A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ THEORETICAL FOUNDATION OF COMPUTER SCIENCE * A TEACHER *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ THEORETICAL FOUNDATION OF COMPUTER SCIENCE * A TEACHER</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>THEORETICAL FOUNDATION OF COMPUTER SCIENCE * A TEACHER *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>THEORETICAL FOUNDATION OF COMPUTER SCIENCE * A TEACHER</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ THEORETICAL FOUNDATION OF COMPUTER SCIENCE A * TEACHER *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ THEORETICAL FOUNDATION OF COMPUTER SCIENCE A * TEACHER</pattern>
+
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>THEORETICAL FOUNDATION OF COMPUTER SCIENCE A * TEACHER *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>THEORETICAL FOUNDATION OF COMPUTER SCIENCE A * TEACHER</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A TEACHER * THEORETICAL FOUNDATION OF COMPUTER SCIENCE *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A TEACHER * THEORETICAL FOUNDATION OF COMPUTER SCIENCE</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * TEACHER * THEORETICAL FOUNDATION OF COMPUTER SCIENCE *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * TEACHER * THEORETICAL FOUNDATION OF COMPUTER SCIENCE</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A TEACHER THEORETICAL FOUNDATION OF COMPUTER SCIENCE *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A TEACHER THEORETICAL FOUNDATION OF COMPUTER SCIENCE</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * TEACHER THEORETICAL FOUNDATION OF COMPUTER SCIENCE *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * TEACHER THEORETICAL FOUNDATION OF COMPUTER SCIENCE</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A THEORETICAL FOUNDATION OF COMPUTER SCIENCE TEACHER *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A THEORETICAL FOUNDATION OF COMPUTER SCIENCE TEACHER</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * THEORETICAL FOUNDATION OF COMPUTER SCIENCE TEACHER *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * THEORETICAL FOUNDATION OF COMPUTER SCIENCE TEACHER</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ FACULTY * THEORETICAL FOUNDATION OF COMPUTER SCIENCE * A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * THEORETICAL FOUNDATION OF COMPUTER SCIENCE * A</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * THEORETICAL FOUNDATION OF COMPUTER SCIENCE * A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * THEORETICAL FOUNDATION OF COMPUTER SCIENCE * A</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * THEORETICAL FOUNDATION OF COMPUTER SCIENCE A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * THEORETICAL FOUNDATION OF COMPUTER SCIENCE A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY THEORETICAL FOUNDATION OF COMPUTER SCIENCE * A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY THEORETICAL FOUNDATION OF COMPUTER SCIENCE * A</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY THEORETICAL FOUNDATION OF COMPUTER SCIENCE * A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY THEORETICAL FOUNDATION OF COMPUTER SCIENCE * A</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY THEORETICAL FOUNDATION OF COMPUTER SCIENCE A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY THEORETICAL FOUNDATION OF COMPUTER SCIENCE A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY * A * THEORETICAL FOUNDATION OF COMPUTER SCIENCE *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY * A * THEORETICAL FOUNDATION OF COMPUTER SCIENCE</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * A * THEORETICAL FOUNDATION OF COMPUTER SCIENCE *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * A * THEORETICAL FOUNDATION OF COMPUTER SCIENCE</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY A * THEORETICAL FOUNDATION OF COMPUTER SCIENCE *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY A * THEORETICAL FOUNDATION OF COMPUTER SCIENCE</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY A * THEORETICAL FOUNDATION OF COMPUTER SCIENCE *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY A * THEORETICAL FOUNDATION OF COMPUTER SCIENCE</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * A THEORETICAL FOUNDATION OF COMPUTER SCIENCE *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * A THEORETICAL FOUNDATION OF COMPUTER SCIENCE</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * A THEORETICAL FOUNDATION OF COMPUTER SCIENCE *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * A THEORETICAL FOUNDATION OF COMPUTER SCIENCE</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ THEORETICAL FOUNDATION OF COMPUTER SCIENCE FACULTY * A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ THEORETICAL FOUNDATION OF COMPUTER SCIENCE FACULTY * A</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>THEORETICAL FOUNDATION OF COMPUTER SCIENCE FACULTY * A</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ THEORETICAL FOUNDATION OF COMPUTER SCIENCE FACULTY A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>THEORETICAL FOUNDATION OF COMPUTER SCIENCE FACULTY A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ THEORETICAL FOUNDATION OF COMPUTER SCIENCE * A FACULTY *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ THEORETICAL FOUNDATION OF COMPUTER SCIENCE * A FACULTY</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>THEORETICAL FOUNDATION OF COMPUTER SCIENCE * A FACULTY *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>THEORETICAL FOUNDATION OF COMPUTER SCIENCE * A FACULTY</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ THEORETICAL FOUNDATION OF COMPUTER SCIENCE A * FACULTY *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ THEORETICAL FOUNDATION OF COMPUTER SCIENCE A * FACULTY</pattern>
+
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>THEORETICAL FOUNDATION OF COMPUTER SCIENCE A * FACULTY *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>THEORETICAL FOUNDATION OF COMPUTER SCIENCE A * FACULTY</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A FACULTY * THEORETICAL FOUNDATION OF COMPUTER SCIENCE *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A FACULTY * THEORETICAL FOUNDATION OF COMPUTER SCIENCE</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * FACULTY * THEORETICAL FOUNDATION OF COMPUTER SCIENCE *</pattern>
+	<template><srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * FACULTY * THEORETICAL FOUNDATION OF COMPUTER SCIENCE</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A FACULTY THEORETICAL FOUNDATION OF COMPUTER SCIENCE *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A FACULTY THEORETICAL FOUNDATION OF COMPUTER SCIENCE</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * FACULTY THEORETICAL FOUNDATION OF COMPUTER SCIENCE *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * FACULTY THEORETICAL FOUNDATION OF COMPUTER SCIENCE</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A THEORETICAL FOUNDATION OF COMPUTER SCIENCE FACULTY *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A THEORETICAL FOUNDATION OF COMPUTER SCIENCE FACULTY</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * THEORETICAL FOUNDATION OF COMPUTER SCIENCE FACULTY *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * THEORETICAL FOUNDATION OF COMPUTER SCIENCE FACULTY</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ TEACHES THEORETICAL FOUNDATION OF COMPUTER SCIENCE * A</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES THEORETICAL FOUNDATION OF COMPUTER SCIENCE A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHES * A THEORETICAL FOUNDATION OF COMPUTER SCIENCE *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES * A THEORETICAL FOUNDATION OF COMPUTER SCIENCE</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ TEACHES A * THEORETICAL FOUNDATION OF COMPUTER SCIENCE *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES A * THEORETICAL FOUNDATION OF COMPUTER SCIENCE</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ THEORETICAL FOUNDATION OF COMPUTER SCIENCE * A * TAUGHT *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>THEORETICAL FOUNDATION OF COMPUTER SCIENCE * A * TAUGHT *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ THEORETICAL FOUNDATION OF COMPUTER SCIENCE A * TAUGHT *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>THEORETICAL FOUNDATION OF COMPUTER SCIENCE A * TAUGHT *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ THEORETICAL FOUNDATION OF COMPUTER SCIENCE * A TAUGHT *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>THEORETICAL FOUNDATION OF COMPUTER SCIENCE * A TAUGHT *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURES * THEORETICAL FOUNDATION OF COMPUTER SCIENCE * A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * THEORETICAL FOUNDATION OF COMPUTER SCIENCE * A</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * THEORETICAL FOUNDATION OF COMPUTER SCIENCE A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES THEORETICAL FOUNDATION OF COMPUTER SCIENCE * A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES THEORETICAL FOUNDATION OF COMPUTER SCIENCE * A</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES THEORETICAL FOUNDATION OF COMPUTER SCIENCE A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ PROFESSOR * TFCS * A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * TFCS * A</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * TFCS * A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * TFCS * A</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * TFCS A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * TFCS A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR TFCS * A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR TFCS * A</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR TFCS * A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR TFCS * A</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR TFCS A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR TFCS A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR * A * TFCS *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR * A * TFCS</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * A * TFCS *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * A * TFCS</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR A * TFCS *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR A * TFCS</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR A * TFCS *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR A * TFCS</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * A TFCS *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * A TFCS</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * A TFCS *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * A TFCS</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TFCS PROFESSOR * A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TFCS PROFESSOR * A</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TFCS PROFESSOR * A</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TFCS PROFESSOR A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TFCS PROFESSOR A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TFCS * A PROFESSOR *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TFCS * A PROFESSOR</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TFCS * A PROFESSOR *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TFCS * A PROFESSOR</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ TFCS A * PROFESSOR *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TFCS A * PROFESSOR</pattern>
+
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TFCS A * PROFESSOR *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TFCS A * PROFESSOR</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A PROFESSOR * TFCS *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROFESSOR * TFCS</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROFESSOR * TFCS *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROFESSOR * TFCS</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROFESSOR TFCS *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROFESSOR TFCS</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * PROFESSOR TFCS *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROFESSOR TFCS</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A TFCS PROFESSOR *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A TFCS PROFESSOR</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * TFCS PROFESSOR *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * TFCS PROFESSOR</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * TFCS * A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * TFCS * A</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * TFCS * A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * TFCS * A</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * TFCS A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * TFCS A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF TFCS * A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF TFCS * A</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF TFCS * A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF TFCS * A</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF TFCS A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF TFCS A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF * A * TFCS *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF * A * TFCS</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * A * TFCS *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * A * TFCS</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF A * TFCS *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF A * TFCS</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF A * TFCS *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF A * TFCS</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * A TFCS *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * A TFCS</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * A TFCS *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * A TFCS</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TFCS PROF * A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TFCS PROF * A</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TFCS PROF * A</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TFCS PROF A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TFCS PROF A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TFCS * A PROF *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TFCS * A PROF</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TFCS * A PROF *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TFCS * A PROF</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ TFCS A * PROF *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TFCS A * PROF</pattern>
+
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TFCS A * PROF *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TFCS A * PROF</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A PROF * TFCS *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROF * TFCS</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROF * TFCS *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROF * TFCS</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROF TFCS *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROF TFCS</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * PROF TFCS *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROF TFCS</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A TFCS PROF *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A TFCS PROF</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * TFCS PROF *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * TFCS PROF</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * TFCS * A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * TFCS * A</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * TFCS * A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * TFCS * A</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * TFCS A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * TFCS A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER TFCS * A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER TFCS * A</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER TFCS * A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER TFCS * A</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER TFCS A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER TFCS A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER * A * TFCS *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER * A * TFCS</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * A * TFCS *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * A * TFCS</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER A * TFCS *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER A * TFCS</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER A * TFCS *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER A * TFCS</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * A TFCS *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * A TFCS</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * A TFCS *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * A TFCS</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TFCS LECTURER * A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TFCS LECTURER * A</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TFCS LECTURER * A</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TFCS LECTURER A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TFCS LECTURER A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TFCS * A LECTURER *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TFCS * A LECTURER</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TFCS * A LECTURER *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TFCS * A LECTURER</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ TFCS A * LECTURER *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TFCS A * LECTURER</pattern>
+
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TFCS A * LECTURER *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TFCS A * LECTURER</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A LECTURER * TFCS *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECTURER * TFCS</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECTURER * TFCS *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECTURER * TFCS</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECTURER TFCS *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECTURER TFCS</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * LECTURER TFCS *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECTURER TFCS</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A TFCS LECTURER *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A TFCS LECTURER</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * TFCS LECTURER *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * TFCS LECTURER</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * TFCS * A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * TFCS * A</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * TFCS * A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * TFCS * A</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * TFCS A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * TFCS A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT TFCS * A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT TFCS * A</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT TFCS * A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT TFCS * A</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT TFCS A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT TFCS A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT * A * TFCS *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT * A * TFCS</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * A * TFCS *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * A * TFCS</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT A * TFCS *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT A * TFCS</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT A * TFCS *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT A * TFCS</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * A TFCS *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * A TFCS</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * A TFCS *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * A TFCS</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TFCS LECT * A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TFCS LECT * A</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TFCS LECT * A</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TFCS LECT A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TFCS LECT A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TFCS * A LECT *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TFCS * A LECT</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TFCS * A LECT *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TFCS * A LECT</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ TFCS A * LECT *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TFCS A * LECT</pattern>
+
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TFCS A * LECT *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TFCS A * LECT</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A LECT * TFCS *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECT * TFCS</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECT * TFCS *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECT * TFCS</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECT TFCS *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECT TFCS</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * LECT TFCS *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECT TFCS</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A TFCS LECT *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A TFCS LECT</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * TFCS LECT *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * TFCS LECT</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * TFCS * A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * TFCS * A</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * TFCS * A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * TFCS * A</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * TFCS A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * TFCS A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER TFCS * A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER TFCS * A</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER TFCS * A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER TFCS * A</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER TFCS A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER TFCS A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER * A * TFCS *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER * A * TFCS</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * A * TFCS *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * A * TFCS</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER A * TFCS *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER A * TFCS</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER A * TFCS *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER A * TFCS</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * A TFCS *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * A TFCS</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * A TFCS *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * A TFCS</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TFCS TEACHER * A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TFCS TEACHER * A</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TFCS TEACHER * A</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TFCS TEACHER A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TFCS TEACHER A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TFCS * A TEACHER *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TFCS * A TEACHER</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TFCS * A TEACHER *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TFCS * A TEACHER</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ TFCS A * TEACHER *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TFCS A * TEACHER</pattern>
+
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TFCS A * TEACHER *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TFCS A * TEACHER</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A TEACHER * TFCS *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A TEACHER * TFCS</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * TEACHER * TFCS *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * TEACHER * TFCS</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A TEACHER TFCS *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A TEACHER TFCS</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * TEACHER TFCS *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * TEACHER TFCS</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A TFCS TEACHER *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A TFCS TEACHER</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * TFCS TEACHER *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * TFCS TEACHER</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ FACULTY * TFCS * A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * TFCS * A</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * TFCS * A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * TFCS * A</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * TFCS A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * TFCS A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY TFCS * A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY TFCS * A</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY TFCS * A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY TFCS * A</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY TFCS A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY TFCS A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY * A * TFCS *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY * A * TFCS</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * A * TFCS *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * A * TFCS</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY A * TFCS *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY A * TFCS</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY A * TFCS *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY A * TFCS</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * A TFCS *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * A TFCS</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * A TFCS *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * A TFCS</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TFCS FACULTY * A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TFCS FACULTY * A</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TFCS FACULTY * A</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TFCS FACULTY A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TFCS FACULTY A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TFCS * A FACULTY *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TFCS * A FACULTY</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TFCS * A FACULTY *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TFCS * A FACULTY</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ TFCS A * FACULTY *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TFCS A * FACULTY</pattern>
+
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TFCS A * FACULTY *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TFCS A * FACULTY</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A FACULTY * TFCS *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A FACULTY * TFCS</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * FACULTY * TFCS *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * FACULTY * TFCS</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A FACULTY TFCS *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A FACULTY TFCS</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * FACULTY TFCS *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * FACULTY TFCS</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A TFCS FACULTY *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A TFCS FACULTY</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * TFCS FACULTY *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * TFCS FACULTY</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ TEACHES TFCS * A</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES TFCS A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHES * A TFCS *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES * A TFCS</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ TEACHES A * TFCS *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES A * TFCS</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TFCS * A * TAUGHT *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TFCS * A * TAUGHT *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TFCS A * TAUGHT *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TFCS A * TAUGHT *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TFCS * A TAUGHT *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TFCS * A TAUGHT *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * TFCS * A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * TFCS * A</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * TFCS A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES TFCS * A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES TFCS * A</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES TFCS A *</pattern>
+	<template>
+		<srai>TFCSA</srai>
+	</template>
+</category>
+
+
+
+</aiml>

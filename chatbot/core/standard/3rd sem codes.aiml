@@ -1,0 +1,1804 @@
+<aiml version="1.0.1" encoding="UTF-8">
+
+<category>
+	<pattern>DS</pattern>
+	<template>CT1203</template>
+</category>
+
+<category>
+	<pattern>_ CODE * DATA STRUCTURE *</pattern>
+	<template>
+		<srai>DS</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE * DS *</pattern>
+	<template>
+		<srai>DS</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE * DATA STRUCTURE</pattern>
+	<template>
+		<srai>DS</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE * DS</pattern>
+	<template>
+		<srai>DS</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE DATA STRUCTURE *</pattern>
+	<template>
+		<srai>DS</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE DS *</pattern>
+	<template>
+		<srai>DS</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CODE DATA STRUCTURE</pattern>
+	<template>
+		<srai>DS</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE DS</pattern>
+	<template>
+		<srai>DS</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DATA STRUCTURE * CODE *</pattern>
+	<template>
+		<srai>DS</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DS * CODE *</pattern>
+	<template>
+		<srai>DS</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DATA STRUCTURE * CODE</pattern>
+	<template>
+		<srai>DS</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DS * CODE</pattern>
+	<template>
+		<srai>DS</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>DATA STRUCTURE * CODE *</pattern>
+	<template>
+		<srai>DS</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>DS * CODE *</pattern>
+	<template>
+		<srai>DS</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>DATA STRUCTURE * CODE</pattern>
+	<template>
+		<srai>DS</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>DS * CODE</pattern>
+	<template>
+		<srai>DS</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>M</pattern>
+	<template>GE1201</template>
+</category>
+
+<category>
+	<pattern>_ CODE * ENGINEERING MATHEMATICS III *</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE * EMIII *</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE * ENGINEERING MATHEMATICS III</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE * EMIII</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE ENGINEERING MATHEMATICS III *</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE EMIII *</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CODE ENGINEERING MATHEMATICS III</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE EMIII</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ENGINEERING MATHEMATICS III * CODE *</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ EMIII * CODE *</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ENGINEERING MATHEMATICS III * CODE</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ EMIII * CODE</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ENGINEERING MATHEMATICS III * CODE *</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>EMIII * CODE *</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ENGINEERING MATHEMATICS III * CODE</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>EMIII * CODE</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CODE * ENGINEERING MATHEMATICSIII *</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE * EM III *</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE * ENGINEERING MATHEMATICSIII</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE * EM III</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE ENGINEERING MATHEMATICSIII *</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE EM III *</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CODE ENGINEERING MATHEMATICSIII</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE EM III</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ENGINEERING MATHEMATICSIII * CODE *</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ EM III * CODE *</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ENGINEERING MATHEMATICSIII * CODE</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ EM III * CODE</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ENGINEERING MATHEMATICSIII * CODE *</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>EM III * CODE *</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ENGINEERING MATHEMATICSIII * CODE</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>EM III * CODE</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CODE * ENGINEERING MATHEMATICS3 *</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE * EM3 *</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE * ENGINEERING MATHEMATICS3</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE * EM3</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE ENGINEERING MATHEMATICS3 *</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE EM3 *</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CODE ENGINEERING MATHEMATICS3</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE EM3</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ENGINEERING MATHEMATICS3 * CODE *</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ EM3 * CODE *</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ENGINEERING MATHEMATICS3 * CODE</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ EM3 * CODE</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ENGINEERING MATHEMATICS3 * CODE *</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>EM3 * CODE *</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ENGINEERING MATHEMATICS3 * CODE</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>EM3 * CODE</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CODE * ENGINEERING MATHEMATICS 3 *</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE * EM 3 *</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE * ENGINEERING MATHEMATICS 3</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE * EM 3</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE ENGINEERING MATHEMATICS 3 *</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE EM 3 *</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CODE ENGINEERING MATHEMATICS 3</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE EM 3</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ENGINEERING MATHEMATICS 3 * CODE *</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ EM 3 * CODE *</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ENGINEERING MATHEMATICS 3 * CODE</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ EM 3 * CODE</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ENGINEERING MATHEMATICS 3 * CODE *</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>EM 3 * CODE *</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ENGINEERING MATHEMATICS 3 * CODE</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>EM 3 * CODE</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CODE * MATHEMATICS III *</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE * M III *</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE * MATHEMATICS III</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE * M III</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE MATHEMATICS III *</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE M III *</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CODE MATHEMATICS III</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE M III</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ MATHEMATICS III * CODE *</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ M III * CODE *</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ MATHEMATICS III * CODE</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ M III * CODE</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>MATHEMATICS III * CODE *</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>M III * CODE *</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>MATHEMATICS III * CODE</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>M III * CODE</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CODE * MATHEMATICSIII *</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE * MIII *</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE * MATHEMATICSIII</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE * MIII</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE MATHEMATICSIII *</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE MIII *</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CODE MATHEMATICSIII</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE MIII</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ MATHEMATICSIII * CODE *</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ MIII * CODE *</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ MATHEMATICSIII * CODE</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ MIII * CODE</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>MATHEMATICSIII * CODE *</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>MIII * CODE *</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>MATHEMATICSIII * CODE</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>MIII * CODE</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CODE * MATHEMATICS 3 *</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE * M 3 *</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE * MATHEMATICS 3</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE * M 3</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE MATHEMATICS 3 *</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE M 3 *</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CODE MATHEMATICS 3</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE M 3</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ MATHEMATICS 3 * CODE *</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ M 3 * CODE *</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ MATHEMATICS 3 * CODE</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ M 3 * CODE</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>MATHEMATICS 3 * CODE *</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>M 3 * CODE *</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>MATHEMATICS 3 * CODE</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>M 3 * CODE</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CODE * MATHEMATICS3 *</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE * M3 *</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE * MATHEMATICS3</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE * M3</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE MATHEMATICS3 *</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE M3 *</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CODE MATHEMATICS3</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE M3</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ MATHEMATICS3 * CODE *</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ M3 * CODE *</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ MATHEMATICS3 * CODE</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ M3 * CODE</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>MATHEMATICS3 * CODE *</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>M3 * CODE *</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>MATHEMATICS3 * CODE</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>M3 * CODE</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CODE * MATHEMATICS3 *</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE * M3 *</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE * MATHEMATICS3</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE * M3</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE MATHEMATICS3 *</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE M3 *</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CODE MATHEMATICS3</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE M3</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ MATHEMATICS3 * CODE *</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ M3 * CODE *</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ MATHEMATICS3 * CODE</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ M3 * CODE</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>MATHEMATICS3 * CODE *</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>M3 * CODE *</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>MATHEMATICS3 * CODE</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>M3 * CODE</pattern>
+	<template>
+		<srai>M</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>LDMM</pattern>
+	<template>EE1217</template>
+</category>
+
+<category>
+	<pattern>_ CODE * LOGIC DESIGN * MICROPROCESSOR *</pattern>
+	<template>
+		<srai>LDMM</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE * LOGIC DESIGN * MICROPROCESSOR</pattern>
+	<template>
+		<srai>LDMM</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE LOGIC DESIGN * MICROPROCESSOR *</pattern>
+	<template>
+		<srai>LDMM</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE LOGIC DESIGN * MICROPROCESSOR</pattern>
+	<template>
+		<srai>LDMM</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LOGIC DESIGN * MICROPROCESSOR * CODE *</pattern>
+	<template>
+		<srai>LDMM</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LOGIC DESIGN * MICROPROCESSOR * CODE</pattern>
+	<template>
+		<srai>LDMM</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LOGIC DESIGN * MICROPROCESSOR * CODE *</pattern>
+	<template>
+		<srai>LDMM</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LOGIC DESIGN * MICROPROCESSOR * CODE</pattern>
+	<template>
+		<srai>LDMM</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CODE * LD * MICROPROCESSOR *</pattern>
+	<template>
+		<srai>LDMM</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE * LD * MICROPROCESSOR</pattern>
+	<template>
+		<srai>LDMM</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE LD * MICROPROCESSOR *</pattern>
+	<template>
+		<srai>LDMM</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE LD * MICROPROCESSOR</pattern>
+	<template>
+		<srai>LDMM</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LD * MICROPROCESSOR * CODE *</pattern>
+	<template>
+		<srai>LDMM</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LD * MICROPROCESSOR * CODE</pattern>
+	<template>
+		<srai>LDMM</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LD * MICROPROCESSOR * CODE *</pattern>
+	<template>
+		<srai>LDMM</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LD * MICROPROCESSOR * CODE</pattern>
+	<template>
+		<srai>LDMM</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CODE * LD * M *</pattern>
+	<template>
+		<srai>LDMM</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE * LD * M</pattern>
+	<template>
+		<srai>LDMM</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE LD * M *</pattern>
+	<template>
+		<srai>LDMM</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE LD * M</pattern>
+	<template>
+		<srai>LDMM</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LD * M * CODE *</pattern>
+	<template>
+		<srai>LDMM</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LD * M * CODE</pattern>
+	<template>
+		<srai>LDMM</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LD * M * CODE *</pattern>
+	<template>
+		<srai>LDMM</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LD * M * CODE</pattern>
+	<template>
+		<srai>LDMM</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CODE * LDANDM *</pattern>
+	<template>
+		<srai>LDMM</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE * LDANDM</pattern>
+	<template>
+		<srai>LDMM</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE LDANDM *</pattern>
+	<template>
+		<srai>LDMM</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE LDANDM</pattern>
+	<template>
+		<srai>LDMM</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LDANDM * CODE *</pattern>
+	<template>
+		<srai>LDMM</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LDANDM * CODE</pattern>
+	<template>
+		<srai>LDMM</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LDANDM * CODE *</pattern>
+	<template>
+		<srai>LDMM</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LDANDM * CODE</pattern>
+	<template>
+		<srai>LDMM</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CODE * LDNM *</pattern>
+	<template>
+		<srai>LDMM</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE * LDNM</pattern>
+	<template>
+		<srai>LDMM</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE LDNM *</pattern>
+	<template>
+		<srai>LDMM</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE LDNM</pattern>
+	<template>
+		<srai>LDMM</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LDNM * CODE *</pattern>
+	<template>
+		<srai>LDMM</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LDNM * CODE</pattern>
+	<template>
+		<srai>LDMM</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LDNM * CODE *</pattern>
+	<template>
+		<srai>LDMM</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LDNM * CODE</pattern>
+	<template>
+		<srai>LDMM</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CODE * LDM *</pattern>
+	<template>
+		<srai>LDMM</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE * LDM</pattern>
+	<template>
+		<srai>LDMM</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE LDM *</pattern>
+	<template>
+		<srai>LDMM</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE LDM</pattern>
+	<template>
+		<srai>LDMM</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LDM * CODE *</pattern>
+	<template>
+		<srai>LDMM</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LDM * CODE</pattern>
+	<template>
+		<srai>LDMM</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LDM * CODE *</pattern>
+	<template>
+		<srai>LDMM</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LDM * CODE</pattern>
+	<template>
+		<srai>LDMM</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CODE * LD *</pattern>
+	<template>
+		<srai>LD</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE * LD</pattern>
+	<template>
+		<srai>LD</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE LD *</pattern>
+	<template>
+		<srai>LD</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE LD</pattern>
+	<template>
+		<srai>LD</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LD * CODE *</pattern>
+	<template>
+		<srai>LD</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LD * CODE</pattern>
+	<template>
+		<srai>LD</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LD * CODE *</pattern>
+	<template>
+		<srai>LD</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LD * CODE</pattern>
+	<template>
+		<srai>LD</srai>
+	</template>
+</category>
+
+
+
+
+
+
+
+
+<category>
+	<pattern>OP</pattern>
+	<template>CT1221</template>
+</category>
+
+
+<category>
+	<pattern>_ CODE * OOP *</pattern>
+	<template>
+		<srai>OP</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE * OOP</pattern>
+	<template>
+		<srai>OP</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE OOP *</pattern>
+	<template>
+		<srai>OP</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE OOP</pattern>
+	<template>
+		<srai>OP</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OOP * CODE *</pattern>
+	<template>
+		<srai>OP</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OOP * CODE</pattern>
+	<template>
+		<srai>OP</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OOP * CODE *</pattern>
+	<template>
+		<srai>OP</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OOP * CODE</pattern>
+	<template>
+		<srai>OP</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CODE * OBJECT ORIENTED PROGRAMMING *</pattern>
+	<template>
+		<srai>OP</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE * OBJECT ORIENTED PROGRAMMING</pattern>
+	<template>
+		<srai>OP</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE OBJECT ORIENTED PROGRAMMING *</pattern>
+	<template>
+		<srai>OP</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE OBJECT ORIENTED PROGRAMMING</pattern>
+	<template>
+		<srai>OP</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OBJECT ORIENTED PROGRAMMING * CODE *</pattern>
+	<template>
+		<srai>OP</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OBJECT ORIENTED PROGRAMMING * CODE</pattern>
+	<template>
+		<srai>OP</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OBJECT ORIENTED PROGRAMMING * CODE *</pattern>
+	<template>
+		<srai>OP</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OBJECT ORIENTED PROGRAMMING * CODE</pattern>
+	<template>
+		<srai>OP</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ CODE * OO PROGRAMMING *</pattern>
+	<template>
+		<srai>OP</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE * OO PROGRAMMING</pattern>
+	<template>
+		<srai>OP</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE OO PROGRAMMING *</pattern>
+	<template>
+		<srai>OP</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE OO PROGRAMMING</pattern>
+	<template>
+		<srai>OP</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OO PROGRAMMING * CODE *</pattern>
+	<template>
+		<srai>OP</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OO PROGRAMMING * CODE</pattern>
+	<template>
+		<srai>OP</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OO PROGRAMMING * CODE *</pattern>
+	<template>
+		<srai>OP</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OO PROGRAMMING * CODE</pattern>
+	<template>
+		<srai>OP</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CODE * O O PROGRAMMING *</pattern>
+	<template>
+		<srai>OP</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE * O O PROGRAMMING</pattern>
+	<template>
+		<srai>OP</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE O O PROGRAMMING *</pattern>
+	<template>
+		<srai>OP</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE O O PROGRAMMING</pattern>
+	<template>
+		<srai>OP</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ O O PROGRAMMING * CODE *</pattern>
+	<template>
+		<srai>OP</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ O O PROGRAMMING * CODE</pattern>
+	<template>
+		<srai>OP</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>O O PROGRAMMING * CODE *</pattern>
+	<template>
+		<srai>OP</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>O O PROGRAMMING * CODE</pattern>
+	<template>
+		<srai>OP</srai>
+	</template>
+</category>
+
+
+</aiml>

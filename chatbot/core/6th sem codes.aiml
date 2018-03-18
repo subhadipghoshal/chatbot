@@ -1,0 +1,601 @@
+<aiml version="1.0.1" encoding="UTF-8">
+
+<category>
+	<pattern>DAAA</pattern>
+	<template>CT1314</template>
+</category>
+
+<category>
+	<pattern>_ CODE * DESIGN AND ANALYSIS OF ALGORITHMS *</pattern>
+	<template>
+		<srai>DAAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE * DESIGN AND ANALYSIS OF ALGORITHMS</pattern>
+	<template>
+		<srai>DAAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE DESIGN AND ANALYSIS OF ALGORITHMS *</pattern>
+	<template>
+		<srai>DAAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE DESIGN AND ANALYSIS OF ALGORITHMS</pattern>
+	<template>
+		<srai>DAAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DESIGN AND ANALYSIS OF ALGORITHMS * CODE *</pattern>
+	<template>
+		<srai>DAAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DESIGN AND ANALYSIS OF ALGORITHMS * CODE</pattern>
+	<template>
+		<srai>DAAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>DESIGN AND ANALYSIS OF ALGORITHMS * CODE *</pattern>
+	<template>
+		<srai>DAAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>DESIGN AND ANALYSIS OF ALGORITHMS * CODE</pattern>
+	<template>
+		<srai>DAAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CODE * DAA *</pattern>
+	<template>
+		<srai>DAAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE * DAA</pattern>
+	<template>
+		<srai>DAAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE DAA *</pattern>
+	<template>
+		<srai>DAAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE DAA</pattern>
+	<template>
+		<srai>DAAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DAA * CODE *</pattern>
+	<template>
+		<srai>DAAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DAA * CODE</pattern>
+	<template>
+		<srai>DAAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>DAA * CODE *</pattern>
+	<template>
+		<srai>DAAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>DAA * CODE</pattern>
+	<template>
+		<srai>DAAA</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>FOMM</pattern>
+	<template>GE1311</template>
+</category>
+
+<category>
+	<pattern>_ CODE * FUNDAMENTALS OF MANAGEMENT *</pattern>
+	<template>
+		<srai>FOMM</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE * FUNDAMENTALS OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMM</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE FUNDAMENTALS OF MANAGEMENT *</pattern>
+	<template>
+		<srai>FOMM</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE FUNDAMENTALS OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMM</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTALS OF MANAGEMENT * CODE *</pattern>
+	<template>
+		<srai>FOMM</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTALS OF MANAGEMENT * CODE</pattern>
+	<template>
+		<srai>FOMM</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTALS OF MANAGEMENT * CODE *</pattern>
+	<template>
+		<srai>FOMM</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTALS OF MANAGEMENT * CODE</pattern>
+	<template>
+		<srai>FOMM</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CODE * FOM *</pattern>
+	<template>
+		<srai>FOMM</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE * FOM</pattern>
+	<template>
+		<srai>FOMM</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE FOM *</pattern>
+	<template>
+		<srai>FOMM</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE FOM</pattern>
+	<template>
+		<srai>FOMM</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FOM * CODE *</pattern>
+	<template>
+		<srai>FOMM</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FOM * CODE</pattern>
+	<template>
+		<srai>FOMM</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FOM * CODE *</pattern>
+	<template>
+		<srai>FOMM</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FOM * CODE</pattern>
+	<template>
+		<srai>FOMM</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CODE * FUNDAMENTAL OF MANAGEMENT *</pattern>
+	<template>
+		<srai>FOMM</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE * FUNDAMENTAL OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMM</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE FUNDAMENTAL OF MANAGEMENT *</pattern>
+	<template>
+		<srai>FOMM</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE FUNDAMENTAL OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMM</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTAL OF MANAGEMENT * CODE *</pattern>
+	<template>
+		<srai>FOMM</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTAL OF MANAGEMENT * CODE</pattern>
+	<template>
+		<srai>FOMM</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTAL OF MANAGEMENT * CODE *</pattern>
+	<template>
+		<srai>FOMM</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTAL OF MANAGEMENT * CODE</pattern>
+	<template>
+		<srai>FOMM</srai>
+	</template>
+</category>
+
+
+
+
+<category>
+	<pattern>LPP</pattern>
+	<template>CT1318</template>
+</category>
+
+<category>
+	<pattern>_ CODE * LANGUAGE PROCESSORS *</pattern>
+	<template>
+		<srai>LPP</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE * LANGUAGE PROCESSORS</pattern>
+	<template>
+		<srai>LPP</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE LANGUAGE PROCESSORS *</pattern>
+	<template>
+		<srai>LPP</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE LANGUAGE PROCESSORS</pattern>
+	<template>
+		<srai>LPP</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LANGUAGE PROCESSORS * CODE *</pattern>
+	<template>
+		<srai>LPP</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LANGUAGE PROCESSORS * CODE</pattern>
+	<template>
+		<srai>LPP</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LANGUAGE PROCESSORS * CODE *</pattern>
+	<template>
+		<srai>LPP</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LANGUAGE PROCESSORS * CODE</pattern>
+	<template>
+		<srai>LPP</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CODE * LANGUAGE PROCESSOR *</pattern>
+	<template>
+		<srai>LPP</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE * LANGUAGE PROCESSOR</pattern>
+	<template>
+		<srai>LPP</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE LANGUAGE PROCESSOR *</pattern>
+	<template>
+		<srai>LPP</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE LANGUAGE PROCESSOR</pattern>
+	<template>
+		<srai>LPP</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LANGUAGE PROCESSOR * CODE *</pattern>
+	<template>
+		<srai>LPP</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LANGUAGE PROCESSOR * CODE</pattern>
+	<template>
+		<srai>LPP</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LANGUAGE PROCESSOR * CODE *</pattern>
+	<template>
+		<srai>LPP</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LANGUAGE PROCESSOR * CODE</pattern>
+	<template>
+		<srai>LPP</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CODE * LP *</pattern>
+	<template>
+		<srai>LPP</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE * LP</pattern>
+	<template>
+		<srai>LPP</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE LP *</pattern>
+	<template>
+		<srai>LPP</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE LP</pattern>
+	<template>
+		<srai>LPP</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LP * CODE *</pattern>
+	<template>
+		<srai>LPP</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LP * CODE</pattern>
+	<template>
+		<srai>LPP</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LP * CODE *</pattern>
+	<template>
+		<srai>LPP</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LP * CODE</pattern>
+	<template>
+		<srai>LPP</srai>
+	</template>
+</category>
+
+
+
+
+<category>
+	<pattern>SEE</pattern>
+	<template>CT1345</template>
+</category>
+
+<category>
+	<pattern>_ CODE * SOFTWARE ENGINEERING *</pattern>
+	<template>
+		<srai>SEE</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE * SOFTWARE ENGINEERING</pattern>
+	<template>
+		<srai>SEE</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE SOFTWARE ENGINEERING *</pattern>
+	<template>
+		<srai>SEE</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE SOFTWARE ENGINEERING</pattern>
+	<template>
+		<srai>SEE</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SOFTWARE ENGINEERING * CODE *</pattern>
+	<template>
+		<srai>SEE</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SOFTWARE ENGINEERING * CODE</pattern>
+	<template>
+		<srai>SEE</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SOFTWARE ENGINEERING * CODE *</pattern>
+	<template>
+		<srai>SEE</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SOFTWARE ENGINEERING * CODE</pattern>
+	<template>
+		<srai>SEE</srai>
+	</template>
+</category>
+
+
+
+
+<category>
+	<pattern>_ CODE * SE *</pattern>
+	<template>
+		<srai>SEE</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE * SE</pattern>
+	<template>
+		<srai>SEE</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE SE *</pattern>
+	<template>
+		<srai>SEE</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE SE</pattern>
+	<template>
+		<srai>SEE</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SE * CODE *</pattern>
+	<template>
+		<srai>SEE</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SE * CODE</pattern>
+	<template>
+		<srai>SEE</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SE * CODE *</pattern>
+	<template>
+		<srai>SEE</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SE * CODE</pattern>
+	<template>
+		<srai>SEE</srai>
+	</template>
+</category>
+
+</aiml>

@@ -1,0 +1,6858 @@
+<aiml version="1.0.1" encoding="UTF-8">
+
+<category>
+	<pattern>OSB</pattern>
+	<template>
+		<random>
+			<li>Mrs. Nilima Mahendra Jichkar teaches OPERATING SYSTEM</li>
+			<li>Mrs. Nilima Mahendra Jichkar</li>
+			<li>OPERATING SYSTEM is taught by Mrs. Nilima Mahendra Jichkar</li>
+		</random>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * OPERATING SYSTEMS * B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * OPERATING SYSTEMS * B</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * OPERATING SYSTEMS * B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * OPERATING SYSTEMS * B</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * OPERATING SYSTEMS B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * OPERATING SYSTEMS B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR OPERATING SYSTEMS * B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR OPERATING SYSTEMS * B</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR OPERATING SYSTEMS * B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR OPERATING SYSTEMS * B</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR OPERATING SYSTEMS B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR OPERATING SYSTEMS B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR * B * OPERATING SYSTEMS *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR * B * OPERATING SYSTEMS</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * B * OPERATING SYSTEMS *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * B * OPERATING SYSTEMS</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR B * OPERATING SYSTEMS *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR B * OPERATING SYSTEMS</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR B * OPERATING SYSTEMS *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR B * OPERATING SYSTEMS</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * B OPERATING SYSTEMS *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * B OPERATING SYSTEMS</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * B OPERATING SYSTEMS *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * B OPERATING SYSTEMS</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OPERATING SYSTEMS PROFESSOR * B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEMS PROFESSOR * B</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OPERATING SYSTEMS PROFESSOR * B</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEMS PROFESSOR B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OPERATING SYSTEMS PROFESSOR B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEMS * B PROFESSOR *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEMS * B PROFESSOR</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OPERATING SYSTEMS * B PROFESSOR *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OPERATING SYSTEMS * B PROFESSOR</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ OPERATING SYSTEMS B * PROFESSOR *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEMS B * PROFESSOR</pattern>
+
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OPERATING SYSTEMS B * PROFESSOR *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OPERATING SYSTEMS B * PROFESSOR</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROFESSOR * OPERATING SYSTEMS *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROFESSOR * OPERATING SYSTEMS</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR * OPERATING SYSTEMS *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR * OPERATING SYSTEMS</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROFESSOR OPERATING SYSTEMS *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROFESSOR OPERATING SYSTEMS</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * PROFESSOR OPERATING SYSTEMS *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR OPERATING SYSTEMS</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B OPERATING SYSTEMS PROFESSOR *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B OPERATING SYSTEMS PROFESSOR</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * OPERATING SYSTEMS PROFESSOR *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * OPERATING SYSTEMS PROFESSOR</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * OPERATING SYSTEMS * B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * OPERATING SYSTEMS * B</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * OPERATING SYSTEMS * B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * OPERATING SYSTEMS * B</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * OPERATING SYSTEMS B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * OPERATING SYSTEMS B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF OPERATING SYSTEMS * B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF OPERATING SYSTEMS * B</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF OPERATING SYSTEMS * B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF OPERATING SYSTEMS * B</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF OPERATING SYSTEMS B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF OPERATING SYSTEMS B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF * B * OPERATING SYSTEMS *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF * B * OPERATING SYSTEMS</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * B * OPERATING SYSTEMS *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * B * OPERATING SYSTEMS</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF B * OPERATING SYSTEMS *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF B * OPERATING SYSTEMS</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF B * OPERATING SYSTEMS *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF B * OPERATING SYSTEMS</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * B OPERATING SYSTEMS *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * B OPERATING SYSTEMS</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * B OPERATING SYSTEMS *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * B OPERATING SYSTEMS</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OPERATING SYSTEMS PROF * B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEMS PROF * B</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OPERATING SYSTEMS PROF * B</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEMS PROF B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OPERATING SYSTEMS PROF B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEMS * B PROF *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEMS * B PROF</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OPERATING SYSTEMS * B PROF *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OPERATING SYSTEMS * B PROF</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ OPERATING SYSTEMS B * PROF *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEMS B * PROF</pattern>
+
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OPERATING SYSTEMS B * PROF *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OPERATING SYSTEMS B * PROF</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROF * OPERATING SYSTEMS *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROF * OPERATING SYSTEMS</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF * OPERATING SYSTEMS *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF * OPERATING SYSTEMS</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROF OPERATING SYSTEMS *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROF OPERATING SYSTEMS</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * PROF OPERATING SYSTEMS *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF OPERATING SYSTEMS</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B OPERATING SYSTEMS PROF *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B OPERATING SYSTEMS PROF</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * OPERATING SYSTEMS PROF *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * OPERATING SYSTEMS PROF</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * OPERATING SYSTEMS * B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * OPERATING SYSTEMS * B</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * OPERATING SYSTEMS * B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * OPERATING SYSTEMS * B</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * OPERATING SYSTEMS B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * OPERATING SYSTEMS B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER OPERATING SYSTEMS * B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER OPERATING SYSTEMS * B</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER OPERATING SYSTEMS * B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER OPERATING SYSTEMS * B</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER OPERATING SYSTEMS B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER OPERATING SYSTEMS B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER * B * OPERATING SYSTEMS *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER * B * OPERATING SYSTEMS</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * B * OPERATING SYSTEMS *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * B * OPERATING SYSTEMS</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER B * OPERATING SYSTEMS *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER B * OPERATING SYSTEMS</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER B * OPERATING SYSTEMS *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER B * OPERATING SYSTEMS</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * B OPERATING SYSTEMS *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * B OPERATING SYSTEMS</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * B OPERATING SYSTEMS *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * B OPERATING SYSTEMS</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OPERATING SYSTEMS LECTURER * B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEMS LECTURER * B</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OPERATING SYSTEMS LECTURER * B</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEMS LECTURER B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OPERATING SYSTEMS LECTURER B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEMS * B LECTURER *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEMS * B LECTURER</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OPERATING SYSTEMS * B LECTURER *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OPERATING SYSTEMS * B LECTURER</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ OPERATING SYSTEMS B * LECTURER *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEMS B * LECTURER</pattern>
+
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OPERATING SYSTEMS B * LECTURER *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OPERATING SYSTEMS B * LECTURER</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LECTURER * OPERATING SYSTEMS *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECTURER * OPERATING SYSTEMS</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER * OPERATING SYSTEMS *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER * OPERATING SYSTEMS</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECTURER OPERATING SYSTEMS *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECTURER OPERATING SYSTEMS</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * LECTURER OPERATING SYSTEMS *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER OPERATING SYSTEMS</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B OPERATING SYSTEMS LECTURER *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B OPERATING SYSTEMS LECTURER</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * OPERATING SYSTEMS LECTURER *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * OPERATING SYSTEMS LECTURER</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * OPERATING SYSTEMS * B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * OPERATING SYSTEMS * B</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * OPERATING SYSTEMS * B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * OPERATING SYSTEMS * B</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * OPERATING SYSTEMS B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * OPERATING SYSTEMS B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT OPERATING SYSTEMS * B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT OPERATING SYSTEMS * B</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT OPERATING SYSTEMS * B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT OPERATING SYSTEMS * B</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT OPERATING SYSTEMS B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT OPERATING SYSTEMS B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT * B * OPERATING SYSTEMS *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT * B * OPERATING SYSTEMS</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * B * OPERATING SYSTEMS *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * B * OPERATING SYSTEMS</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT B * OPERATING SYSTEMS *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT B * OPERATING SYSTEMS</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT B * OPERATING SYSTEMS *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT B * OPERATING SYSTEMS</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * B OPERATING SYSTEMS *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * B OPERATING SYSTEMS</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * B OPERATING SYSTEMS *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * B OPERATING SYSTEMS</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OPERATING SYSTEMS LECT * B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEMS LECT * B</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OPERATING SYSTEMS LECT * B</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEMS LECT B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OPERATING SYSTEMS LECT B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEMS * B LECT *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEMS * B LECT</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OPERATING SYSTEMS * B LECT *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OPERATING SYSTEMS * B LECT</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ OPERATING SYSTEMS B * LECT *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEMS B * LECT</pattern>
+
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OPERATING SYSTEMS B * LECT *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OPERATING SYSTEMS B * LECT</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LECT * OPERATING SYSTEMS *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECT * OPERATING SYSTEMS</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT * OPERATING SYSTEMS *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT * OPERATING SYSTEMS</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECT OPERATING SYSTEMS *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECT OPERATING SYSTEMS</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * LECT OPERATING SYSTEMS *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT OPERATING SYSTEMS</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B OPERATING SYSTEMS LECT *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B OPERATING SYSTEMS LECT</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * OPERATING SYSTEMS LECT *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * OPERATING SYSTEMS LECT</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * OPERATING SYSTEMS * B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * OPERATING SYSTEMS * B</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * OPERATING SYSTEMS * B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * OPERATING SYSTEMS * B</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * OPERATING SYSTEMS B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * OPERATING SYSTEMS B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER OPERATING SYSTEMS * B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER OPERATING SYSTEMS * B</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER OPERATING SYSTEMS * B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER OPERATING SYSTEMS * B</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER OPERATING SYSTEMS B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER OPERATING SYSTEMS B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER * B * OPERATING SYSTEMS *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER * B * OPERATING SYSTEMS</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * B * OPERATING SYSTEMS *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * B * OPERATING SYSTEMS</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER B * OPERATING SYSTEMS *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER B * OPERATING SYSTEMS</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER B * OPERATING SYSTEMS *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER B * OPERATING SYSTEMS</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * B OPERATING SYSTEMS *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * B OPERATING SYSTEMS</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * B OPERATING SYSTEMS *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * B OPERATING SYSTEMS</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OPERATING SYSTEMS TEACHER * B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEMS TEACHER * B</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OPERATING SYSTEMS TEACHER * B</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEMS TEACHER B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OPERATING SYSTEMS TEACHER B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEMS * B TEACHER *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEMS * B TEACHER</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OPERATING SYSTEMS * B TEACHER *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OPERATING SYSTEMS * B TEACHER</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ OPERATING SYSTEMS B * TEACHER *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEMS B * TEACHER</pattern>
+
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OPERATING SYSTEMS B * TEACHER *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OPERATING SYSTEMS B * TEACHER</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B TEACHER * OPERATING SYSTEMS *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B TEACHER * OPERATING SYSTEMS</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER * OPERATING SYSTEMS *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER * OPERATING SYSTEMS</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B TEACHER OPERATING SYSTEMS *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B TEACHER OPERATING SYSTEMS</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * TEACHER OPERATING SYSTEMS *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER OPERATING SYSTEMS</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B OPERATING SYSTEMS TEACHER *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B OPERATING SYSTEMS TEACHER</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * OPERATING SYSTEMS TEACHER *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * OPERATING SYSTEMS TEACHER</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ FACULTY * OPERATING SYSTEMS * B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * OPERATING SYSTEMS * B</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * OPERATING SYSTEMS * B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * OPERATING SYSTEMS * B</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * OPERATING SYSTEMS B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * OPERATING SYSTEMS B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY OPERATING SYSTEMS * B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY OPERATING SYSTEMS * B</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY OPERATING SYSTEMS * B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY OPERATING SYSTEMS * B</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY OPERATING SYSTEMS B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY OPERATING SYSTEMS B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY * B * OPERATING SYSTEMS *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY * B * OPERATING SYSTEMS</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * B * OPERATING SYSTEMS *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * B * OPERATING SYSTEMS</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY B * OPERATING SYSTEMS *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY B * OPERATING SYSTEMS</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY B * OPERATING SYSTEMS *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY B * OPERATING SYSTEMS</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * B OPERATING SYSTEMS *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * B OPERATING SYSTEMS</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * B OPERATING SYSTEMS *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * B OPERATING SYSTEMS</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OPERATING SYSTEMS FACULTY * B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEMS FACULTY * B</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OPERATING SYSTEMS FACULTY * B</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEMS FACULTY B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OPERATING SYSTEMS FACULTY B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEMS * B FACULTY *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEMS * B FACULTY</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OPERATING SYSTEMS * B FACULTY *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OPERATING SYSTEMS * B FACULTY</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ OPERATING SYSTEMS B * FACULTY *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEMS B * FACULTY</pattern>
+
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OPERATING SYSTEMS B * FACULTY *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OPERATING SYSTEMS B * FACULTY</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B FACULTY * OPERATING SYSTEMS *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B FACULTY * OPERATING SYSTEMS</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY * OPERATING SYSTEMS *</pattern>
+	<template><srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY * OPERATING SYSTEMS</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B FACULTY OPERATING SYSTEMS *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B FACULTY OPERATING SYSTEMS</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * FACULTY OPERATING SYSTEMS *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY OPERATING SYSTEMS</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B OPERATING SYSTEMS FACULTY *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B OPERATING SYSTEMS FACULTY</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * OPERATING SYSTEMS FACULTY *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * OPERATING SYSTEMS FACULTY</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ TEACHES OPERATING SYSTEMS * B</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES OPERATING SYSTEMS B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHES * B OPERATING SYSTEMS *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES * B OPERATING SYSTEMS</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ TEACHES B * OPERATING SYSTEMS *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES B * OPERATING SYSTEMS</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEMS * B * TAUGHT *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OPERATING SYSTEMS * B * TAUGHT *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEMS B * TAUGHT *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OPERATING SYSTEMS B * TAUGHT *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEMS * B TAUGHT *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OPERATING SYSTEMS * B TAUGHT *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * OPERATING SYSTEMS * B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * OPERATING SYSTEMS * B</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * OPERATING SYSTEMS B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES OPERATING SYSTEMS * B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES OPERATING SYSTEMS * B</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES OPERATING SYSTEMS B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR * OPERATING SYSTEM * B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * OPERATING SYSTEM * B</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * OPERATING SYSTEM * B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * OPERATING SYSTEM * B</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * OPERATING SYSTEM B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * OPERATING SYSTEM B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR OPERATING SYSTEM * B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR OPERATING SYSTEM * B</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR OPERATING SYSTEM * B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR OPERATING SYSTEM * B</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR OPERATING SYSTEM B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR OPERATING SYSTEM B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR * B * OPERATING SYSTEM *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR * B * OPERATING SYSTEM</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * B * OPERATING SYSTEM *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * B * OPERATING SYSTEM</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR B * OPERATING SYSTEM *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR B * OPERATING SYSTEM</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR B * OPERATING SYSTEM *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR B * OPERATING SYSTEM</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * B OPERATING SYSTEM *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * B OPERATING SYSTEM</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * B OPERATING SYSTEM *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * B OPERATING SYSTEM</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OPERATING SYSTEM PROFESSOR * B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEM PROFESSOR * B</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OPERATING SYSTEM PROFESSOR * B</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEM PROFESSOR B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OPERATING SYSTEM PROFESSOR B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEM * B PROFESSOR *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEM * B PROFESSOR</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OPERATING SYSTEM * B PROFESSOR *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OPERATING SYSTEM * B PROFESSOR</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ OPERATING SYSTEM B * PROFESSOR *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEM B * PROFESSOR</pattern>
+
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OPERATING SYSTEM B * PROFESSOR *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OPERATING SYSTEM B * PROFESSOR</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROFESSOR * OPERATING SYSTEM *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROFESSOR * OPERATING SYSTEM</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR * OPERATING SYSTEM *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR * OPERATING SYSTEM</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROFESSOR OPERATING SYSTEM *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROFESSOR OPERATING SYSTEM</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * PROFESSOR OPERATING SYSTEM *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR OPERATING SYSTEM</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B OPERATING SYSTEM PROFESSOR *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B OPERATING SYSTEM PROFESSOR</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * OPERATING SYSTEM PROFESSOR *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * OPERATING SYSTEM PROFESSOR</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * OPERATING SYSTEM * B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * OPERATING SYSTEM * B</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * OPERATING SYSTEM * B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * OPERATING SYSTEM * B</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * OPERATING SYSTEM B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * OPERATING SYSTEM B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF OPERATING SYSTEM * B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF OPERATING SYSTEM * B</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF OPERATING SYSTEM * B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF OPERATING SYSTEM * B</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF OPERATING SYSTEM B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF OPERATING SYSTEM B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF * B * OPERATING SYSTEM *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF * B * OPERATING SYSTEM</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * B * OPERATING SYSTEM *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * B * OPERATING SYSTEM</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF B * OPERATING SYSTEM *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF B * OPERATING SYSTEM</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF B * OPERATING SYSTEM *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF B * OPERATING SYSTEM</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * B OPERATING SYSTEM *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * B OPERATING SYSTEM</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * B OPERATING SYSTEM *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * B OPERATING SYSTEM</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OPERATING SYSTEM PROF * B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEM PROF * B</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OPERATING SYSTEM PROF * B</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEM PROF B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OPERATING SYSTEM PROF B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEM * B PROF *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEM * B PROF</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OPERATING SYSTEM * B PROF *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OPERATING SYSTEM * B PROF</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ OPERATING SYSTEM B * PROF *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEM B * PROF</pattern>
+
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OPERATING SYSTEM B * PROF *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OPERATING SYSTEM B * PROF</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROF * OPERATING SYSTEM *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROF * OPERATING SYSTEM</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF * OPERATING SYSTEM *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF * OPERATING SYSTEM</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROF OPERATING SYSTEM *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROF OPERATING SYSTEM</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * PROF OPERATING SYSTEM *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF OPERATING SYSTEM</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B OPERATING SYSTEM PROF *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B OPERATING SYSTEM PROF</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * OPERATING SYSTEM PROF *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * OPERATING SYSTEM PROF</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * OPERATING SYSTEM * B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * OPERATING SYSTEM * B</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * OPERATING SYSTEM * B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * OPERATING SYSTEM * B</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * OPERATING SYSTEM B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * OPERATING SYSTEM B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER OPERATING SYSTEM * B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER OPERATING SYSTEM * B</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER OPERATING SYSTEM * B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER OPERATING SYSTEM * B</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER OPERATING SYSTEM B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER OPERATING SYSTEM B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER * B * OPERATING SYSTEM *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER * B * OPERATING SYSTEM</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * B * OPERATING SYSTEM *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * B * OPERATING SYSTEM</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER B * OPERATING SYSTEM *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER B * OPERATING SYSTEM</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER B * OPERATING SYSTEM *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER B * OPERATING SYSTEM</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * B OPERATING SYSTEM *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * B OPERATING SYSTEM</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * B OPERATING SYSTEM *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * B OPERATING SYSTEM</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OPERATING SYSTEM LECTURER * B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEM LECTURER * B</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OPERATING SYSTEM LECTURER * B</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEM LECTURER B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OPERATING SYSTEM LECTURER B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEM * B LECTURER *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEM * B LECTURER</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OPERATING SYSTEM * B LECTURER *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OPERATING SYSTEM * B LECTURER</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ OPERATING SYSTEM B * LECTURER *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEM B * LECTURER</pattern>
+
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OPERATING SYSTEM B * LECTURER *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OPERATING SYSTEM B * LECTURER</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LECTURER * OPERATING SYSTEM *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECTURER * OPERATING SYSTEM</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER * OPERATING SYSTEM *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER * OPERATING SYSTEM</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECTURER OPERATING SYSTEM *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECTURER OPERATING SYSTEM</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * LECTURER OPERATING SYSTEM *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER OPERATING SYSTEM</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B OPERATING SYSTEM LECTURER *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B OPERATING SYSTEM LECTURER</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * OPERATING SYSTEM LECTURER *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * OPERATING SYSTEM LECTURER</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * OPERATING SYSTEM * B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * OPERATING SYSTEM * B</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * OPERATING SYSTEM * B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * OPERATING SYSTEM * B</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * OPERATING SYSTEM B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * OPERATING SYSTEM B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT OPERATING SYSTEM * B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT OPERATING SYSTEM * B</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT OPERATING SYSTEM * B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT OPERATING SYSTEM * B</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT OPERATING SYSTEM B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT OPERATING SYSTEM B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT * B * OPERATING SYSTEM *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT * B * OPERATING SYSTEM</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * B * OPERATING SYSTEM *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * B * OPERATING SYSTEM</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT B * OPERATING SYSTEM *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT B * OPERATING SYSTEM</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT B * OPERATING SYSTEM *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT B * OPERATING SYSTEM</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * B OPERATING SYSTEM *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * B OPERATING SYSTEM</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * B OPERATING SYSTEM *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * B OPERATING SYSTEM</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OPERATING SYSTEM LECT * B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEM LECT * B</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OPERATING SYSTEM LECT * B</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEM LECT B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OPERATING SYSTEM LECT B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEM * B LECT *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEM * B LECT</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OPERATING SYSTEM * B LECT *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OPERATING SYSTEM * B LECT</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ OPERATING SYSTEM B * LECT *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEM B * LECT</pattern>
+
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OPERATING SYSTEM B * LECT *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OPERATING SYSTEM B * LECT</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LECT * OPERATING SYSTEM *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECT * OPERATING SYSTEM</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT * OPERATING SYSTEM *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT * OPERATING SYSTEM</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECT OPERATING SYSTEM *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECT OPERATING SYSTEM</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * LECT OPERATING SYSTEM *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT OPERATING SYSTEM</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B OPERATING SYSTEM LECT *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B OPERATING SYSTEM LECT</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * OPERATING SYSTEM LECT *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * OPERATING SYSTEM LECT</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * OPERATING SYSTEM * B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * OPERATING SYSTEM * B</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * OPERATING SYSTEM * B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * OPERATING SYSTEM * B</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * OPERATING SYSTEM B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * OPERATING SYSTEM B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER OPERATING SYSTEM * B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER OPERATING SYSTEM * B</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER OPERATING SYSTEM * B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER OPERATING SYSTEM * B</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER OPERATING SYSTEM B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER OPERATING SYSTEM B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER * B * OPERATING SYSTEM *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER * B * OPERATING SYSTEM</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * B * OPERATING SYSTEM *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * B * OPERATING SYSTEM</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER B * OPERATING SYSTEM *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER B * OPERATING SYSTEM</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER B * OPERATING SYSTEM *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER B * OPERATING SYSTEM</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * B OPERATING SYSTEM *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * B OPERATING SYSTEM</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * B OPERATING SYSTEM *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * B OPERATING SYSTEM</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OPERATING SYSTEM TEACHER * B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEM TEACHER * B</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OPERATING SYSTEM TEACHER * B</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEM TEACHER B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OPERATING SYSTEM TEACHER B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEM * B TEACHER *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEM * B TEACHER</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OPERATING SYSTEM * B TEACHER *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OPERATING SYSTEM * B TEACHER</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ OPERATING SYSTEM B * TEACHER *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEM B * TEACHER</pattern>
+
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OPERATING SYSTEM B * TEACHER *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OPERATING SYSTEM B * TEACHER</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B TEACHER * OPERATING SYSTEM *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B TEACHER * OPERATING SYSTEM</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER * OPERATING SYSTEM *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER * OPERATING SYSTEM</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B TEACHER OPERATING SYSTEM *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B TEACHER OPERATING SYSTEM</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * TEACHER OPERATING SYSTEM *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER OPERATING SYSTEM</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B OPERATING SYSTEM TEACHER *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B OPERATING SYSTEM TEACHER</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * OPERATING SYSTEM TEACHER *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * OPERATING SYSTEM TEACHER</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ FACULTY * OPERATING SYSTEM * B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * OPERATING SYSTEM * B</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * OPERATING SYSTEM * B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * OPERATING SYSTEM * B</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * OPERATING SYSTEM B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * OPERATING SYSTEM B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY OPERATING SYSTEM * B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY OPERATING SYSTEM * B</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY OPERATING SYSTEM * B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY OPERATING SYSTEM * B</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY OPERATING SYSTEM B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY OPERATING SYSTEM B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY * B * OPERATING SYSTEM *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY * B * OPERATING SYSTEM</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * B * OPERATING SYSTEM *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * B * OPERATING SYSTEM</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY B * OPERATING SYSTEM *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY B * OPERATING SYSTEM</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY B * OPERATING SYSTEM *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY B * OPERATING SYSTEM</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * B OPERATING SYSTEM *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * B OPERATING SYSTEM</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * B OPERATING SYSTEM *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * B OPERATING SYSTEM</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OPERATING SYSTEM FACULTY * B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEM FACULTY * B</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OPERATING SYSTEM FACULTY * B</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEM FACULTY B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OPERATING SYSTEM FACULTY B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEM * B FACULTY *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEM * B FACULTY</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OPERATING SYSTEM * B FACULTY *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OPERATING SYSTEM * B FACULTY</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ OPERATING SYSTEM B * FACULTY *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEM B * FACULTY</pattern>
+
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OPERATING SYSTEM B * FACULTY *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OPERATING SYSTEM B * FACULTY</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B FACULTY * OPERATING SYSTEM *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B FACULTY * OPERATING SYSTEM</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY * OPERATING SYSTEM *</pattern>
+	<template><srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY * OPERATING SYSTEM</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B FACULTY OPERATING SYSTEM *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B FACULTY OPERATING SYSTEM</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * FACULTY OPERATING SYSTEM *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY OPERATING SYSTEM</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B OPERATING SYSTEM FACULTY *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B OPERATING SYSTEM FACULTY</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * OPERATING SYSTEM FACULTY *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * OPERATING SYSTEM FACULTY</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ TEACHES OPERATING SYSTEM * B</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES OPERATING SYSTEM B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHES * B OPERATING SYSTEM *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES * B OPERATING SYSTEM</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ TEACHES B * OPERATING SYSTEM *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES B * OPERATING SYSTEM</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEM * B * TAUGHT *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OPERATING SYSTEM * B * TAUGHT *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEM B * TAUGHT *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OPERATING SYSTEM B * TAUGHT *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEM * B TAUGHT *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OPERATING SYSTEM * B TAUGHT *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * OPERATING SYSTEM * B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * OPERATING SYSTEM * B</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * OPERATING SYSTEM B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES OPERATING SYSTEM * B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES OPERATING SYSTEM * B</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES OPERATING SYSTEM B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * OS * B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * OS * B</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * OS * B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * OS * B</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * OS B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * OS B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR OS * B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR OS * B</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR OS * B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR OS * B</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR OS B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR OS B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR * B * OS *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR * B * OS</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * B * OS *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * B * OS</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR B * OS *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR B * OS</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR B * OS *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR B * OS</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * B OS *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * B OS</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * B OS *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * B OS</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OS PROFESSOR * B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OS PROFESSOR * B</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OS PROFESSOR * B</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OS PROFESSOR B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OS PROFESSOR B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OS * B PROFESSOR *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OS * B PROFESSOR</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OS * B PROFESSOR *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OS * B PROFESSOR</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ OS B * PROFESSOR *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OS B * PROFESSOR</pattern>
+
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OS B * PROFESSOR *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OS B * PROFESSOR</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROFESSOR * OS *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROFESSOR * OS</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR * OS *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR * OS</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROFESSOR OS *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROFESSOR OS</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * PROFESSOR OS *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR OS</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B OS PROFESSOR *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B OS PROFESSOR</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * OS PROFESSOR *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * OS PROFESSOR</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * OS * B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * OS * B</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * OS * B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * OS * B</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * OS B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * OS B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF OS * B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF OS * B</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF OS * B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF OS * B</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF OS B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF OS B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF * B * OS *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF * B * OS</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * B * OS *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * B * OS</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF B * OS *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF B * OS</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF B * OS *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF B * OS</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * B OS *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * B OS</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * B OS *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * B OS</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OS PROF * B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OS PROF * B</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OS PROF * B</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OS PROF B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OS PROF B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OS * B PROF *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OS * B PROF</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OS * B PROF *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OS * B PROF</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ OS B * PROF *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OS B * PROF</pattern>
+
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OS B * PROF *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OS B * PROF</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROF * OS *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROF * OS</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF * OS *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF * OS</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROF OS *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROF OS</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * PROF OS *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF OS</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B OS PROF *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B OS PROF</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * OS PROF *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * OS PROF</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * OS * B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * OS * B</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * OS * B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * OS * B</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * OS B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * OS B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER OS * B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER OS * B</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER OS * B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER OS * B</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER OS B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER OS B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER * B * OS *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER * B * OS</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * B * OS *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * B * OS</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER B * OS *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER B * OS</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER B * OS *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER B * OS</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * B OS *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * B OS</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * B OS *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * B OS</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OS LECTURER * B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OS LECTURER * B</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OS LECTURER * B</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OS LECTURER B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OS LECTURER B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OS * B LECTURER *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OS * B LECTURER</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OS * B LECTURER *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OS * B LECTURER</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ OS B * LECTURER *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OS B * LECTURER</pattern>
+
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OS B * LECTURER *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OS B * LECTURER</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LECTURER * OS *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECTURER * OS</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER * OS *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER * OS</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECTURER OS *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECTURER OS</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * LECTURER OS *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER OS</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B OS LECTURER *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B OS LECTURER</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * OS LECTURER *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * OS LECTURER</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * OS * B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * OS * B</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * OS * B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * OS * B</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * OS B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * OS B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT OS * B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT OS * B</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT OS * B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT OS * B</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT OS B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT OS B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT * B * OS *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT * B * OS</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * B * OS *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * B * OS</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT B * OS *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT B * OS</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT B * OS *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT B * OS</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * B OS *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * B OS</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * B OS *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * B OS</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OS LECT * B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OS LECT * B</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OS LECT * B</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OS LECT B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OS LECT B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OS * B LECT *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OS * B LECT</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OS * B LECT *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OS * B LECT</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ OS B * LECT *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OS B * LECT</pattern>
+
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OS B * LECT *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OS B * LECT</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LECT * OS *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECT * OS</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT * OS *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT * OS</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECT OS *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECT OS</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * LECT OS *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT OS</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B OS LECT *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B OS LECT</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * OS LECT *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * OS LECT</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * OS * B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * OS * B</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * OS * B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * OS * B</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * OS B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * OS B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER OS * B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER OS * B</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER OS * B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER OS * B</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER OS B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER OS B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER * B * OS *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER * B * OS</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * B * OS *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * B * OS</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER B * OS *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER B * OS</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER B * OS *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER B * OS</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * B OS *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * B OS</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * B OS *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * B OS</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OS TEACHER * B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OS TEACHER * B</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OS TEACHER * B</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OS TEACHER B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OS TEACHER B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OS * B TEACHER *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OS * B TEACHER</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OS * B TEACHER *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OS * B TEACHER</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ OS B * TEACHER *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OS B * TEACHER</pattern>
+
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OS B * TEACHER *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OS B * TEACHER</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B TEACHER * OS *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B TEACHER * OS</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER * OS *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER * OS</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B TEACHER OS *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B TEACHER OS</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * TEACHER OS *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER OS</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B OS TEACHER *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B OS TEACHER</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * OS TEACHER *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * OS TEACHER</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ FACULTY * OS * B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * OS * B</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * OS * B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * OS * B</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * OS B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * OS B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY OS * B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY OS * B</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY OS * B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY OS * B</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY OS B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY OS B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY * B * OS *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY * B * OS</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * B * OS *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * B * OS</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY B * OS *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY B * OS</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY B * OS *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY B * OS</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * B OS *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * B OS</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * B OS *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * B OS</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OS FACULTY * B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OS FACULTY * B</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OS FACULTY * B</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OS FACULTY B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OS FACULTY B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OS * B FACULTY *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OS * B FACULTY</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OS * B FACULTY *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OS * B FACULTY</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ OS B * FACULTY *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OS B * FACULTY</pattern>
+
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OS B * FACULTY *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OS B * FACULTY</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B FACULTY * OS *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B FACULTY * OS</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY * OS *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY * OS</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B FACULTY OS *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B FACULTY OS</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * FACULTY OS *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY OS</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B OS FACULTY *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B OS FACULTY</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * OS FACULTY *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * OS FACULTY</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ TEACHES OS * B</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES OS B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHES * B OS *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES * B OS</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ TEACHES B * OS *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES B * OS</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OS * B * TAUGHT *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OS * B * TAUGHT *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OS B * TAUGHT *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OS B * TAUGHT *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OS * B TAUGHT *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OS * B TAUGHT *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * OS * B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * OS * B</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * OS B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES OS * B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES OS * B</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES OS B *</pattern>
+	<template>
+		<srai>OSB</srai>
+	</template>
+</category>
+
+
+</aiml>

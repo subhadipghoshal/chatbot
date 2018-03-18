@@ -1,0 +1,6861 @@
+<aiml version="1.0.1" encoding="UTF-8">
+
+<category>
+	<pattern>FOMB</pattern>
+	<template>
+		<random>
+			<li>Mrs. Dr. Arvinder Kour Pritam Singh Mehta teaches FUNDAMENTAL OF MANAGEMENT</li>
+			<li>Mrs. Dr. Arvinder Kour Pritam Singh Mehta</li>
+			<li>FUNDAMENTAL OF MANAGEMENT is taught by Mrs. Dr. Arvinder Kour Pritam Singh Mehta</li>
+		</random>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * FUNDAMENTALS OF MANAGEMENT * B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * FUNDAMENTALS OF MANAGEMENT * B</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * FUNDAMENTALS OF MANAGEMENT * B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * FUNDAMENTALS OF MANAGEMENT * B</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * FUNDAMENTALS OF MANAGEMENT B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * FUNDAMENTALS OF MANAGEMENT B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR FUNDAMENTALS OF MANAGEMENT * B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR FUNDAMENTALS OF MANAGEMENT * B</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR FUNDAMENTALS OF MANAGEMENT * B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR FUNDAMENTALS OF MANAGEMENT * B</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR FUNDAMENTALS OF MANAGEMENT B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR FUNDAMENTALS OF MANAGEMENT B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR * B * FUNDAMENTALS OF MANAGEMENT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR * B * FUNDAMENTALS OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * B * FUNDAMENTALS OF MANAGEMENT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * B * FUNDAMENTALS OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR B * FUNDAMENTALS OF MANAGEMENT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR B * FUNDAMENTALS OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR B * FUNDAMENTALS OF MANAGEMENT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR B * FUNDAMENTALS OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * B FUNDAMENTALS OF MANAGEMENT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * B FUNDAMENTALS OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * B FUNDAMENTALS OF MANAGEMENT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * B FUNDAMENTALS OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FUNDAMENTALS OF MANAGEMENT PROFESSOR * B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTALS OF MANAGEMENT PROFESSOR * B</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FUNDAMENTALS OF MANAGEMENT PROFESSOR * B</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTALS OF MANAGEMENT PROFESSOR B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FUNDAMENTALS OF MANAGEMENT PROFESSOR B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTALS OF MANAGEMENT * B PROFESSOR *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTALS OF MANAGEMENT * B PROFESSOR</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTALS OF MANAGEMENT * B PROFESSOR *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTALS OF MANAGEMENT * B PROFESSOR</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ FUNDAMENTALS OF MANAGEMENT B * PROFESSOR *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTALS OF MANAGEMENT B * PROFESSOR</pattern>
+
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTALS OF MANAGEMENT B * PROFESSOR *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTALS OF MANAGEMENT B * PROFESSOR</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROFESSOR * FUNDAMENTALS OF MANAGEMENT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROFESSOR * FUNDAMENTALS OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR * FUNDAMENTALS OF MANAGEMENT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR * FUNDAMENTALS OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROFESSOR FUNDAMENTALS OF MANAGEMENT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROFESSOR FUNDAMENTALS OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * PROFESSOR FUNDAMENTALS OF MANAGEMENT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR FUNDAMENTALS OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B FUNDAMENTALS OF MANAGEMENT PROFESSOR *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B FUNDAMENTALS OF MANAGEMENT PROFESSOR</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * FUNDAMENTALS OF MANAGEMENT PROFESSOR *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FUNDAMENTALS OF MANAGEMENT PROFESSOR</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * FUNDAMENTALS OF MANAGEMENT * B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * FUNDAMENTALS OF MANAGEMENT * B</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * FUNDAMENTALS OF MANAGEMENT * B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * FUNDAMENTALS OF MANAGEMENT * B</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * FUNDAMENTALS OF MANAGEMENT B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * FUNDAMENTALS OF MANAGEMENT B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF FUNDAMENTALS OF MANAGEMENT * B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF FUNDAMENTALS OF MANAGEMENT * B</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF FUNDAMENTALS OF MANAGEMENT * B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF FUNDAMENTALS OF MANAGEMENT * B</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF FUNDAMENTALS OF MANAGEMENT B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF FUNDAMENTALS OF MANAGEMENT B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF * B * FUNDAMENTALS OF MANAGEMENT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF * B * FUNDAMENTALS OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * B * FUNDAMENTALS OF MANAGEMENT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * B * FUNDAMENTALS OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF B * FUNDAMENTALS OF MANAGEMENT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF B * FUNDAMENTALS OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF B * FUNDAMENTALS OF MANAGEMENT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF B * FUNDAMENTALS OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * B FUNDAMENTALS OF MANAGEMENT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * B FUNDAMENTALS OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * B FUNDAMENTALS OF MANAGEMENT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * B FUNDAMENTALS OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FUNDAMENTALS OF MANAGEMENT PROF * B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTALS OF MANAGEMENT PROF * B</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FUNDAMENTALS OF MANAGEMENT PROF * B</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTALS OF MANAGEMENT PROF B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FUNDAMENTALS OF MANAGEMENT PROF B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTALS OF MANAGEMENT * B PROF *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTALS OF MANAGEMENT * B PROF</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTALS OF MANAGEMENT * B PROF *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTALS OF MANAGEMENT * B PROF</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ FUNDAMENTALS OF MANAGEMENT B * PROF *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTALS OF MANAGEMENT B * PROF</pattern>
+
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTALS OF MANAGEMENT B * PROF *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTALS OF MANAGEMENT B * PROF</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROF * FUNDAMENTALS OF MANAGEMENT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROF * FUNDAMENTALS OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF * FUNDAMENTALS OF MANAGEMENT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF * FUNDAMENTALS OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROF FUNDAMENTALS OF MANAGEMENT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROF FUNDAMENTALS OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * PROF FUNDAMENTALS OF MANAGEMENT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF FUNDAMENTALS OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B FUNDAMENTALS OF MANAGEMENT PROF *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B FUNDAMENTALS OF MANAGEMENT PROF</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * FUNDAMENTALS OF MANAGEMENT PROF *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * FUNDAMENTALS OF MANAGEMENT PROF</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * FUNDAMENTALS OF MANAGEMENT * B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * FUNDAMENTALS OF MANAGEMENT * B</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * FUNDAMENTALS OF MANAGEMENT * B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * FUNDAMENTALS OF MANAGEMENT * B</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * FUNDAMENTALS OF MANAGEMENT B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * FUNDAMENTALS OF MANAGEMENT B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER FUNDAMENTALS OF MANAGEMENT * B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER FUNDAMENTALS OF MANAGEMENT * B</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER FUNDAMENTALS OF MANAGEMENT * B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER FUNDAMENTALS OF MANAGEMENT * B</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER FUNDAMENTALS OF MANAGEMENT B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER FUNDAMENTALS OF MANAGEMENT B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER * B * FUNDAMENTALS OF MANAGEMENT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER * B * FUNDAMENTALS OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * B * FUNDAMENTALS OF MANAGEMENT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * B * FUNDAMENTALS OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER B * FUNDAMENTALS OF MANAGEMENT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER B * FUNDAMENTALS OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER B * FUNDAMENTALS OF MANAGEMENT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER B * FUNDAMENTALS OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * B FUNDAMENTALS OF MANAGEMENT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * B FUNDAMENTALS OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * B FUNDAMENTALS OF MANAGEMENT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * B FUNDAMENTALS OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FUNDAMENTALS OF MANAGEMENT LECTURER * B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTALS OF MANAGEMENT LECTURER * B</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FUNDAMENTALS OF MANAGEMENT LECTURER * B</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTALS OF MANAGEMENT LECTURER B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FUNDAMENTALS OF MANAGEMENT LECTURER B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTALS OF MANAGEMENT * B LECTURER *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTALS OF MANAGEMENT * B LECTURER</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTALS OF MANAGEMENT * B LECTURER *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTALS OF MANAGEMENT * B LECTURER</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ FUNDAMENTALS OF MANAGEMENT B * LECTURER *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTALS OF MANAGEMENT B * LECTURER</pattern>
+
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTALS OF MANAGEMENT B * LECTURER *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTALS OF MANAGEMENT B * LECTURER</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LECTURER * FUNDAMENTALS OF MANAGEMENT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECTURER * FUNDAMENTALS OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER * FUNDAMENTALS OF MANAGEMENT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER * FUNDAMENTALS OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECTURER FUNDAMENTALS OF MANAGEMENT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECTURER FUNDAMENTALS OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * LECTURER FUNDAMENTALS OF MANAGEMENT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER FUNDAMENTALS OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B FUNDAMENTALS OF MANAGEMENT LECTURER *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B FUNDAMENTALS OF MANAGEMENT LECTURER</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * FUNDAMENTALS OF MANAGEMENT LECTURER *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FUNDAMENTALS OF MANAGEMENT LECTURER</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * FUNDAMENTALS OF MANAGEMENT * B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * FUNDAMENTALS OF MANAGEMENT * B</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * FUNDAMENTALS OF MANAGEMENT * B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * FUNDAMENTALS OF MANAGEMENT * B</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * FUNDAMENTALS OF MANAGEMENT B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * FUNDAMENTALS OF MANAGEMENT B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT FUNDAMENTALS OF MANAGEMENT * B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT FUNDAMENTALS OF MANAGEMENT * B</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT FUNDAMENTALS OF MANAGEMENT * B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT FUNDAMENTALS OF MANAGEMENT * B</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT FUNDAMENTALS OF MANAGEMENT B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT FUNDAMENTALS OF MANAGEMENT B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT * B * FUNDAMENTALS OF MANAGEMENT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT * B * FUNDAMENTALS OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * B * FUNDAMENTALS OF MANAGEMENT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * B * FUNDAMENTALS OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT B * FUNDAMENTALS OF MANAGEMENT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT B * FUNDAMENTALS OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT B * FUNDAMENTALS OF MANAGEMENT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT B * FUNDAMENTALS OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * B FUNDAMENTALS OF MANAGEMENT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * B FUNDAMENTALS OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * B FUNDAMENTALS OF MANAGEMENT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * B FUNDAMENTALS OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FUNDAMENTALS OF MANAGEMENT LECT * B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTALS OF MANAGEMENT LECT * B</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FUNDAMENTALS OF MANAGEMENT LECT * B</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTALS OF MANAGEMENT LECT B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FUNDAMENTALS OF MANAGEMENT LECT B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTALS OF MANAGEMENT * B LECT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTALS OF MANAGEMENT * B LECT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTALS OF MANAGEMENT * B LECT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTALS OF MANAGEMENT * B LECT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ FUNDAMENTALS OF MANAGEMENT B * LECT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTALS OF MANAGEMENT B * LECT</pattern>
+
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTALS OF MANAGEMENT B * LECT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTALS OF MANAGEMENT B * LECT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LECT * FUNDAMENTALS OF MANAGEMENT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECT * FUNDAMENTALS OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT * FUNDAMENTALS OF MANAGEMENT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT * FUNDAMENTALS OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECT FUNDAMENTALS OF MANAGEMENT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECT FUNDAMENTALS OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * LECT FUNDAMENTALS OF MANAGEMENT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT FUNDAMENTALS OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B FUNDAMENTALS OF MANAGEMENT LECT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B FUNDAMENTALS OF MANAGEMENT LECT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * FUNDAMENTALS OF MANAGEMENT LECT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FUNDAMENTALS OF MANAGEMENT LECT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * FUNDAMENTALS OF MANAGEMENT * B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * FUNDAMENTALS OF MANAGEMENT * B</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * FUNDAMENTALS OF MANAGEMENT * B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * FUNDAMENTALS OF MANAGEMENT * B</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * FUNDAMENTALS OF MANAGEMENT B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * FUNDAMENTALS OF MANAGEMENT B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER FUNDAMENTALS OF MANAGEMENT * B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER FUNDAMENTALS OF MANAGEMENT * B</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER FUNDAMENTALS OF MANAGEMENT * B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER FUNDAMENTALS OF MANAGEMENT * B</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER FUNDAMENTALS OF MANAGEMENT B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER FUNDAMENTALS OF MANAGEMENT B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER * B * FUNDAMENTALS OF MANAGEMENT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER * B * FUNDAMENTALS OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * B * FUNDAMENTALS OF MANAGEMENT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * B * FUNDAMENTALS OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER B * FUNDAMENTALS OF MANAGEMENT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER B * FUNDAMENTALS OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER B * FUNDAMENTALS OF MANAGEMENT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER B * FUNDAMENTALS OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * B FUNDAMENTALS OF MANAGEMENT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * B FUNDAMENTALS OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * B FUNDAMENTALS OF MANAGEMENT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * B FUNDAMENTALS OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FUNDAMENTALS OF MANAGEMENT TEACHER * B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTALS OF MANAGEMENT TEACHER * B</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FUNDAMENTALS OF MANAGEMENT TEACHER * B</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTALS OF MANAGEMENT TEACHER B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FUNDAMENTALS OF MANAGEMENT TEACHER B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTALS OF MANAGEMENT * B TEACHER *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTALS OF MANAGEMENT * B TEACHER</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTALS OF MANAGEMENT * B TEACHER *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTALS OF MANAGEMENT * B TEACHER</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ FUNDAMENTALS OF MANAGEMENT B * TEACHER *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTALS OF MANAGEMENT B * TEACHER</pattern>
+
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTALS OF MANAGEMENT B * TEACHER *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTALS OF MANAGEMENT B * TEACHER</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B TEACHER * FUNDAMENTALS OF MANAGEMENT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B TEACHER * FUNDAMENTALS OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER * FUNDAMENTALS OF MANAGEMENT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER * FUNDAMENTALS OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B TEACHER FUNDAMENTALS OF MANAGEMENT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B TEACHER FUNDAMENTALS OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * TEACHER FUNDAMENTALS OF MANAGEMENT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER FUNDAMENTALS OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B FUNDAMENTALS OF MANAGEMENT TEACHER *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B FUNDAMENTALS OF MANAGEMENT TEACHER</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * FUNDAMENTALS OF MANAGEMENT TEACHER *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FUNDAMENTALS OF MANAGEMENT TEACHER</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ FACULTY * FUNDAMENTALS OF MANAGEMENT * B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * FUNDAMENTALS OF MANAGEMENT * B</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * FUNDAMENTALS OF MANAGEMENT * B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * FUNDAMENTALS OF MANAGEMENT * B</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * FUNDAMENTALS OF MANAGEMENT B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * FUNDAMENTALS OF MANAGEMENT B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY FUNDAMENTALS OF MANAGEMENT * B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY FUNDAMENTALS OF MANAGEMENT * B</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY FUNDAMENTALS OF MANAGEMENT * B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY FUNDAMENTALS OF MANAGEMENT * B</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY FUNDAMENTALS OF MANAGEMENT B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY FUNDAMENTALS OF MANAGEMENT B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY * B * FUNDAMENTALS OF MANAGEMENT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY * B * FUNDAMENTALS OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * B * FUNDAMENTALS OF MANAGEMENT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * B * FUNDAMENTALS OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY B * FUNDAMENTALS OF MANAGEMENT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY B * FUNDAMENTALS OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY B * FUNDAMENTALS OF MANAGEMENT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY B * FUNDAMENTALS OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * B FUNDAMENTALS OF MANAGEMENT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * B FUNDAMENTALS OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * B FUNDAMENTALS OF MANAGEMENT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * B FUNDAMENTALS OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FUNDAMENTALS OF MANAGEMENT FACULTY * B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTALS OF MANAGEMENT FACULTY * B</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FUNDAMENTALS OF MANAGEMENT FACULTY * B</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTALS OF MANAGEMENT FACULTY B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FUNDAMENTALS OF MANAGEMENT FACULTY B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTALS OF MANAGEMENT * B FACULTY *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTALS OF MANAGEMENT * B FACULTY</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTALS OF MANAGEMENT * B FACULTY *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTALS OF MANAGEMENT * B FACULTY</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ FUNDAMENTALS OF MANAGEMENT B * FACULTY *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTALS OF MANAGEMENT B * FACULTY</pattern>
+
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTALS OF MANAGEMENT B * FACULTY *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTALS OF MANAGEMENT B * FACULTY</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B FACULTY * FUNDAMENTALS OF MANAGEMENT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B FACULTY * FUNDAMENTALS OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY * FUNDAMENTALS OF MANAGEMENT *</pattern>
+	<template><srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY * FUNDAMENTALS OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B FACULTY FUNDAMENTALS OF MANAGEMENT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B FACULTY FUNDAMENTALS OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * FACULTY FUNDAMENTALS OF MANAGEMENT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY FUNDAMENTALS OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B FUNDAMENTALS OF MANAGEMENT FACULTY *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B FUNDAMENTALS OF MANAGEMENT FACULTY</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * FUNDAMENTALS OF MANAGEMENT FACULTY *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FUNDAMENTALS OF MANAGEMENT FACULTY</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ TEACHES FUNDAMENTALS OF MANAGEMENT * B</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES FUNDAMENTALS OF MANAGEMENT B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHES * B FUNDAMENTALS OF MANAGEMENT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES * B FUNDAMENTALS OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ TEACHES B * FUNDAMENTALS OF MANAGEMENT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES B * FUNDAMENTALS OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTALS OF MANAGEMENT * B * TAUGHT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTALS OF MANAGEMENT * B * TAUGHT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTALS OF MANAGEMENT B * TAUGHT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTALS OF MANAGEMENT B * TAUGHT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTALS OF MANAGEMENT * B TAUGHT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FUNDAMENTALS OF MANAGEMENT * B TAUGHT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * FUNDAMENTALS OF MANAGEMENT * B *</pattern>
+	<template>
+		<srai>FOMA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * FUNDAMENTALS OF MANAGEMENT * B</pattern>
+	<template>
+		<srai>FOMA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * FUNDAMENTALS OF MANAGEMENT B *</pattern>
+	<template>
+		<srai>FOMA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES FUNDAMENTALS OF MANAGEMENT * B *</pattern>
+	<template>
+		<srai>FOMA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES FUNDAMENTALS OF MANAGEMENT * B</pattern>
+	<template>
+		<srai>FOMA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES FUNDAMENTALS OF MANAGEMENT B *</pattern>
+	<template>
+		<srai>FOMA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR * FUNDAMENTAL OF MANAGEMENT * B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * FUNDAMENTAL OF MANAGEMENT * B</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * FUNDAMENTAL OF MANAGEMENT * B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * FUNDAMENTAL OF MANAGEMENT * B</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * FUNDAMENTAL OF MANAGEMENT B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * FUNDAMENTAL OF MANAGEMENT B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR FUNDAMENTAL OF MANAGEMENT * B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR FUNDAMENTAL OF MANAGEMENT * B</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR FUNDAMENTAL OF MANAGEMENT * B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR FUNDAMENTAL OF MANAGEMENT * B</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR FUNDAMENTAL OF MANAGEMENT B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR FUNDAMENTAL OF MANAGEMENT B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR * B * FUNDAMENTAL OF MANAGEMENT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR * B * FUNDAMENTAL OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * B * FUNDAMENTAL OF MANAGEMENT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * B * FUNDAMENTAL OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR B * FUNDAMENTAL OF MANAGEMENT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR B * FUNDAMENTAL OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR B * FUNDAMENTAL OF MANAGEMENT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR B * FUNDAMENTAL OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * B FUNDAMENTAL OF MANAGEMENT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * B FUNDAMENTAL OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * B FUNDAMENTAL OF MANAGEMENT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * B FUNDAMENTAL OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FUNDAMENTAL OF MANAGEMENT PROFESSOR * B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTAL OF MANAGEMENT PROFESSOR * B</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FUNDAMENTAL OF MANAGEMENT PROFESSOR * B</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTAL OF MANAGEMENT PROFESSOR B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FUNDAMENTAL OF MANAGEMENT PROFESSOR B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTAL OF MANAGEMENT * B PROFESSOR *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTAL OF MANAGEMENT * B PROFESSOR</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTAL OF MANAGEMENT * B PROFESSOR *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTAL OF MANAGEMENT * B PROFESSOR</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ FUNDAMENTAL OF MANAGEMENT B * PROFESSOR *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTAL OF MANAGEMENT B * PROFESSOR</pattern>
+
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTAL OF MANAGEMENT B * PROFESSOR *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTAL OF MANAGEMENT B * PROFESSOR</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROFESSOR * FUNDAMENTAL OF MANAGEMENT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROFESSOR * FUNDAMENTAL OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR * FUNDAMENTAL OF MANAGEMENT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR * FUNDAMENTAL OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROFESSOR FUNDAMENTAL OF MANAGEMENT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROFESSOR FUNDAMENTAL OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * PROFESSOR FUNDAMENTAL OF MANAGEMENT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR FUNDAMENTAL OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B FUNDAMENTAL OF MANAGEMENT PROFESSOR *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B FUNDAMENTAL OF MANAGEMENT PROFESSOR</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * FUNDAMENTAL OF MANAGEMENT PROFESSOR *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FUNDAMENTAL OF MANAGEMENT PROFESSOR</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * FUNDAMENTAL OF MANAGEMENT * B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * FUNDAMENTAL OF MANAGEMENT * B</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * FUNDAMENTAL OF MANAGEMENT * B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * FUNDAMENTAL OF MANAGEMENT * B</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * FUNDAMENTAL OF MANAGEMENT B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * FUNDAMENTAL OF MANAGEMENT B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF FUNDAMENTAL OF MANAGEMENT * B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF FUNDAMENTAL OF MANAGEMENT * B</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF FUNDAMENTAL OF MANAGEMENT * B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF FUNDAMENTAL OF MANAGEMENT * B</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF FUNDAMENTAL OF MANAGEMENT B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF FUNDAMENTAL OF MANAGEMENT B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF * B * FUNDAMENTAL OF MANAGEMENT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF * B * FUNDAMENTAL OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * B * FUNDAMENTAL OF MANAGEMENT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * B * FUNDAMENTAL OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF B * FUNDAMENTAL OF MANAGEMENT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF B * FUNDAMENTAL OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF B * FUNDAMENTAL OF MANAGEMENT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF B * FUNDAMENTAL OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * B FUNDAMENTAL OF MANAGEMENT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * B FUNDAMENTAL OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * B FUNDAMENTAL OF MANAGEMENT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * B FUNDAMENTAL OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FUNDAMENTAL OF MANAGEMENT PROF * B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTAL OF MANAGEMENT PROF * B</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FUNDAMENTAL OF MANAGEMENT PROF * B</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTAL OF MANAGEMENT PROF B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FUNDAMENTAL OF MANAGEMENT PROF B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTAL OF MANAGEMENT * B PROF *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTAL OF MANAGEMENT * B PROF</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTAL OF MANAGEMENT * B PROF *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTAL OF MANAGEMENT * B PROF</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ FUNDAMENTAL OF MANAGEMENT B * PROF *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTAL OF MANAGEMENT B * PROF</pattern>
+
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTAL OF MANAGEMENT B * PROF *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTAL OF MANAGEMENT B * PROF</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROF * FUNDAMENTAL OF MANAGEMENT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROF * FUNDAMENTAL OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF * FUNDAMENTAL OF MANAGEMENT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF * FUNDAMENTAL OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROF FUNDAMENTAL OF MANAGEMENT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROF FUNDAMENTAL OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * PROF FUNDAMENTAL OF MANAGEMENT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF FUNDAMENTAL OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B FUNDAMENTAL OF MANAGEMENT PROF *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B FUNDAMENTAL OF MANAGEMENT PROF</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * FUNDAMENTAL OF MANAGEMENT PROF *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * FUNDAMENTAL OF MANAGEMENT PROF</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * FUNDAMENTAL OF MANAGEMENT * B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * FUNDAMENTAL OF MANAGEMENT * B</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * FUNDAMENTAL OF MANAGEMENT * B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * FUNDAMENTAL OF MANAGEMENT * B</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * FUNDAMENTAL OF MANAGEMENT B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * FUNDAMENTAL OF MANAGEMENT B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER FUNDAMENTAL OF MANAGEMENT * B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER FUNDAMENTAL OF MANAGEMENT * B</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER FUNDAMENTAL OF MANAGEMENT * B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER FUNDAMENTAL OF MANAGEMENT * B</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER FUNDAMENTAL OF MANAGEMENT B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER FUNDAMENTAL OF MANAGEMENT B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER * B * FUNDAMENTAL OF MANAGEMENT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER * B * FUNDAMENTAL OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * B * FUNDAMENTAL OF MANAGEMENT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * B * FUNDAMENTAL OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER B * FUNDAMENTAL OF MANAGEMENT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER B * FUNDAMENTAL OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER B * FUNDAMENTAL OF MANAGEMENT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER B * FUNDAMENTAL OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * B FUNDAMENTAL OF MANAGEMENT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * B FUNDAMENTAL OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * B FUNDAMENTAL OF MANAGEMENT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * B FUNDAMENTAL OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FUNDAMENTAL OF MANAGEMENT LECTURER * B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTAL OF MANAGEMENT LECTURER * B</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FUNDAMENTAL OF MANAGEMENT LECTURER * B</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTAL OF MANAGEMENT LECTURER B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FUNDAMENTAL OF MANAGEMENT LECTURER B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTAL OF MANAGEMENT * B LECTURER *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTAL OF MANAGEMENT * B LECTURER</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTAL OF MANAGEMENT * B LECTURER *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTAL OF MANAGEMENT * B LECTURER</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ FUNDAMENTAL OF MANAGEMENT B * LECTURER *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTAL OF MANAGEMENT B * LECTURER</pattern>
+
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTAL OF MANAGEMENT B * LECTURER *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTAL OF MANAGEMENT B * LECTURER</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LECTURER * FUNDAMENTAL OF MANAGEMENT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECTURER * FUNDAMENTAL OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER * FUNDAMENTAL OF MANAGEMENT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER * FUNDAMENTAL OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECTURER FUNDAMENTAL OF MANAGEMENT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECTURER FUNDAMENTAL OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * LECTURER FUNDAMENTAL OF MANAGEMENT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER FUNDAMENTAL OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B FUNDAMENTAL OF MANAGEMENT LECTURER *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B FUNDAMENTAL OF MANAGEMENT LECTURER</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * FUNDAMENTAL OF MANAGEMENT LECTURER *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FUNDAMENTAL OF MANAGEMENT LECTURER</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * FUNDAMENTAL OF MANAGEMENT * B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * FUNDAMENTAL OF MANAGEMENT * B</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * FUNDAMENTAL OF MANAGEMENT * B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * FUNDAMENTAL OF MANAGEMENT * B</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * FUNDAMENTAL OF MANAGEMENT B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * FUNDAMENTAL OF MANAGEMENT B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT FUNDAMENTAL OF MANAGEMENT * B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT FUNDAMENTAL OF MANAGEMENT * B</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT FUNDAMENTAL OF MANAGEMENT * B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT FUNDAMENTAL OF MANAGEMENT * B</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT FUNDAMENTAL OF MANAGEMENT B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT FUNDAMENTAL OF MANAGEMENT B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT * B * FUNDAMENTAL OF MANAGEMENT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT * B * FUNDAMENTAL OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * B * FUNDAMENTAL OF MANAGEMENT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * B * FUNDAMENTAL OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT B * FUNDAMENTAL OF MANAGEMENT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT B * FUNDAMENTAL OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT B * FUNDAMENTAL OF MANAGEMENT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT B * FUNDAMENTAL OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * B FUNDAMENTAL OF MANAGEMENT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * B FUNDAMENTAL OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * B FUNDAMENTAL OF MANAGEMENT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * B FUNDAMENTAL OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FUNDAMENTAL OF MANAGEMENT LECT * B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTAL OF MANAGEMENT LECT * B</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FUNDAMENTAL OF MANAGEMENT LECT * B</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTAL OF MANAGEMENT LECT B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FUNDAMENTAL OF MANAGEMENT LECT B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTAL OF MANAGEMENT * B LECT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTAL OF MANAGEMENT * B LECT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTAL OF MANAGEMENT * B LECT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTAL OF MANAGEMENT * B LECT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ FUNDAMENTAL OF MANAGEMENT B * LECT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTAL OF MANAGEMENT B * LECT</pattern>
+
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTAL OF MANAGEMENT B * LECT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTAL OF MANAGEMENT B * LECT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LECT * FUNDAMENTAL OF MANAGEMENT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECT * FUNDAMENTAL OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT * FUNDAMENTAL OF MANAGEMENT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT * FUNDAMENTAL OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECT FUNDAMENTAL OF MANAGEMENT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECT FUNDAMENTAL OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * LECT FUNDAMENTAL OF MANAGEMENT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT FUNDAMENTAL OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B FUNDAMENTAL OF MANAGEMENT LECT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B FUNDAMENTAL OF MANAGEMENT LECT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * FUNDAMENTAL OF MANAGEMENT LECT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FUNDAMENTAL OF MANAGEMENT LECT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * FUNDAMENTAL OF MANAGEMENT * B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * FUNDAMENTAL OF MANAGEMENT * B</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * FUNDAMENTAL OF MANAGEMENT * B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * FUNDAMENTAL OF MANAGEMENT * B</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * FUNDAMENTAL OF MANAGEMENT B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * FUNDAMENTAL OF MANAGEMENT B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER FUNDAMENTAL OF MANAGEMENT * B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER FUNDAMENTAL OF MANAGEMENT * B</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER FUNDAMENTAL OF MANAGEMENT * B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER FUNDAMENTAL OF MANAGEMENT * B</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER FUNDAMENTAL OF MANAGEMENT B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER FUNDAMENTAL OF MANAGEMENT B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER * B * FUNDAMENTAL OF MANAGEMENT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER * B * FUNDAMENTAL OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * B * FUNDAMENTAL OF MANAGEMENT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * B * FUNDAMENTAL OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER B * FUNDAMENTAL OF MANAGEMENT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER B * FUNDAMENTAL OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER B * FUNDAMENTAL OF MANAGEMENT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER B * FUNDAMENTAL OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * B FUNDAMENTAL OF MANAGEMENT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * B FUNDAMENTAL OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * B FUNDAMENTAL OF MANAGEMENT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * B FUNDAMENTAL OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FUNDAMENTAL OF MANAGEMENT TEACHER * B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTAL OF MANAGEMENT TEACHER * B</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FUNDAMENTAL OF MANAGEMENT TEACHER * B</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTAL OF MANAGEMENT TEACHER B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FUNDAMENTAL OF MANAGEMENT TEACHER B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTAL OF MANAGEMENT * B TEACHER *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTAL OF MANAGEMENT * B TEACHER</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTAL OF MANAGEMENT * B TEACHER *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTAL OF MANAGEMENT * B TEACHER</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ FUNDAMENTAL OF MANAGEMENT B * TEACHER *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTAL OF MANAGEMENT B * TEACHER</pattern>
+
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTAL OF MANAGEMENT B * TEACHER *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTAL OF MANAGEMENT B * TEACHER</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B TEACHER * FUNDAMENTAL OF MANAGEMENT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B TEACHER * FUNDAMENTAL OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER * FUNDAMENTAL OF MANAGEMENT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER * FUNDAMENTAL OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B TEACHER FUNDAMENTAL OF MANAGEMENT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B TEACHER FUNDAMENTAL OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * TEACHER FUNDAMENTAL OF MANAGEMENT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER FUNDAMENTAL OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B FUNDAMENTAL OF MANAGEMENT TEACHER *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B FUNDAMENTAL OF MANAGEMENT TEACHER</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * FUNDAMENTAL OF MANAGEMENT TEACHER *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FUNDAMENTAL OF MANAGEMENT TEACHER</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ FACULTY * FUNDAMENTAL OF MANAGEMENT * B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * FUNDAMENTAL OF MANAGEMENT * B</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * FUNDAMENTAL OF MANAGEMENT * B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * FUNDAMENTAL OF MANAGEMENT * B</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * FUNDAMENTAL OF MANAGEMENT B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * FUNDAMENTAL OF MANAGEMENT B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY FUNDAMENTAL OF MANAGEMENT * B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY FUNDAMENTAL OF MANAGEMENT * B</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY FUNDAMENTAL OF MANAGEMENT * B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY FUNDAMENTAL OF MANAGEMENT * B</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY FUNDAMENTAL OF MANAGEMENT B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY FUNDAMENTAL OF MANAGEMENT B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY * B * FUNDAMENTAL OF MANAGEMENT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY * B * FUNDAMENTAL OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * B * FUNDAMENTAL OF MANAGEMENT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * B * FUNDAMENTAL OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY B * FUNDAMENTAL OF MANAGEMENT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY B * FUNDAMENTAL OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY B * FUNDAMENTAL OF MANAGEMENT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY B * FUNDAMENTAL OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * B FUNDAMENTAL OF MANAGEMENT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * B FUNDAMENTAL OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * B FUNDAMENTAL OF MANAGEMENT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * B FUNDAMENTAL OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FUNDAMENTAL OF MANAGEMENT FACULTY * B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTAL OF MANAGEMENT FACULTY * B</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FUNDAMENTAL OF MANAGEMENT FACULTY * B</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTAL OF MANAGEMENT FACULTY B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FUNDAMENTAL OF MANAGEMENT FACULTY B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTAL OF MANAGEMENT * B FACULTY *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTAL OF MANAGEMENT * B FACULTY</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTAL OF MANAGEMENT * B FACULTY *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTAL OF MANAGEMENT * B FACULTY</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ FUNDAMENTAL OF MANAGEMENT B * FACULTY *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTAL OF MANAGEMENT B * FACULTY</pattern>
+
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTAL OF MANAGEMENT B * FACULTY *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTAL OF MANAGEMENT B * FACULTY</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B FACULTY * FUNDAMENTAL OF MANAGEMENT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B FACULTY * FUNDAMENTAL OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY * FUNDAMENTAL OF MANAGEMENT *</pattern>
+	<template><srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY * FUNDAMENTAL OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B FACULTY FUNDAMENTAL OF MANAGEMENT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B FACULTY FUNDAMENTAL OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * FACULTY FUNDAMENTAL OF MANAGEMENT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY FUNDAMENTAL OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B FUNDAMENTAL OF MANAGEMENT FACULTY *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B FUNDAMENTAL OF MANAGEMENT FACULTY</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * FUNDAMENTAL OF MANAGEMENT FACULTY *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FUNDAMENTAL OF MANAGEMENT FACULTY</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ TEACHES FUNDAMENTAL OF MANAGEMENT * B</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES FUNDAMENTAL OF MANAGEMENT B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHES * B FUNDAMENTAL OF MANAGEMENT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES * B FUNDAMENTAL OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ TEACHES B * FUNDAMENTAL OF MANAGEMENT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES B * FUNDAMENTAL OF MANAGEMENT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTAL OF MANAGEMENT * B * TAUGHT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTAL OF MANAGEMENT * B * TAUGHT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTAL OF MANAGEMENT B * TAUGHT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTAL OF MANAGEMENT B * TAUGHT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTAL OF MANAGEMENT * B TAUGHT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FUNDAMENTAL OF MANAGEMENT * B TAUGHT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURES * FUNDAMENTAL OF MANAGEMENT * B *</pattern>
+	<template>
+		<srai>FOMA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * FUNDAMENTAL OF MANAGEMENT * B</pattern>
+	<template>
+		<srai>FOMA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * FUNDAMENTAL OF MANAGEMENT B *</pattern>
+	<template>
+		<srai>FOMA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES FUNDAMENTAL OF MANAGEMENT * B *</pattern>
+	<template>
+		<srai>FOMA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES FUNDAMENTAL OF MANAGEMENT * B</pattern>
+	<template>
+		<srai>FOMA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES FUNDAMENTAL OF MANAGEMENT B *</pattern>
+	<template>
+		<srai>FOMA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * FOM * B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * FOM * B</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * FOM * B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * FOM * B</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * FOM B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * FOM B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR FOM * B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR FOM * B</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR FOM * B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR FOM * B</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR FOM B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR FOM B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR * B * FOM *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR * B * FOM</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * B * FOM *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * B * FOM</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR B * FOM *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR B * FOM</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR B * FOM *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR B * FOM</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * B FOM *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * B FOM</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * B FOM *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * B FOM</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FOM PROFESSOR * B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FOM PROFESSOR * B</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FOM PROFESSOR * B</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FOM PROFESSOR B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FOM PROFESSOR B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FOM * B PROFESSOR *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FOM * B PROFESSOR</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FOM * B PROFESSOR *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FOM * B PROFESSOR</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ FOM B * PROFESSOR *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FOM B * PROFESSOR</pattern>
+
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FOM B * PROFESSOR *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FOM B * PROFESSOR</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROFESSOR * FOM *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROFESSOR * FOM</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR * FOM *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR * FOM</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROFESSOR FOM *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROFESSOR FOM</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * PROFESSOR FOM *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR FOM</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B FOM PROFESSOR *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B FOM PROFESSOR</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * FOM PROFESSOR *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FOM PROFESSOR</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * FOM * B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * FOM * B</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * FOM * B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * FOM * B</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * FOM B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * FOM B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF FOM * B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF FOM * B</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF FOM * B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF FOM * B</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF FOM B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF FOM B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF * B * FOM *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF * B * FOM</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * B * FOM *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * B * FOM</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF B * FOM *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF B * FOM</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF B * FOM *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF B * FOM</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * B FOM *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * B FOM</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * B FOM *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * B FOM</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FOM PROF * B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FOM PROF * B</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FOM PROF * B</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FOM PROF B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FOM PROF B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FOM * B PROF *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FOM * B PROF</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FOM * B PROF *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FOM * B PROF</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ FOM B * PROF *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FOM B * PROF</pattern>
+
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FOM B * PROF *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FOM B * PROF</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROF * FOM *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROF * FOM</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF * FOM *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF * FOM</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROF FOM *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROF FOM</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * PROF FOM *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF FOM</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B FOM PROF *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B FOM PROF</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * FOM PROF *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * FOM PROF</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * FOM * B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * FOM * B</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * FOM * B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * FOM * B</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * FOM B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * FOM B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER FOM * B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER FOM * B</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER FOM * B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER FOM * B</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER FOM B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER FOM B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER * B * FOM *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER * B * FOM</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * B * FOM *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * B * FOM</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER B * FOM *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER B * FOM</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER B * FOM *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER B * FOM</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * B FOM *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * B FOM</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * B FOM *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * B FOM</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FOM LECTURER * B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FOM LECTURER * B</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FOM LECTURER * B</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FOM LECTURER B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FOM LECTURER B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FOM * B LECTURER *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FOM * B LECTURER</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FOM * B LECTURER *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FOM * B LECTURER</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ FOM B * LECTURER *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FOM B * LECTURER</pattern>
+
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FOM B * LECTURER *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FOM B * LECTURER</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LECTURER * FOM *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECTURER * FOM</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER * FOM *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER * FOM</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECTURER FOM *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECTURER FOM</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * LECTURER FOM *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER FOM</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B FOM LECTURER *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B FOM LECTURER</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * FOM LECTURER *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FOM LECTURER</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * FOM * B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * FOM * B</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * FOM * B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * FOM * B</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * FOM B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * FOM B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT FOM * B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT FOM * B</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT FOM * B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT FOM * B</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT FOM B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT FOM B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT * B * FOM *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT * B * FOM</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * B * FOM *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * B * FOM</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT B * FOM *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT B * FOM</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT B * FOM *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT B * FOM</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * B FOM *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * B FOM</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * B FOM *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * B FOM</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FOM LECT * B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FOM LECT * B</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FOM LECT * B</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FOM LECT B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FOM LECT B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FOM * B LECT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FOM * B LECT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FOM * B LECT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FOM * B LECT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ FOM B * LECT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FOM B * LECT</pattern>
+
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FOM B * LECT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FOM B * LECT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LECT * FOM *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECT * FOM</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT * FOM *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT * FOM</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECT FOM *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECT FOM</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * LECT FOM *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT FOM</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B FOM LECT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B FOM LECT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * FOM LECT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FOM LECT</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * FOM * B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * FOM * B</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * FOM * B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * FOM * B</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * FOM B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * FOM B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER FOM * B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER FOM * B</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER FOM * B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER FOM * B</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER FOM B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER FOM B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER * B * FOM *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER * B * FOM</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * B * FOM *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * B * FOM</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER B * FOM *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER B * FOM</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER B * FOM *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER B * FOM</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * B FOM *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * B FOM</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * B FOM *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * B FOM</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FOM TEACHER * B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FOM TEACHER * B</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FOM TEACHER * B</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FOM TEACHER B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FOM TEACHER B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FOM * B TEACHER *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FOM * B TEACHER</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FOM * B TEACHER *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FOM * B TEACHER</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ FOM B * TEACHER *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FOM B * TEACHER</pattern>
+
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FOM B * TEACHER *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FOM B * TEACHER</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B TEACHER * FOM *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B TEACHER * FOM</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER * FOM *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER * FOM</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B TEACHER FOM *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B TEACHER FOM</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * TEACHER FOM *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER FOM</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B FOM TEACHER *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B FOM TEACHER</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * FOM TEACHER *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FOM TEACHER</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ FACULTY * FOM * B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * FOM * B</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * FOM * B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * FOM * B</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * FOM B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * FOM B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY FOM * B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY FOM * B</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY FOM * B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY FOM * B</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY FOM B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY FOM B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY * B * FOM *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY * B * FOM</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * B * FOM *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * B * FOM</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY B * FOM *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY B * FOM</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY B * FOM *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY B * FOM</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * B FOM *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * B FOM</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * B FOM *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * B FOM</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FOM FACULTY * B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FOM FACULTY * B</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FOM FACULTY * B</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FOM FACULTY B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FOM FACULTY B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FOM * B FACULTY *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FOM * B FACULTY</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FOM * B FACULTY *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FOM * B FACULTY</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ FOM B * FACULTY *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FOM B * FACULTY</pattern>
+
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FOM B * FACULTY *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FOM B * FACULTY</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B FACULTY * FOM *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B FACULTY * FOM</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY * FOM *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY * FOM</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B FACULTY FOM *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B FACULTY FOM</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * FACULTY FOM *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY FOM</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B FOM FACULTY *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B FOM FACULTY</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * FOM FACULTY *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FOM FACULTY</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ TEACHES FOM * B</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES FOM B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHES * B FOM *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES * B FOM</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ TEACHES B * FOM *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES B * FOM</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FOM * B * TAUGHT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FOM * B * TAUGHT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FOM B * TAUGHT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FOM B * TAUGHT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FOM * B TAUGHT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FOM * B TAUGHT *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURES * FOM * B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * FOM * B</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * FOM B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES FOM * B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES FOM * B</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES FOM B *</pattern>
+	<template>
+		<srai>FOMB</srai>
+	</template>
+</category>
+
+
+
+</aiml>

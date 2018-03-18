@@ -1,0 +1,7549 @@
+<aiml version="1.0.1" encoding="UTF-8">
+
+<category>
+	<pattern>DA</pattern>
+	<template>
+		<random>
+			<li>Mr. Shivkumar Jaywantrao Karale teaches DESIGN and ANALYSIS OF ALGORITHM</li>
+			<li>Mr. Shivkumar Jaywantrao Karale</li>
+			<li>DESIGN and ANALYSIS OF ALGORITHM is taught by Mr. Shivkumar Jaywantrao Karale</li>
+		</random>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ PROFESSOR * DESIGN * ANALYSIS OF ALGORITHMS * A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR * DESIGN * ANALYSIS OF ALGORITHM * A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * DAA * A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ PROFESSOR * DESIGN * ANALYSIS OF ALGORITHMS * A</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR * DESIGN * ANALYSIS OF ALGORITHM * A</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * DAA * A</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR * DESIGN * ANALYSIS OF ALGORITHMS * A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR * DESIGN * ANALYSIS OF ALGORITHM * A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR * DAA * A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR * DESIGN * ANALYSIS OF ALGORITHMS * A</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR * DESIGN * ANALYSIS OF ALGORITHM * A</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR * DAA * A</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * DESIGN * ANALYSIS OF ALGORITHMS A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR * DESIGN * ANALYSIS OF ALGORITHM A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * DAA A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR * DESIGN * ANALYSIS OF ALGORITHMS A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * DESIGN * ANALYSIS OF ALGORITHM A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR * DAA A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR DESIGN * ANALYSIS OF ALGORITHMS * A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR DESIGN * ANALYSIS OF ALGORITHM * A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR DAA * A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR DESIGN * ANALYSIS OF ALGORITHMS * A</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ PROFESSOR DESIGN * ANALYSIS OF ALGORITHM * A</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR DAA * A</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR DESIGN * ANALYSIS OF ALGORITHMS * A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR DESIGN * ANALYSIS OF ALGORITHM * A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR DAA * A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR DESIGN * ANALYSIS OF ALGORITHMS * A</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR DESIGN * ANALYSIS OF ALGORITHM * A</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR DAA * A</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR DESIGN * ANALYSIS OF ALGORITHMS A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR DESIGN * ANALYSIS OF ALGORITHM A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR DAA A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR DESIGN * ANALYSIS OF ALGORITHMS A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR DESIGN * ANALYSIS OF ALGORITHM A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR DAA A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * A * DESIGN * ANALYSIS OF ALGORITHMS *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR * A * DESIGN * ANALYSIS OF ALGORITHM *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * A * DAA *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * A * DESIGN * ANALYSIS OF ALGORITHMS</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * A * DESIGN * ANALYSIS OF ALGORITHM</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * A * DAA</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR * A * DESIGN * ANALYSIS OF ALGORITHMS *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR * A * DESIGN * ANALYSIS OF ALGORITHM *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR * A * DAA *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR * A * DESIGN * ANALYSIS OF ALGORITHMS</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * A * DESIGN * ANALYSIS OF ALGORITHM</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR * A * DAA</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR A * DESIGN * ANALYSIS OF ALGORITHMS *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR A * DESIGN * ANALYSIS OF ALGORITHM *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR A * DAA *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR A * DESIGN * ANALYSIS OF ALGORITHMS</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR A * DESIGN * ANALYSIS OF ALGORITHM</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR A * DAA</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR A * DESIGN * ANALYSIS OF ALGORITHMS *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR A * DESIGN * ANALYSIS OF ALGORITHM *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR A * DAA *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR A * DESIGN * ANALYSIS OF ALGORITHMS</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR A * DESIGN * ANALYSIS OF ALGORITHM</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR A * DAA</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * A DESIGN * ANALYSIS OF ALGORITHMS *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR * A DESIGN * ANALYSIS OF ALGORITHM *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR * A DAA *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * A DESIGN * ANALYSIS OF ALGORITHMS</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR * A DESIGN * ANALYSIS OF ALGORITHM</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * A DAA</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR * A DESIGN * ANALYSIS OF ALGORITHMS *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * A DESIGN * ANALYSIS OF ALGORITHM *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR * A DAA *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR * A DESIGN * ANALYSIS OF ALGORITHMS</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * A DESIGN * ANALYSIS OF ALGORITHM</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR * A DAA</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DESIGN * ANALYSIS OF ALGORITHMS PROFESSOR * A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DESIGN * ANALYSIS OF ALGORITHM PROFESSOR * A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DAA PROFESSOR * A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DESIGN * ANALYSIS OF ALGORITHMS PROFESSOR * A</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DESIGN * ANALYSIS OF ALGORITHM PROFESSOR * A</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DAA PROFESSOR * A</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DESIGN * ANALYSIS OF ALGORITHMS PROFESSOR * A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>DESIGN * ANALYSIS OF ALGORITHM PROFESSOR * A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DAA PROFESSOR * A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DESIGN * ANALYSIS OF ALGORITHMS PROFESSOR * A</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>DESIGN * ANALYSIS OF ALGORITHM PROFESSOR * A</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DAA PROFESSOR * A</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DESIGN * ANALYSIS OF ALGORITHMS PROFESSOR A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DESIGN * ANALYSIS OF ALGORITHM PROFESSOR A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DAA PROFESSOR A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DESIGN * ANALYSIS OF ALGORITHMS PROFESSOR A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>DESIGN * ANALYSIS OF ALGORITHM PROFESSOR A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DAA PROFESSOR A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+
+
+<category>
+	<pattern>_ DESIGN * ANALYSIS OF ALGORITHMS * A PROFESSOR *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DESIGN * ANALYSIS OF ALGORITHM * A PROFESSOR *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DAA * A PROFESSOR *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DESIGN * ANALYSIS OF ALGORITHMS * A PROFESSOR</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DESIGN * ANALYSIS OF ALGORITHM * A PROFESSOR</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DAA * A PROFESSOR</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DESIGN * ANALYSIS OF ALGORITHMS * A PROFESSOR *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DESIGN * ANALYSIS OF ALGORITHM * A PROFESSOR *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DAA * A PROFESSOR *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DESIGN * ANALYSIS OF ALGORITHMS * A PROFESSOR</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DESIGN * ANALYSIS OF ALGORITHM * A PROFESSOR</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DAA * A PROFESSOR</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DESIGN * ANALYSIS OF ALGORITHMS A * PROFESSOR *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DESIGN * ANALYSIS OF ALGORITHM A * PROFESSOR *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DAA A * PROFESSOR *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DESIGN * ANALYSIS OF ALGORITHMS A * PROFESSOR</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DESIGN * ANALYSIS OF ALGORITHM A * PROFESSOR</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DAA A * PROFESSOR</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DESIGN * ANALYSIS OF ALGORITHMS A * PROFESSOR *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DESIGN * ANALYSIS OF ALGORITHM A * PROFESSOR *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DAA A * PROFESSOR *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DESIGN * ANALYSIS OF ALGORITHMS A * PROFESSOR</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DESIGN * ANALYSIS OF ALGORITHM A * PROFESSOR</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DAA A * PROFESSOR</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A PROFESSOR * DESIGN * ANALYSIS OF ALGORITHMS *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A PROFESSOR * DESIGN * ANALYSIS OF ALGORITHM *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A PROFESSOR * DAA *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A PROFESSOR * DESIGN * ANALYSIS OF ALGORITHMS</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROFESSOR * DESIGN * ANALYSIS OF ALGORITHM</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A PROFESSOR * DAA</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROFESSOR * DESIGN * ANALYSIS OF ALGORITHMS *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * PROFESSOR * DESIGN * ANALYSIS OF ALGORITHM *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROFESSOR * DAA *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROFESSOR * DESIGN * ANALYSIS OF ALGORITHMS</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * PROFESSOR * DESIGN * ANALYSIS OF ALGORITHM</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROFESSOR * DAA</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A PROFESSOR DESIGN * ANALYSIS OF ALGORITHMS *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROFESSOR DESIGN * ANALYSIS OF ALGORITHM *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A PROFESSOR DAA *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A PROFESSOR DESIGN * ANALYSIS OF ALGORITHMS</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A PROFESSOR DESIGN * ANALYSIS OF ALGORITHM</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A PROFESSOR DAA</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROFESSOR DESIGN * ANALYSIS OF ALGORITHMS *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * PROFESSOR DESIGN * ANALYSIS OF ALGORITHM *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROFESSOR DAA *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROFESSOR DESIGN * ANALYSIS OF ALGORITHMS</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * PROFESSOR DESIGN * ANALYSIS OF ALGORITHM</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROFESSOR DAA</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A DESIGN * ANALYSIS OF ALGORITHMS PROFESSOR *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A DESIGN * ANALYSIS OF ALGORITHM PROFESSOR *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A DAA PROFESSOR *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A DESIGN * ANALYSIS OF ALGORITHMS PROFESSOR</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A DESIGN * ANALYSIS OF ALGORITHM PROFESSOR</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A DAA PROFESSOR</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * DESIGN * ANALYSIS OF ALGORITHMS PROFESSOR *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * DESIGN * ANALYSIS OF ALGORITHM PROFESSOR *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * DAA PROFESSOR *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * DESIGN * ANALYSIS OF ALGORITHMS PROFESSOR</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * DESIGN * ANALYSIS OF ALGORITHM PROFESSOR</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * DAA PROFESSOR</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY * DESIGN * ANALYSIS OF ALGORITHMS * A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY * DESIGN * ANALYSIS OF ALGORITHM * A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * DAA * A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ FACULTY * DESIGN * ANALYSIS OF ALGORITHMS * A</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY * DESIGN * ANALYSIS OF ALGORITHM * A</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * DAA * A</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY * DESIGN * ANALYSIS OF ALGORITHMS * A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY * DESIGN * ANALYSIS OF ALGORITHM * A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY * DAA * A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY * DESIGN * ANALYSIS OF ALGORITHMS * A</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY * DESIGN * ANALYSIS OF ALGORITHM * A</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY * DAA * A</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * DESIGN * ANALYSIS OF ALGORITHMS A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY * DESIGN * ANALYSIS OF ALGORITHM A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * DAA A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY * DESIGN * ANALYSIS OF ALGORITHMS A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * DESIGN * ANALYSIS OF ALGORITHM A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY * DAA A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY DESIGN * ANALYSIS OF ALGORITHMS * A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY DESIGN * ANALYSIS OF ALGORITHM * A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY DAA * A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY DESIGN * ANALYSIS OF ALGORITHMS * A</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ FACULTY DESIGN * ANALYSIS OF ALGORITHM * A</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY DAA * A</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY DESIGN * ANALYSIS OF ALGORITHMS * A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY DESIGN * ANALYSIS OF ALGORITHM * A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY DAA * A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY DESIGN * ANALYSIS OF ALGORITHMS * A</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY DESIGN * ANALYSIS OF ALGORITHM * A</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY DAA * A</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY DESIGN * ANALYSIS OF ALGORITHMS A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY DESIGN * ANALYSIS OF ALGORITHM A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY DAA A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY DESIGN * ANALYSIS OF ALGORITHMS A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY DESIGN * ANALYSIS OF ALGORITHM A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY DAA A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * A * DESIGN * ANALYSIS OF ALGORITHMS *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY * A * DESIGN * ANALYSIS OF ALGORITHM *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * A * DAA *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * A * DESIGN * ANALYSIS OF ALGORITHMS</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * A * DESIGN * ANALYSIS OF ALGORITHM</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * A * DAA</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY * A * DESIGN * ANALYSIS OF ALGORITHMS *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY * A * DESIGN * ANALYSIS OF ALGORITHM *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY * A * DAA *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY * A * DESIGN * ANALYSIS OF ALGORITHMS</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * A * DESIGN * ANALYSIS OF ALGORITHM</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY * A * DAA</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY A * DESIGN * ANALYSIS OF ALGORITHMS *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY A * DESIGN * ANALYSIS OF ALGORITHM *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY A * DAA *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY A * DESIGN * ANALYSIS OF ALGORITHMS</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY A * DESIGN * ANALYSIS OF ALGORITHM</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY A * DAA</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY A * DESIGN * ANALYSIS OF ALGORITHMS *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY A * DESIGN * ANALYSIS OF ALGORITHM *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY A * DAA *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY A * DESIGN * ANALYSIS OF ALGORITHMS</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY A * DESIGN * ANALYSIS OF ALGORITHM</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY A * DAA</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * A DESIGN * ANALYSIS OF ALGORITHMS *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY * A DESIGN * ANALYSIS OF ALGORITHM *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY * A DAA *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * A DESIGN * ANALYSIS OF ALGORITHMS</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY * A DESIGN * ANALYSIS OF ALGORITHM</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * A DAA</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY * A DESIGN * ANALYSIS OF ALGORITHMS *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * A DESIGN * ANALYSIS OF ALGORITHM *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY * A DAA *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY * A DESIGN * ANALYSIS OF ALGORITHMS</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * A DESIGN * ANALYSIS OF ALGORITHM</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY * A DAA</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DESIGN * ANALYSIS OF ALGORITHMS FACULTY * A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DESIGN * ANALYSIS OF ALGORITHM FACULTY * A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DAA FACULTY * A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DESIGN * ANALYSIS OF ALGORITHMS FACULTY * A</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DESIGN * ANALYSIS OF ALGORITHM FACULTY * A</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DAA FACULTY * A</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DESIGN * ANALYSIS OF ALGORITHMS FACULTY * A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>DESIGN * ANALYSIS OF ALGORITHM FACULTY * A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DAA FACULTY * A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DESIGN * ANALYSIS OF ALGORITHMS FACULTY * A</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>DESIGN * ANALYSIS OF ALGORITHM FACULTY * A</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DAA FACULTY * A</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DESIGN * ANALYSIS OF ALGORITHMS FACULTY A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DESIGN * ANALYSIS OF ALGORITHM FACULTY A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DAA FACULTY A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DESIGN * ANALYSIS OF ALGORITHMS FACULTY A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>DESIGN * ANALYSIS OF ALGORITHM FACULTY A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DAA FACULTY A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+
+
+<category>
+	<pattern>_ DESIGN * ANALYSIS OF ALGORITHMS * A FACULTY *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DESIGN * ANALYSIS OF ALGORITHM * A FACULTY *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DAA * A FACULTY *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DESIGN * ANALYSIS OF ALGORITHMS * A FACULTY</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DESIGN * ANALYSIS OF ALGORITHM * A FACULTY</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DAA * A FACULTY</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DESIGN * ANALYSIS OF ALGORITHMS * A FACULTY *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DESIGN * ANALYSIS OF ALGORITHM * A FACULTY *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DAA * A FACULTY *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DESIGN * ANALYSIS OF ALGORITHMS * A FACULTY</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DESIGN * ANALYSIS OF ALGORITHM * A FACULTY</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DAA * A FACULTY</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DESIGN * ANALYSIS OF ALGORITHMS A * FACULTY *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DESIGN * ANALYSIS OF ALGORITHM A * FACULTY *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DAA A * FACULTY *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DESIGN * ANALYSIS OF ALGORITHMS A * FACULTY</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DESIGN * ANALYSIS OF ALGORITHM A * FACULTY</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DAA A * FACULTY</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DESIGN * ANALYSIS OF ALGORITHMS A * FACULTY *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DESIGN * ANALYSIS OF ALGORITHM A * FACULTY *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DAA A * FACULTY *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DESIGN * ANALYSIS OF ALGORITHMS A * FACULTY</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DESIGN * ANALYSIS OF ALGORITHM A * FACULTY</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DAA A * FACULTY</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A FACULTY * DESIGN * ANALYSIS OF ALGORITHMS *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A FACULTY * DESIGN * ANALYSIS OF ALGORITHM *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A FACULTY * DAA *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A FACULTY * DESIGN * ANALYSIS OF ALGORITHMS</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A FACULTY * DESIGN * ANALYSIS OF ALGORITHM</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A FACULTY * DAA</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * FACULTY * DESIGN * ANALYSIS OF ALGORITHMS *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * FACULTY * DESIGN * ANALYSIS OF ALGORITHM *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * FACULTY * DAA *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * FACULTY * DESIGN * ANALYSIS OF ALGORITHMS</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * FACULTY * DESIGN * ANALYSIS OF ALGORITHM</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * FACULTY * DAA</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A FACULTY DESIGN * ANALYSIS OF ALGORITHMS *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A FACULTY DESIGN * ANALYSIS OF ALGORITHM *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A FACULTY DAA *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A FACULTY DESIGN * ANALYSIS OF ALGORITHMS</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A FACULTY DESIGN * ANALYSIS OF ALGORITHM</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A FACULTY DAA</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * FACULTY DESIGN * ANALYSIS OF ALGORITHMS *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * FACULTY DESIGN * ANALYSIS OF ALGORITHM *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * FACULTY DAA *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * FACULTY DESIGN * ANALYSIS OF ALGORITHMS</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * FACULTY DESIGN * ANALYSIS OF ALGORITHM</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * FACULTY DAA</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A DESIGN * ANALYSIS OF ALGORITHMS FACULTY *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A DESIGN * ANALYSIS OF ALGORITHM FACULTY *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A DAA FACULTY *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A DESIGN * ANALYSIS OF ALGORITHMS FACULTY</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A DESIGN * ANALYSIS OF ALGORITHM FACULTY</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A DAA FACULTY</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * DESIGN * ANALYSIS OF ALGORITHMS FACULTY *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * DESIGN * ANALYSIS OF ALGORITHM FACULTY *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * DAA FACULTY *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * DESIGN * ANALYSIS OF ALGORITHMS FACULTY</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * DESIGN * ANALYSIS OF ALGORITHM FACULTY</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * DAA FACULTY</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF * DESIGN * ANALYSIS OF ALGORITHMS * A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF * DESIGN * ANALYSIS OF ALGORITHM * A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * DAA * A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ PROF * DESIGN * ANALYSIS OF ALGORITHMS * A</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * DESIGN * ANALYSIS OF ALGORITHM * A</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * DAA * A</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF * DESIGN * ANALYSIS OF ALGORITHMS * A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF * DESIGN * ANALYSIS OF ALGORITHM * A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF * DAA * A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF * DESIGN * ANALYSIS OF ALGORITHMS * A</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * DESIGN * ANALYSIS OF ALGORITHM * A</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF * DAA * A</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * DESIGN * ANALYSIS OF ALGORITHMS A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF * DESIGN * ANALYSIS OF ALGORITHM A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * DAA A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF * DESIGN * ANALYSIS OF ALGORITHMS A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * DESIGN * ANALYSIS OF ALGORITHM A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF * DAA A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF DESIGN * ANALYSIS OF ALGORITHMS * A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF DESIGN * ANALYSIS OF ALGORITHM * A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF DAA * A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF DESIGN * ANALYSIS OF ALGORITHMS * A</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF DESIGN * ANALYSIS OF ALGORITHM * A</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF DAA * A</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF DESIGN * ANALYSIS OF ALGORITHMS * A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF DESIGN * ANALYSIS OF ALGORITHM * A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF DAA * A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF DESIGN * ANALYSIS OF ALGORITHMS * A</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF DESIGN * ANALYSIS OF ALGORITHM * A</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF DAA * A</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF DESIGN * ANALYSIS OF ALGORITHMS A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF DESIGN * ANALYSIS OF ALGORITHM A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF DAA A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF DESIGN * ANALYSIS OF ALGORITHMS A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF DESIGN * ANALYSIS OF ALGORITHM A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF DAA A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+
+
+<category>
+	<pattern>_ PROF * A * DESIGN * ANALYSIS OF ALGORITHMS *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF * A * DESIGN * ANALYSIS OF ALGORITHM *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * A * DAA *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * A * DESIGN * ANALYSIS OF ALGORITHMS</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF * A * DESIGN * ANALYSIS OF ALGORITHM</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * A * DAA</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF * A * DESIGN * ANALYSIS OF ALGORITHMS *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * A * DESIGN * ANALYSIS OF ALGORITHM *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF * A * DAA *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF * A * DESIGN * ANALYSIS OF ALGORITHMS</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * A * DESIGN * ANALYSIS OF ALGORITHM</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF * A * DAA</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF A * DESIGN * ANALYSIS OF ALGORITHMS *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF A * DESIGN * ANALYSIS OF ALGORITHM *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF A * DAA *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF A * DESIGN * ANALYSIS OF ALGORITHMS</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF A * DESIGN * ANALYSIS OF ALGORITHM</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF A * DAA</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF A * DESIGN * ANALYSIS OF ALGORITHMS *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF A * DESIGN * ANALYSIS OF ALGORITHM *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF A * DAA *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF A * DESIGN * ANALYSIS OF ALGORITHMS</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF A * DESIGN * ANALYSIS OF ALGORITHM</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF A * DAA</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * A DESIGN * ANALYSIS OF ALGORITHMS *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF * A DESIGN * ANALYSIS OF ALGORITHM *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * A DAA *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * A DESIGN * ANALYSIS OF ALGORITHMS</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF * A DESIGN * ANALYSIS OF ALGORITHM</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * A DAA</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF * A DESIGN * ANALYSIS OF ALGORITHMS *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF * A DESIGN * ANALYSIS OF ALGORITHM *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF * A DAA *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF * A DESIGN * ANALYSIS OF ALGORITHMS</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * A DESIGN * ANALYSIS OF ALGORITHM</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF * A DAA</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>_ DESIGN * ANALYSIS OF ALGORITHMS PROF * A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DESIGN * ANALYSIS OF ALGORITHM PROF * A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DAA PROF * A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DESIGN * ANALYSIS OF ALGORITHMS PROF * A</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DESIGN * ANALYSIS OF ALGORITHM PROF * A</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DAA PROF * A</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DESIGN * ANALYSIS OF ALGORITHMS PROF * A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>DESIGN * ANALYSIS OF ALGORITHM PROF * A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DAA PROF * A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DESIGN * ANALYSIS OF ALGORITHMS PROF * A</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DESIGN * ANALYSIS OF ALGORITHM PROF * A</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>DAA PROF * A</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DESIGN * ANALYSIS OF ALGORITHMS PROF A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DESIGN * ANALYSIS OF ALGORITHM PROF A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DAA PROF A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DESIGN * ANALYSIS OF ALGORITHMS PROF A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>DESIGN * ANALYSIS OF ALGORITHM PROF A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DAA PROF A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+
+
+<category>
+	<pattern>_ DESIGN * ANALYSIS OF ALGORITHMS * A PROF *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DESIGN * ANALYSIS OF ALGORITHM * A PROF *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DAA * A PROF *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DESIGN * ANALYSIS OF ALGORITHMS * A PROF</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DESIGN * ANALYSIS OF ALGORITHM * A PROF</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DAA * A PROF</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DESIGN * ANALYSIS OF ALGORITHMS * A PROF *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>DESIGN * ANALYSIS OF ALGORITHM * A PROF *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DAA * A PROF *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DESIGN * ANALYSIS OF ALGORITHMS * A PROF</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>DESIGN * ANALYSIS OF ALGORITHM * A PROF</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DAA * A PROF</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DESIGN * ANALYSIS OF ALGORITHMS A * PROF *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DESIGN * ANALYSIS OF ALGORITHM A * PROF *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DAA A * PROF *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DESIGN * ANALYSIS OF ALGORITHMS A * PROF</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DESIGN * ANALYSIS OF ALGORITHM A * PROF</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DAA A * PROF</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DESIGN * ANALYSIS OF ALGORITHMS A * PROF *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>DESIGN * ANALYSIS OF ALGORITHM A * PROF *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DAA A * PROF *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DESIGN * ANALYSIS OF ALGORITHMS A * PROF</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>DESIGN * ANALYSIS OF ALGORITHM A * PROF</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DAA A * PROF</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>_ A PROF * DESIGN * ANALYSIS OF ALGORITHMS *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROF * DESIGN * ANALYSIS OF ALGORITHM *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A PROF * DAA *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A PROF * DESIGN * ANALYSIS OF ALGORITHMS</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROF * DESIGN * ANALYSIS OF ALGORITHM</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A PROF * DAA</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROF * DESIGN * ANALYSIS OF ALGORITHMS *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * PROF * DESIGN * ANALYSIS OF ALGORITHM *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROF * DAA *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROF * DESIGN * ANALYSIS OF ALGORITHMS</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROF * DESIGN * ANALYSIS OF ALGORITHM</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROF * DAA</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A PROF DESIGN * ANALYSIS OF ALGORITHMS *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROF DESIGN * ANALYSIS OF ALGORITHM *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A PROF DAA *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A PROF DESIGN * ANALYSIS OF ALGORITHMS</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROF DESIGN * ANALYSIS OF ALGORITHM</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ A PROF DAA</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROF DESIGN * ANALYSIS OF ALGORITHMS *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * PROF DESIGN * ANALYSIS OF ALGORITHM *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROF DAA *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROF DESIGN * ANALYSIS OF ALGORITHMS</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROF DESIGN * ANALYSIS OF ALGORITHM</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * PROF DAA</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+
+
+<category>
+	<pattern>_ A DESIGN * ANALYSIS OF ALGORITHMS PROF *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A DESIGN * ANALYSIS OF ALGORITHM PROF *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A DAA PROF *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A DESIGN * ANALYSIS OF ALGORITHMS PROF</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A DESIGN * ANALYSIS OF ALGORITHM PROF</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A DAA PROF</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * DESIGN * ANALYSIS OF ALGORITHMS PROF *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * DESIGN * ANALYSIS OF ALGORITHM PROF *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * DAA PROF *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * DESIGN * ANALYSIS OF ALGORITHMS PROF</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * DESIGN * ANALYSIS OF ALGORITHM PROF</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>A * DAA PROF</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+
+
+<category>
+	<pattern>_ LECTURER * DESIGN * ANALYSIS OF ALGORITHMS * A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * DAA * A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ LECTURER * DESIGN * ANALYSIS OF ALGORITHMS * A</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * DAA * A</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER * DESIGN * ANALYSIS OF ALGORITHMS * A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER * DAA * A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER * DESIGN * ANALYSIS OF ALGORITHMS * A</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER * DAA * A</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * DESIGN * ANALYSIS OF ALGORITHMS A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * DAA A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER * DESIGN * ANALYSIS OF ALGORITHMS A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER * DAA A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER DESIGN * ANALYSIS OF ALGORITHMS * A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER DAA * A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER DESIGN * ANALYSIS OF ALGORITHMS * A</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER DAA * A</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER DESIGN * ANALYSIS OF ALGORITHMS * A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER DAA * A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER DESIGN * ANALYSIS OF ALGORITHMS * A</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER DAA * A</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER DESIGN * ANALYSIS OF ALGORITHMS A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER DAA A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER DESIGN * ANALYSIS OF ALGORITHMS A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER DAA A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+
+
+<category>
+	<pattern>_ LECTURER * A * DESIGN * ANALYSIS OF ALGORITHMS *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * A * DAA *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * A * DESIGN * ANALYSIS OF ALGORITHMS</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * A * DAA</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER * A * DESIGN * ANALYSIS OF ALGORITHMS *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER * A * DAA *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER * A * DESIGN * ANALYSIS OF ALGORITHMS</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER * A * DAA</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER A * DESIGN * ANALYSIS OF ALGORITHMS *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER A * DAA *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER A * DESIGN * ANALYSIS OF ALGORITHMS</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER A * DAA</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER A * DESIGN * ANALYSIS OF ALGORITHMS *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER A * DAA *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER A * DESIGN * ANALYSIS OF ALGORITHMS</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER A * DAA</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * A DESIGN * ANALYSIS OF ALGORITHMS *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * A DAA *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * A DESIGN * ANALYSIS OF ALGORITHMS</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * A DAA</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER * A DESIGN * ANALYSIS OF ALGORITHMS *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER * A DAA *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER * A DESIGN * ANALYSIS OF ALGORITHMS</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER * A DAA</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>_ DESIGN * ANALYSIS OF ALGORITHMS LECTURER * A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DAA LECTURER * A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DESIGN * ANALYSIS OF ALGORITHMS LECTURER * A</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DAA LECTURER * A</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DESIGN * ANALYSIS OF ALGORITHMS LECTURER * A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DAA LECTURER * A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DESIGN * ANALYSIS OF ALGORITHMS LECTURER * A</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DAA LECTURER * A</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DESIGN * ANALYSIS OF ALGORITHMS LECTURER A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DAA LECTURER A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DESIGN * ANALYSIS OF ALGORITHMS LECTURER A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DAA LECTURER A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>_ DESIGN * ANALYSIS OF ALGORITHMS * A LECTURER *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DAA * A LECTURER *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DESIGN * ANALYSIS OF ALGORITHMS * A LECTURER</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DAA * A LECTURER</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DESIGN * ANALYSIS OF ALGORITHMS * A LECTURER *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DAA * A LECTURER *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DESIGN * ANALYSIS OF ALGORITHMS * A LECTURER</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DAA * A LECTURER</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DESIGN * ANALYSIS OF ALGORITHMS A * LECTURER *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DAA A * LECTURER *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DESIGN * ANALYSIS OF ALGORITHMS A * LECTURER</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DAA A * LECTURER</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DESIGN * ANALYSIS OF ALGORITHMS A * LECTURER *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DAA A * LECTURER *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DESIGN * ANALYSIS OF ALGORITHMS A * LECTURER</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DAA A * LECTURER</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>_ A LECTURER * DESIGN * ANALYSIS OF ALGORITHMS *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A LECTURER * DAA *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A LECTURER * DESIGN * ANALYSIS OF ALGORITHMS</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A LECTURER * DAA</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECTURER * DESIGN * ANALYSIS OF ALGORITHMS *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECTURER * DAA *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECTURER * DESIGN * ANALYSIS OF ALGORITHMS</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECTURER * DAA</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A LECTURER DESIGN * ANALYSIS OF ALGORITHMS *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A LECTURER DAA *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A LECTURER DESIGN * ANALYSIS OF ALGORITHMS</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ A LECTURER DAA</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECTURER DESIGN * ANALYSIS OF ALGORITHMS *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECTURER DAA *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECTURER DESIGN * ANALYSIS OF ALGORITHMS</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECTURER DAA</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+
+
+<category>
+	<pattern>_ A DESIGN * ANALYSIS OF ALGORITHMS LECTURER *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A DAA LECTURER *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A DESIGN * ANALYSIS OF ALGORITHMS LECTURER</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A DAA LECTURER</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * DESIGN * ANALYSIS OF ALGORITHMS LECTURER *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * DAA LECTURER *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * DESIGN * ANALYSIS OF ALGORITHMS LECTURER</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * DAA LECTURER</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+
+
+<category>
+	<pattern>_ LECT * DESIGN * ANALYSIS OF ALGORITHMS * A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * DAA * A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ LECT * DESIGN * ANALYSIS OF ALGORITHMS * A</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * DAA * A</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT * DESIGN * ANALYSIS OF ALGORITHMS * A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT * DAA * A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT * DESIGN * ANALYSIS OF ALGORITHMS * A</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT * DAA * A</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * DESIGN * ANALYSIS OF ALGORITHMS A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * DAA A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT * DESIGN * ANALYSIS OF ALGORITHMS A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT * DAA A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT DESIGN * ANALYSIS OF ALGORITHMS * A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT DAA * A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT DESIGN * ANALYSIS OF ALGORITHMS * A</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT DAA * A</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT DESIGN * ANALYSIS OF ALGORITHMS * A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT DAA * A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT DESIGN * ANALYSIS OF ALGORITHMS * A</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT DAA * A</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT DESIGN * ANALYSIS OF ALGORITHMS A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT DAA A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT DESIGN * ANALYSIS OF ALGORITHMS A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT DAA A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+
+
+<category>
+	<pattern>_ LECT * A * DESIGN * ANALYSIS OF ALGORITHMS *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * A * DAA *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * A * DESIGN * ANALYSIS OF ALGORITHMS</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * A * DAA</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT * A * DESIGN * ANALYSIS OF ALGORITHMS *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT * A * DAA *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT * A * DESIGN * ANALYSIS OF ALGORITHMS</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT * A * DAA</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT A * DESIGN * ANALYSIS OF ALGORITHMS *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT A * DAA *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT A * DESIGN * ANALYSIS OF ALGORITHMS</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT A * DAA</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT A * DESIGN * ANALYSIS OF ALGORITHMS *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT A * DAA *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT A * DESIGN * ANALYSIS OF ALGORITHMS</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT A * DAA</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * A DESIGN * ANALYSIS OF ALGORITHMS *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * A DAA *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * A DESIGN * ANALYSIS OF ALGORITHMS</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * A DAA</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT * A DESIGN * ANALYSIS OF ALGORITHMS *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT * A DAA *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT * A DESIGN * ANALYSIS OF ALGORITHMS</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT * A DAA</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>_ DESIGN * ANALYSIS OF ALGORITHMS LECT * A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DAA LECT * A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DESIGN * ANALYSIS OF ALGORITHMS LECT * A</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DAA LECT * A</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DESIGN * ANALYSIS OF ALGORITHMS LECT * A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DAA LECT * A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DESIGN * ANALYSIS OF ALGORITHMS LECT * A</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DAA LECT * A</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DESIGN * ANALYSIS OF ALGORITHMS LECT A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DAA LECT A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DESIGN * ANALYSIS OF ALGORITHMS LECT A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DAA LECT A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>_ DESIGN * ANALYSIS OF ALGORITHMS * A LECT *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DAA * A LECT *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DESIGN * ANALYSIS OF ALGORITHMS * A LECT</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DAA * A LECT</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DESIGN * ANALYSIS OF ALGORITHMS * A LECT *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DAA * A LECT *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DESIGN * ANALYSIS OF ALGORITHMS * A LECT</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DAA * A LECT</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DESIGN * ANALYSIS OF ALGORITHMS A * LECT *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DAA A * LECT *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DESIGN * ANALYSIS OF ALGORITHMS A * LECT</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DAA A * LECT</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DESIGN * ANALYSIS OF ALGORITHMS A * LECT *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DAA A * LECT *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DESIGN * ANALYSIS OF ALGORITHMS A * LECT</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DAA A * LECT</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>_ A LECT * DESIGN * ANALYSIS OF ALGORITHMS *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A LECT * DAA *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A LECT * DESIGN * ANALYSIS OF ALGORITHMS</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A LECT * DAA</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECT * DESIGN * ANALYSIS OF ALGORITHMS *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECT * DAA *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECT * DESIGN * ANALYSIS OF ALGORITHMS</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECT * DAA</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A LECT DESIGN * ANALYSIS OF ALGORITHMS *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A LECT DAA *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A LECT DESIGN * ANALYSIS OF ALGORITHMS</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ A LECT DAA</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECT DESIGN * ANALYSIS OF ALGORITHMS *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECT DAA *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECT DESIGN * ANALYSIS OF ALGORITHMS</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECT DAA</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+
+
+<category>
+	<pattern>_ A DESIGN * ANALYSIS OF ALGORITHMS LECT *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A DAA LECT *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A DESIGN * ANALYSIS OF ALGORITHMS LECT</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A DAA LECT</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * DESIGN * ANALYSIS OF ALGORITHMS LECT *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * DAA LECT *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * DESIGN * ANALYSIS OF ALGORITHMS LECT</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * DAA LECT</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>_ TEACHER * DESIGN * ANALYSIS OF ALGORITHMS * A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * DAA * A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ TEACHER * DESIGN * ANALYSIS OF ALGORITHMS * A</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * DAA * A</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER * DESIGN * ANALYSIS OF ALGORITHMS * A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER * DAA * A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER * DESIGN * ANALYSIS OF ALGORITHMS * A</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER * DAA * A</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * DESIGN * ANALYSIS OF ALGORITHMS A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * DAA A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER * DESIGN * ANALYSIS OF ALGORITHMS A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER * DAA A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER DESIGN * ANALYSIS OF ALGORITHMS * A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER DAA * A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER DESIGN * ANALYSIS OF ALGORITHMS * A</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER DAA * A</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER DESIGN * ANALYSIS OF ALGORITHMS * A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER DAA * A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER DESIGN * ANALYSIS OF ALGORITHMS * A</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER DAA * A</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER DESIGN * ANALYSIS OF ALGORITHMS A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER DAA A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER DESIGN * ANALYSIS OF ALGORITHMS A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER DAA A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+
+
+<category>
+	<pattern>_ TEACHER * A * DESIGN * ANALYSIS OF ALGORITHMS *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * A * DAA *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * A * DESIGN * ANALYSIS OF ALGORITHMS</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * A * DAA</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER * A * DESIGN * ANALYSIS OF ALGORITHMS *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER * A * DAA *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER * A * DESIGN * ANALYSIS OF ALGORITHMS</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER * A * DAA</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER A * DESIGN * ANALYSIS OF ALGORITHMS *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER A * DAA *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER A * DESIGN * ANALYSIS OF ALGORITHMS</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER A * DAA</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER A * DESIGN * ANALYSIS OF ALGORITHMS *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER A * DAA *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER A * DESIGN * ANALYSIS OF ALGORITHMS</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER A * DAA</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * A DESIGN * ANALYSIS OF ALGORITHMS *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * A DAA *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * A DESIGN * ANALYSIS OF ALGORITHMS</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * A DAA</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER * A DESIGN * ANALYSIS OF ALGORITHMS *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER * A DAA *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER * A DESIGN * ANALYSIS OF ALGORITHMS</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER * A DAA</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>_ DESIGN * ANALYSIS OF ALGORITHMS TEACHER * A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DAA TEACHER * A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DESIGN * ANALYSIS OF ALGORITHMS TEACHER * A</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DAA TEACHER * A</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DESIGN * ANALYSIS OF ALGORITHMS TEACHER * A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DAA TEACHER * A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DESIGN * ANALYSIS OF ALGORITHMS TEACHER * A</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DAA TEACHER * A</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DESIGN * ANALYSIS OF ALGORITHMS TEACHER A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DAA TEACHER A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DESIGN * ANALYSIS OF ALGORITHMS TEACHER A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DAA TEACHER A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>_ DESIGN * ANALYSIS OF ALGORITHMS * A TEACHER *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DAA * A TEACHER *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DESIGN * ANALYSIS OF ALGORITHMS * A TEACHER</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DAA * A TEACHER</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DESIGN * ANALYSIS OF ALGORITHMS * A TEACHER *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DAA * A TEACHER *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DESIGN * ANALYSIS OF ALGORITHMS * A TEACHER</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DAA * A TEACHER</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DESIGN * ANALYSIS OF ALGORITHMS A * TEACHER *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DAA A * TEACHER *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DESIGN * ANALYSIS OF ALGORITHMS A * TEACHER</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DAA A * TEACHER</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DESIGN * ANALYSIS OF ALGORITHMS A * TEACHER *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DAA A * TEACHER *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DESIGN * ANALYSIS OF ALGORITHMS A * TEACHER</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DAA A * TEACHER</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>_ A TEACHER * DESIGN * ANALYSIS OF ALGORITHMS *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A TEACHER * DAA *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A TEACHER * DESIGN * ANALYSIS OF ALGORITHMS</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A TEACHER * DAA</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * TEACHER * DESIGN * ANALYSIS OF ALGORITHMS *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * TEACHER * DAA *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * TEACHER * DESIGN * ANALYSIS OF ALGORITHMS</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * TEACHER * DAA</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A TEACHER DESIGN * ANALYSIS OF ALGORITHMS *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A TEACHER DAA *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A TEACHER DESIGN * ANALYSIS OF ALGORITHMS</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ A TEACHER DAA</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * TEACHER DESIGN * ANALYSIS OF ALGORITHMS *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * TEACHER DAA *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * TEACHER DESIGN * ANALYSIS OF ALGORITHMS</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * TEACHER DAA</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+
+
+<category>
+	<pattern>_ A DESIGN * ANALYSIS OF ALGORITHMS TEACHER *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A DAA TEACHER *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A DESIGN * ANALYSIS OF ALGORITHMS TEACHER</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A DAA TEACHER</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * DESIGN * ANALYSIS OF ALGORITHMS TEACHER *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * DAA TEACHER *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * DESIGN * ANALYSIS OF ALGORITHMS TEACHER</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * DAA TEACHER</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ TEACHES DESIGN * ANALYSIS OF ALGORITHMS * A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES DAA * A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES DESIGN * ANALYSIS OF ALGORITHMS * A</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES DAA * A</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES DESIGN * ANALYSIS OF ALGORITHMS A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES DAA A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES * A DESIGN * ANALYSIS OF ALGORITHMS *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES * A DAA *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES * A DESIGN * ANALYSIS OF ALGORITHMS</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES * A DAA</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES A * DESIGN * ANALYSIS OF ALGORITHMS *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES A * DAA *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES A * DESIGN * ANALYSIS OF ALGORITHMS</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES A * DAA</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DESIGN * ANALYSIS OF ALGORITHMS * A * TAUGHT *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DAA * A * TAUGHT *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DESIGN * ANALYSIS OF ALGORITHMS * A * TAUGHT *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DAA * A * TAUGHT *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DESIGN * ANALYSIS OF ALGORITHMS A * TAUGHT *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DAA A * TAUGHT *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DESIGN * ANALYSIS OF ALGORITHMS A * TAUGHT *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DAA A * TAUGHT *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DESIGN * ANALYSIS OF ALGORITHMS * A TAUGHT *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DAA * A TAUGHT *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DESIGN * ANALYSIS OF ALGORITHMS * A TAUGHT *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DAA * A TAUGHT *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURE * DESIGN * ANALYSIS OF ALGORITHMS * A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURE * DAA * A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURE * DESIGN * ANALYSIS OF ALGORITHMS * A</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURE * DAA * A</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURE * DESIGN * ANALYSIS OF ALGORITHMS A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURE * DAA A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ LECTURER * DESIGN * ANALYSIS OF ALGORITHM * A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER * DESIGN * ANALYSIS OF ALGORITHM * A</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * DESIGN * ANALYSIS OF ALGORITHM * A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER * DESIGN * ANALYSIS OF ALGORITHM * A</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * DESIGN * ANALYSIS OF ALGORITHM A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * DESIGN * ANALYSIS OF ALGORITHM A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER DESIGN * ANALYSIS OF ALGORITHM * A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ LECTURER DESIGN * ANALYSIS OF ALGORITHM * A</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER DESIGN * ANALYSIS OF ALGORITHM * A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER DESIGN * ANALYSIS OF ALGORITHM * A</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER DESIGN * ANALYSIS OF ALGORITHM A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER DESIGN * ANALYSIS OF ALGORITHM A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * A * DESIGN * ANALYSIS OF ALGORITHM *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER * A * DESIGN * ANALYSIS OF ALGORITHM</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER * A * DESIGN * ANALYSIS OF ALGORITHM *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER * A * DESIGN * ANALYSIS OF ALGORITHM</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER A * DESIGN * ANALYSIS OF ALGORITHM *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER A * DESIGN * ANALYSIS OF ALGORITHM</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER A * DESIGN * ANALYSIS OF ALGORITHM *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER A * DESIGN * ANALYSIS OF ALGORITHM</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * A DESIGN * ANALYSIS OF ALGORITHM *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * A DESIGN * ANALYSIS OF ALGORITHM</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * A DESIGN * ANALYSIS OF ALGORITHM *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER * A DESIGN * ANALYSIS OF ALGORITHM</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DESIGN * ANALYSIS OF ALGORITHM LECTURER * A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DESIGN * ANALYSIS OF ALGORITHM LECTURER * A</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DESIGN * ANALYSIS OF ALGORITHM LECTURER * A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DESIGN * ANALYSIS OF ALGORITHM LECTURER * A</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DESIGN * ANALYSIS OF ALGORITHM LECTURER A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DESIGN * ANALYSIS OF ALGORITHM LECTURER A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ DESIGN * ANALYSIS OF ALGORITHM * A LECTURER *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DESIGN * ANALYSIS OF ALGORITHM * A LECTURER</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DESIGN * ANALYSIS OF ALGORITHM * A LECTURER *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DESIGN * ANALYSIS OF ALGORITHM * A LECTURER</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DESIGN * ANALYSIS OF ALGORITHM A * LECTURER *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DESIGN * ANALYSIS OF ALGORITHM A * LECTURER</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DESIGN * ANALYSIS OF ALGORITHM A * LECTURER *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DESIGN * ANALYSIS OF ALGORITHM A * LECTURER</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A LECTURER * DESIGN * ANALYSIS OF ALGORITHM *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A LECTURER * DESIGN * ANALYSIS OF ALGORITHM</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * LECTURER * DESIGN * ANALYSIS OF ALGORITHM *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECTURER * DESIGN * ANALYSIS OF ALGORITHM</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECTURER DESIGN * ANALYSIS OF ALGORITHM *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A LECTURER DESIGN * ANALYSIS OF ALGORITHM</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECTURER DESIGN * ANALYSIS OF ALGORITHM *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECTURER DESIGN * ANALYSIS OF ALGORITHM</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A DESIGN * ANALYSIS OF ALGORITHM LECTURER *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A DESIGN * ANALYSIS OF ALGORITHM LECTURER</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>A * DESIGN * ANALYSIS OF ALGORITHM LECTURER *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * DESIGN * ANALYSIS OF ALGORITHM LECTURER</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ LECT * DESIGN * ANALYSIS OF ALGORITHM * A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT * DESIGN * ANALYSIS OF ALGORITHM * A</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * DESIGN * ANALYSIS OF ALGORITHM * A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT * DESIGN * ANALYSIS OF ALGORITHM * A</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * DESIGN * ANALYSIS OF ALGORITHM A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * DESIGN * ANALYSIS OF ALGORITHM A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT DESIGN * ANALYSIS OF ALGORITHM * A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ LECT DESIGN * ANALYSIS OF ALGORITHM * A</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT DESIGN * ANALYSIS OF ALGORITHM * A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT DESIGN * ANALYSIS OF ALGORITHM * A</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT DESIGN * ANALYSIS OF ALGORITHM A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT DESIGN * ANALYSIS OF ALGORITHM A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * A * DESIGN * ANALYSIS OF ALGORITHM *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT * A * DESIGN * ANALYSIS OF ALGORITHM</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT * A * DESIGN * ANALYSIS OF ALGORITHM *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT * A * DESIGN * ANALYSIS OF ALGORITHM</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT A * DESIGN * ANALYSIS OF ALGORITHM *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT A * DESIGN * ANALYSIS OF ALGORITHM</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT A * DESIGN * ANALYSIS OF ALGORITHM *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT A * DESIGN * ANALYSIS OF ALGORITHM</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * A DESIGN * ANALYSIS OF ALGORITHM *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * A DESIGN * ANALYSIS OF ALGORITHM</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * A DESIGN * ANALYSIS OF ALGORITHM *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT * A DESIGN * ANALYSIS OF ALGORITHM</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DESIGN * ANALYSIS OF ALGORITHM LECT * A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DESIGN * ANALYSIS OF ALGORITHM LECT * A</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DESIGN * ANALYSIS OF ALGORITHM LECT * A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DESIGN * ANALYSIS OF ALGORITHM LECT * A</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DESIGN * ANALYSIS OF ALGORITHM LECT A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DESIGN * ANALYSIS OF ALGORITHM LECT A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ DESIGN * ANALYSIS OF ALGORITHM * A LECT *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DESIGN * ANALYSIS OF ALGORITHM * A LECT</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DESIGN * ANALYSIS OF ALGORITHM * A LECT *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DESIGN * ANALYSIS OF ALGORITHM * A LECT</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DESIGN * ANALYSIS OF ALGORITHM A * LECT *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DESIGN * ANALYSIS OF ALGORITHM A * LECT</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DESIGN * ANALYSIS OF ALGORITHM A * LECT *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DESIGN * ANALYSIS OF ALGORITHM A * LECT</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A LECT * DESIGN * ANALYSIS OF ALGORITHM *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A LECT * DESIGN * ANALYSIS OF ALGORITHM</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * LECT * DESIGN * ANALYSIS OF ALGORITHM *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECT * DESIGN * ANALYSIS OF ALGORITHM</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECT DESIGN * ANALYSIS OF ALGORITHM *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A LECT DESIGN * ANALYSIS OF ALGORITHM</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECT DESIGN * ANALYSIS OF ALGORITHM *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECT DESIGN * ANALYSIS OF ALGORITHM</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A DESIGN * ANALYSIS OF ALGORITHM LECT *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A DESIGN * ANALYSIS OF ALGORITHM LECT</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>A * DESIGN * ANALYSIS OF ALGORITHM LECT *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * DESIGN * ANALYSIS OF ALGORITHM LECT</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * DESIGN * ANALYSIS OF ALGORITHM * A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER * DESIGN * ANALYSIS OF ALGORITHM * A</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * DESIGN * ANALYSIS OF ALGORITHM * A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER * DESIGN * ANALYSIS OF ALGORITHM * A</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * DESIGN * ANALYSIS OF ALGORITHM A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * DESIGN * ANALYSIS OF ALGORITHM A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER DESIGN * ANALYSIS OF ALGORITHM * A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ TEACHER DESIGN * ANALYSIS OF ALGORITHM * A</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER DESIGN * ANALYSIS OF ALGORITHM * A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER DESIGN * ANALYSIS OF ALGORITHM * A</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER DESIGN * ANALYSIS OF ALGORITHM A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER DESIGN * ANALYSIS OF ALGORITHM A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * A * DESIGN * ANALYSIS OF ALGORITHM *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER * A * DESIGN * ANALYSIS OF ALGORITHM</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER * A * DESIGN * ANALYSIS OF ALGORITHM *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER * A * DESIGN * ANALYSIS OF ALGORITHM</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER A * DESIGN * ANALYSIS OF ALGORITHM *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER A * DESIGN * ANALYSIS OF ALGORITHM</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER A * DESIGN * ANALYSIS OF ALGORITHM *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER A * DESIGN * ANALYSIS OF ALGORITHM</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * A DESIGN * ANALYSIS OF ALGORITHM *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * A DESIGN * ANALYSIS OF ALGORITHM</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * A DESIGN * ANALYSIS OF ALGORITHM *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER * A DESIGN * ANALYSIS OF ALGORITHM</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DESIGN * ANALYSIS OF ALGORITHM TEACHER * A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DESIGN * ANALYSIS OF ALGORITHM TEACHER * A</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DESIGN * ANALYSIS OF ALGORITHM TEACHER * A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DESIGN * ANALYSIS OF ALGORITHM TEACHER * A</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DESIGN * ANALYSIS OF ALGORITHM TEACHER A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DESIGN * ANALYSIS OF ALGORITHM TEACHER A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ DESIGN * ANALYSIS OF ALGORITHM * A TEACHER *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DESIGN * ANALYSIS OF ALGORITHM * A TEACHER</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DESIGN * ANALYSIS OF ALGORITHM * A TEACHER *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DESIGN * ANALYSIS OF ALGORITHM * A TEACHER</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DESIGN * ANALYSIS OF ALGORITHM A * TEACHER *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DESIGN * ANALYSIS OF ALGORITHM A * TEACHER</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DESIGN * ANALYSIS OF ALGORITHM A * TEACHER *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DESIGN * ANALYSIS OF ALGORITHM A * TEACHER</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A TEACHER * DESIGN * ANALYSIS OF ALGORITHM *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A TEACHER * DESIGN * ANALYSIS OF ALGORITHM</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * TEACHER * DESIGN * ANALYSIS OF ALGORITHM *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * TEACHER * DESIGN * ANALYSIS OF ALGORITHM</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A TEACHER DESIGN * ANALYSIS OF ALGORITHM *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A TEACHER DESIGN * ANALYSIS OF ALGORITHM</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * TEACHER DESIGN * ANALYSIS OF ALGORITHM *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * TEACHER DESIGN * ANALYSIS OF ALGORITHM</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A DESIGN * ANALYSIS OF ALGORITHM TEACHER *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A DESIGN * ANALYSIS OF ALGORITHM TEACHER</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>A * DESIGN * ANALYSIS OF ALGORITHM TEACHER *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * DESIGN * ANALYSIS OF ALGORITHM TEACHER</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ TEACHES DESIGN * ANALYSIS OF ALGORITHM * A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES DESIGN * ANALYSIS OF ALGORITHM * A</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ TEACHES DESIGN * ANALYSIS OF ALGORITHM A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES * A DESIGN * ANALYSIS OF ALGORITHM *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES * A DESIGN * ANALYSIS OF ALGORITHM</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ TEACHES A * DESIGN * ANALYSIS OF ALGORITHM *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES A * DESIGN * ANALYSIS OF ALGORITHM</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DESIGN * ANALYSIS OF ALGORITHM * A * TAUGHT *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DESIGN * ANALYSIS OF ALGORITHM * A * TAUGHT *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DESIGN * ANALYSIS OF ALGORITHM A * TAUGHT *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>DESIGN * ANALYSIS OF ALGORITHM A * TAUGHT *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DESIGN * ANALYSIS OF ALGORITHM * A TAUGHT *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>DESIGN * ANALYSIS OF ALGORITHM * A TAUGHT *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURES * DESIGN * ANALYSIS OF ALGORITHM * A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURES * DESIGN * ANALYSIS OF ALGORITHM * A</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURES * DESIGN * ANALYSIS OF ALGORITHM A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES DESIGN * ANALYSIS OF ALGORITHM * A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURES DESIGN * ANALYSIS OF ALGORITHM * A</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURES DESIGN * ANALYSIS OF ALGORITHM A *</pattern>
+	<template>
+		<srai>DA</srai>
+	</template>
+</category>
+
+
+
+</aiml>

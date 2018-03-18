@@ -1,0 +1,6859 @@
+<aiml version="1.0.1" encoding="UTF-8">
+
+<category>
+	<pattern>CAA</pattern>
+	<template>
+		<random>
+			<li>Nilofer Shoaib Khan teaches COMPUTER ARCHITECTURE and ORGANIZATION</li>
+			<li>Nilofer Shoaib Khan</li>
+			<li>COMPUTER ARCHITECTURE and ORGANIZATION is taught by Ms. Nilofer Shoaib Khan</li>
+		</random>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * COMPUTER ARCHITECTURE * ORGANIZATION * A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * COMPUTER ARCHITECTURE * ORGANIZATION * A</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * COMPUTER ARCHITECTURE * ORGANIZATION * A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * COMPUTER ARCHITECTURE * ORGANIZATION * A</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * COMPUTER ARCHITECTURE * ORGANIZATION A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * COMPUTER ARCHITECTURE * ORGANIZATION A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR COMPUTER ARCHITECTURE * ORGANIZATION * A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR COMPUTER ARCHITECTURE * ORGANIZATION * A</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR COMPUTER ARCHITECTURE * ORGANIZATION * A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR COMPUTER ARCHITECTURE * ORGANIZATION * A</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR COMPUTER ARCHITECTURE * ORGANIZATION A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR COMPUTER ARCHITECTURE * ORGANIZATION A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR * A * COMPUTER ARCHITECTURE * ORGANIZATION *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR * A * COMPUTER ARCHITECTURE * ORGANIZATION</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * A * COMPUTER ARCHITECTURE * ORGANIZATION *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * A * COMPUTER ARCHITECTURE * ORGANIZATION</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR A * COMPUTER ARCHITECTURE * ORGANIZATION *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR A * COMPUTER ARCHITECTURE * ORGANIZATION</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR A * COMPUTER ARCHITECTURE * ORGANIZATION *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR A * COMPUTER ARCHITECTURE * ORGANIZATION</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * A COMPUTER ARCHITECTURE * ORGANIZATION *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * A COMPUTER ARCHITECTURE * ORGANIZATION</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * A COMPUTER ARCHITECTURE * ORGANIZATION *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * A COMPUTER ARCHITECTURE * ORGANIZATION</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ COMPUTER ARCHITECTURE * ORGANIZATION PROFESSOR * A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER ARCHITECTURE * ORGANIZATION PROFESSOR * A</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>COMPUTER ARCHITECTURE * ORGANIZATION PROFESSOR * A</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER ARCHITECTURE * ORGANIZATION PROFESSOR A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>COMPUTER ARCHITECTURE * ORGANIZATION PROFESSOR A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER ARCHITECTURE * ORGANIZATION * A PROFESSOR *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER ARCHITECTURE * ORGANIZATION * A PROFESSOR</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>COMPUTER ARCHITECTURE * ORGANIZATION * A PROFESSOR *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>COMPUTER ARCHITECTURE * ORGANIZATION * A PROFESSOR</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ COMPUTER ARCHITECTURE * ORGANIZATION A * PROFESSOR *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER ARCHITECTURE * ORGANIZATION A * PROFESSOR</pattern>
+
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>COMPUTER ARCHITECTURE * ORGANIZATION A * PROFESSOR *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>COMPUTER ARCHITECTURE * ORGANIZATION A * PROFESSOR</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A PROFESSOR * COMPUTER ARCHITECTURE * ORGANIZATION *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROFESSOR * COMPUTER ARCHITECTURE * ORGANIZATION</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROFESSOR * COMPUTER ARCHITECTURE * ORGANIZATION *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROFESSOR * COMPUTER ARCHITECTURE * ORGANIZATION</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROFESSOR COMPUTER ARCHITECTURE * ORGANIZATION *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROFESSOR COMPUTER ARCHITECTURE * ORGANIZATION</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * PROFESSOR COMPUTER ARCHITECTURE * ORGANIZATION *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROFESSOR COMPUTER ARCHITECTURE * ORGANIZATION</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A COMPUTER ARCHITECTURE * ORGANIZATION PROFESSOR *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A COMPUTER ARCHITECTURE * ORGANIZATION PROFESSOR</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * COMPUTER ARCHITECTURE * ORGANIZATION PROFESSOR *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * COMPUTER ARCHITECTURE * ORGANIZATION PROFESSOR</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * COMPUTER ARCHITECTURE * ORGANIZATION * A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * COMPUTER ARCHITECTURE * ORGANIZATION * A</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * COMPUTER ARCHITECTURE * ORGANIZATION * A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * COMPUTER ARCHITECTURE * ORGANIZATION * A</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * COMPUTER ARCHITECTURE * ORGANIZATION A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * COMPUTER ARCHITECTURE * ORGANIZATION A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF COMPUTER ARCHITECTURE * ORGANIZATION * A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF COMPUTER ARCHITECTURE * ORGANIZATION * A</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF COMPUTER ARCHITECTURE * ORGANIZATION * A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF COMPUTER ARCHITECTURE * ORGANIZATION * A</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF COMPUTER ARCHITECTURE * ORGANIZATION A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF COMPUTER ARCHITECTURE * ORGANIZATION A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF * A * COMPUTER ARCHITECTURE * ORGANIZATION *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF * A * COMPUTER ARCHITECTURE * ORGANIZATION</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * A * COMPUTER ARCHITECTURE * ORGANIZATION *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * A * COMPUTER ARCHITECTURE * ORGANIZATION</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF A * COMPUTER ARCHITECTURE * ORGANIZATION *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF A * COMPUTER ARCHITECTURE * ORGANIZATION</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF A * COMPUTER ARCHITECTURE * ORGANIZATION *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF A * COMPUTER ARCHITECTURE * ORGANIZATION</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * A COMPUTER ARCHITECTURE * ORGANIZATION *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * A COMPUTER ARCHITECTURE * ORGANIZATION</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * A COMPUTER ARCHITECTURE * ORGANIZATION *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * A COMPUTER ARCHITECTURE * ORGANIZATION</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ COMPUTER ARCHITECTURE * ORGANIZATION PROF * A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER ARCHITECTURE * ORGANIZATION PROF * A</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>COMPUTER ARCHITECTURE * ORGANIZATION PROF * A</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER ARCHITECTURE * ORGANIZATION PROF A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>COMPUTER ARCHITECTURE * ORGANIZATION PROF A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER ARCHITECTURE * ORGANIZATION * A PROF *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER ARCHITECTURE * ORGANIZATION * A PROF</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>COMPUTER ARCHITECTURE * ORGANIZATION * A PROF *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>COMPUTER ARCHITECTURE * ORGANIZATION * A PROF</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ COMPUTER ARCHITECTURE * ORGANIZATION A * PROF *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER ARCHITECTURE * ORGANIZATION A * PROF</pattern>
+
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>COMPUTER ARCHITECTURE * ORGANIZATION A * PROF *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>COMPUTER ARCHITECTURE * ORGANIZATION A * PROF</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A PROF * COMPUTER ARCHITECTURE * ORGANIZATION *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROF * COMPUTER ARCHITECTURE * ORGANIZATION</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROF * COMPUTER ARCHITECTURE * ORGANIZATION *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROF * COMPUTER ARCHITECTURE * ORGANIZATION</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROF COMPUTER ARCHITECTURE * ORGANIZATION *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROF COMPUTER ARCHITECTURE * ORGANIZATION</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * PROF COMPUTER ARCHITECTURE * ORGANIZATION *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROF COMPUTER ARCHITECTURE * ORGANIZATION</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A COMPUTER ARCHITECTURE * ORGANIZATION PROF *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A COMPUTER ARCHITECTURE * ORGANIZATION PROF</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * COMPUTER ARCHITECTURE * ORGANIZATION PROF *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * COMPUTER ARCHITECTURE * ORGANIZATION PROF</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * COMPUTER ARCHITECTURE * ORGANIZATION * A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * COMPUTER ARCHITECTURE * ORGANIZATION * A</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * COMPUTER ARCHITECTURE * ORGANIZATION * A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * COMPUTER ARCHITECTURE * ORGANIZATION * A</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * COMPUTER ARCHITECTURE * ORGANIZATION A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * COMPUTER ARCHITECTURE * ORGANIZATION A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER COMPUTER ARCHITECTURE * ORGANIZATION * A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER COMPUTER ARCHITECTURE * ORGANIZATION * A</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER COMPUTER ARCHITECTURE * ORGANIZATION * A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER COMPUTER ARCHITECTURE * ORGANIZATION * A</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER COMPUTER ARCHITECTURE * ORGANIZATION A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER COMPUTER ARCHITECTURE * ORGANIZATION A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER * A * COMPUTER ARCHITECTURE * ORGANIZATION *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER * A * COMPUTER ARCHITECTURE * ORGANIZATION</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * A * COMPUTER ARCHITECTURE * ORGANIZATION *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * A * COMPUTER ARCHITECTURE * ORGANIZATION</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER A * COMPUTER ARCHITECTURE * ORGANIZATION *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER A * COMPUTER ARCHITECTURE * ORGANIZATION</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER A * COMPUTER ARCHITECTURE * ORGANIZATION *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER A * COMPUTER ARCHITECTURE * ORGANIZATION</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * A COMPUTER ARCHITECTURE * ORGANIZATION *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * A COMPUTER ARCHITECTURE * ORGANIZATION</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * A COMPUTER ARCHITECTURE * ORGANIZATION *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * A COMPUTER ARCHITECTURE * ORGANIZATION</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ COMPUTER ARCHITECTURE * ORGANIZATION LECTURER * A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER ARCHITECTURE * ORGANIZATION LECTURER * A</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>COMPUTER ARCHITECTURE * ORGANIZATION LECTURER * A</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER ARCHITECTURE * ORGANIZATION LECTURER A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>COMPUTER ARCHITECTURE * ORGANIZATION LECTURER A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER ARCHITECTURE * ORGANIZATION * A LECTURER *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER ARCHITECTURE * ORGANIZATION * A LECTURER</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>COMPUTER ARCHITECTURE * ORGANIZATION * A LECTURER *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>COMPUTER ARCHITECTURE * ORGANIZATION * A LECTURER</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ COMPUTER ARCHITECTURE * ORGANIZATION A * LECTURER *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER ARCHITECTURE * ORGANIZATION A * LECTURER</pattern>
+
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>COMPUTER ARCHITECTURE * ORGANIZATION A * LECTURER *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>COMPUTER ARCHITECTURE * ORGANIZATION A * LECTURER</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A LECTURER * COMPUTER ARCHITECTURE * ORGANIZATION *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECTURER * COMPUTER ARCHITECTURE * ORGANIZATION</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECTURER * COMPUTER ARCHITECTURE * ORGANIZATION *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECTURER * COMPUTER ARCHITECTURE * ORGANIZATION</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECTURER COMPUTER ARCHITECTURE * ORGANIZATION *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECTURER COMPUTER ARCHITECTURE * ORGANIZATION</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * LECTURER COMPUTER ARCHITECTURE * ORGANIZATION *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECTURER COMPUTER ARCHITECTURE * ORGANIZATION</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A COMPUTER ARCHITECTURE * ORGANIZATION LECTURER *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A COMPUTER ARCHITECTURE * ORGANIZATION LECTURER</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * COMPUTER ARCHITECTURE * ORGANIZATION LECTURER *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * COMPUTER ARCHITECTURE * ORGANIZATION LECTURER</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * COMPUTER ARCHITECTURE * ORGANIZATION * A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * COMPUTER ARCHITECTURE * ORGANIZATION * A</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * COMPUTER ARCHITECTURE * ORGANIZATION * A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * COMPUTER ARCHITECTURE * ORGANIZATION * A</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * COMPUTER ARCHITECTURE * ORGANIZATION A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * COMPUTER ARCHITECTURE * ORGANIZATION A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT COMPUTER ARCHITECTURE * ORGANIZATION * A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT COMPUTER ARCHITECTURE * ORGANIZATION * A</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT COMPUTER ARCHITECTURE * ORGANIZATION * A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT COMPUTER ARCHITECTURE * ORGANIZATION * A</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT COMPUTER ARCHITECTURE * ORGANIZATION A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT COMPUTER ARCHITECTURE * ORGANIZATION A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT * A * COMPUTER ARCHITECTURE * ORGANIZATION *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT * A * COMPUTER ARCHITECTURE * ORGANIZATION</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * A * COMPUTER ARCHITECTURE * ORGANIZATION *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * A * COMPUTER ARCHITECTURE * ORGANIZATION</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT A * COMPUTER ARCHITECTURE * ORGANIZATION *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT A * COMPUTER ARCHITECTURE * ORGANIZATION</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT A * COMPUTER ARCHITECTURE * ORGANIZATION *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT A * COMPUTER ARCHITECTURE * ORGANIZATION</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * A COMPUTER ARCHITECTURE * ORGANIZATION *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * A COMPUTER ARCHITECTURE * ORGANIZATION</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * A COMPUTER ARCHITECTURE * ORGANIZATION *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * A COMPUTER ARCHITECTURE * ORGANIZATION</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ COMPUTER ARCHITECTURE * ORGANIZATION LECT * A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER ARCHITECTURE * ORGANIZATION LECT * A</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>COMPUTER ARCHITECTURE * ORGANIZATION LECT * A</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER ARCHITECTURE * ORGANIZATION LECT A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>COMPUTER ARCHITECTURE * ORGANIZATION LECT A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER ARCHITECTURE * ORGANIZATION * A LECT *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER ARCHITECTURE * ORGANIZATION * A LECT</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>COMPUTER ARCHITECTURE * ORGANIZATION * A LECT *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>COMPUTER ARCHITECTURE * ORGANIZATION * A LECT</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ COMPUTER ARCHITECTURE * ORGANIZATION A * LECT *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER ARCHITECTURE * ORGANIZATION A * LECT</pattern>
+
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>COMPUTER ARCHITECTURE * ORGANIZATION A * LECT *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>COMPUTER ARCHITECTURE * ORGANIZATION A * LECT</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A LECT * COMPUTER ARCHITECTURE * ORGANIZATION *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECT * COMPUTER ARCHITECTURE * ORGANIZATION</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECT * COMPUTER ARCHITECTURE * ORGANIZATION *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECT * COMPUTER ARCHITECTURE * ORGANIZATION</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECT COMPUTER ARCHITECTURE * ORGANIZATION *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECT COMPUTER ARCHITECTURE * ORGANIZATION</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * LECT COMPUTER ARCHITECTURE * ORGANIZATION *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECT COMPUTER ARCHITECTURE * ORGANIZATION</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A COMPUTER ARCHITECTURE * ORGANIZATION LECT *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A COMPUTER ARCHITECTURE * ORGANIZATION LECT</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * COMPUTER ARCHITECTURE * ORGANIZATION LECT *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * COMPUTER ARCHITECTURE * ORGANIZATION LECT</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * COMPUTER ARCHITECTURE * ORGANIZATION * A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * COMPUTER ARCHITECTURE * ORGANIZATION * A</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * COMPUTER ARCHITECTURE * ORGANIZATION * A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * COMPUTER ARCHITECTURE * ORGANIZATION * A</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * COMPUTER ARCHITECTURE * ORGANIZATION A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * COMPUTER ARCHITECTURE * ORGANIZATION A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER COMPUTER ARCHITECTURE * ORGANIZATION * A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER COMPUTER ARCHITECTURE * ORGANIZATION * A</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER COMPUTER ARCHITECTURE * ORGANIZATION * A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER COMPUTER ARCHITECTURE * ORGANIZATION * A</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER COMPUTER ARCHITECTURE * ORGANIZATION A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER COMPUTER ARCHITECTURE * ORGANIZATION A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER * A * COMPUTER ARCHITECTURE * ORGANIZATION *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER * A * COMPUTER ARCHITECTURE * ORGANIZATION</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * A * COMPUTER ARCHITECTURE * ORGANIZATION *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * A * COMPUTER ARCHITECTURE * ORGANIZATION</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER A * COMPUTER ARCHITECTURE * ORGANIZATION *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER A * COMPUTER ARCHITECTURE * ORGANIZATION</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER A * COMPUTER ARCHITECTURE * ORGANIZATION *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER A * COMPUTER ARCHITECTURE * ORGANIZATION</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * A COMPUTER ARCHITECTURE * ORGANIZATION *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * A COMPUTER ARCHITECTURE * ORGANIZATION</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * A COMPUTER ARCHITECTURE * ORGANIZATION *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * A COMPUTER ARCHITECTURE * ORGANIZATION</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ COMPUTER ARCHITECTURE * ORGANIZATION TEACHER * A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER ARCHITECTURE * ORGANIZATION TEACHER * A</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>COMPUTER ARCHITECTURE * ORGANIZATION TEACHER * A</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER ARCHITECTURE * ORGANIZATION TEACHER A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>COMPUTER ARCHITECTURE * ORGANIZATION TEACHER A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER ARCHITECTURE * ORGANIZATION * A TEACHER *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER ARCHITECTURE * ORGANIZATION * A TEACHER</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>COMPUTER ARCHITECTURE * ORGANIZATION * A TEACHER *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>COMPUTER ARCHITECTURE * ORGANIZATION * A TEACHER</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ COMPUTER ARCHITECTURE * ORGANIZATION A * TEACHER *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER ARCHITECTURE * ORGANIZATION A * TEACHER</pattern>
+
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>COMPUTER ARCHITECTURE * ORGANIZATION A * TEACHER *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>COMPUTER ARCHITECTURE * ORGANIZATION A * TEACHER</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A TEACHER * COMPUTER ARCHITECTURE * ORGANIZATION *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A TEACHER * COMPUTER ARCHITECTURE * ORGANIZATION</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * TEACHER * COMPUTER ARCHITECTURE * ORGANIZATION *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * TEACHER * COMPUTER ARCHITECTURE * ORGANIZATION</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A TEACHER COMPUTER ARCHITECTURE * ORGANIZATION *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A TEACHER COMPUTER ARCHITECTURE * ORGANIZATION</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * TEACHER COMPUTER ARCHITECTURE * ORGANIZATION *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * TEACHER COMPUTER ARCHITECTURE * ORGANIZATION</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A COMPUTER ARCHITECTURE * ORGANIZATION TEACHER *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A COMPUTER ARCHITECTURE * ORGANIZATION TEACHER</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * COMPUTER ARCHITECTURE * ORGANIZATION TEACHER *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * COMPUTER ARCHITECTURE * ORGANIZATION TEACHER</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ FACULTY * COMPUTER ARCHITECTURE * ORGANIZATION * A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * COMPUTER ARCHITECTURE * ORGANIZATION * A</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * COMPUTER ARCHITECTURE * ORGANIZATION * A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * COMPUTER ARCHITECTURE * ORGANIZATION * A</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * COMPUTER ARCHITECTURE * ORGANIZATION A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * COMPUTER ARCHITECTURE * ORGANIZATION A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY COMPUTER ARCHITECTURE * ORGANIZATION * A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY COMPUTER ARCHITECTURE * ORGANIZATION * A</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY COMPUTER ARCHITECTURE * ORGANIZATION * A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY COMPUTER ARCHITECTURE * ORGANIZATION * A</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY COMPUTER ARCHITECTURE * ORGANIZATION A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY COMPUTER ARCHITECTURE * ORGANIZATION A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY * A * COMPUTER ARCHITECTURE * ORGANIZATION *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY * A * COMPUTER ARCHITECTURE * ORGANIZATION</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * A * COMPUTER ARCHITECTURE * ORGANIZATION *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * A * COMPUTER ARCHITECTURE * ORGANIZATION</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY A * COMPUTER ARCHITECTURE * ORGANIZATION *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY A * COMPUTER ARCHITECTURE * ORGANIZATION</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY A * COMPUTER ARCHITECTURE * ORGANIZATION *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY A * COMPUTER ARCHITECTURE * ORGANIZATION</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * A COMPUTER ARCHITECTURE * ORGANIZATION *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * A COMPUTER ARCHITECTURE * ORGANIZATION</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * A COMPUTER ARCHITECTURE * ORGANIZATION *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * A COMPUTER ARCHITECTURE * ORGANIZATION</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ COMPUTER ARCHITECTURE * ORGANIZATION FACULTY * A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER ARCHITECTURE * ORGANIZATION FACULTY * A</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>COMPUTER ARCHITECTURE * ORGANIZATION FACULTY * A</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER ARCHITECTURE * ORGANIZATION FACULTY A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>COMPUTER ARCHITECTURE * ORGANIZATION FACULTY A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER ARCHITECTURE * ORGANIZATION * A FACULTY *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER ARCHITECTURE * ORGANIZATION * A FACULTY</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>COMPUTER ARCHITECTURE * ORGANIZATION * A FACULTY *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>COMPUTER ARCHITECTURE * ORGANIZATION * A FACULTY</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ COMPUTER ARCHITECTURE * ORGANIZATION A * FACULTY *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER ARCHITECTURE * ORGANIZATION A * FACULTY</pattern>
+
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>COMPUTER ARCHITECTURE * ORGANIZATION A * FACULTY *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>COMPUTER ARCHITECTURE * ORGANIZATION A * FACULTY</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A FACULTY * COMPUTER ARCHITECTURE * ORGANIZATION *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A FACULTY * COMPUTER ARCHITECTURE * ORGANIZATION</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * FACULTY * COMPUTER ARCHITECTURE * ORGANIZATION *</pattern>
+	<template><srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * FACULTY * COMPUTER ARCHITECTURE * ORGANIZATION</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A FACULTY COMPUTER ARCHITECTURE * ORGANIZATION *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A FACULTY COMPUTER ARCHITECTURE * ORGANIZATION</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * FACULTY COMPUTER ARCHITECTURE * ORGANIZATION *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * FACULTY COMPUTER ARCHITECTURE * ORGANIZATION</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A COMPUTER ARCHITECTURE * ORGANIZATION FACULTY *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A COMPUTER ARCHITECTURE * ORGANIZATION FACULTY</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * COMPUTER ARCHITECTURE * ORGANIZATION FACULTY *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * COMPUTER ARCHITECTURE * ORGANIZATION FACULTY</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ TEACHES COMPUTER ARCHITECTURE * ORGANIZATION * A</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES COMPUTER ARCHITECTURE * ORGANIZATION A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHES * A COMPUTER ARCHITECTURE * ORGANIZATION *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES * A COMPUTER ARCHITECTURE * ORGANIZATION</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ TEACHES A * COMPUTER ARCHITECTURE * ORGANIZATION *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES A * COMPUTER ARCHITECTURE * ORGANIZATION</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER ARCHITECTURE * ORGANIZATION * A * TAUGHT *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>COMPUTER ARCHITECTURE * ORGANIZATION * A * TAUGHT *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER ARCHITECTURE * ORGANIZATION A * TAUGHT *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>COMPUTER ARCHITECTURE * ORGANIZATION A * TAUGHT *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER ARCHITECTURE * ORGANIZATION * A TAUGHT *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>COMPUTER ARCHITECTURE * ORGANIZATION * A TAUGHT *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * COMPUTER ARCHITECTURE * ORGANIZATION * B *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * COMPUTER ARCHITECTURE * ORGANIZATION * B</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * COMPUTER ARCHITECTURE * ORGANIZATION B *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES COMPUTER ARCHITECTURE * ORGANIZATION * B *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES COMPUTER ARCHITECTURE * ORGANIZATION * B</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES COMPUTER ARCHITECTURE * ORGANIZATION B *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR * COMPUTER ARCHITECTURE * ORGANISATION * A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * COMPUTER ARCHITECTURE * ORGANISATION * A</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * COMPUTER ARCHITECTURE * ORGANISATION * A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * COMPUTER ARCHITECTURE * ORGANISATION * A</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * COMPUTER ARCHITECTURE * ORGANISATION A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * COMPUTER ARCHITECTURE * ORGANISATION A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR COMPUTER ARCHITECTURE * ORGANISATION * A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR COMPUTER ARCHITECTURE * ORGANISATION * A</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR COMPUTER ARCHITECTURE * ORGANISATION * A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR COMPUTER ARCHITECTURE * ORGANISATION * A</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR COMPUTER ARCHITECTURE * ORGANISATION A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR COMPUTER ARCHITECTURE * ORGANISATION A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR * A * COMPUTER ARCHITECTURE * ORGANISATION *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR * A * COMPUTER ARCHITECTURE * ORGANISATION</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * A * COMPUTER ARCHITECTURE * ORGANISATION *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * A * COMPUTER ARCHITECTURE * ORGANISATION</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR A * COMPUTER ARCHITECTURE * ORGANISATION *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR A * COMPUTER ARCHITECTURE * ORGANISATION</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR A * COMPUTER ARCHITECTURE * ORGANISATION *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR A * COMPUTER ARCHITECTURE * ORGANISATION</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * A COMPUTER ARCHITECTURE * ORGANISATION *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * A COMPUTER ARCHITECTURE * ORGANISATION</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * A COMPUTER ARCHITECTURE * ORGANISATION *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * A COMPUTER ARCHITECTURE * ORGANISATION</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ COMPUTER ARCHITECTURE * ORGANISATION PROFESSOR * A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER ARCHITECTURE * ORGANISATION PROFESSOR * A</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>COMPUTER ARCHITECTURE * ORGANISATION PROFESSOR * A</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER ARCHITECTURE * ORGANISATION PROFESSOR A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>COMPUTER ARCHITECTURE * ORGANISATION PROFESSOR A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER ARCHITECTURE * ORGANISATION * A PROFESSOR *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER ARCHITECTURE * ORGANISATION * A PROFESSOR</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>COMPUTER ARCHITECTURE * ORGANISATION * A PROFESSOR *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>COMPUTER ARCHITECTURE * ORGANISATION * A PROFESSOR</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ COMPUTER ARCHITECTURE * ORGANISATION A * PROFESSOR *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER ARCHITECTURE * ORGANISATION A * PROFESSOR</pattern>
+
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>COMPUTER ARCHITECTURE * ORGANISATION A * PROFESSOR *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>COMPUTER ARCHITECTURE * ORGANISATION A * PROFESSOR</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A PROFESSOR * COMPUTER ARCHITECTURE * ORGANISATION *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROFESSOR * COMPUTER ARCHITECTURE * ORGANISATION</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROFESSOR * COMPUTER ARCHITECTURE * ORGANISATION *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROFESSOR * COMPUTER ARCHITECTURE * ORGANISATION</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROFESSOR COMPUTER ARCHITECTURE * ORGANISATION *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROFESSOR COMPUTER ARCHITECTURE * ORGANISATION</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * PROFESSOR COMPUTER ARCHITECTURE * ORGANISATION *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROFESSOR COMPUTER ARCHITECTURE * ORGANISATION</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A COMPUTER ARCHITECTURE * ORGANISATION PROFESSOR *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A COMPUTER ARCHITECTURE * ORGANISATION PROFESSOR</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * COMPUTER ARCHITECTURE * ORGANISATION PROFESSOR *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * COMPUTER ARCHITECTURE * ORGANISATION PROFESSOR</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * COMPUTER ARCHITECTURE * ORGANISATION * A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * COMPUTER ARCHITECTURE * ORGANISATION * A</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * COMPUTER ARCHITECTURE * ORGANISATION * A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * COMPUTER ARCHITECTURE * ORGANISATION * A</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * COMPUTER ARCHITECTURE * ORGANISATION A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * COMPUTER ARCHITECTURE * ORGANISATION A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF COMPUTER ARCHITECTURE * ORGANISATION * A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF COMPUTER ARCHITECTURE * ORGANISATION * A</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF COMPUTER ARCHITECTURE * ORGANISATION * A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF COMPUTER ARCHITECTURE * ORGANISATION * A</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF COMPUTER ARCHITECTURE * ORGANISATION A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF COMPUTER ARCHITECTURE * ORGANISATION A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF * A * COMPUTER ARCHITECTURE * ORGANISATION *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF * A * COMPUTER ARCHITECTURE * ORGANISATION</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * A * COMPUTER ARCHITECTURE * ORGANISATION *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * A * COMPUTER ARCHITECTURE * ORGANISATION</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF A * COMPUTER ARCHITECTURE * ORGANISATION *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF A * COMPUTER ARCHITECTURE * ORGANISATION</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF A * COMPUTER ARCHITECTURE * ORGANISATION *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF A * COMPUTER ARCHITECTURE * ORGANISATION</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * A COMPUTER ARCHITECTURE * ORGANISATION *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * A COMPUTER ARCHITECTURE * ORGANISATION</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * A COMPUTER ARCHITECTURE * ORGANISATION *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * A COMPUTER ARCHITECTURE * ORGANISATION</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ COMPUTER ARCHITECTURE * ORGANISATION PROF * A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER ARCHITECTURE * ORGANISATION PROF * A</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>COMPUTER ARCHITECTURE * ORGANISATION PROF * A</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER ARCHITECTURE * ORGANISATION PROF A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>COMPUTER ARCHITECTURE * ORGANISATION PROF A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER ARCHITECTURE * ORGANISATION * A PROF *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER ARCHITECTURE * ORGANISATION * A PROF</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>COMPUTER ARCHITECTURE * ORGANISATION * A PROF *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>COMPUTER ARCHITECTURE * ORGANISATION * A PROF</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ COMPUTER ARCHITECTURE * ORGANISATION A * PROF *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER ARCHITECTURE * ORGANISATION A * PROF</pattern>
+
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>COMPUTER ARCHITECTURE * ORGANISATION A * PROF *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>COMPUTER ARCHITECTURE * ORGANISATION A * PROF</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A PROF * COMPUTER ARCHITECTURE * ORGANISATION *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROF * COMPUTER ARCHITECTURE * ORGANISATION</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROF * COMPUTER ARCHITECTURE * ORGANISATION *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROF * COMPUTER ARCHITECTURE * ORGANISATION</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROF COMPUTER ARCHITECTURE * ORGANISATION *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROF COMPUTER ARCHITECTURE * ORGANISATION</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * PROF COMPUTER ARCHITECTURE * ORGANISATION *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROF COMPUTER ARCHITECTURE * ORGANISATION</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A COMPUTER ARCHITECTURE * ORGANISATION PROF *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A COMPUTER ARCHITECTURE * ORGANISATION PROF</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * COMPUTER ARCHITECTURE * ORGANISATION PROF *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * COMPUTER ARCHITECTURE * ORGANISATION PROF</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * COMPUTER ARCHITECTURE * ORGANISATION * A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * COMPUTER ARCHITECTURE * ORGANISATION * A</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * COMPUTER ARCHITECTURE * ORGANISATION * A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * COMPUTER ARCHITECTURE * ORGANISATION * A</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * COMPUTER ARCHITECTURE * ORGANISATION A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * COMPUTER ARCHITECTURE * ORGANISATION A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER COMPUTER ARCHITECTURE * ORGANISATION * A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER COMPUTER ARCHITECTURE * ORGANISATION * A</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER COMPUTER ARCHITECTURE * ORGANISATION * A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER COMPUTER ARCHITECTURE * ORGANISATION * A</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER COMPUTER ARCHITECTURE * ORGANISATION A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER COMPUTER ARCHITECTURE * ORGANISATION A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER * A * COMPUTER ARCHITECTURE * ORGANISATION *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER * A * COMPUTER ARCHITECTURE * ORGANISATION</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * A * COMPUTER ARCHITECTURE * ORGANISATION *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * A * COMPUTER ARCHITECTURE * ORGANISATION</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER A * COMPUTER ARCHITECTURE * ORGANISATION *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER A * COMPUTER ARCHITECTURE * ORGANISATION</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER A * COMPUTER ARCHITECTURE * ORGANISATION *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER A * COMPUTER ARCHITECTURE * ORGANISATION</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * A COMPUTER ARCHITECTURE * ORGANISATION *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * A COMPUTER ARCHITECTURE * ORGANISATION</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * A COMPUTER ARCHITECTURE * ORGANISATION *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * A COMPUTER ARCHITECTURE * ORGANISATION</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ COMPUTER ARCHITECTURE * ORGANISATION LECTURER * A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER ARCHITECTURE * ORGANISATION LECTURER * A</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>COMPUTER ARCHITECTURE * ORGANISATION LECTURER * A</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER ARCHITECTURE * ORGANISATION LECTURER A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>COMPUTER ARCHITECTURE * ORGANISATION LECTURER A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER ARCHITECTURE * ORGANISATION * A LECTURER *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER ARCHITECTURE * ORGANISATION * A LECTURER</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>COMPUTER ARCHITECTURE * ORGANISATION * A LECTURER *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>COMPUTER ARCHITECTURE * ORGANISATION * A LECTURER</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ COMPUTER ARCHITECTURE * ORGANISATION A * LECTURER *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER ARCHITECTURE * ORGANISATION A * LECTURER</pattern>
+
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>COMPUTER ARCHITECTURE * ORGANISATION A * LECTURER *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>COMPUTER ARCHITECTURE * ORGANISATION A * LECTURER</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A LECTURER * COMPUTER ARCHITECTURE * ORGANISATION *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECTURER * COMPUTER ARCHITECTURE * ORGANISATION</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECTURER * COMPUTER ARCHITECTURE * ORGANISATION *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECTURER * COMPUTER ARCHITECTURE * ORGANISATION</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECTURER COMPUTER ARCHITECTURE * ORGANISATION *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECTURER COMPUTER ARCHITECTURE * ORGANISATION</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * LECTURER COMPUTER ARCHITECTURE * ORGANISATION *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECTURER COMPUTER ARCHITECTURE * ORGANISATION</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A COMPUTER ARCHITECTURE * ORGANISATION LECTURER *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A COMPUTER ARCHITECTURE * ORGANISATION LECTURER</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * COMPUTER ARCHITECTURE * ORGANISATION LECTURER *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * COMPUTER ARCHITECTURE * ORGANISATION LECTURER</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * COMPUTER ARCHITECTURE * ORGANISATION * A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * COMPUTER ARCHITECTURE * ORGANISATION * A</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * COMPUTER ARCHITECTURE * ORGANISATION * A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * COMPUTER ARCHITECTURE * ORGANISATION * A</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * COMPUTER ARCHITECTURE * ORGANISATION A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * COMPUTER ARCHITECTURE * ORGANISATION A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT COMPUTER ARCHITECTURE * ORGANISATION * A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT COMPUTER ARCHITECTURE * ORGANISATION * A</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT COMPUTER ARCHITECTURE * ORGANISATION * A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT COMPUTER ARCHITECTURE * ORGANISATION * A</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT COMPUTER ARCHITECTURE * ORGANISATION A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT COMPUTER ARCHITECTURE * ORGANISATION A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT * A * COMPUTER ARCHITECTURE * ORGANISATION *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT * A * COMPUTER ARCHITECTURE * ORGANISATION</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * A * COMPUTER ARCHITECTURE * ORGANISATION *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * A * COMPUTER ARCHITECTURE * ORGANISATION</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT A * COMPUTER ARCHITECTURE * ORGANISATION *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT A * COMPUTER ARCHITECTURE * ORGANISATION</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT A * COMPUTER ARCHITECTURE * ORGANISATION *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT A * COMPUTER ARCHITECTURE * ORGANISATION</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * A COMPUTER ARCHITECTURE * ORGANISATION *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * A COMPUTER ARCHITECTURE * ORGANISATION</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * A COMPUTER ARCHITECTURE * ORGANISATION *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * A COMPUTER ARCHITECTURE * ORGANISATION</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ COMPUTER ARCHITECTURE * ORGANISATION LECT * A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER ARCHITECTURE * ORGANISATION LECT * A</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>COMPUTER ARCHITECTURE * ORGANISATION LECT * A</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER ARCHITECTURE * ORGANISATION LECT A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>COMPUTER ARCHITECTURE * ORGANISATION LECT A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER ARCHITECTURE * ORGANISATION * A LECT *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER ARCHITECTURE * ORGANISATION * A LECT</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>COMPUTER ARCHITECTURE * ORGANISATION * A LECT *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>COMPUTER ARCHITECTURE * ORGANISATION * A LECT</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ COMPUTER ARCHITECTURE * ORGANISATION A * LECT *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER ARCHITECTURE * ORGANISATION A * LECT</pattern>
+
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>COMPUTER ARCHITECTURE * ORGANISATION A * LECT *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>COMPUTER ARCHITECTURE * ORGANISATION A * LECT</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A LECT * COMPUTER ARCHITECTURE * ORGANISATION *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECT * COMPUTER ARCHITECTURE * ORGANISATION</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECT * COMPUTER ARCHITECTURE * ORGANISATION *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECT * COMPUTER ARCHITECTURE * ORGANISATION</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECT COMPUTER ARCHITECTURE * ORGANISATION *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECT COMPUTER ARCHITECTURE * ORGANISATION</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * LECT COMPUTER ARCHITECTURE * ORGANISATION *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECT COMPUTER ARCHITECTURE * ORGANISATION</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A COMPUTER ARCHITECTURE * ORGANISATION LECT *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A COMPUTER ARCHITECTURE * ORGANISATION LECT</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * COMPUTER ARCHITECTURE * ORGANISATION LECT *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * COMPUTER ARCHITECTURE * ORGANISATION LECT</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * COMPUTER ARCHITECTURE * ORGANISATION * A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * COMPUTER ARCHITECTURE * ORGANISATION * A</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * COMPUTER ARCHITECTURE * ORGANISATION * A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * COMPUTER ARCHITECTURE * ORGANISATION * A</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * COMPUTER ARCHITECTURE * ORGANISATION A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * COMPUTER ARCHITECTURE * ORGANISATION A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER COMPUTER ARCHITECTURE * ORGANISATION * A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER COMPUTER ARCHITECTURE * ORGANISATION * A</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER COMPUTER ARCHITECTURE * ORGANISATION * A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER COMPUTER ARCHITECTURE * ORGANISATION * A</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER COMPUTER ARCHITECTURE * ORGANISATION A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER COMPUTER ARCHITECTURE * ORGANISATION A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER * A * COMPUTER ARCHITECTURE * ORGANISATION *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER * A * COMPUTER ARCHITECTURE * ORGANISATION</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * A * COMPUTER ARCHITECTURE * ORGANISATION *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * A * COMPUTER ARCHITECTURE * ORGANISATION</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER A * COMPUTER ARCHITECTURE * ORGANISATION *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER A * COMPUTER ARCHITECTURE * ORGANISATION</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER A * COMPUTER ARCHITECTURE * ORGANISATION *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER A * COMPUTER ARCHITECTURE * ORGANISATION</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * A COMPUTER ARCHITECTURE * ORGANISATION *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * A COMPUTER ARCHITECTURE * ORGANISATION</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * A COMPUTER ARCHITECTURE * ORGANISATION *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * A COMPUTER ARCHITECTURE * ORGANISATION</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ COMPUTER ARCHITECTURE * ORGANISATION TEACHER * A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER ARCHITECTURE * ORGANISATION TEACHER * A</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>COMPUTER ARCHITECTURE * ORGANISATION TEACHER * A</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER ARCHITECTURE * ORGANISATION TEACHER A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>COMPUTER ARCHITECTURE * ORGANISATION TEACHER A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER ARCHITECTURE * ORGANISATION * A TEACHER *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER ARCHITECTURE * ORGANISATION * A TEACHER</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>COMPUTER ARCHITECTURE * ORGANISATION * A TEACHER *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>COMPUTER ARCHITECTURE * ORGANISATION * A TEACHER</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ COMPUTER ARCHITECTURE * ORGANISATION A * TEACHER *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER ARCHITECTURE * ORGANISATION A * TEACHER</pattern>
+
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>COMPUTER ARCHITECTURE * ORGANISATION A * TEACHER *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>COMPUTER ARCHITECTURE * ORGANISATION A * TEACHER</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A TEACHER * COMPUTER ARCHITECTURE * ORGANISATION *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A TEACHER * COMPUTER ARCHITECTURE * ORGANISATION</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * TEACHER * COMPUTER ARCHITECTURE * ORGANISATION *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * TEACHER * COMPUTER ARCHITECTURE * ORGANISATION</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A TEACHER COMPUTER ARCHITECTURE * ORGANISATION *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A TEACHER COMPUTER ARCHITECTURE * ORGANISATION</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * TEACHER COMPUTER ARCHITECTURE * ORGANISATION *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * TEACHER COMPUTER ARCHITECTURE * ORGANISATION</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A COMPUTER ARCHITECTURE * ORGANISATION TEACHER *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A COMPUTER ARCHITECTURE * ORGANISATION TEACHER</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * COMPUTER ARCHITECTURE * ORGANISATION TEACHER *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * COMPUTER ARCHITECTURE * ORGANISATION TEACHER</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ FACULTY * COMPUTER ARCHITECTURE * ORGANISATION * A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * COMPUTER ARCHITECTURE * ORGANISATION * A</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * COMPUTER ARCHITECTURE * ORGANISATION * A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * COMPUTER ARCHITECTURE * ORGANISATION * A</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * COMPUTER ARCHITECTURE * ORGANISATION A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * COMPUTER ARCHITECTURE * ORGANISATION A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY COMPUTER ARCHITECTURE * ORGANISATION * A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY COMPUTER ARCHITECTURE * ORGANISATION * A</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY COMPUTER ARCHITECTURE * ORGANISATION * A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY COMPUTER ARCHITECTURE * ORGANISATION * A</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY COMPUTER ARCHITECTURE * ORGANISATION A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY COMPUTER ARCHITECTURE * ORGANISATION A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY * A * COMPUTER ARCHITECTURE * ORGANISATION *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY * A * COMPUTER ARCHITECTURE * ORGANISATION</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * A * COMPUTER ARCHITECTURE * ORGANISATION *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * A * COMPUTER ARCHITECTURE * ORGANISATION</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY A * COMPUTER ARCHITECTURE * ORGANISATION *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY A * COMPUTER ARCHITECTURE * ORGANISATION</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY A * COMPUTER ARCHITECTURE * ORGANISATION *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY A * COMPUTER ARCHITECTURE * ORGANISATION</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * A COMPUTER ARCHITECTURE * ORGANISATION *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * A COMPUTER ARCHITECTURE * ORGANISATION</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * A COMPUTER ARCHITECTURE * ORGANISATION *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * A COMPUTER ARCHITECTURE * ORGANISATION</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ COMPUTER ARCHITECTURE * ORGANISATION FACULTY * A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER ARCHITECTURE * ORGANISATION FACULTY * A</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>COMPUTER ARCHITECTURE * ORGANISATION FACULTY * A</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER ARCHITECTURE * ORGANISATION FACULTY A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>COMPUTER ARCHITECTURE * ORGANISATION FACULTY A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER ARCHITECTURE * ORGANISATION * A FACULTY *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER ARCHITECTURE * ORGANISATION * A FACULTY</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>COMPUTER ARCHITECTURE * ORGANISATION * A FACULTY *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>COMPUTER ARCHITECTURE * ORGANISATION * A FACULTY</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ COMPUTER ARCHITECTURE * ORGANISATION A * FACULTY *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER ARCHITECTURE * ORGANISATION A * FACULTY</pattern>
+
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>COMPUTER ARCHITECTURE * ORGANISATION A * FACULTY *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>COMPUTER ARCHITECTURE * ORGANISATION A * FACULTY</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A FACULTY * COMPUTER ARCHITECTURE * ORGANISATION *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A FACULTY * COMPUTER ARCHITECTURE * ORGANISATION</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * FACULTY * COMPUTER ARCHITECTURE * ORGANISATION *</pattern>
+	<template><srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * FACULTY * COMPUTER ARCHITECTURE * ORGANISATION</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A FACULTY COMPUTER ARCHITECTURE * ORGANISATION *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A FACULTY COMPUTER ARCHITECTURE * ORGANISATION</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * FACULTY COMPUTER ARCHITECTURE * ORGANISATION *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * FACULTY COMPUTER ARCHITECTURE * ORGANISATION</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A COMPUTER ARCHITECTURE * ORGANISATION FACULTY *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A COMPUTER ARCHITECTURE * ORGANISATION FACULTY</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * COMPUTER ARCHITECTURE * ORGANISATION FACULTY *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * COMPUTER ARCHITECTURE * ORGANISATION FACULTY</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ TEACHES COMPUTER ARCHITECTURE * ORGANISATION * A</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES COMPUTER ARCHITECTURE * ORGANISATION A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHES * A COMPUTER ARCHITECTURE * ORGANISATION *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES * A COMPUTER ARCHITECTURE * ORGANISATION</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ TEACHES A * COMPUTER ARCHITECTURE * ORGANISATION *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES A * COMPUTER ARCHITECTURE * ORGANISATION</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER ARCHITECTURE * ORGANISATION * A * TAUGHT *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>COMPUTER ARCHITECTURE * ORGANISATION * A * TAUGHT *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER ARCHITECTURE * ORGANISATION A * TAUGHT *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>COMPUTER ARCHITECTURE * ORGANISATION A * TAUGHT *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER ARCHITECTURE * ORGANISATION * A TAUGHT *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>COMPUTER ARCHITECTURE * ORGANISATION * A TAUGHT *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * COMPUTER ARCHITECTURE * ORGANISATION * B *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * COMPUTER ARCHITECTURE * ORGANISATION * B</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * COMPUTER ARCHITECTURE * ORGANISATION B *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES COMPUTER ARCHITECTURE * ORGANISATION * B *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES COMPUTER ARCHITECTURE * ORGANISATION * B</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES COMPUTER ARCHITECTURE * ORGANISATION B *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * CAO * A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * CAO * A</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * CAO * A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * CAO * A</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * CAO A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * CAO A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR CAO * A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR CAO * A</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR CAO * A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR CAO * A</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR CAO A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR CAO A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR * A * CAO *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR * A * CAO</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * A * CAO *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * A * CAO</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR A * CAO *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR A * CAO</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR A * CAO *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR A * CAO</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * A CAO *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * A CAO</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * A CAO *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * A CAO</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CAO PROFESSOR * A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CAO PROFESSOR * A</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>CAO PROFESSOR * A</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CAO PROFESSOR A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>CAO PROFESSOR A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CAO * A PROFESSOR *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CAO * A PROFESSOR</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>CAO * A PROFESSOR *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>CAO * A PROFESSOR</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ CAO A * PROFESSOR *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CAO A * PROFESSOR</pattern>
+
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>CAO A * PROFESSOR *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>CAO A * PROFESSOR</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A PROFESSOR * CAO *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROFESSOR * CAO</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROFESSOR * CAO *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROFESSOR * CAO</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROFESSOR CAO *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROFESSOR CAO</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * PROFESSOR CAO *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROFESSOR CAO</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A CAO PROFESSOR *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A CAO PROFESSOR</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * CAO PROFESSOR *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * CAO PROFESSOR</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * CAO * A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * CAO * A</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * CAO * A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * CAO * A</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * CAO A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * CAO A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF CAO * A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF CAO * A</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF CAO * A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF CAO * A</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF CAO A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF CAO A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF * A * CAO *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF * A * CAO</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * A * CAO *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * A * CAO</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF A * CAO *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF A * CAO</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF A * CAO *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF A * CAO</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * A CAO *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * A CAO</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * A CAO *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * A CAO</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CAO PROF * A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CAO PROF * A</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>CAO PROF * A</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CAO PROF A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>CAO PROF A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CAO * A PROF *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CAO * A PROF</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>CAO * A PROF *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>CAO * A PROF</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ CAO A * PROF *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CAO A * PROF</pattern>
+
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>CAO A * PROF *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>CAO A * PROF</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A PROF * CAO *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROF * CAO</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROF * CAO *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROF * CAO</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROF CAO *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROF CAO</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * PROF CAO *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROF CAO</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A CAO PROF *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A CAO PROF</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * CAO PROF *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * CAO PROF</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * CAO * A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * CAO * A</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * CAO * A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * CAO * A</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * CAO A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * CAO A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER CAO * A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER CAO * A</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER CAO * A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER CAO * A</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER CAO A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER CAO A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER * A * CAO *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER * A * CAO</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * A * CAO *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * A * CAO</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER A * CAO *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER A * CAO</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER A * CAO *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER A * CAO</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * A CAO *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * A CAO</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * A CAO *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * A CAO</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CAO LECTURER * A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CAO LECTURER * A</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>CAO LECTURER * A</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CAO LECTURER A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>CAO LECTURER A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CAO * A LECTURER *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CAO * A LECTURER</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>CAO * A LECTURER *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>CAO * A LECTURER</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ CAO A * LECTURER *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CAO A * LECTURER</pattern>
+
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>CAO A * LECTURER *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>CAO A * LECTURER</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A LECTURER * CAO *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECTURER * CAO</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECTURER * CAO *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECTURER * CAO</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECTURER CAO *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECTURER CAO</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * LECTURER CAO *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECTURER CAO</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A CAO LECTURER *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A CAO LECTURER</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * CAO LECTURER *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * CAO LECTURER</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * CAO * A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * CAO * A</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * CAO * A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * CAO * A</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * CAO A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * CAO A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT CAO * A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT CAO * A</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT CAO * A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT CAO * A</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT CAO A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT CAO A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT * A * CAO *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT * A * CAO</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * A * CAO *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * A * CAO</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT A * CAO *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT A * CAO</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT A * CAO *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT A * CAO</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * A CAO *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * A CAO</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * A CAO *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * A CAO</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CAO LECT * A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CAO LECT * A</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>CAO LECT * A</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CAO LECT A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>CAO LECT A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CAO * A LECT *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CAO * A LECT</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>CAO * A LECT *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>CAO * A LECT</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ CAO A * LECT *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CAO A * LECT</pattern>
+
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>CAO A * LECT *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>CAO A * LECT</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A LECT * CAO *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECT * CAO</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECT * CAO *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECT * CAO</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECT CAO *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECT CAO</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * LECT CAO *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECT CAO</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A CAO LECT *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A CAO LECT</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * CAO LECT *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * CAO LECT</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * CAO * A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * CAO * A</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * CAO * A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * CAO * A</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * CAO A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * CAO A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER CAO * A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER CAO * A</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER CAO * A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER CAO * A</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER CAO A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER CAO A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER * A * CAO *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER * A * CAO</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * A * CAO *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * A * CAO</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER A * CAO *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER A * CAO</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER A * CAO *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER A * CAO</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * A CAO *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * A CAO</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * A CAO *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * A CAO</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CAO TEACHER * A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CAO TEACHER * A</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>CAO TEACHER * A</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CAO TEACHER A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>CAO TEACHER A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CAO * A TEACHER *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CAO * A TEACHER</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>CAO * A TEACHER *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>CAO * A TEACHER</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ CAO A * TEACHER *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CAO A * TEACHER</pattern>
+
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>CAO A * TEACHER *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>CAO A * TEACHER</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A TEACHER * CAO *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A TEACHER * CAO</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * TEACHER * CAO *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * TEACHER * CAO</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A TEACHER CAO *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A TEACHER CAO</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * TEACHER CAO *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * TEACHER CAO</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A CAO TEACHER *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A CAO TEACHER</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * CAO TEACHER *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * CAO TEACHER</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ FACULTY * CAO * A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * CAO * A</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * CAO * A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * CAO * A</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * CAO A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * CAO A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY CAO * A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY CAO * A</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY CAO * A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY CAO * A</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY CAO A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY CAO A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY * A * CAO *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY * A * CAO</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * A * CAO *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * A * CAO</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY A * CAO *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY A * CAO</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY A * CAO *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY A * CAO</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * A CAO *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * A CAO</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * A CAO *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * A CAO</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CAO FACULTY * A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CAO FACULTY * A</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>CAO FACULTY * A</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CAO FACULTY A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>CAO FACULTY A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CAO * A FACULTY *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CAO * A FACULTY</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>CAO * A FACULTY *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>CAO * A FACULTY</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ CAO A * FACULTY *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CAO A * FACULTY</pattern>
+
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>CAO A * FACULTY *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>CAO A * FACULTY</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A FACULTY * CAO *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A FACULTY * CAO</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * FACULTY * CAO *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * FACULTY * CAO</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A FACULTY CAO *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A FACULTY CAO</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * FACULTY CAO *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * FACULTY CAO</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A CAO FACULTY *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A CAO FACULTY</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * CAO FACULTY *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * CAO FACULTY</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ TEACHES CAO * A</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES CAO A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHES * A CAO *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES * A CAO</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ TEACHES A * CAO *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES A * CAO</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CAO * A * TAUGHT *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>CAO * A * TAUGHT *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CAO A * TAUGHT *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>CAO A * TAUGHT *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CAO * A TAUGHT *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>CAO * A TAUGHT *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * CAO * A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * CAO * A</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * CAO A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES CAO * A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES CAO * A</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES CAO A *</pattern>
+	<template>
+		<srai>CAA</srai>
+	</template>
+</category>
+
+
+
+</aiml>

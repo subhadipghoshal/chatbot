@@ -1,0 +1,6859 @@
+<aiml version="1.0.1" encoding="UTF-8">
+
+<category>
+	<pattern>LPB</pattern>
+	<template>
+		<random>
+			<li>Mr. Rajeev Nandkishor Verma teaches LANGUAGE PROCESSORS</li>
+			<li>Mr. Rajeev Nandkishor Verma</li>
+			<li>LANGUAGE PROCESSORS is taught by Mr. Rajeev Nandkishor Verma</li>
+		</random>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * LANGUAGE PROCESSORS * B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * LANGUAGE PROCESSORS * B</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * LANGUAGE PROCESSORS * B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * LANGUAGE PROCESSORS * B</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * LANGUAGE PROCESSORS B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * LANGUAGE PROCESSORS B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR LANGUAGE PROCESSORS * B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR LANGUAGE PROCESSORS * B</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR LANGUAGE PROCESSORS * B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR LANGUAGE PROCESSORS * B</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR LANGUAGE PROCESSORS B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR LANGUAGE PROCESSORS B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR * B * LANGUAGE PROCESSORS *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR * B * LANGUAGE PROCESSORS</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * B * LANGUAGE PROCESSORS *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * B * LANGUAGE PROCESSORS</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR B * LANGUAGE PROCESSORS *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR B * LANGUAGE PROCESSORS</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR B * LANGUAGE PROCESSORS *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR B * LANGUAGE PROCESSORS</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * B LANGUAGE PROCESSORS *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * B LANGUAGE PROCESSORS</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * B LANGUAGE PROCESSORS *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * B LANGUAGE PROCESSORS</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LANGUAGE PROCESSORS PROFESSOR * B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LANGUAGE PROCESSORS PROFESSOR * B</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LANGUAGE PROCESSORS PROFESSOR * B</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LANGUAGE PROCESSORS PROFESSOR B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LANGUAGE PROCESSORS PROFESSOR B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LANGUAGE PROCESSORS * B PROFESSOR *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LANGUAGE PROCESSORS * B PROFESSOR</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LANGUAGE PROCESSORS * B PROFESSOR *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LANGUAGE PROCESSORS * B PROFESSOR</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ LANGUAGE PROCESSORS B * PROFESSOR *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LANGUAGE PROCESSORS B * PROFESSOR</pattern>
+
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LANGUAGE PROCESSORS B * PROFESSOR *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LANGUAGE PROCESSORS B * PROFESSOR</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROFESSOR * LANGUAGE PROCESSORS *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROFESSOR * LANGUAGE PROCESSORS</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR * LANGUAGE PROCESSORS *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR * LANGUAGE PROCESSORS</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROFESSOR LANGUAGE PROCESSORS *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROFESSOR LANGUAGE PROCESSORS</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * PROFESSOR LANGUAGE PROCESSORS *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR LANGUAGE PROCESSORS</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LANGUAGE PROCESSORS PROFESSOR *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LANGUAGE PROCESSORS PROFESSOR</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * LANGUAGE PROCESSORS PROFESSOR *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LANGUAGE PROCESSORS PROFESSOR</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * LANGUAGE PROCESSORS * B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * LANGUAGE PROCESSORS * B</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * LANGUAGE PROCESSORS * B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * LANGUAGE PROCESSORS * B</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * LANGUAGE PROCESSORS B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * LANGUAGE PROCESSORS B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF LANGUAGE PROCESSORS * B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF LANGUAGE PROCESSORS * B</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF LANGUAGE PROCESSORS * B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF LANGUAGE PROCESSORS * B</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF LANGUAGE PROCESSORS B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF LANGUAGE PROCESSORS B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF * B * LANGUAGE PROCESSORS *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF * B * LANGUAGE PROCESSORS</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * B * LANGUAGE PROCESSORS *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * B * LANGUAGE PROCESSORS</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF B * LANGUAGE PROCESSORS *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF B * LANGUAGE PROCESSORS</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF B * LANGUAGE PROCESSORS *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF B * LANGUAGE PROCESSORS</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * B LANGUAGE PROCESSORS *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * B LANGUAGE PROCESSORS</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * B LANGUAGE PROCESSORS *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * B LANGUAGE PROCESSORS</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LANGUAGE PROCESSORS PROF * B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LANGUAGE PROCESSORS PROF * B</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LANGUAGE PROCESSORS PROF * B</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LANGUAGE PROCESSORS PROF B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LANGUAGE PROCESSORS PROF B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LANGUAGE PROCESSORS * B PROF *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LANGUAGE PROCESSORS * B PROF</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LANGUAGE PROCESSORS * B PROF *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LANGUAGE PROCESSORS * B PROF</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ LANGUAGE PROCESSORS B * PROF *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LANGUAGE PROCESSORS B * PROF</pattern>
+
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LANGUAGE PROCESSORS B * PROF *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LANGUAGE PROCESSORS B * PROF</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROF * LANGUAGE PROCESSORS *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROF * LANGUAGE PROCESSORS</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF * LANGUAGE PROCESSORS *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF * LANGUAGE PROCESSORS</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROF LANGUAGE PROCESSORS *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROF LANGUAGE PROCESSORS</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * PROF LANGUAGE PROCESSORS *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF LANGUAGE PROCESSORS</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LANGUAGE PROCESSORS PROF *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LANGUAGE PROCESSORS PROF</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * LANGUAGE PROCESSORS PROF *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * LANGUAGE PROCESSORS PROF</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * LANGUAGE PROCESSORS * B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * LANGUAGE PROCESSORS * B</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * LANGUAGE PROCESSORS * B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * LANGUAGE PROCESSORS * B</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * LANGUAGE PROCESSORS B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * LANGUAGE PROCESSORS B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER LANGUAGE PROCESSORS * B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER LANGUAGE PROCESSORS * B</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER LANGUAGE PROCESSORS * B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER LANGUAGE PROCESSORS * B</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER LANGUAGE PROCESSORS B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER LANGUAGE PROCESSORS B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER * B * LANGUAGE PROCESSORS *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER * B * LANGUAGE PROCESSORS</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * B * LANGUAGE PROCESSORS *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * B * LANGUAGE PROCESSORS</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER B * LANGUAGE PROCESSORS *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER B * LANGUAGE PROCESSORS</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER B * LANGUAGE PROCESSORS *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER B * LANGUAGE PROCESSORS</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * B LANGUAGE PROCESSORS *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * B LANGUAGE PROCESSORS</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * B LANGUAGE PROCESSORS *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * B LANGUAGE PROCESSORS</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LANGUAGE PROCESSORS LECTURER * B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LANGUAGE PROCESSORS LECTURER * B</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LANGUAGE PROCESSORS LECTURER * B</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LANGUAGE PROCESSORS LECTURER B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LANGUAGE PROCESSORS LECTURER B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LANGUAGE PROCESSORS * B LECTURER *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LANGUAGE PROCESSORS * B LECTURER</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LANGUAGE PROCESSORS * B LECTURER *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LANGUAGE PROCESSORS * B LECTURER</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ LANGUAGE PROCESSORS B * LECTURER *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LANGUAGE PROCESSORS B * LECTURER</pattern>
+
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LANGUAGE PROCESSORS B * LECTURER *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LANGUAGE PROCESSORS B * LECTURER</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LECTURER * LANGUAGE PROCESSORS *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECTURER * LANGUAGE PROCESSORS</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER * LANGUAGE PROCESSORS *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER * LANGUAGE PROCESSORS</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECTURER LANGUAGE PROCESSORS *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECTURER LANGUAGE PROCESSORS</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * LECTURER LANGUAGE PROCESSORS *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER LANGUAGE PROCESSORS</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LANGUAGE PROCESSORS LECTURER *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LANGUAGE PROCESSORS LECTURER</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * LANGUAGE PROCESSORS LECTURER *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LANGUAGE PROCESSORS LECTURER</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * LANGUAGE PROCESSORS * B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * LANGUAGE PROCESSORS * B</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * LANGUAGE PROCESSORS * B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * LANGUAGE PROCESSORS * B</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * LANGUAGE PROCESSORS B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * LANGUAGE PROCESSORS B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT LANGUAGE PROCESSORS * B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT LANGUAGE PROCESSORS * B</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT LANGUAGE PROCESSORS * B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT LANGUAGE PROCESSORS * B</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT LANGUAGE PROCESSORS B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT LANGUAGE PROCESSORS B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT * B * LANGUAGE PROCESSORS *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT * B * LANGUAGE PROCESSORS</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * B * LANGUAGE PROCESSORS *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * B * LANGUAGE PROCESSORS</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT B * LANGUAGE PROCESSORS *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT B * LANGUAGE PROCESSORS</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT B * LANGUAGE PROCESSORS *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT B * LANGUAGE PROCESSORS</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * B LANGUAGE PROCESSORS *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * B LANGUAGE PROCESSORS</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * B LANGUAGE PROCESSORS *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * B LANGUAGE PROCESSORS</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LANGUAGE PROCESSORS LECT * B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LANGUAGE PROCESSORS LECT * B</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LANGUAGE PROCESSORS LECT * B</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LANGUAGE PROCESSORS LECT B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LANGUAGE PROCESSORS LECT B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LANGUAGE PROCESSORS * B LECT *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LANGUAGE PROCESSORS * B LECT</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LANGUAGE PROCESSORS * B LECT *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LANGUAGE PROCESSORS * B LECT</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ LANGUAGE PROCESSORS B * LECT *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LANGUAGE PROCESSORS B * LECT</pattern>
+
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LANGUAGE PROCESSORS B * LECT *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LANGUAGE PROCESSORS B * LECT</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LECT * LANGUAGE PROCESSORS *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECT * LANGUAGE PROCESSORS</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT * LANGUAGE PROCESSORS *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT * LANGUAGE PROCESSORS</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECT LANGUAGE PROCESSORS *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECT LANGUAGE PROCESSORS</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * LECT LANGUAGE PROCESSORS *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT LANGUAGE PROCESSORS</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LANGUAGE PROCESSORS LECT *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LANGUAGE PROCESSORS LECT</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * LANGUAGE PROCESSORS LECT *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LANGUAGE PROCESSORS LECT</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * LANGUAGE PROCESSORS * B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * LANGUAGE PROCESSORS * B</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * LANGUAGE PROCESSORS * B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * LANGUAGE PROCESSORS * B</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * LANGUAGE PROCESSORS B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * LANGUAGE PROCESSORS B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER LANGUAGE PROCESSORS * B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER LANGUAGE PROCESSORS * B</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER LANGUAGE PROCESSORS * B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER LANGUAGE PROCESSORS * B</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER LANGUAGE PROCESSORS B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER LANGUAGE PROCESSORS B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER * B * LANGUAGE PROCESSORS *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER * B * LANGUAGE PROCESSORS</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * B * LANGUAGE PROCESSORS *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * B * LANGUAGE PROCESSORS</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER B * LANGUAGE PROCESSORS *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER B * LANGUAGE PROCESSORS</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER B * LANGUAGE PROCESSORS *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER B * LANGUAGE PROCESSORS</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * B LANGUAGE PROCESSORS *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * B LANGUAGE PROCESSORS</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * B LANGUAGE PROCESSORS *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * B LANGUAGE PROCESSORS</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LANGUAGE PROCESSORS TEACHER * B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LANGUAGE PROCESSORS TEACHER * B</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LANGUAGE PROCESSORS TEACHER * B</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LANGUAGE PROCESSORS TEACHER B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LANGUAGE PROCESSORS TEACHER B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LANGUAGE PROCESSORS * B TEACHER *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LANGUAGE PROCESSORS * B TEACHER</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LANGUAGE PROCESSORS * B TEACHER *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LANGUAGE PROCESSORS * B TEACHER</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ LANGUAGE PROCESSORS B * TEACHER *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LANGUAGE PROCESSORS B * TEACHER</pattern>
+
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LANGUAGE PROCESSORS B * TEACHER *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LANGUAGE PROCESSORS B * TEACHER</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B TEACHER * LANGUAGE PROCESSORS *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B TEACHER * LANGUAGE PROCESSORS</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER * LANGUAGE PROCESSORS *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER * LANGUAGE PROCESSORS</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B TEACHER LANGUAGE PROCESSORS *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B TEACHER LANGUAGE PROCESSORS</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * TEACHER LANGUAGE PROCESSORS *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER LANGUAGE PROCESSORS</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LANGUAGE PROCESSORS TEACHER *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LANGUAGE PROCESSORS TEACHER</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * LANGUAGE PROCESSORS TEACHER *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LANGUAGE PROCESSORS TEACHER</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ FACULTY * LANGUAGE PROCESSORS * B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * LANGUAGE PROCESSORS * B</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * LANGUAGE PROCESSORS * B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * LANGUAGE PROCESSORS * B</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * LANGUAGE PROCESSORS B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * LANGUAGE PROCESSORS B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY LANGUAGE PROCESSORS * B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY LANGUAGE PROCESSORS * B</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY LANGUAGE PROCESSORS * B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY LANGUAGE PROCESSORS * B</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY LANGUAGE PROCESSORS B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY LANGUAGE PROCESSORS B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY * B * LANGUAGE PROCESSORS *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY * B * LANGUAGE PROCESSORS</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * B * LANGUAGE PROCESSORS *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * B * LANGUAGE PROCESSORS</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY B * LANGUAGE PROCESSORS *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY B * LANGUAGE PROCESSORS</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY B * LANGUAGE PROCESSORS *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY B * LANGUAGE PROCESSORS</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * B LANGUAGE PROCESSORS *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * B LANGUAGE PROCESSORS</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * B LANGUAGE PROCESSORS *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * B LANGUAGE PROCESSORS</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LANGUAGE PROCESSORS FACULTY * B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LANGUAGE PROCESSORS FACULTY * B</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LANGUAGE PROCESSORS FACULTY * B</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LANGUAGE PROCESSORS FACULTY B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LANGUAGE PROCESSORS FACULTY B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LANGUAGE PROCESSORS * B FACULTY *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LANGUAGE PROCESSORS * B FACULTY</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LANGUAGE PROCESSORS * B FACULTY *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LANGUAGE PROCESSORS * B FACULTY</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ LANGUAGE PROCESSORS B * FACULTY *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LANGUAGE PROCESSORS B * FACULTY</pattern>
+
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LANGUAGE PROCESSORS B * FACULTY *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LANGUAGE PROCESSORS B * FACULTY</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B FACULTY * LANGUAGE PROCESSORS *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B FACULTY * LANGUAGE PROCESSORS</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY * LANGUAGE PROCESSORS *</pattern>
+	<template><srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY * LANGUAGE PROCESSORS</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B FACULTY LANGUAGE PROCESSORS *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B FACULTY LANGUAGE PROCESSORS</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * FACULTY LANGUAGE PROCESSORS *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY LANGUAGE PROCESSORS</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LANGUAGE PROCESSORS FACULTY *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LANGUAGE PROCESSORS FACULTY</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * LANGUAGE PROCESSORS FACULTY *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LANGUAGE PROCESSORS FACULTY</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ TEACHES LANGUAGE PROCESSORS * B</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES LANGUAGE PROCESSORS B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHES * B LANGUAGE PROCESSORS *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES * B LANGUAGE PROCESSORS</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ TEACHES B * LANGUAGE PROCESSORS *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES B * LANGUAGE PROCESSORS</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LANGUAGE PROCESSORS * B * TAUGHT *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LANGUAGE PROCESSORS * B * TAUGHT *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LANGUAGE PROCESSORS B * TAUGHT *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LANGUAGE PROCESSORS B * TAUGHT *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LANGUAGE PROCESSORS * B TAUGHT *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LANGUAGE PROCESSORS * B TAUGHT *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * LANGUAGE PROCESSORS * B *</pattern>
+	<template>
+		<srai>LPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * LANGUAGE PROCESSORS * B</pattern>
+	<template>
+		<srai>LPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * LANGUAGE PROCESSORS B *</pattern>
+	<template>
+		<srai>LPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES LANGUAGE PROCESSORS * B *</pattern>
+	<template>
+		<srai>LPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES LANGUAGE PROCESSORS * B</pattern>
+	<template>
+		<srai>LPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES LANGUAGE PROCESSORS B *</pattern>
+	<template>
+		<srai>LPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * LP * B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * LP * B</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * LP * B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * LP * B</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * LP B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * LP B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR LP * B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR LP * B</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR LP * B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR LP * B</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR LP B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR LP B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR * B * LP *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR * B * LP</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * B * LP *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * B * LP</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR B * LP *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR B * LP</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR B * LP *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR B * LP</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * B LP *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * B LP</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * B LP *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * B LP</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LP PROFESSOR * B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LP PROFESSOR * B</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LP PROFESSOR * B</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LP PROFESSOR B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LP PROFESSOR B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LP * B PROFESSOR *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LP * B PROFESSOR</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LP * B PROFESSOR *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LP * B PROFESSOR</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ LP B * PROFESSOR *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LP B * PROFESSOR</pattern>
+
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LP B * PROFESSOR *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LP B * PROFESSOR</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROFESSOR * LP *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROFESSOR * LP</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR * LP *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR * LP</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROFESSOR LP *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROFESSOR LP</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * PROFESSOR LP *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR LP</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LP PROFESSOR *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LP PROFESSOR</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * LP PROFESSOR *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LP PROFESSOR</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * LP * B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * LP * B</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * LP * B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * LP * B</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * LP B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * LP B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF LP * B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF LP * B</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF LP * B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF LP * B</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF LP B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF LP B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF * B * LP *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF * B * LP</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * B * LP *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * B * LP</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF B * LP *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF B * LP</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF B * LP *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF B * LP</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * B LP *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * B LP</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * B LP *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * B LP</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LP PROF * B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LP PROF * B</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LP PROF * B</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LP PROF B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LP PROF B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LP * B PROF *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LP * B PROF</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LP * B PROF *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LP * B PROF</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ LP B * PROF *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LP B * PROF</pattern>
+
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LP B * PROF *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LP B * PROF</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROF * LP *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROF * LP</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF * LP *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF * LP</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROF LP *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROF LP</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * PROF LP *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF LP</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LP PROF *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LP PROF</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * LP PROF *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * LP PROF</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * LP * B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * LP * B</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * LP * B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * LP * B</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * LP B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * LP B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER LP * B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER LP * B</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER LP * B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER LP * B</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER LP B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER LP B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER * B * LP *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER * B * LP</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * B * LP *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * B * LP</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER B * LP *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER B * LP</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER B * LP *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER B * LP</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * B LP *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * B LP</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * B LP *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * B LP</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LP LECTURER * B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LP LECTURER * B</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LP LECTURER * B</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LP LECTURER B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LP LECTURER B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LP * B LECTURER *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LP * B LECTURER</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LP * B LECTURER *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LP * B LECTURER</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ LP B * LECTURER *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LP B * LECTURER</pattern>
+
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LP B * LECTURER *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LP B * LECTURER</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LECTURER * LP *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECTURER * LP</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER * LP *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER * LP</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECTURER LP *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECTURER LP</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * LECTURER LP *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER LP</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LP LECTURER *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LP LECTURER</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * LP LECTURER *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LP LECTURER</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * LP * B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * LP * B</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * LP * B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * LP * B</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * LP B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * LP B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT LP * B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT LP * B</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT LP * B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT LP * B</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT LP B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT LP B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT * B * LP *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT * B * LP</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * B * LP *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * B * LP</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT B * LP *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT B * LP</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT B * LP *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT B * LP</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * B LP *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * B LP</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * B LP *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * B LP</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LP LECT * B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LP LECT * B</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LP LECT * B</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LP LECT B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LP LECT B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LP * B LECT *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LP * B LECT</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LP * B LECT *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LP * B LECT</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ LP B * LECT *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LP B * LECT</pattern>
+
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LP B * LECT *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LP B * LECT</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LECT * LP *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECT * LP</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT * LP *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT * LP</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECT LP *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECT LP</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * LECT LP *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT LP</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LP LECT *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LP LECT</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * LP LECT *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LP LECT</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * LP * B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * LP * B</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * LP * B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * LP * B</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * LP B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * LP B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER LP * B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER LP * B</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER LP * B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER LP * B</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER LP B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER LP B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER * B * LP *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER * B * LP</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * B * LP *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * B * LP</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER B * LP *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER B * LP</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER B * LP *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER B * LP</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * B LP *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * B LP</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * B LP *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * B LP</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LP TEACHER * B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LP TEACHER * B</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LP TEACHER * B</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LP TEACHER B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LP TEACHER B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LP * B TEACHER *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LP * B TEACHER</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LP * B TEACHER *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LP * B TEACHER</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ LP B * TEACHER *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LP B * TEACHER</pattern>
+
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LP B * TEACHER *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LP B * TEACHER</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B TEACHER * LP *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B TEACHER * LP</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER * LP *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER * LP</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B TEACHER LP *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B TEACHER LP</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * TEACHER LP *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER LP</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LP TEACHER *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LP TEACHER</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * LP TEACHER *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LP TEACHER</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ FACULTY * LP * B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * LP * B</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * LP * B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * LP * B</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * LP B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * LP B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY LP * B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY LP * B</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY LP * B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY LP * B</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY LP B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY LP B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY * B * LP *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY * B * LP</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * B * LP *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * B * LP</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY B * LP *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY B * LP</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY B * LP *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY B * LP</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * B LP *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * B LP</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * B LP *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * B LP</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LP FACULTY * B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LP FACULTY * B</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LP FACULTY * B</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LP FACULTY B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LP FACULTY B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LP * B FACULTY *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LP * B FACULTY</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LP * B FACULTY *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LP * B FACULTY</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ LP B * FACULTY *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LP B * FACULTY</pattern>
+
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LP B * FACULTY *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LP B * FACULTY</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B FACULTY * LP *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B FACULTY * LP</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY * LP *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY * LP</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B FACULTY LP *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B FACULTY LP</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * FACULTY LP *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY LP</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LP FACULTY *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LP FACULTY</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * LP FACULTY *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LP FACULTY</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ TEACHES LP * B</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES LP B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHES * B LP *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES * B LP</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ TEACHES B * LP *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES B * LP</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LP * B * TAUGHT *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LP * B * TAUGHT *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LP B * TAUGHT *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LP B * TAUGHT *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LP * B TAUGHT *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LP * B TAUGHT *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * LP * B *</pattern>
+	<template>
+		<srai>LPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * LP * B</pattern>
+	<template>
+		<srai>LPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * LP B *</pattern>
+	<template>
+		<srai>LPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES LP * B *</pattern>
+	<template>
+		<srai>LPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES LP * B</pattern>
+	<template>
+		<srai>LPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES LP B *</pattern>
+	<template>
+		<srai>LPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * LANGUAGE PROCESSOR * B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * LANGUAGE PROCESSOR * B</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * LANGUAGE PROCESSOR * B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * LANGUAGE PROCESSOR * B</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * LANGUAGE PROCESSOR B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * LANGUAGE PROCESSOR B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR LANGUAGE PROCESSOR * B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR LANGUAGE PROCESSOR * B</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR LANGUAGE PROCESSOR * B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR LANGUAGE PROCESSOR * B</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR LANGUAGE PROCESSOR B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR LANGUAGE PROCESSOR B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR * B * LANGUAGE PROCESSOR *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR * B * LANGUAGE PROCESSOR</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * B * LANGUAGE PROCESSOR *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * B * LANGUAGE PROCESSOR</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR B * LANGUAGE PROCESSOR *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR B * LANGUAGE PROCESSOR</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR B * LANGUAGE PROCESSOR *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR B * LANGUAGE PROCESSOR</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * B LANGUAGE PROCESSOR *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * B LANGUAGE PROCESSOR</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * B LANGUAGE PROCESSOR *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * B LANGUAGE PROCESSOR</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LANGUAGE PROCESSOR PROFESSOR * B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LANGUAGE PROCESSOR PROFESSOR * B</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LANGUAGE PROCESSOR PROFESSOR * B</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LANGUAGE PROCESSOR PROFESSOR B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LANGUAGE PROCESSOR PROFESSOR B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LANGUAGE PROCESSOR * B PROFESSOR *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LANGUAGE PROCESSOR * B PROFESSOR</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LANGUAGE PROCESSOR * B PROFESSOR *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LANGUAGE PROCESSOR * B PROFESSOR</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ LANGUAGE PROCESSOR B * PROFESSOR *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LANGUAGE PROCESSOR B * PROFESSOR</pattern>
+
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LANGUAGE PROCESSOR B * PROFESSOR *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LANGUAGE PROCESSOR B * PROFESSOR</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROFESSOR * LANGUAGE PROCESSOR *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROFESSOR * LANGUAGE PROCESSOR</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR * LANGUAGE PROCESSOR *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR * LANGUAGE PROCESSOR</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROFESSOR LANGUAGE PROCESSOR *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROFESSOR LANGUAGE PROCESSOR</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * PROFESSOR LANGUAGE PROCESSOR *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR LANGUAGE PROCESSOR</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LANGUAGE PROCESSOR PROFESSOR *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LANGUAGE PROCESSOR PROFESSOR</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * LANGUAGE PROCESSOR PROFESSOR *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LANGUAGE PROCESSOR PROFESSOR</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * LANGUAGE PROCESSOR * B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * LANGUAGE PROCESSOR * B</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * LANGUAGE PROCESSOR * B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * LANGUAGE PROCESSOR * B</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * LANGUAGE PROCESSOR B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * LANGUAGE PROCESSOR B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF LANGUAGE PROCESSOR * B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF LANGUAGE PROCESSOR * B</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF LANGUAGE PROCESSOR * B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF LANGUAGE PROCESSOR * B</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF LANGUAGE PROCESSOR B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF LANGUAGE PROCESSOR B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF * B * LANGUAGE PROCESSOR *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF * B * LANGUAGE PROCESSOR</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * B * LANGUAGE PROCESSOR *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * B * LANGUAGE PROCESSOR</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF B * LANGUAGE PROCESSOR *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF B * LANGUAGE PROCESSOR</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF B * LANGUAGE PROCESSOR *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF B * LANGUAGE PROCESSOR</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * B LANGUAGE PROCESSOR *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * B LANGUAGE PROCESSOR</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * B LANGUAGE PROCESSOR *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * B LANGUAGE PROCESSOR</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LANGUAGE PROCESSOR PROF * B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LANGUAGE PROCESSOR PROF * B</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LANGUAGE PROCESSOR PROF * B</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LANGUAGE PROCESSOR PROF B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LANGUAGE PROCESSOR PROF B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LANGUAGE PROCESSOR * B PROF *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LANGUAGE PROCESSOR * B PROF</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LANGUAGE PROCESSOR * B PROF *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LANGUAGE PROCESSOR * B PROF</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ LANGUAGE PROCESSOR B * PROF *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LANGUAGE PROCESSOR B * PROF</pattern>
+
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LANGUAGE PROCESSOR B * PROF *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LANGUAGE PROCESSOR B * PROF</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROF * LANGUAGE PROCESSOR *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROF * LANGUAGE PROCESSOR</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF * LANGUAGE PROCESSOR *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF * LANGUAGE PROCESSOR</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROF LANGUAGE PROCESSOR *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROF LANGUAGE PROCESSOR</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * PROF LANGUAGE PROCESSOR *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF LANGUAGE PROCESSOR</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LANGUAGE PROCESSOR PROF *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LANGUAGE PROCESSOR PROF</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * LANGUAGE PROCESSOR PROF *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * LANGUAGE PROCESSOR PROF</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * LANGUAGE PROCESSOR * B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * LANGUAGE PROCESSOR * B</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * LANGUAGE PROCESSOR * B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * LANGUAGE PROCESSOR * B</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * LANGUAGE PROCESSOR B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * LANGUAGE PROCESSOR B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER LANGUAGE PROCESSOR * B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER LANGUAGE PROCESSOR * B</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER LANGUAGE PROCESSOR * B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER LANGUAGE PROCESSOR * B</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER LANGUAGE PROCESSOR B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER LANGUAGE PROCESSOR B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER * B * LANGUAGE PROCESSOR *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER * B * LANGUAGE PROCESSOR</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * B * LANGUAGE PROCESSOR *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * B * LANGUAGE PROCESSOR</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER B * LANGUAGE PROCESSOR *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER B * LANGUAGE PROCESSOR</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER B * LANGUAGE PROCESSOR *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER B * LANGUAGE PROCESSOR</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * B LANGUAGE PROCESSOR *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * B LANGUAGE PROCESSOR</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * B LANGUAGE PROCESSOR *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * B LANGUAGE PROCESSOR</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LANGUAGE PROCESSOR LECTURER * B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LANGUAGE PROCESSOR LECTURER * B</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LANGUAGE PROCESSOR LECTURER * B</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LANGUAGE PROCESSOR LECTURER B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LANGUAGE PROCESSOR LECTURER B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LANGUAGE PROCESSOR * B LECTURER *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LANGUAGE PROCESSOR * B LECTURER</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LANGUAGE PROCESSOR * B LECTURER *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LANGUAGE PROCESSOR * B LECTURER</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ LANGUAGE PROCESSOR B * LECTURER *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LANGUAGE PROCESSOR B * LECTURER</pattern>
+
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LANGUAGE PROCESSOR B * LECTURER *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LANGUAGE PROCESSOR B * LECTURER</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LECTURER * LANGUAGE PROCESSOR *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECTURER * LANGUAGE PROCESSOR</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER * LANGUAGE PROCESSOR *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER * LANGUAGE PROCESSOR</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECTURER LANGUAGE PROCESSOR *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECTURER LANGUAGE PROCESSOR</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * LECTURER LANGUAGE PROCESSOR *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER LANGUAGE PROCESSOR</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LANGUAGE PROCESSOR LECTURER *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LANGUAGE PROCESSOR LECTURER</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * LANGUAGE PROCESSOR LECTURER *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LANGUAGE PROCESSOR LECTURER</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * LANGUAGE PROCESSOR * B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * LANGUAGE PROCESSOR * B</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * LANGUAGE PROCESSOR * B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * LANGUAGE PROCESSOR * B</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * LANGUAGE PROCESSOR B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * LANGUAGE PROCESSOR B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT LANGUAGE PROCESSOR * B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT LANGUAGE PROCESSOR * B</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT LANGUAGE PROCESSOR * B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT LANGUAGE PROCESSOR * B</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT LANGUAGE PROCESSOR B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT LANGUAGE PROCESSOR B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT * B * LANGUAGE PROCESSOR *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT * B * LANGUAGE PROCESSOR</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * B * LANGUAGE PROCESSOR *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * B * LANGUAGE PROCESSOR</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT B * LANGUAGE PROCESSOR *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT B * LANGUAGE PROCESSOR</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT B * LANGUAGE PROCESSOR *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT B * LANGUAGE PROCESSOR</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * B LANGUAGE PROCESSOR *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * B LANGUAGE PROCESSOR</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * B LANGUAGE PROCESSOR *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * B LANGUAGE PROCESSOR</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LANGUAGE PROCESSOR LECT * B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LANGUAGE PROCESSOR LECT * B</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LANGUAGE PROCESSOR LECT * B</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LANGUAGE PROCESSOR LECT B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LANGUAGE PROCESSOR LECT B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LANGUAGE PROCESSOR * B LECT *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LANGUAGE PROCESSOR * B LECT</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LANGUAGE PROCESSOR * B LECT *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LANGUAGE PROCESSOR * B LECT</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ LANGUAGE PROCESSOR B * LECT *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LANGUAGE PROCESSOR B * LECT</pattern>
+
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LANGUAGE PROCESSOR B * LECT *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LANGUAGE PROCESSOR B * LECT</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LECT * LANGUAGE PROCESSOR *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECT * LANGUAGE PROCESSOR</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT * LANGUAGE PROCESSOR *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT * LANGUAGE PROCESSOR</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECT LANGUAGE PROCESSOR *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECT LANGUAGE PROCESSOR</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * LECT LANGUAGE PROCESSOR *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT LANGUAGE PROCESSOR</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LANGUAGE PROCESSOR LECT *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LANGUAGE PROCESSOR LECT</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * LANGUAGE PROCESSOR LECT *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LANGUAGE PROCESSOR LECT</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * LANGUAGE PROCESSOR * B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * LANGUAGE PROCESSOR * B</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * LANGUAGE PROCESSOR * B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * LANGUAGE PROCESSOR * B</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * LANGUAGE PROCESSOR B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * LANGUAGE PROCESSOR B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER LANGUAGE PROCESSOR * B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER LANGUAGE PROCESSOR * B</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER LANGUAGE PROCESSOR * B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER LANGUAGE PROCESSOR * B</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER LANGUAGE PROCESSOR B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER LANGUAGE PROCESSOR B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER * B * LANGUAGE PROCESSOR *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER * B * LANGUAGE PROCESSOR</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * B * LANGUAGE PROCESSOR *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * B * LANGUAGE PROCESSOR</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER B * LANGUAGE PROCESSOR *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER B * LANGUAGE PROCESSOR</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER B * LANGUAGE PROCESSOR *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER B * LANGUAGE PROCESSOR</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * B LANGUAGE PROCESSOR *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * B LANGUAGE PROCESSOR</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * B LANGUAGE PROCESSOR *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * B LANGUAGE PROCESSOR</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LANGUAGE PROCESSOR TEACHER * B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LANGUAGE PROCESSOR TEACHER * B</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LANGUAGE PROCESSOR TEACHER * B</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LANGUAGE PROCESSOR TEACHER B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LANGUAGE PROCESSOR TEACHER B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LANGUAGE PROCESSOR * B TEACHER *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LANGUAGE PROCESSOR * B TEACHER</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LANGUAGE PROCESSOR * B TEACHER *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LANGUAGE PROCESSOR * B TEACHER</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ LANGUAGE PROCESSOR B * TEACHER *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LANGUAGE PROCESSOR B * TEACHER</pattern>
+
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LANGUAGE PROCESSOR B * TEACHER *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LANGUAGE PROCESSOR B * TEACHER</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B TEACHER * LANGUAGE PROCESSOR *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B TEACHER * LANGUAGE PROCESSOR</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER * LANGUAGE PROCESSOR *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER * LANGUAGE PROCESSOR</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B TEACHER LANGUAGE PROCESSOR *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B TEACHER LANGUAGE PROCESSOR</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * TEACHER LANGUAGE PROCESSOR *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER LANGUAGE PROCESSOR</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LANGUAGE PROCESSOR TEACHER *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LANGUAGE PROCESSOR TEACHER</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * LANGUAGE PROCESSOR TEACHER *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LANGUAGE PROCESSOR TEACHER</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ FACULTY * LANGUAGE PROCESSOR * B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * LANGUAGE PROCESSOR * B</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * LANGUAGE PROCESSOR * B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * LANGUAGE PROCESSOR * B</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * LANGUAGE PROCESSOR B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * LANGUAGE PROCESSOR B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY LANGUAGE PROCESSOR * B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY LANGUAGE PROCESSOR * B</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY LANGUAGE PROCESSOR * B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY LANGUAGE PROCESSOR * B</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY LANGUAGE PROCESSOR B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY LANGUAGE PROCESSOR B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY * B * LANGUAGE PROCESSOR *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY * B * LANGUAGE PROCESSOR</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * B * LANGUAGE PROCESSOR *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * B * LANGUAGE PROCESSOR</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY B * LANGUAGE PROCESSOR *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY B * LANGUAGE PROCESSOR</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY B * LANGUAGE PROCESSOR *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY B * LANGUAGE PROCESSOR</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * B LANGUAGE PROCESSOR *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * B LANGUAGE PROCESSOR</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * B LANGUAGE PROCESSOR *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * B LANGUAGE PROCESSOR</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LANGUAGE PROCESSOR FACULTY * B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LANGUAGE PROCESSOR FACULTY * B</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LANGUAGE PROCESSOR FACULTY * B</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LANGUAGE PROCESSOR FACULTY B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LANGUAGE PROCESSOR FACULTY B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LANGUAGE PROCESSOR * B FACULTY *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LANGUAGE PROCESSOR * B FACULTY</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LANGUAGE PROCESSOR * B FACULTY *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LANGUAGE PROCESSOR * B FACULTY</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ LANGUAGE PROCESSOR B * FACULTY *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LANGUAGE PROCESSOR B * FACULTY</pattern>
+
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LANGUAGE PROCESSOR B * FACULTY *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LANGUAGE PROCESSOR B * FACULTY</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B FACULTY * LANGUAGE PROCESSOR *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B FACULTY * LANGUAGE PROCESSOR</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY * LANGUAGE PROCESSOR *</pattern>
+	<template><srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY * LANGUAGE PROCESSOR</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B FACULTY LANGUAGE PROCESSOR *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B FACULTY LANGUAGE PROCESSOR</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * FACULTY LANGUAGE PROCESSOR *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY LANGUAGE PROCESSOR</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LANGUAGE PROCESSOR FACULTY *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LANGUAGE PROCESSOR FACULTY</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * LANGUAGE PROCESSOR FACULTY *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LANGUAGE PROCESSOR FACULTY</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ TEACHES LANGUAGE PROCESSOR * B</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES LANGUAGE PROCESSOR B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHES * B LANGUAGE PROCESSOR *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES * B LANGUAGE PROCESSOR</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ TEACHES B * LANGUAGE PROCESSOR *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES B * LANGUAGE PROCESSOR</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LANGUAGE PROCESSOR * B * TAUGHT *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LANGUAGE PROCESSOR * B * TAUGHT *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LANGUAGE PROCESSOR B * TAUGHT *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LANGUAGE PROCESSOR B * TAUGHT *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LANGUAGE PROCESSOR * B TAUGHT *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LANGUAGE PROCESSOR * B TAUGHT *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * LANGUAGE PROCESSOR * B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * LANGUAGE PROCESSOR * B</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * LANGUAGE PROCESSOR B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES LANGUAGE PROCESSOR * B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES LANGUAGE PROCESSOR * B</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES LANGUAGE PROCESSOR B *</pattern>
+	<template>
+		<srai>LPB</srai>
+	</template>
+</category>
+
+
+</aiml>

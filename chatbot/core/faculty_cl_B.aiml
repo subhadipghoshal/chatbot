@@ -1,0 +1,5147 @@
+<aiml version="1.0.1" encoding="UTF-8">
+
+<category>
+	<pattern>CLLB</pattern>
+	<template>
+		<random>
+			<li> Prof Vaishali Hiraman Umathe teaches Cyber Law</li>
+			<li> Prof Vaishali Hiraman Umathe</li>
+			<li>Cyber Law is taught by Prof Vaishali Hiraman Umathe</li>
+		</random>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ PROFESSOR * CYBER LAW * B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * CL * B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ PROFESSOR * CYBER LAW * B</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * CL * B</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR * CYBER LAW * B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR * CL * B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR * CYBER LAW * B</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR * CL * B</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * CYBER LAW B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * CL B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR * CYBER LAW B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR * CL B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR CYBER LAW * B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR CL * B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR CYBER LAW * B</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR CL * B</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR CYBER LAW * B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR CL * B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR CYBER LAW * B</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR CL * B</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR CYBER LAW B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR CL B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR CYBER LAW B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR CL B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+
+
+<category>
+	<pattern>_ PROFESSOR * B * CYBER LAW *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * B * CL *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * B * CYBER LAW</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * B * CL</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR * B * CYBER LAW *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR * B * CL *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR * B * CYBER LAW</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR * B * CL</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR B * CYBER LAW *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR B * CL *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR B * CYBER LAW</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR B * CL</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR B * CYBER LAW *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR B * CL *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR B * CYBER LAW</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR B * CL</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * B CYBER LAW *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * B CL *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * B CYBER LAW</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * B CL</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR * B CYBER LAW *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR * B CL *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR * B CYBER LAW</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR * B CL</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>_ CYBER LAW PROFESSOR * B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CL PROFESSOR * B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CYBER LAW PROFESSOR * B</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CL PROFESSOR * B</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>CYBER LAW PROFESSOR * B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>CL PROFESSOR * B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>CYBER LAW PROFESSOR * B</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>CL PROFESSOR * B</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CYBER LAW PROFESSOR B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CL PROFESSOR B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>CYBER LAW PROFESSOR B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>CL PROFESSOR B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>_ CYBER LAW * B PROFESSOR *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CL * B PROFESSOR *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CYBER LAW * B PROFESSOR</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CL * B PROFESSOR</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>CYBER LAW * B PROFESSOR *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>CL * B PROFESSOR *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>CYBER LAW * B PROFESSOR</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>CL * B PROFESSOR</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CYBER LAW B * PROFESSOR *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CL B * PROFESSOR *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CYBER LAW B * PROFESSOR</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CL B * PROFESSOR</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>CYBER LAW B * PROFESSOR *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>CL B * PROFESSOR *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>CYBER LAW B * PROFESSOR</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>CL B * PROFESSOR</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>_ B PROFESSOR * CYBER LAW *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROFESSOR * CL *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROFESSOR * CYBER LAW</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROFESSOR * CL</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR * CYBER LAW *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR * CL *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR * CYBER LAW</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR * CL</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROFESSOR CYBER LAW *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROFESSOR CL *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROFESSOR CYBER LAW</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ B PROFESSOR CL</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR CYBER LAW *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR CL *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR CYBER LAW</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR CL</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+
+
+<category>
+	<pattern>_ B CYBER LAW PROFESSOR *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B CL PROFESSOR *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B CYBER LAW PROFESSOR</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B CL PROFESSOR</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * CYBER LAW PROFESSOR *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * CL PROFESSOR *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * CYBER LAW PROFESSOR</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * CL PROFESSOR</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+
+
+<category>
+	<pattern>_ PROF * CYBER LAW * B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * CL * B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ PROF * CYBER LAW * B</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * CL * B</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF * CYBER LAW * B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF * CL * B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF * CYBER LAW * B</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF * CL * B</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * CYBER LAW B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * CL B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF * CYBER LAW B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF * CL B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF CYBER LAW * B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF CL * B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF CYBER LAW * B</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF CL * B</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF CYBER LAW * B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF CL * B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF CYBER LAW * B</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF CL * B</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF CYBER LAW B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF CL B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF CYBER LAW B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF CL B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+
+
+<category>
+	<pattern>_ PROF * B * CYBER LAW *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * B * CL *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * B * CYBER LAW</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * B * CL</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF * B * CYBER LAW *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF * B * CL *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF * B * CYBER LAW</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF * B * CL</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF B * CYBER LAW *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF B * CL *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF B * CYBER LAW</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF B * CL</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF B * CYBER LAW *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF B * CL *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF B * CYBER LAW</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF B * CL</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * B CYBER LAW *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * B CL *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * B CYBER LAW</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * B CL</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF * B CYBER LAW *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF * B CL *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF * B CYBER LAW</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF * B CL</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>_ CYBER LAW PROF * B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CL PROF * B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CYBER LAW PROF * B</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CL PROF * B</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>CYBER LAW PROF * B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>CL PROF * B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>CYBER LAW PROF * B</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>CL PROF * B</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CYBER LAW PROF B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CL PROF B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>CYBER LAW PROF B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>CL PROF B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>_ CYBER LAW * B PROF *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CL * B PROF *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CYBER LAW * B PROF</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CL * B PROF</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>CYBER LAW * B PROF *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>CL * B PROF *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>CYBER LAW * B PROF</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>CL * B PROF</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CYBER LAW B * PROF *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CL B * PROF *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CYBER LAW B * PROF</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CL B * PROF</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>CYBER LAW B * PROF *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>CL B * PROF *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>CYBER LAW B * PROF</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>CL B * PROF</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>_ B PROF * CYBER LAW *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROF * CL *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROF * CYBER LAW</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROF * CL</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF * CYBER LAW *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF * CL *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF * CYBER LAW</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF * CL</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROF CYBER LAW *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROF CL *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROF CYBER LAW</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ B PROF CL</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF CYBER LAW *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF CL *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF CYBER LAW</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF CL</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+
+
+<category>
+	<pattern>_ B CYBER LAW PROF *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B CL PROF *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B CYBER LAW PROF</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B CL PROF</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * CYBER LAW PROF *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * CL PROF *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * CYBER LAW PROF</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * CL PROF</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+
+
+<category>
+	<pattern>_ LECTURER * CYBER LAW * B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * CL * B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ LECTURER * CYBER LAW * B</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * CL * B</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER * CYBER LAW * B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER * CL * B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER * CYBER LAW * B</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER * CL * B</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * CYBER LAW B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * CL B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER * CYBER LAW B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER * CL B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER CYBER LAW * B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER CL * B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER CYBER LAW * B</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER CL * B</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER CYBER LAW * B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER CL * B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER CYBER LAW * B</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER CL * B</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER CYBER LAW B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER CL B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER CYBER LAW B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER CL B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+
+
+<category>
+	<pattern>_ LECTURER * B * CYBER LAW *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * B * CL *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * B * CYBER LAW</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * B * CL</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER * B * CYBER LAW *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER * B * CL *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER * B * CYBER LAW</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER * B * CL</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER B * CYBER LAW *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER B * CL *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER B * CYBER LAW</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER B * CL</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER B * CYBER LAW *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER B * CL *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER B * CYBER LAW</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER B * CL</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * B CYBER LAW *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * B CL *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * B CYBER LAW</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * B CL</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER * B CYBER LAW *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER * B CL *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER * B CYBER LAW</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER * B CL</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>_ CYBER LAW LECTURER * B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CL LECTURER * B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CYBER LAW LECTURER * B</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CL LECTURER * B</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>CYBER LAW LECTURER * B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>CL LECTURER * B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>CYBER LAW LECTURER * B</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>CL LECTURER * B</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CYBER LAW LECTURER B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CL LECTURER B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>CYBER LAW LECTURER B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>CL LECTURER B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>_ CYBER LAW * B LECTURER *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CL * B LECTURER *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CYBER LAW * B LECTURER</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CL * B LECTURER</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>CYBER LAW * B LECTURER *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>CL * B LECTURER *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>CYBER LAW * B LECTURER</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>CL * B LECTURER</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CYBER LAW B * LECTURER *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CL B * LECTURER *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CYBER LAW B * LECTURER</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CL B * LECTURER</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>CYBER LAW B * LECTURER *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>CL B * LECTURER *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>CYBER LAW B * LECTURER</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>CL B * LECTURER</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>_ B LECTURER * CYBER LAW *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LECTURER * CL *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LECTURER * CYBER LAW</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LECTURER * CL</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER * CYBER LAW *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER * CL *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER * CYBER LAW</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER * CL</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LECTURER CYBER LAW *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LECTURER CL *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LECTURER CYBER LAW</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ B LECTURER CL</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER CYBER LAW *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER CL *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER CYBER LAW</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER CL</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+
+
+<category>
+	<pattern>_ B CYBER LAW LECTURER *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B CL LECTURER *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B CYBER LAW LECTURER</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B CL LECTURER</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * CYBER LAW LECTURER *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * CL LECTURER *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * CYBER LAW LECTURER</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * CL LECTURER</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+
+
+<category>
+	<pattern>_ LECT * CYBER LAW * B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * CL * B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ LECT * CYBER LAW * B</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * CL * B</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT * CYBER LAW * B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT * CL * B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT * CYBER LAW * B</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT * CL * B</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * CYBER LAW B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * CL B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT * CYBER LAW B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT * CL B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT CYBER LAW * B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT CL * B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT CYBER LAW * B</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT CL * B</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT CYBER LAW * B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT CL * B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT CYBER LAW * B</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT CL * B</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT CYBER LAW B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT CL B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT CYBER LAW B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT CL B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+
+
+<category>
+	<pattern>_ LECT * B * CYBER LAW *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * B * CL *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * B * CYBER LAW</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * B * CL</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT * B * CYBER LAW *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT * B * CL *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT * B * CYBER LAW</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT * B * CL</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT B * CYBER LAW *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT B * CL *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT B * CYBER LAW</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT B * CL</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT B * CYBER LAW *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT B * CL *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT B * CYBER LAW</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT B * CL</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * B CYBER LAW *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * B CL *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * B CYBER LAW</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * B CL</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT * B CYBER LAW *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT * B CL *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT * B CYBER LAW</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT * B CL</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>_ CYBER LAW LECT * B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CL LECT * B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CYBER LAW LECT * B</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CL LECT * B</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>CYBER LAW LECT * B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>CL LECT * B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>CYBER LAW LECT * B</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>CL LECT * B</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CYBER LAW LECT B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CL LECT B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>CYBER LAW LECT B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>CL LECT B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>_ CYBER LAW * B LECT *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CL * B LECT *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CYBER LAW * B LECT</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CL * B LECT</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>CYBER LAW * B LECT *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>CL * B LECT *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>CYBER LAW * B LECT</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>CL * B LECT</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CYBER LAW B * LECT *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CL B * LECT *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CYBER LAW B * LECT</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CL B * LECT</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>CYBER LAW B * LECT *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>CL B * LECT *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>CYBER LAW B * LECT</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>CL B * LECT</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>_ B LECT * CYBER LAW *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LECT * CL *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LECT * CYBER LAW</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LECT * CL</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT * CYBER LAW *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT * CL *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT * CYBER LAW</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT * CL</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LECT CYBER LAW *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LECT CL *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LECT CYBER LAW</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ B LECT CL</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT CYBER LAW *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT CL *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT CYBER LAW</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT CL</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+
+
+<category>
+	<pattern>_ B CYBER LAW LECT *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B CL LECT *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B CYBER LAW LECT</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B CL LECT</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * CYBER LAW LECT *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * CL LECT *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * CYBER LAW LECT</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * CL LECT</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>_ TEACHER * CYBER LAW * B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * CL * B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ TEACHER * CYBER LAW * B</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * CL * B</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER * CYBER LAW * B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER * CL * B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER * CYBER LAW * B</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER * CL * B</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * CYBER LAW B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * CL B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER * CYBER LAW B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER * CL B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER CYBER LAW * B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER CL * B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER CYBER LAW * B</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER CL * B</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER CYBER LAW * B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER CL * B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER CYBER LAW * B</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER CL * B</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER CYBER LAW B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER CL B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER CYBER LAW B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER CL B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+
+
+<category>
+	<pattern>_ TEACHER * B * CYBER LAW *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * B * CL *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * B * CYBER LAW</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * B * CL</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER * B * CYBER LAW *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER * B * CL *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER * B * CYBER LAW</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER * B * CL</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER B * CYBER LAW *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER B * CL *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER B * CYBER LAW</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER B * CL</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER B * CYBER LAW *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER B * CL *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER B * CYBER LAW</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER B * CL</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * B CYBER LAW *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * B CL *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * B CYBER LAW</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * B CL</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER * B CYBER LAW *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER * B CL *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER * B CYBER LAW</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER * B CL</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>_ CYBER LAW TEACHER * B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CL TEACHER * B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CYBER LAW TEACHER * B</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CL TEACHER * B</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>CYBER LAW TEACHER * B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>CL TEACHER * B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>CYBER LAW TEACHER * B</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>CL TEACHER * B</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CYBER LAW TEACHER B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CL TEACHER B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>CYBER LAW TEACHER B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>CL TEACHER B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>_ CYBER LAW * B TEACHER *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CL * B TEACHER *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CYBER LAW * B TEACHER</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CL * B TEACHER</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>CYBER LAW * B TEACHER *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>CL * B TEACHER *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>CYBER LAW * B TEACHER</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>CL * B TEACHER</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CYBER LAW B * TEACHER *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CL B * TEACHER *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CYBER LAW B * TEACHER</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CL B * TEACHER</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>CYBER LAW B * TEACHER *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>CL B * TEACHER *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>CYBER LAW B * TEACHER</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>CL B * TEACHER</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>_ B TEACHER * CYBER LAW *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B TEACHER * CL *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B TEACHER * CYBER LAW</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B TEACHER * CL</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER * CYBER LAW *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER * CL *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER * CYBER LAW</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER * CL</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B TEACHER CYBER LAW *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B TEACHER CL *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B TEACHER CYBER LAW</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ B TEACHER CL</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER CYBER LAW *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER CL *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER CYBER LAW</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER CL</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+
+
+<category>
+	<pattern>_ B CYBER LAW TEACHER *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B CL TEACHER *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B CYBER LAW TEACHER</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B CL TEACHER</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * CYBER LAW TEACHER *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * CL TEACHER *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * CYBER LAW TEACHER</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * CL TEACHER</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY * CYBER LAW * B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * CL * B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ FACULTY * CYBER LAW * B</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * CL * B</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY * CYBER LAW * B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY * CL * B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY * CYBER LAW * B</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY * CL * B</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * CYBER LAW B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * CL B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY * CYBER LAW B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY * CL B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY CYBER LAW * B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY CL * B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY CYBER LAW * B</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY CL * B</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY CYBER LAW * B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY CL * B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY CYBER LAW * B</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY CL * B</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY CYBER LAW B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY CL B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY CYBER LAW B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY CL B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+
+
+<category>
+	<pattern>_ FACULTY * B * CYBER LAW *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * B * CL *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * B * CYBER LAW</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * B * CL</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY * B * CYBER LAW *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY * B * CL *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY * B * CYBER LAW</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY * B * CL</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY B * CYBER LAW *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY B * CL *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY B * CYBER LAW</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY B * CL</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY B * CYBER LAW *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY B * CL *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY B * CYBER LAW</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY B * CL</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * B CYBER LAW *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * B CL *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * B CYBER LAW</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * B CL</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY * B CYBER LAW *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY * B CL *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY * B CYBER LAW</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY * B CL</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>_ CYBER LAW FACULTY * B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CL FACULTY * B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CYBER LAW FACULTY * B</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CL FACULTY * B</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>CYBER LAW FACULTY * B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>CL FACULTY * B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>CYBER LAW FACULTY * B</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>CL FACULTY * B</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CYBER LAW FACULTY B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CL FACULTY B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>CYBER LAW FACULTY B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>CL FACULTY B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>_ CYBER LAW * B FACULTY *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CL * B FACULTY *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CYBER LAW * B FACULTY</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CL * B FACULTY</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>CYBER LAW * B FACULTY *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>CL * B FACULTY *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>CYBER LAW * B FACULTY</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>CL * B FACULTY</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CYBER LAW B * FACULTY *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CL B * FACULTY *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CYBER LAW B * FACULTY</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CL B * FACULTY</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>CYBER LAW B * FACULTY *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>CL B * FACULTY *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>CYBER LAW B * FACULTY</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>CL B * FACULTY</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>_ B FACULTY * CYBER LAW *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B FACULTY * CL *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B FACULTY * CYBER LAW</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B FACULTY * CL</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY * CYBER LAW *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY * CL *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY * CYBER LAW</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY * CL</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B FACULTY CYBER LAW *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B FACULTY CL *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B FACULTY CYBER LAW</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ B FACULTY CL</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY CYBER LAW *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY CL *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY CYBER LAW</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY CL</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+
+
+<category>
+	<pattern>_ B CYBER LAW FACULTY *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B CL FACULTY *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B CYBER LAW FACULTY</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B CL FACULTY</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * CYBER LAW FACULTY *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * CL FACULTY *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * CYBER LAW FACULTY</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * CL FACULTY</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES CYBER LAW * B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES CL * B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES CYBER LAW * B</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES CL * B</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES CYBER LAW B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES CL B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES * B CYBER LAW *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES * B CL *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES * B CYBER LAW</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES * B CL</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES B * CYBER LAW *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES B * CL *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES B * CYBER LAW</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES B * CL</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CYBER LAW * B * TAUGHT *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CL * B * TAUGHT *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>CYBER LAW * B * TAUGHT *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>CL * B * TAUGHT *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CYBER LAW B * TAUGHT *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CL B * TAUGHT *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>CYBER LAW B * TAUGHT *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>CL B * TAUGHT *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CYBER LAW * B TAUGHT *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CL * B TAUGHT *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>CYBER LAW * B TAUGHT *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>CL * B TAUGHT *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURES * CYBER LAW * B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURES * CL * B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURES * CYBER LAW * B</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURES * CL * B</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURES * CYBER LAW B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURES * CL B *</pattern>
+	<template>
+		<srai>CLLB</srai>
+	</template>
+</category>
+
+
+
+</aiml>

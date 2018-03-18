@@ -1,0 +1,4577 @@
+<aiml version="1.0.1" encoding="UTF-8">
+
+<category>
+	<pattern>SPB</pattern>
+	<template>
+		<random>
+			<li>Mr. Sagar Suraj Lachure teaches SYSTEM PROGRAMMING</li>
+			<li>Mr. Sagar Suraj Lachure</li>
+			<li>SYSTEM PROGRAMMING is taught by Mr. Sagar Suraj Lachure</li>
+		</random>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * SYSTEM PROGRAMMING * B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * SYSTEM PROGRAMMING * B</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * SYSTEM PROGRAMMING * B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * SYSTEM PROGRAMMING * B</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * SYSTEM PROGRAMMING B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * SYSTEM PROGRAMMING B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR SYSTEM PROGRAMMING * B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR SYSTEM PROGRAMMING * B</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR SYSTEM PROGRAMMING * B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR SYSTEM PROGRAMMING * B</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR SYSTEM PROGRAMMING B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR SYSTEM PROGRAMMING B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR * B * SYSTEM PROGRAMMING *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR * B * SYSTEM PROGRAMMING</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * B * SYSTEM PROGRAMMING *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * B * SYSTEM PROGRAMMING</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR B * SYSTEM PROGRAMMING *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR B * SYSTEM PROGRAMMING</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR B * SYSTEM PROGRAMMING *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR B * SYSTEM PROGRAMMING</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * B SYSTEM PROGRAMMING *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * B SYSTEM PROGRAMMING</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * B SYSTEM PROGRAMMING *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * B SYSTEM PROGRAMMING</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ SYSTEM PROGRAMMING PROFESSOR * B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SYSTEM PROGRAMMING PROFESSOR * B</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>SYSTEM PROGRAMMING PROFESSOR * B</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SYSTEM PROGRAMMING PROFESSOR B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>SYSTEM PROGRAMMING PROFESSOR B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SYSTEM PROGRAMMING * B PROFESSOR *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SYSTEM PROGRAMMING * B PROFESSOR</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SYSTEM PROGRAMMING * B PROFESSOR *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SYSTEM PROGRAMMING * B PROFESSOR</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ SYSTEM PROGRAMMING B * PROFESSOR *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SYSTEM PROGRAMMING B * PROFESSOR</pattern>
+
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SYSTEM PROGRAMMING B * PROFESSOR *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SYSTEM PROGRAMMING B * PROFESSOR</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A PROFESSOR * SYSTEM PROGRAMMING *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROFESSOR * SYSTEM PROGRAMMING</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR * SYSTEM PROGRAMMING *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR * SYSTEM PROGRAMMING</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROFESSOR SYSTEM PROGRAMMING *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROFESSOR SYSTEM PROGRAMMING</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * PROFESSOR SYSTEM PROGRAMMING *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR SYSTEM PROGRAMMING</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A SYSTEM PROGRAMMING PROFESSOR *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A SYSTEM PROGRAMMING PROFESSOR</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * SYSTEM PROGRAMMING PROFESSOR *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * SYSTEM PROGRAMMING PROFESSOR</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * SYSTEM PROGRAMMING * B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * SYSTEM PROGRAMMING * B</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * SYSTEM PROGRAMMING * B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * SYSTEM PROGRAMMING * B</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * SYSTEM PROGRAMMING B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * SYSTEM PROGRAMMING B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF SYSTEM PROGRAMMING * B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF SYSTEM PROGRAMMING * B</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF SYSTEM PROGRAMMING * B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF SYSTEM PROGRAMMING * B</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF SYSTEM PROGRAMMING B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF SYSTEM PROGRAMMING B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF * B * SYSTEM PROGRAMMING *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF * B * SYSTEM PROGRAMMING</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * B * SYSTEM PROGRAMMING *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * B * SYSTEM PROGRAMMING</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF B * SYSTEM PROGRAMMING *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF B * SYSTEM PROGRAMMING</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF B * SYSTEM PROGRAMMING *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF B * SYSTEM PROGRAMMING</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * B SYSTEM PROGRAMMING *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * B SYSTEM PROGRAMMING</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * B SYSTEM PROGRAMMING *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * B SYSTEM PROGRAMMING</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ SYSTEM PROGRAMMING PROF * B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SYSTEM PROGRAMMING PROF * B</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>SYSTEM PROGRAMMING PROF * B</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SYSTEM PROGRAMMING PROF B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>SYSTEM PROGRAMMING PROF B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SYSTEM PROGRAMMING * B PROF *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SYSTEM PROGRAMMING * B PROF</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SYSTEM PROGRAMMING * B PROF *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SYSTEM PROGRAMMING * B PROF</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ SYSTEM PROGRAMMING B * PROF *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SYSTEM PROGRAMMING B * PROF</pattern>
+
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SYSTEM PROGRAMMING B * PROF *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SYSTEM PROGRAMMING B * PROF</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A PROF * SYSTEM PROGRAMMING *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROF * SYSTEM PROGRAMMING</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF * SYSTEM PROGRAMMING *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF * SYSTEM PROGRAMMING</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROF SYSTEM PROGRAMMING *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROF SYSTEM PROGRAMMING</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * PROF SYSTEM PROGRAMMING *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF SYSTEM PROGRAMMING</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A SYSTEM PROGRAMMING PROF *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A SYSTEM PROGRAMMING PROF</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * SYSTEM PROGRAMMING PROF *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * SYSTEM PROGRAMMING PROF</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * SYSTEM PROGRAMMING * B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * SYSTEM PROGRAMMING * B</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * SYSTEM PROGRAMMING * B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * SYSTEM PROGRAMMING * B</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * SYSTEM PROGRAMMING B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * SYSTEM PROGRAMMING B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER SYSTEM PROGRAMMING * B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER SYSTEM PROGRAMMING * B</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER SYSTEM PROGRAMMING * B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER SYSTEM PROGRAMMING * B</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER SYSTEM PROGRAMMING B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER SYSTEM PROGRAMMING B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER * B * SYSTEM PROGRAMMING *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER * B * SYSTEM PROGRAMMING</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * B * SYSTEM PROGRAMMING *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * B * SYSTEM PROGRAMMING</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER B * SYSTEM PROGRAMMING *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER B * SYSTEM PROGRAMMING</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER B * SYSTEM PROGRAMMING *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER B * SYSTEM PROGRAMMING</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * B SYSTEM PROGRAMMING *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * B SYSTEM PROGRAMMING</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * B SYSTEM PROGRAMMING *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * B SYSTEM PROGRAMMING</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ SYSTEM PROGRAMMING LECTURER * B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SYSTEM PROGRAMMING LECTURER * B</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>SYSTEM PROGRAMMING LECTURER * B</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SYSTEM PROGRAMMING LECTURER B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>SYSTEM PROGRAMMING LECTURER B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SYSTEM PROGRAMMING * B LECTURER *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SYSTEM PROGRAMMING * B LECTURER</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SYSTEM PROGRAMMING * B LECTURER *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SYSTEM PROGRAMMING * B LECTURER</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ SYSTEM PROGRAMMING B * LECTURER *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SYSTEM PROGRAMMING B * LECTURER</pattern>
+
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SYSTEM PROGRAMMING B * LECTURER *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SYSTEM PROGRAMMING B * LECTURER</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A LECTURER * SYSTEM PROGRAMMING *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECTURER * SYSTEM PROGRAMMING</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER * SYSTEM PROGRAMMING *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER * SYSTEM PROGRAMMING</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECTURER SYSTEM PROGRAMMING *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECTURER SYSTEM PROGRAMMING</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * LECTURER SYSTEM PROGRAMMING *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER SYSTEM PROGRAMMING</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A SYSTEM PROGRAMMING LECTURER *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A SYSTEM PROGRAMMING LECTURER</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * SYSTEM PROGRAMMING LECTURER *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * SYSTEM PROGRAMMING LECTURER</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * SYSTEM PROGRAMMING * B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * SYSTEM PROGRAMMING * B</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * SYSTEM PROGRAMMING * B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * SYSTEM PROGRAMMING * B</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * SYSTEM PROGRAMMING B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * SYSTEM PROGRAMMING B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT SYSTEM PROGRAMMING * B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT SYSTEM PROGRAMMING * B</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT SYSTEM PROGRAMMING * B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT SYSTEM PROGRAMMING * B</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT SYSTEM PROGRAMMING B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT SYSTEM PROGRAMMING B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT * B * SYSTEM PROGRAMMING *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT * B * SYSTEM PROGRAMMING</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * B * SYSTEM PROGRAMMING *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * B * SYSTEM PROGRAMMING</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT B * SYSTEM PROGRAMMING *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT B * SYSTEM PROGRAMMING</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT B * SYSTEM PROGRAMMING *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT B * SYSTEM PROGRAMMING</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * B SYSTEM PROGRAMMING *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * B SYSTEM PROGRAMMING</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * B SYSTEM PROGRAMMING *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * B SYSTEM PROGRAMMING</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ SYSTEM PROGRAMMING LECT * B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SYSTEM PROGRAMMING LECT * B</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>SYSTEM PROGRAMMING LECT * B</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SYSTEM PROGRAMMING LECT B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>SYSTEM PROGRAMMING LECT B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SYSTEM PROGRAMMING * B LECT *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SYSTEM PROGRAMMING * B LECT</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SYSTEM PROGRAMMING * B LECT *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SYSTEM PROGRAMMING * B LECT</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ SYSTEM PROGRAMMING B * LECT *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SYSTEM PROGRAMMING B * LECT</pattern>
+
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SYSTEM PROGRAMMING B * LECT *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SYSTEM PROGRAMMING B * LECT</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A LECT * SYSTEM PROGRAMMING *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECT * SYSTEM PROGRAMMING</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT * SYSTEM PROGRAMMING *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT * SYSTEM PROGRAMMING</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECT SYSTEM PROGRAMMING *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECT SYSTEM PROGRAMMING</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * LECT SYSTEM PROGRAMMING *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT SYSTEM PROGRAMMING</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A SYSTEM PROGRAMMING LECT *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A SYSTEM PROGRAMMING LECT</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * SYSTEM PROGRAMMING LECT *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * SYSTEM PROGRAMMING LECT</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * SYSTEM PROGRAMMING * B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * SYSTEM PROGRAMMING * B</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * SYSTEM PROGRAMMING * B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * SYSTEM PROGRAMMING * B</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * SYSTEM PROGRAMMING B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * SYSTEM PROGRAMMING B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER SYSTEM PROGRAMMING * B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER SYSTEM PROGRAMMING * B</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER SYSTEM PROGRAMMING * B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER SYSTEM PROGRAMMING * B</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER SYSTEM PROGRAMMING B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER SYSTEM PROGRAMMING B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER * B * SYSTEM PROGRAMMING *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER * B * SYSTEM PROGRAMMING</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * B * SYSTEM PROGRAMMING *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * B * SYSTEM PROGRAMMING</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER B * SYSTEM PROGRAMMING *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER B * SYSTEM PROGRAMMING</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER B * SYSTEM PROGRAMMING *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER B * SYSTEM PROGRAMMING</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * B SYSTEM PROGRAMMING *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * B SYSTEM PROGRAMMING</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * B SYSTEM PROGRAMMING *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * B SYSTEM PROGRAMMING</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ SYSTEM PROGRAMMING TEACHER * B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SYSTEM PROGRAMMING TEACHER * B</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>SYSTEM PROGRAMMING TEACHER * B</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SYSTEM PROGRAMMING TEACHER B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>SYSTEM PROGRAMMING TEACHER B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SYSTEM PROGRAMMING * B TEACHER *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SYSTEM PROGRAMMING * B TEACHER</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SYSTEM PROGRAMMING * B TEACHER *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SYSTEM PROGRAMMING * B TEACHER</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ SYSTEM PROGRAMMING B * TEACHER *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SYSTEM PROGRAMMING B * TEACHER</pattern>
+
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SYSTEM PROGRAMMING B * TEACHER *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SYSTEM PROGRAMMING B * TEACHER</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A TEACHER * SYSTEM PROGRAMMING *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A TEACHER * SYSTEM PROGRAMMING</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER * SYSTEM PROGRAMMING *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER * SYSTEM PROGRAMMING</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A TEACHER SYSTEM PROGRAMMING *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A TEACHER SYSTEM PROGRAMMING</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * TEACHER SYSTEM PROGRAMMING *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER SYSTEM PROGRAMMING</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A SYSTEM PROGRAMMING TEACHER *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A SYSTEM PROGRAMMING TEACHER</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * SYSTEM PROGRAMMING TEACHER *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * SYSTEM PROGRAMMING TEACHER</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ FACULTY * SYSTEM PROGRAMMING * B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * SYSTEM PROGRAMMING * B</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * SYSTEM PROGRAMMING * B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * SYSTEM PROGRAMMING * B</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * SYSTEM PROGRAMMING B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * SYSTEM PROGRAMMING B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY SYSTEM PROGRAMMING * B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY SYSTEM PROGRAMMING * B</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY SYSTEM PROGRAMMING * B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY SYSTEM PROGRAMMING * B</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY SYSTEM PROGRAMMING B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY SYSTEM PROGRAMMING B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY * B * SYSTEM PROGRAMMING *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY * B * SYSTEM PROGRAMMING</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * B * SYSTEM PROGRAMMING *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * B * SYSTEM PROGRAMMING</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY B * SYSTEM PROGRAMMING *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY B * SYSTEM PROGRAMMING</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY B * SYSTEM PROGRAMMING *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY B * SYSTEM PROGRAMMING</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * B SYSTEM PROGRAMMING *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * B SYSTEM PROGRAMMING</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * B SYSTEM PROGRAMMING *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * B SYSTEM PROGRAMMING</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ SYSTEM PROGRAMMING FACULTY * B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SYSTEM PROGRAMMING FACULTY * B</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>SYSTEM PROGRAMMING FACULTY * B</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SYSTEM PROGRAMMING FACULTY B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>SYSTEM PROGRAMMING FACULTY B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SYSTEM PROGRAMMING * B FACULTY *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SYSTEM PROGRAMMING * B FACULTY</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SYSTEM PROGRAMMING * B FACULTY *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SYSTEM PROGRAMMING * B FACULTY</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ SYSTEM PROGRAMMING B * FACULTY *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SYSTEM PROGRAMMING B * FACULTY</pattern>
+
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SYSTEM PROGRAMMING B * FACULTY *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SYSTEM PROGRAMMING B * FACULTY</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A FACULTY * SYSTEM PROGRAMMING *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A FACULTY * SYSTEM PROGRAMMING</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY * SYSTEM PROGRAMMING *</pattern>
+	<template><srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY * SYSTEM PROGRAMMING</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A FACULTY SYSTEM PROGRAMMING *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A FACULTY SYSTEM PROGRAMMING</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * FACULTY SYSTEM PROGRAMMING *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY SYSTEM PROGRAMMING</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A SYSTEM PROGRAMMING FACULTY *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A SYSTEM PROGRAMMING FACULTY</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * SYSTEM PROGRAMMING FACULTY *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * SYSTEM PROGRAMMING FACULTY</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ TEACHES SYSTEM PROGRAMMING * B</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES SYSTEM PROGRAMMING B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHES * B SYSTEM PROGRAMMING *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES * B SYSTEM PROGRAMMING</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ TEACHES B * SYSTEM PROGRAMMING *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES B * SYSTEM PROGRAMMING</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SYSTEM PROGRAMMING * B * TAUGHT *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SYSTEM PROGRAMMING * B * TAUGHT *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SYSTEM PROGRAMMING B * TAUGHT *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SYSTEM PROGRAMMING B * TAUGHT *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SYSTEM PROGRAMMING * B TAUGHT *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>SYSTEM PROGRAMMING * B TAUGHT *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * SYSTEM PROGRAMMING * B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * SYSTEM PROGRAMMING * B</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * SYSTEM PROGRAMMING B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES SYSTEM PROGRAMMING * B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES SYSTEM PROGRAMMING * B</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES SYSTEM PROGRAMMING B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR * SP * B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * SP * B</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * SP * B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * SP * B</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * SP B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * SP B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR SP * B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR SP * B</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR SP * B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR SP * B</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR SP B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR SP B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR * B * SP *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR * B * SP</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * B * SP *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * B * SP</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR B * SP *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR B * SP</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR B * SP *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR B * SP</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * B SP *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * B SP</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * B SP *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * B SP</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ SP PROFESSOR * B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SP PROFESSOR * B</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>SP PROFESSOR * B</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SP PROFESSOR B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>SP PROFESSOR B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SP * B PROFESSOR *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SP * B PROFESSOR</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SP * B PROFESSOR *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SP * B PROFESSOR</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ SP B * PROFESSOR *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SP B * PROFESSOR</pattern>
+
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SP B * PROFESSOR *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SP B * PROFESSOR</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A PROFESSOR * SP *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROFESSOR * SP</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR * SP *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR * SP</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROFESSOR SP *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROFESSOR SP</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * PROFESSOR SP *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR SP</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A SP PROFESSOR *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A SP PROFESSOR</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * SP PROFESSOR *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * SP PROFESSOR</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * SP * B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * SP * B</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * SP * B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * SP * B</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * SP B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * SP B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF SP * B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF SP * B</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF SP * B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF SP * B</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF SP B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF SP B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF * B * SP *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF * B * SP</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * B * SP *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * B * SP</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF B * SP *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF B * SP</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF B * SP *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF B * SP</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * B SP *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * B SP</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * B SP *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * B SP</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ SP PROF * B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SP PROF * B</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>SP PROF * B</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SP PROF B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>SP PROF B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SP * B PROF *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SP * B PROF</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SP * B PROF *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SP * B PROF</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ SP B * PROF *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SP B * PROF</pattern>
+
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SP B * PROF *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SP B * PROF</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A PROF * SP *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROF * SP</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF * SP *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF * SP</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROF SP *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROF SP</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * PROF SP *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF SP</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A SP PROF *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A SP PROF</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * SP PROF *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * SP PROF</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * SP * B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * SP * B</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * SP * B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * SP * B</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * SP B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * SP B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER SP * B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER SP * B</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER SP * B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER SP * B</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER SP B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER SP B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER * B * SP *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER * B * SP</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * B * SP *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * B * SP</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER B * SP *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER B * SP</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER B * SP *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER B * SP</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * B SP *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * B SP</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * B SP *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * B SP</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ SP LECTURER * B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SP LECTURER * B</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>SP LECTURER * B</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SP LECTURER B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>SP LECTURER B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SP * B LECTURER *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SP * B LECTURER</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SP * B LECTURER *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SP * B LECTURER</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ SP B * LECTURER *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SP B * LECTURER</pattern>
+
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SP B * LECTURER *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SP B * LECTURER</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A LECTURER * SP *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECTURER * SP</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER * SP *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER * SP</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECTURER SP *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECTURER SP</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * LECTURER SP *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER SP</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A SP LECTURER *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A SP LECTURER</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * SP LECTURER *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * SP LECTURER</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * SP * B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * SP * B</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * SP * B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * SP * B</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * SP B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * SP B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT SP * B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT SP * B</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT SP * B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT SP * B</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT SP B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT SP B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT * B * SP *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT * B * SP</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * B * SP *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * B * SP</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT B * SP *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT B * SP</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT B * SP *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT B * SP</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * B SP *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * B SP</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * B SP *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * B SP</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ SP LECT * B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SP LECT * B</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>SP LECT * B</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SP LECT B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>SP LECT B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SP * B LECT *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SP * B LECT</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SP * B LECT *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SP * B LECT</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ SP B * LECT *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SP B * LECT</pattern>
+
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SP B * LECT *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SP B * LECT</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A LECT * SP *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECT * SP</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT * SP *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT * SP</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECT SP *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECT SP</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * LECT SP *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT SP</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A SP LECT *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A SP LECT</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * SP LECT *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * SP LECT</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * SP * B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * SP * B</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * SP * B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * SP * B</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * SP B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * SP B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER SP * B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER SP * B</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER SP * B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER SP * B</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER SP B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER SP B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER * B * SP *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER * B * SP</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * B * SP *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * B * SP</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER B * SP *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER B * SP</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER B * SP *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER B * SP</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * B SP *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * B SP</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * B SP *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * B SP</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ SP TEACHER * B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SP TEACHER * B</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>SP TEACHER * B</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SP TEACHER B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>SP TEACHER B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SP * B TEACHER *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SP * B TEACHER</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SP * B TEACHER *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SP * B TEACHER</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ SP B * TEACHER *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SP B * TEACHER</pattern>
+
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SP B * TEACHER *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SP B * TEACHER</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A TEACHER * SP *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A TEACHER * SP</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER * SP *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER * SP</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A TEACHER SP *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A TEACHER SP</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * TEACHER SP *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER SP</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A SP TEACHER *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A SP TEACHER</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * SP TEACHER *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * SP TEACHER</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ FACULTY * SP * B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * SP * B</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * SP * B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * SP * B</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * SP B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * SP B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY SP * B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY SP * B</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY SP * B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY SP * B</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY SP B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY SP B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY * B * SP *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY * B * SP</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * B * SP *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * B * SP</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY B * SP *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY B * SP</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY B * SP *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY B * SP</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * B SP *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * B SP</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * B SP *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * B SP</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ SP FACULTY * B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SP FACULTY * B</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>SP FACULTY * B</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SP FACULTY B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>SP FACULTY B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SP * B FACULTY *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SP * B FACULTY</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SP * B FACULTY *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SP * B FACULTY</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ SP B * FACULTY *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SP B * FACULTY</pattern>
+
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SP B * FACULTY *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SP B * FACULTY</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A FACULTY * SP *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A FACULTY * SP</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY * SP *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY * SP</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A FACULTY SP *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A FACULTY SP</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * FACULTY SP *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY SP</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A SP FACULTY *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A SP FACULTY</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * SP FACULTY *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * SP FACULTY</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ TEACHES SP * B</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES SP B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHES * B SP *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES * B SP</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ TEACHES B * SP *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES B * SP</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SP * B * TAUGHT *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SP * B * TAUGHT *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SP B * TAUGHT *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SP B * TAUGHT *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SP * B TAUGHT *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>SP * B TAUGHT *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * SP * B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * SP * B</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * SP B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES SP * B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES SP * B</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES SP B *</pattern>
+	<template>
+		<srai>SPB</srai>
+	</template>
+</category>
+
+
+</aiml>

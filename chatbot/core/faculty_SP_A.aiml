@@ -1,0 +1,4577 @@
+<aiml version="1.0.1" encoding="UTF-8">
+
+<category>
+	<pattern>SPA</pattern>
+	<template>
+		<random>
+			<li>Mr. Ravi Rangarajan Temparai teaches SYSTEM PROGRAMMING</li>
+			<li>Mr. Ravi Rangarajan Temparai</li>
+			<li>SYSTEM PROGRAMMING is taught by Mr. Ravi Rangarajan Temparai</li>
+		</random>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * SYSTEM PROGRAMMING * A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * SYSTEM PROGRAMMING * A</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * SYSTEM PROGRAMMING * A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * SYSTEM PROGRAMMING * A</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * SYSTEM PROGRAMMING A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * SYSTEM PROGRAMMING A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR SYSTEM PROGRAMMING * A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR SYSTEM PROGRAMMING * A</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR SYSTEM PROGRAMMING * A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR SYSTEM PROGRAMMING * A</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR SYSTEM PROGRAMMING A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR SYSTEM PROGRAMMING A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR * A * SYSTEM PROGRAMMING *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR * A * SYSTEM PROGRAMMING</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * A * SYSTEM PROGRAMMING *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * A * SYSTEM PROGRAMMING</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR A * SYSTEM PROGRAMMING *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR A * SYSTEM PROGRAMMING</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR A * SYSTEM PROGRAMMING *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR A * SYSTEM PROGRAMMING</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * A SYSTEM PROGRAMMING *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * A SYSTEM PROGRAMMING</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * A SYSTEM PROGRAMMING *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * A SYSTEM PROGRAMMING</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ SYSTEM PROGRAMMING PROFESSOR * A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SYSTEM PROGRAMMING PROFESSOR * A</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>SYSTEM PROGRAMMING PROFESSOR * A</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SYSTEM PROGRAMMING PROFESSOR A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>SYSTEM PROGRAMMING PROFESSOR A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SYSTEM PROGRAMMING * A PROFESSOR *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SYSTEM PROGRAMMING * A PROFESSOR</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SYSTEM PROGRAMMING * A PROFESSOR *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SYSTEM PROGRAMMING * A PROFESSOR</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ SYSTEM PROGRAMMING A * PROFESSOR *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SYSTEM PROGRAMMING A * PROFESSOR</pattern>
+
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SYSTEM PROGRAMMING A * PROFESSOR *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SYSTEM PROGRAMMING A * PROFESSOR</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A PROFESSOR * SYSTEM PROGRAMMING *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROFESSOR * SYSTEM PROGRAMMING</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROFESSOR * SYSTEM PROGRAMMING *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROFESSOR * SYSTEM PROGRAMMING</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROFESSOR SYSTEM PROGRAMMING *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROFESSOR SYSTEM PROGRAMMING</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * PROFESSOR SYSTEM PROGRAMMING *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROFESSOR SYSTEM PROGRAMMING</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A SYSTEM PROGRAMMING PROFESSOR *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A SYSTEM PROGRAMMING PROFESSOR</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * SYSTEM PROGRAMMING PROFESSOR *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * SYSTEM PROGRAMMING PROFESSOR</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * SYSTEM PROGRAMMING * A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * SYSTEM PROGRAMMING * A</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * SYSTEM PROGRAMMING * A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * SYSTEM PROGRAMMING * A</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * SYSTEM PROGRAMMING A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * SYSTEM PROGRAMMING A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF SYSTEM PROGRAMMING * A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF SYSTEM PROGRAMMING * A</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF SYSTEM PROGRAMMING * A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF SYSTEM PROGRAMMING * A</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF SYSTEM PROGRAMMING A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF SYSTEM PROGRAMMING A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF * A * SYSTEM PROGRAMMING *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF * A * SYSTEM PROGRAMMING</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * A * SYSTEM PROGRAMMING *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * A * SYSTEM PROGRAMMING</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF A * SYSTEM PROGRAMMING *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF A * SYSTEM PROGRAMMING</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF A * SYSTEM PROGRAMMING *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF A * SYSTEM PROGRAMMING</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * A SYSTEM PROGRAMMING *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * A SYSTEM PROGRAMMING</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * A SYSTEM PROGRAMMING *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * A SYSTEM PROGRAMMING</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ SYSTEM PROGRAMMING PROF * A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SYSTEM PROGRAMMING PROF * A</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>SYSTEM PROGRAMMING PROF * A</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SYSTEM PROGRAMMING PROF A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>SYSTEM PROGRAMMING PROF A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SYSTEM PROGRAMMING * A PROF *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SYSTEM PROGRAMMING * A PROF</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SYSTEM PROGRAMMING * A PROF *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SYSTEM PROGRAMMING * A PROF</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ SYSTEM PROGRAMMING A * PROF *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SYSTEM PROGRAMMING A * PROF</pattern>
+
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SYSTEM PROGRAMMING A * PROF *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SYSTEM PROGRAMMING A * PROF</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A PROF * SYSTEM PROGRAMMING *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROF * SYSTEM PROGRAMMING</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROF * SYSTEM PROGRAMMING *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROF * SYSTEM PROGRAMMING</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROF SYSTEM PROGRAMMING *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROF SYSTEM PROGRAMMING</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * PROF SYSTEM PROGRAMMING *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROF SYSTEM PROGRAMMING</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A SYSTEM PROGRAMMING PROF *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A SYSTEM PROGRAMMING PROF</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * SYSTEM PROGRAMMING PROF *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * SYSTEM PROGRAMMING PROF</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * SYSTEM PROGRAMMING * A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * SYSTEM PROGRAMMING * A</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * SYSTEM PROGRAMMING * A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * SYSTEM PROGRAMMING * A</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * SYSTEM PROGRAMMING A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * SYSTEM PROGRAMMING A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER SYSTEM PROGRAMMING * A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER SYSTEM PROGRAMMING * A</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER SYSTEM PROGRAMMING * A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER SYSTEM PROGRAMMING * A</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER SYSTEM PROGRAMMING A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER SYSTEM PROGRAMMING A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER * A * SYSTEM PROGRAMMING *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER * A * SYSTEM PROGRAMMING</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * A * SYSTEM PROGRAMMING *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * A * SYSTEM PROGRAMMING</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER A * SYSTEM PROGRAMMING *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER A * SYSTEM PROGRAMMING</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER A * SYSTEM PROGRAMMING *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER A * SYSTEM PROGRAMMING</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * A SYSTEM PROGRAMMING *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * A SYSTEM PROGRAMMING</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * A SYSTEM PROGRAMMING *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * A SYSTEM PROGRAMMING</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ SYSTEM PROGRAMMING LECTURER * A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SYSTEM PROGRAMMING LECTURER * A</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>SYSTEM PROGRAMMING LECTURER * A</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SYSTEM PROGRAMMING LECTURER A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>SYSTEM PROGRAMMING LECTURER A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SYSTEM PROGRAMMING * A LECTURER *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SYSTEM PROGRAMMING * A LECTURER</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SYSTEM PROGRAMMING * A LECTURER *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SYSTEM PROGRAMMING * A LECTURER</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ SYSTEM PROGRAMMING A * LECTURER *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SYSTEM PROGRAMMING A * LECTURER</pattern>
+
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SYSTEM PROGRAMMING A * LECTURER *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SYSTEM PROGRAMMING A * LECTURER</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A LECTURER * SYSTEM PROGRAMMING *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECTURER * SYSTEM PROGRAMMING</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECTURER * SYSTEM PROGRAMMING *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECTURER * SYSTEM PROGRAMMING</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECTURER SYSTEM PROGRAMMING *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECTURER SYSTEM PROGRAMMING</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * LECTURER SYSTEM PROGRAMMING *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECTURER SYSTEM PROGRAMMING</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A SYSTEM PROGRAMMING LECTURER *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A SYSTEM PROGRAMMING LECTURER</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * SYSTEM PROGRAMMING LECTURER *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * SYSTEM PROGRAMMING LECTURER</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * SYSTEM PROGRAMMING * A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * SYSTEM PROGRAMMING * A</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * SYSTEM PROGRAMMING * A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * SYSTEM PROGRAMMING * A</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * SYSTEM PROGRAMMING A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * SYSTEM PROGRAMMING A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT SYSTEM PROGRAMMING * A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT SYSTEM PROGRAMMING * A</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT SYSTEM PROGRAMMING * A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT SYSTEM PROGRAMMING * A</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT SYSTEM PROGRAMMING A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT SYSTEM PROGRAMMING A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT * A * SYSTEM PROGRAMMING *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT * A * SYSTEM PROGRAMMING</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * A * SYSTEM PROGRAMMING *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * A * SYSTEM PROGRAMMING</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT A * SYSTEM PROGRAMMING *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT A * SYSTEM PROGRAMMING</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT A * SYSTEM PROGRAMMING *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT A * SYSTEM PROGRAMMING</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * A SYSTEM PROGRAMMING *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * A SYSTEM PROGRAMMING</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * A SYSTEM PROGRAMMING *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * A SYSTEM PROGRAMMING</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ SYSTEM PROGRAMMING LECT * A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SYSTEM PROGRAMMING LECT * A</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>SYSTEM PROGRAMMING LECT * A</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SYSTEM PROGRAMMING LECT A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>SYSTEM PROGRAMMING LECT A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SYSTEM PROGRAMMING * A LECT *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SYSTEM PROGRAMMING * A LECT</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SYSTEM PROGRAMMING * A LECT *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SYSTEM PROGRAMMING * A LECT</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ SYSTEM PROGRAMMING A * LECT *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SYSTEM PROGRAMMING A * LECT</pattern>
+
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SYSTEM PROGRAMMING A * LECT *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SYSTEM PROGRAMMING A * LECT</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A LECT * SYSTEM PROGRAMMING *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECT * SYSTEM PROGRAMMING</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECT * SYSTEM PROGRAMMING *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECT * SYSTEM PROGRAMMING</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECT SYSTEM PROGRAMMING *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECT SYSTEM PROGRAMMING</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * LECT SYSTEM PROGRAMMING *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECT SYSTEM PROGRAMMING</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A SYSTEM PROGRAMMING LECT *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A SYSTEM PROGRAMMING LECT</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * SYSTEM PROGRAMMING LECT *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * SYSTEM PROGRAMMING LECT</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * SYSTEM PROGRAMMING * A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * SYSTEM PROGRAMMING * A</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * SYSTEM PROGRAMMING * A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * SYSTEM PROGRAMMING * A</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * SYSTEM PROGRAMMING A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * SYSTEM PROGRAMMING A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER SYSTEM PROGRAMMING * A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER SYSTEM PROGRAMMING * A</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER SYSTEM PROGRAMMING * A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER SYSTEM PROGRAMMING * A</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER SYSTEM PROGRAMMING A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER SYSTEM PROGRAMMING A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER * A * SYSTEM PROGRAMMING *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER * A * SYSTEM PROGRAMMING</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * A * SYSTEM PROGRAMMING *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * A * SYSTEM PROGRAMMING</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER A * SYSTEM PROGRAMMING *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER A * SYSTEM PROGRAMMING</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER A * SYSTEM PROGRAMMING *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER A * SYSTEM PROGRAMMING</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * A SYSTEM PROGRAMMING *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * A SYSTEM PROGRAMMING</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * A SYSTEM PROGRAMMING *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * A SYSTEM PROGRAMMING</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ SYSTEM PROGRAMMING TEACHER * A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SYSTEM PROGRAMMING TEACHER * A</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>SYSTEM PROGRAMMING TEACHER * A</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SYSTEM PROGRAMMING TEACHER A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>SYSTEM PROGRAMMING TEACHER A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SYSTEM PROGRAMMING * A TEACHER *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SYSTEM PROGRAMMING * A TEACHER</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SYSTEM PROGRAMMING * A TEACHER *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SYSTEM PROGRAMMING * A TEACHER</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ SYSTEM PROGRAMMING A * TEACHER *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SYSTEM PROGRAMMING A * TEACHER</pattern>
+
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SYSTEM PROGRAMMING A * TEACHER *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SYSTEM PROGRAMMING A * TEACHER</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A TEACHER * SYSTEM PROGRAMMING *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A TEACHER * SYSTEM PROGRAMMING</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * TEACHER * SYSTEM PROGRAMMING *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * TEACHER * SYSTEM PROGRAMMING</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A TEACHER SYSTEM PROGRAMMING *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A TEACHER SYSTEM PROGRAMMING</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * TEACHER SYSTEM PROGRAMMING *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * TEACHER SYSTEM PROGRAMMING</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A SYSTEM PROGRAMMING TEACHER *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A SYSTEM PROGRAMMING TEACHER</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * SYSTEM PROGRAMMING TEACHER *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * SYSTEM PROGRAMMING TEACHER</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ FACULTY * SYSTEM PROGRAMMING * A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * SYSTEM PROGRAMMING * A</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * SYSTEM PROGRAMMING * A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * SYSTEM PROGRAMMING * A</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * SYSTEM PROGRAMMING A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * SYSTEM PROGRAMMING A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY SYSTEM PROGRAMMING * A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY SYSTEM PROGRAMMING * A</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY SYSTEM PROGRAMMING * A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY SYSTEM PROGRAMMING * A</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY SYSTEM PROGRAMMING A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY SYSTEM PROGRAMMING A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY * A * SYSTEM PROGRAMMING *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY * A * SYSTEM PROGRAMMING</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * A * SYSTEM PROGRAMMING *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * A * SYSTEM PROGRAMMING</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY A * SYSTEM PROGRAMMING *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY A * SYSTEM PROGRAMMING</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY A * SYSTEM PROGRAMMING *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY A * SYSTEM PROGRAMMING</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * A SYSTEM PROGRAMMING *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * A SYSTEM PROGRAMMING</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * A SYSTEM PROGRAMMING *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * A SYSTEM PROGRAMMING</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ SYSTEM PROGRAMMING FACULTY * A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SYSTEM PROGRAMMING FACULTY * A</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>SYSTEM PROGRAMMING FACULTY * A</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SYSTEM PROGRAMMING FACULTY A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>SYSTEM PROGRAMMING FACULTY A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SYSTEM PROGRAMMING * A FACULTY *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SYSTEM PROGRAMMING * A FACULTY</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SYSTEM PROGRAMMING * A FACULTY *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SYSTEM PROGRAMMING * A FACULTY</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ SYSTEM PROGRAMMING A * FACULTY *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SYSTEM PROGRAMMING A * FACULTY</pattern>
+
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SYSTEM PROGRAMMING A * FACULTY *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SYSTEM PROGRAMMING A * FACULTY</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A FACULTY * SYSTEM PROGRAMMING *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A FACULTY * SYSTEM PROGRAMMING</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * FACULTY * SYSTEM PROGRAMMING *</pattern>
+	<template><srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * FACULTY * SYSTEM PROGRAMMING</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A FACULTY SYSTEM PROGRAMMING *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A FACULTY SYSTEM PROGRAMMING</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * FACULTY SYSTEM PROGRAMMING *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * FACULTY SYSTEM PROGRAMMING</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A SYSTEM PROGRAMMING FACULTY *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A SYSTEM PROGRAMMING FACULTY</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * SYSTEM PROGRAMMING FACULTY *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * SYSTEM PROGRAMMING FACULTY</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ TEACHES SYSTEM PROGRAMMING * A</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES SYSTEM PROGRAMMING A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHES * A SYSTEM PROGRAMMING *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES * A SYSTEM PROGRAMMING</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ TEACHES A * SYSTEM PROGRAMMING *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES A * SYSTEM PROGRAMMING</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SYSTEM PROGRAMMING * A * TAUGHT *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SYSTEM PROGRAMMING * A * TAUGHT *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SYSTEM PROGRAMMING A * TAUGHT *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SYSTEM PROGRAMMING A * TAUGHT *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SYSTEM PROGRAMMING * A TAUGHT *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>SYSTEM PROGRAMMING * A TAUGHT *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * SYSTEM PROGRAMMING * A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * SYSTEM PROGRAMMING * A</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * SYSTEM PROGRAMMING A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES SYSTEM PROGRAMMING * A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES SYSTEM PROGRAMMING * A</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES SYSTEM PROGRAMMING A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR * SP * A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * SP * A</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * SP * A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * SP * A</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * SP A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * SP A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR SP * A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR SP * A</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR SP * A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR SP * A</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR SP A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR SP A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR * A * SP *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR * A * SP</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * A * SP *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * A * SP</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR A * SP *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR A * SP</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR A * SP *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR A * SP</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * A SP *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * A SP</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * A SP *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * A SP</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ SP PROFESSOR * A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SP PROFESSOR * A</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>SP PROFESSOR * A</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SP PROFESSOR A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>SP PROFESSOR A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SP * A PROFESSOR *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SP * A PROFESSOR</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SP * A PROFESSOR *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SP * A PROFESSOR</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ SP A * PROFESSOR *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SP A * PROFESSOR</pattern>
+
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SP A * PROFESSOR *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SP A * PROFESSOR</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A PROFESSOR * SP *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROFESSOR * SP</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROFESSOR * SP *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROFESSOR * SP</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROFESSOR SP *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROFESSOR SP</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * PROFESSOR SP *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROFESSOR SP</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A SP PROFESSOR *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A SP PROFESSOR</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * SP PROFESSOR *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * SP PROFESSOR</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * SP * A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * SP * A</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * SP * A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * SP * A</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * SP A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * SP A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF SP * A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF SP * A</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF SP * A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF SP * A</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF SP A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF SP A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF * A * SP *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF * A * SP</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * A * SP *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * A * SP</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF A * SP *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF A * SP</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF A * SP *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF A * SP</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * A SP *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * A SP</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * A SP *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * A SP</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ SP PROF * A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SP PROF * A</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>SP PROF * A</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SP PROF A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>SP PROF A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SP * A PROF *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SP * A PROF</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SP * A PROF *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SP * A PROF</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ SP A * PROF *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SP A * PROF</pattern>
+
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SP A * PROF *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SP A * PROF</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A PROF * SP *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROF * SP</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROF * SP *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROF * SP</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROF SP *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROF SP</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * PROF SP *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROF SP</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A SP PROF *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A SP PROF</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * SP PROF *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * SP PROF</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * SP * A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * SP * A</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * SP * A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * SP * A</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * SP A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * SP A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER SP * A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER SP * A</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER SP * A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER SP * A</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER SP A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER SP A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER * A * SP *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER * A * SP</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * A * SP *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * A * SP</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER A * SP *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER A * SP</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER A * SP *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER A * SP</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * A SP *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * A SP</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * A SP *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * A SP</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ SP LECTURER * A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SP LECTURER * A</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>SP LECTURER * A</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SP LECTURER A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>SP LECTURER A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SP * A LECTURER *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SP * A LECTURER</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SP * A LECTURER *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SP * A LECTURER</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ SP A * LECTURER *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SP A * LECTURER</pattern>
+
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SP A * LECTURER *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SP A * LECTURER</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A LECTURER * SP *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECTURER * SP</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECTURER * SP *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECTURER * SP</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECTURER SP *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECTURER SP</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * LECTURER SP *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECTURER SP</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A SP LECTURER *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A SP LECTURER</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * SP LECTURER *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * SP LECTURER</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * SP * A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * SP * A</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * SP * A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * SP * A</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * SP A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * SP A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT SP * A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT SP * A</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT SP * A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT SP * A</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT SP A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT SP A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT * A * SP *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT * A * SP</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * A * SP *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * A * SP</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT A * SP *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT A * SP</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT A * SP *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT A * SP</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * A SP *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * A SP</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * A SP *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * A SP</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ SP LECT * A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SP LECT * A</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>SP LECT * A</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SP LECT A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>SP LECT A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SP * A LECT *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SP * A LECT</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SP * A LECT *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SP * A LECT</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ SP A * LECT *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SP A * LECT</pattern>
+
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SP A * LECT *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SP A * LECT</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A LECT * SP *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECT * SP</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECT * SP *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECT * SP</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECT SP *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECT SP</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * LECT SP *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECT SP</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A SP LECT *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A SP LECT</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * SP LECT *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * SP LECT</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * SP * A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * SP * A</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * SP * A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * SP * A</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * SP A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * SP A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER SP * A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER SP * A</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER SP * A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER SP * A</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER SP A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER SP A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER * A * SP *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER * A * SP</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * A * SP *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * A * SP</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER A * SP *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER A * SP</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER A * SP *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER A * SP</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * A SP *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * A SP</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * A SP *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * A SP</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ SP TEACHER * A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SP TEACHER * A</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>SP TEACHER * A</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SP TEACHER A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>SP TEACHER A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SP * A TEACHER *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SP * A TEACHER</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SP * A TEACHER *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SP * A TEACHER</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ SP A * TEACHER *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SP A * TEACHER</pattern>
+
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SP A * TEACHER *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SP A * TEACHER</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A TEACHER * SP *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A TEACHER * SP</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * TEACHER * SP *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * TEACHER * SP</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A TEACHER SP *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A TEACHER SP</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * TEACHER SP *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * TEACHER SP</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A SP TEACHER *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A SP TEACHER</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * SP TEACHER *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * SP TEACHER</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ FACULTY * SP * A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * SP * A</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * SP * A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * SP * A</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * SP A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * SP A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY SP * A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY SP * A</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY SP * A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY SP * A</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY SP A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY SP A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY * A * SP *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY * A * SP</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * A * SP *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * A * SP</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY A * SP *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY A * SP</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY A * SP *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY A * SP</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * A SP *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * A SP</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * A SP *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * A SP</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ SP FACULTY * A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SP FACULTY * A</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>SP FACULTY * A</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SP FACULTY A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>SP FACULTY A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SP * A FACULTY *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SP * A FACULTY</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SP * A FACULTY *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SP * A FACULTY</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ SP A * FACULTY *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SP A * FACULTY</pattern>
+
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SP A * FACULTY *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SP A * FACULTY</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A FACULTY * SP *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A FACULTY * SP</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * FACULTY * SP *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * FACULTY * SP</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A FACULTY SP *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A FACULTY SP</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * FACULTY SP *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * FACULTY SP</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A SP FACULTY *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A SP FACULTY</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * SP FACULTY *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * SP FACULTY</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ TEACHES SP * A</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES SP A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHES * A SP *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES * A SP</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ TEACHES A * SP *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES A * SP</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SP * A * TAUGHT *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SP * A * TAUGHT *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SP A * TAUGHT *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SP A * TAUGHT *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SP * A TAUGHT *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>SP * A TAUGHT *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * SP * A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * SP * A</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * SP A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES SP * A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES SP * A</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES SP A *</pattern>
+	<template>
+		<srai>SPA</srai>
+	</template>
+</category>
+
+
+</aiml>

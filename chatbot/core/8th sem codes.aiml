@@ -1,0 +1,360 @@
+<aiml version="1.0.1" encoding="UTF-8">
+
+<category>
+	<pattern>CLL</pattern>
+	<template>GE1408</template>
+</category>
+
+<category>
+	<pattern>_ CODE * CYBER LAW *</pattern>
+	<template>
+		<srai>CLL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE * CYBER LAW</pattern>
+	<template>
+		<srai>CLL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE CYBER LAW *</pattern>
+	<template>
+		<srai>CLL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE CYBER LAW</pattern>
+	<template>
+		<srai>CLL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CYBER LAW * CODE *</pattern>
+	<template>
+		<srai>CLL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CYBER LAW * CODE</pattern>
+	<template>
+		<srai>CLL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>CYBER LAW * CODE *</pattern>
+	<template>
+		<srai>CLL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>CYBER LAW * CODE</pattern>
+	<template>
+		<srai>CLL</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ CODE * CL *</pattern>
+	<template>
+		<srai>CLL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE * CL</pattern>
+	<template>
+		<srai>CLL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE CL *</pattern>
+	<template>
+		<srai>CLL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE CL</pattern>
+	<template>
+		<srai>CLL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CL * CODE *</pattern>
+	<template>
+		<srai>CLL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CL * CODE</pattern>
+	<template>
+		<srai>CLL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>CL * CODE *</pattern>
+	<template>
+		<srai>CLL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>CL * CODE</pattern>
+	<template>
+		<srai>CLL</srai>
+	</template>
+</category>
+
+
+
+
+<category>
+	<pattern>OOMM</pattern>
+	<template>CT1450</template>
+</category>
+
+<category>
+	<pattern>_ CODE * OBJECT ORIENETED MODELLING *</pattern>
+	<template>
+		<srai>OOMM</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE * OBJECT ORIENETED MODELLING</pattern>
+	<template>
+		<srai>OOMM</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE OBJECT ORIENETED MODELLING *</pattern>
+	<template>
+		<srai>OOMM</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE OBJECT ORIENETED MODELLING</pattern>
+	<template>
+		<srai>OOMM</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OBJECT ORIENETED MODELLING * CODE *</pattern>
+	<template>
+		<srai>OOMM</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OBJECT ORIENETED MODELLING * CODE</pattern>
+	<template>
+		<srai>OOMM</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OBJECT ORIENETED MODELLING * CODE *</pattern>
+	<template>
+		<srai>OOMM</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OBJECT ORIENETED MODELLING * CODE</pattern>
+	<template>
+		<srai>OOMM</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CODE * OO MODELLING *</pattern>
+	<template>
+		<srai>OOMM</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE * OO MODELLING</pattern>
+	<template>
+		<srai>OOMM</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE OO MODELLING *</pattern>
+	<template>
+		<srai>OOMM</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE OO MODELLING</pattern>
+	<template>
+		<srai>OOMM</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OO MODELLING * CODE *</pattern>
+	<template>
+		<srai>OOMM</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OO MODELLING * CODE</pattern>
+	<template>
+		<srai>OOMM</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OO MODELLING * CODE *</pattern>
+	<template>
+		<srai>OOMM</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OO MODELLING * CODE</pattern>
+	<template>
+		<srai>OOMM</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ CODE * O O MODELLING *</pattern>
+	<template>
+		<srai>OOMM</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE * O O MODELLING</pattern>
+	<template>
+		<srai>OOMM</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE O O MODELLING *</pattern>
+	<template>
+		<srai>OOMM</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE O O MODELLING</pattern>
+	<template>
+		<srai>OOMM</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ O O MODELLING * CODE *</pattern>
+	<template>
+		<srai>OOMM</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ O O MODELLING * CODE</pattern>
+	<template>
+		<srai>OOMM</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>O O MODELLING * CODE *</pattern>
+	<template>
+		<srai>OOMM</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>O O MODELLING * CODE</pattern>
+	<template>
+		<srai>OOMM</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CODE * OOM *</pattern>
+	<template>
+		<srai>OOMM</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE * OOM</pattern>
+	<template>
+		<srai>OOMM</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE OOM *</pattern>
+	<template>
+		<srai>OOMM</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE OOM</pattern>
+	<template>
+		<srai>OOMM</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OOM * CODE *</pattern>
+	<template>
+		<srai>OOMM</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OOM * CODE</pattern>
+	<template>
+		<srai>OOMM</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OOM * CODE *</pattern>
+	<template>
+		<srai>OOMM</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OOM * CODE</pattern>
+	<template>
+		<srai>OOMM</srai>
+	</template>
+</category>
+
+
+
+</aiml>

@@ -1,0 +1,6859 @@
+<aiml version="1.0.1" encoding="UTF-8">
+
+<category>
+	<pattern>CNB</pattern>
+	<template>
+		<random>
+			<li> Nilofer Shoaib Khan teaches COMPUTER NETWORKS</li>
+			<li> Nilofer Shoaib Khan</li>
+			<li>COMPUTER NETWORKS is taught by Nilofer Shoaib Khan</li>
+		</random>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * COMPUTER NETWORKS * B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * COMPUTER NETWORKS * B</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * COMPUTER NETWORKS * B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * COMPUTER NETWORKS * B</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * COMPUTER NETWORKS B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * COMPUTER NETWORKS B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR COMPUTER NETWORKS * B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR COMPUTER NETWORKS * B</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR COMPUTER NETWORKS * B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR COMPUTER NETWORKS * B</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR COMPUTER NETWORKS B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR COMPUTER NETWORKS B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR * B * COMPUTER NETWORKS *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR * B * COMPUTER NETWORKS</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * B * COMPUTER NETWORKS *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * B * COMPUTER NETWORKS</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR B * COMPUTER NETWORKS *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR B * COMPUTER NETWORKS</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR B * COMPUTER NETWORKS *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR B * COMPUTER NETWORKS</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * B COMPUTER NETWORKS *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * B COMPUTER NETWORKS</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * B COMPUTER NETWORKS *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * B COMPUTER NETWORKS</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ COMPUTER NETWORKS PROFESSOR * B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER NETWORKS PROFESSOR * B</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>COMPUTER NETWORKS PROFESSOR * B</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER NETWORKS PROFESSOR B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>COMPUTER NETWORKS PROFESSOR B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER NETWORKS * B PROFESSOR *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER NETWORKS * B PROFESSOR</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>COMPUTER NETWORKS * B PROFESSOR *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>COMPUTER NETWORKS * B PROFESSOR</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ COMPUTER NETWORKS B * PROFESSOR *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER NETWORKS B * PROFESSOR</pattern>
+
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>COMPUTER NETWORKS B * PROFESSOR *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>COMPUTER NETWORKS B * PROFESSOR</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROFESSOR * COMPUTER NETWORKS *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROFESSOR * COMPUTER NETWORKS</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR * COMPUTER NETWORKS *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR * COMPUTER NETWORKS</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROFESSOR COMPUTER NETWORKS *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROFESSOR COMPUTER NETWORKS</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * PROFESSOR COMPUTER NETWORKS *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR COMPUTER NETWORKS</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B COMPUTER NETWORKS PROFESSOR *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B COMPUTER NETWORKS PROFESSOR</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * COMPUTER NETWORKS PROFESSOR *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * COMPUTER NETWORKS PROFESSOR</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * COMPUTER NETWORKS * B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * COMPUTER NETWORKS * B</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * COMPUTER NETWORKS * B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * COMPUTER NETWORKS * B</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * COMPUTER NETWORKS B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * COMPUTER NETWORKS B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF COMPUTER NETWORKS * B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF COMPUTER NETWORKS * B</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF COMPUTER NETWORKS * B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF COMPUTER NETWORKS * B</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF COMPUTER NETWORKS B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF COMPUTER NETWORKS B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF * B * COMPUTER NETWORKS *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF * B * COMPUTER NETWORKS</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * B * COMPUTER NETWORKS *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * B * COMPUTER NETWORKS</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF B * COMPUTER NETWORKS *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF B * COMPUTER NETWORKS</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF B * COMPUTER NETWORKS *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF B * COMPUTER NETWORKS</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * B COMPUTER NETWORKS *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * B COMPUTER NETWORKS</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * B COMPUTER NETWORKS *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * B COMPUTER NETWORKS</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ COMPUTER NETWORKS PROF * B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER NETWORKS PROF * B</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>COMPUTER NETWORKS PROF * B</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER NETWORKS PROF B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>COMPUTER NETWORKS PROF B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER NETWORKS * B PROF *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER NETWORKS * B PROF</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>COMPUTER NETWORKS * B PROF *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>COMPUTER NETWORKS * B PROF</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ COMPUTER NETWORKS B * PROF *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER NETWORKS B * PROF</pattern>
+
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>COMPUTER NETWORKS B * PROF *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>COMPUTER NETWORKS B * PROF</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROF * COMPUTER NETWORKS *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROF * COMPUTER NETWORKS</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF * COMPUTER NETWORKS *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF * COMPUTER NETWORKS</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROF COMPUTER NETWORKS *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROF COMPUTER NETWORKS</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * PROF COMPUTER NETWORKS *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF COMPUTER NETWORKS</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B COMPUTER NETWORKS PROF *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B COMPUTER NETWORKS PROF</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * COMPUTER NETWORKS PROF *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * COMPUTER NETWORKS PROF</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * COMPUTER NETWORKS * B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * COMPUTER NETWORKS * B</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * COMPUTER NETWORKS * B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * COMPUTER NETWORKS * B</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * COMPUTER NETWORKS B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * COMPUTER NETWORKS B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER COMPUTER NETWORKS * B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER COMPUTER NETWORKS * B</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER COMPUTER NETWORKS * B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER COMPUTER NETWORKS * B</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER COMPUTER NETWORKS B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER COMPUTER NETWORKS B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER * B * COMPUTER NETWORKS *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER * B * COMPUTER NETWORKS</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * B * COMPUTER NETWORKS *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * B * COMPUTER NETWORKS</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER B * COMPUTER NETWORKS *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER B * COMPUTER NETWORKS</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER B * COMPUTER NETWORKS *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER B * COMPUTER NETWORKS</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * B COMPUTER NETWORKS *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * B COMPUTER NETWORKS</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * B COMPUTER NETWORKS *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * B COMPUTER NETWORKS</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ COMPUTER NETWORKS LECTURER * B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER NETWORKS LECTURER * B</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>COMPUTER NETWORKS LECTURER * B</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER NETWORKS LECTURER B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>COMPUTER NETWORKS LECTURER B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER NETWORKS * B LECTURER *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER NETWORKS * B LECTURER</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>COMPUTER NETWORKS * B LECTURER *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>COMPUTER NETWORKS * B LECTURER</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ COMPUTER NETWORKS B * LECTURER *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER NETWORKS B * LECTURER</pattern>
+
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>COMPUTER NETWORKS B * LECTURER *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>COMPUTER NETWORKS B * LECTURER</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LECTURER * COMPUTER NETWORKS *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECTURER * COMPUTER NETWORKS</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER * COMPUTER NETWORKS *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER * COMPUTER NETWORKS</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECTURER COMPUTER NETWORKS *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECTURER COMPUTER NETWORKS</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * LECTURER COMPUTER NETWORKS *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER COMPUTER NETWORKS</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B COMPUTER NETWORKS LECTURER *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B COMPUTER NETWORKS LECTURER</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * COMPUTER NETWORKS LECTURER *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * COMPUTER NETWORKS LECTURER</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * COMPUTER NETWORKS * B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * COMPUTER NETWORKS * B</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * COMPUTER NETWORKS * B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * COMPUTER NETWORKS * B</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * COMPUTER NETWORKS B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * COMPUTER NETWORKS B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT COMPUTER NETWORKS * B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT COMPUTER NETWORKS * B</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT COMPUTER NETWORKS * B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT COMPUTER NETWORKS * B</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT COMPUTER NETWORKS B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT COMPUTER NETWORKS B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT * B * COMPUTER NETWORKS *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT * B * COMPUTER NETWORKS</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * B * COMPUTER NETWORKS *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * B * COMPUTER NETWORKS</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT B * COMPUTER NETWORKS *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT B * COMPUTER NETWORKS</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT B * COMPUTER NETWORKS *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT B * COMPUTER NETWORKS</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * B COMPUTER NETWORKS *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * B COMPUTER NETWORKS</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * B COMPUTER NETWORKS *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * B COMPUTER NETWORKS</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ COMPUTER NETWORKS LECT * B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER NETWORKS LECT * B</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>COMPUTER NETWORKS LECT * B</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER NETWORKS LECT B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>COMPUTER NETWORKS LECT B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER NETWORKS * B LECT *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER NETWORKS * B LECT</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>COMPUTER NETWORKS * B LECT *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>COMPUTER NETWORKS * B LECT</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ COMPUTER NETWORKS B * LECT *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER NETWORKS B * LECT</pattern>
+
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>COMPUTER NETWORKS B * LECT *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>COMPUTER NETWORKS B * LECT</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LECT * COMPUTER NETWORKS *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECT * COMPUTER NETWORKS</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT * COMPUTER NETWORKS *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT * COMPUTER NETWORKS</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECT COMPUTER NETWORKS *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECT COMPUTER NETWORKS</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * LECT COMPUTER NETWORKS *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT COMPUTER NETWORKS</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B COMPUTER NETWORKS LECT *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B COMPUTER NETWORKS LECT</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * COMPUTER NETWORKS LECT *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * COMPUTER NETWORKS LECT</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * COMPUTER NETWORKS * B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * COMPUTER NETWORKS * B</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * COMPUTER NETWORKS * B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * COMPUTER NETWORKS * B</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * COMPUTER NETWORKS B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * COMPUTER NETWORKS B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER COMPUTER NETWORKS * B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER COMPUTER NETWORKS * B</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER COMPUTER NETWORKS * B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER COMPUTER NETWORKS * B</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER COMPUTER NETWORKS B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER COMPUTER NETWORKS B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER * B * COMPUTER NETWORKS *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER * B * COMPUTER NETWORKS</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * B * COMPUTER NETWORKS *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * B * COMPUTER NETWORKS</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER B * COMPUTER NETWORKS *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER B * COMPUTER NETWORKS</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER B * COMPUTER NETWORKS *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER B * COMPUTER NETWORKS</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * B COMPUTER NETWORKS *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * B COMPUTER NETWORKS</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * B COMPUTER NETWORKS *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * B COMPUTER NETWORKS</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ COMPUTER NETWORKS TEACHER * B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER NETWORKS TEACHER * B</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>COMPUTER NETWORKS TEACHER * B</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER NETWORKS TEACHER B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>COMPUTER NETWORKS TEACHER B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER NETWORKS * B TEACHER *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER NETWORKS * B TEACHER</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>COMPUTER NETWORKS * B TEACHER *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>COMPUTER NETWORKS * B TEACHER</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ COMPUTER NETWORKS B * TEACHER *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER NETWORKS B * TEACHER</pattern>
+
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>COMPUTER NETWORKS B * TEACHER *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>COMPUTER NETWORKS B * TEACHER</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B TEACHER * COMPUTER NETWORKS *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B TEACHER * COMPUTER NETWORKS</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER * COMPUTER NETWORKS *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER * COMPUTER NETWORKS</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B TEACHER COMPUTER NETWORKS *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B TEACHER COMPUTER NETWORKS</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * TEACHER COMPUTER NETWORKS *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER COMPUTER NETWORKS</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B COMPUTER NETWORKS TEACHER *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B COMPUTER NETWORKS TEACHER</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * COMPUTER NETWORKS TEACHER *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * COMPUTER NETWORKS TEACHER</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ FACULTY * COMPUTER NETWORKS * B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * COMPUTER NETWORKS * B</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * COMPUTER NETWORKS * B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * COMPUTER NETWORKS * B</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * COMPUTER NETWORKS B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * COMPUTER NETWORKS B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY COMPUTER NETWORKS * B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY COMPUTER NETWORKS * B</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY COMPUTER NETWORKS * B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY COMPUTER NETWORKS * B</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY COMPUTER NETWORKS B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY COMPUTER NETWORKS B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY * B * COMPUTER NETWORKS *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY * B * COMPUTER NETWORKS</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * B * COMPUTER NETWORKS *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * B * COMPUTER NETWORKS</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY B * COMPUTER NETWORKS *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY B * COMPUTER NETWORKS</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY B * COMPUTER NETWORKS *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY B * COMPUTER NETWORKS</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * B COMPUTER NETWORKS *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * B COMPUTER NETWORKS</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * B COMPUTER NETWORKS *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * B COMPUTER NETWORKS</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ COMPUTER NETWORKS FACULTY * B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER NETWORKS FACULTY * B</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>COMPUTER NETWORKS FACULTY * B</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER NETWORKS FACULTY B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>COMPUTER NETWORKS FACULTY B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER NETWORKS * B FACULTY *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER NETWORKS * B FACULTY</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>COMPUTER NETWORKS * B FACULTY *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>COMPUTER NETWORKS * B FACULTY</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ COMPUTER NETWORKS B * FACULTY *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER NETWORKS B * FACULTY</pattern>
+
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>COMPUTER NETWORKS B * FACULTY *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>COMPUTER NETWORKS B * FACULTY</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B FACULTY * COMPUTER NETWORKS *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B FACULTY * COMPUTER NETWORKS</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY * COMPUTER NETWORKS *</pattern>
+	<template><srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY * COMPUTER NETWORKS</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B FACULTY COMPUTER NETWORKS *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B FACULTY COMPUTER NETWORKS</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * FACULTY COMPUTER NETWORKS *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY COMPUTER NETWORKS</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B COMPUTER NETWORKS FACULTY *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B COMPUTER NETWORKS FACULTY</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * COMPUTER NETWORKS FACULTY *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * COMPUTER NETWORKS FACULTY</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ TEACHES COMPUTER NETWORKS * B</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES COMPUTER NETWORKS B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHES * B COMPUTER NETWORKS *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES * B COMPUTER NETWORKS</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ TEACHES B * COMPUTER NETWORKS *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES B * COMPUTER NETWORKS</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER NETWORKS * B * TAUGHT *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>COMPUTER NETWORKS * B * TAUGHT *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER NETWORKS B * TAUGHT *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>COMPUTER NETWORKS B * TAUGHT *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER NETWORKS * B TAUGHT *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>COMPUTER NETWORKS * B TAUGHT *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * COMPUTER NETWORKS * B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * COMPUTER NETWORKS * B</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * COMPUTER NETWORKS B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES COMPUTER NETWORKS * B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES COMPUTER NETWORKS * B</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES COMPUTER NETWORKS B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR * COMPUTER NETWORK * B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * COMPUTER NETWORK * B</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * COMPUTER NETWORK * B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * COMPUTER NETWORK * B</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * COMPUTER NETWORK B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * COMPUTER NETWORK B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR COMPUTER NETWORK * B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR COMPUTER NETWORK * B</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR COMPUTER NETWORK * B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR COMPUTER NETWORK * B</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR COMPUTER NETWORK B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR COMPUTER NETWORK B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR * B * COMPUTER NETWORK *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR * B * COMPUTER NETWORK</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * B * COMPUTER NETWORK *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * B * COMPUTER NETWORK</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR B * COMPUTER NETWORK *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR B * COMPUTER NETWORK</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR B * COMPUTER NETWORK *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR B * COMPUTER NETWORK</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * B COMPUTER NETWORK *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * B COMPUTER NETWORK</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * B COMPUTER NETWORK *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * B COMPUTER NETWORK</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ COMPUTER NETWORK PROFESSOR * B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER NETWORK PROFESSOR * B</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>COMPUTER NETWORK PROFESSOR * B</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER NETWORK PROFESSOR B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>COMPUTER NETWORK PROFESSOR B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER NETWORK * B PROFESSOR *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER NETWORK * B PROFESSOR</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>COMPUTER NETWORK * B PROFESSOR *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>COMPUTER NETWORK * B PROFESSOR</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ COMPUTER NETWORK B * PROFESSOR *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER NETWORK B * PROFESSOR</pattern>
+
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>COMPUTER NETWORK B * PROFESSOR *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>COMPUTER NETWORK B * PROFESSOR</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROFESSOR * COMPUTER NETWORK *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROFESSOR * COMPUTER NETWORK</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR * COMPUTER NETWORK *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR * COMPUTER NETWORK</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROFESSOR COMPUTER NETWORK *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROFESSOR COMPUTER NETWORK</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * PROFESSOR COMPUTER NETWORK *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR COMPUTER NETWORK</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B COMPUTER NETWORK PROFESSOR *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B COMPUTER NETWORK PROFESSOR</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * COMPUTER NETWORK PROFESSOR *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * COMPUTER NETWORK PROFESSOR</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * COMPUTER NETWORK * B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * COMPUTER NETWORK * B</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * COMPUTER NETWORK * B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * COMPUTER NETWORK * B</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * COMPUTER NETWORK B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * COMPUTER NETWORK B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF COMPUTER NETWORK * B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF COMPUTER NETWORK * B</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF COMPUTER NETWORK * B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF COMPUTER NETWORK * B</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF COMPUTER NETWORK B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF COMPUTER NETWORK B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF * B * COMPUTER NETWORK *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF * B * COMPUTER NETWORK</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * B * COMPUTER NETWORK *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * B * COMPUTER NETWORK</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF B * COMPUTER NETWORK *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF B * COMPUTER NETWORK</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF B * COMPUTER NETWORK *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF B * COMPUTER NETWORK</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * B COMPUTER NETWORK *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * B COMPUTER NETWORK</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * B COMPUTER NETWORK *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * B COMPUTER NETWORK</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ COMPUTER NETWORK PROF * B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER NETWORK PROF * B</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>COMPUTER NETWORK PROF * B</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER NETWORK PROF B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>COMPUTER NETWORK PROF B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER NETWORK * B PROF *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER NETWORK * B PROF</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>COMPUTER NETWORK * B PROF *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>COMPUTER NETWORK * B PROF</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ COMPUTER NETWORK B * PROF *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER NETWORK B * PROF</pattern>
+
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>COMPUTER NETWORK B * PROF *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>COMPUTER NETWORK B * PROF</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROF * COMPUTER NETWORK *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROF * COMPUTER NETWORK</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF * COMPUTER NETWORK *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF * COMPUTER NETWORK</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROF COMPUTER NETWORK *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROF COMPUTER NETWORK</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * PROF COMPUTER NETWORK *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF COMPUTER NETWORK</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B COMPUTER NETWORK PROF *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B COMPUTER NETWORK PROF</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * COMPUTER NETWORK PROF *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * COMPUTER NETWORK PROF</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * COMPUTER NETWORK * B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * COMPUTER NETWORK * B</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * COMPUTER NETWORK * B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * COMPUTER NETWORK * B</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * COMPUTER NETWORK B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * COMPUTER NETWORK B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER COMPUTER NETWORK * B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER COMPUTER NETWORK * B</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER COMPUTER NETWORK * B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER COMPUTER NETWORK * B</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER COMPUTER NETWORK B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER COMPUTER NETWORK B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER * B * COMPUTER NETWORK *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER * B * COMPUTER NETWORK</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * B * COMPUTER NETWORK *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * B * COMPUTER NETWORK</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER B * COMPUTER NETWORK *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER B * COMPUTER NETWORK</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER B * COMPUTER NETWORK *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER B * COMPUTER NETWORK</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * B COMPUTER NETWORK *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * B COMPUTER NETWORK</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * B COMPUTER NETWORK *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * B COMPUTER NETWORK</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ COMPUTER NETWORK LECTURER * B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER NETWORK LECTURER * B</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>COMPUTER NETWORK LECTURER * B</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER NETWORK LECTURER B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>COMPUTER NETWORK LECTURER B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER NETWORK * B LECTURER *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER NETWORK * B LECTURER</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>COMPUTER NETWORK * B LECTURER *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>COMPUTER NETWORK * B LECTURER</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ COMPUTER NETWORK B * LECTURER *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER NETWORK B * LECTURER</pattern>
+
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>COMPUTER NETWORK B * LECTURER *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>COMPUTER NETWORK B * LECTURER</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LECTURER * COMPUTER NETWORK *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECTURER * COMPUTER NETWORK</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER * COMPUTER NETWORK *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER * COMPUTER NETWORK</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECTURER COMPUTER NETWORK *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECTURER COMPUTER NETWORK</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * LECTURER COMPUTER NETWORK *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER COMPUTER NETWORK</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B COMPUTER NETWORK LECTURER *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B COMPUTER NETWORK LECTURER</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * COMPUTER NETWORK LECTURER *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * COMPUTER NETWORK LECTURER</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * COMPUTER NETWORK * B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * COMPUTER NETWORK * B</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * COMPUTER NETWORK * B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * COMPUTER NETWORK * B</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * COMPUTER NETWORK B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * COMPUTER NETWORK B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT COMPUTER NETWORK * B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT COMPUTER NETWORK * B</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT COMPUTER NETWORK * B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT COMPUTER NETWORK * B</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT COMPUTER NETWORK B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT COMPUTER NETWORK B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT * B * COMPUTER NETWORK *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT * B * COMPUTER NETWORK</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * B * COMPUTER NETWORK *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * B * COMPUTER NETWORK</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT B * COMPUTER NETWORK *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT B * COMPUTER NETWORK</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT B * COMPUTER NETWORK *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT B * COMPUTER NETWORK</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * B COMPUTER NETWORK *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * B COMPUTER NETWORK</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * B COMPUTER NETWORK *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * B COMPUTER NETWORK</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ COMPUTER NETWORK LECT * B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER NETWORK LECT * B</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>COMPUTER NETWORK LECT * B</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER NETWORK LECT B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>COMPUTER NETWORK LECT B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER NETWORK * B LECT *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER NETWORK * B LECT</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>COMPUTER NETWORK * B LECT *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>COMPUTER NETWORK * B LECT</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ COMPUTER NETWORK B * LECT *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER NETWORK B * LECT</pattern>
+
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>COMPUTER NETWORK B * LECT *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>COMPUTER NETWORK B * LECT</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LECT * COMPUTER NETWORK *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECT * COMPUTER NETWORK</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT * COMPUTER NETWORK *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT * COMPUTER NETWORK</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECT COMPUTER NETWORK *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECT COMPUTER NETWORK</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * LECT COMPUTER NETWORK *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT COMPUTER NETWORK</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B COMPUTER NETWORK LECT *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B COMPUTER NETWORK LECT</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * COMPUTER NETWORK LECT *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * COMPUTER NETWORK LECT</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * COMPUTER NETWORK * B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * COMPUTER NETWORK * B</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * COMPUTER NETWORK * B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * COMPUTER NETWORK * B</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * COMPUTER NETWORK B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * COMPUTER NETWORK B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER COMPUTER NETWORK * B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER COMPUTER NETWORK * B</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER COMPUTER NETWORK * B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER COMPUTER NETWORK * B</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER COMPUTER NETWORK B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER COMPUTER NETWORK B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER * B * COMPUTER NETWORK *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER * B * COMPUTER NETWORK</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * B * COMPUTER NETWORK *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * B * COMPUTER NETWORK</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER B * COMPUTER NETWORK *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER B * COMPUTER NETWORK</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER B * COMPUTER NETWORK *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER B * COMPUTER NETWORK</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * B COMPUTER NETWORK *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * B COMPUTER NETWORK</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * B COMPUTER NETWORK *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * B COMPUTER NETWORK</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ COMPUTER NETWORK TEACHER * B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER NETWORK TEACHER * B</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>COMPUTER NETWORK TEACHER * B</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER NETWORK TEACHER B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>COMPUTER NETWORK TEACHER B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER NETWORK * B TEACHER *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER NETWORK * B TEACHER</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>COMPUTER NETWORK * B TEACHER *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>COMPUTER NETWORK * B TEACHER</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ COMPUTER NETWORK B * TEACHER *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER NETWORK B * TEACHER</pattern>
+
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>COMPUTER NETWORK B * TEACHER *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>COMPUTER NETWORK B * TEACHER</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B TEACHER * COMPUTER NETWORK *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B TEACHER * COMPUTER NETWORK</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER * COMPUTER NETWORK *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER * COMPUTER NETWORK</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B TEACHER COMPUTER NETWORK *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B TEACHER COMPUTER NETWORK</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * TEACHER COMPUTER NETWORK *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER COMPUTER NETWORK</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B COMPUTER NETWORK TEACHER *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B COMPUTER NETWORK TEACHER</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * COMPUTER NETWORK TEACHER *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * COMPUTER NETWORK TEACHER</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ FACULTY * COMPUTER NETWORK * B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * COMPUTER NETWORK * B</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * COMPUTER NETWORK * B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * COMPUTER NETWORK * B</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * COMPUTER NETWORK B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * COMPUTER NETWORK B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY COMPUTER NETWORK * B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY COMPUTER NETWORK * B</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY COMPUTER NETWORK * B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY COMPUTER NETWORK * B</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY COMPUTER NETWORK B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY COMPUTER NETWORK B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY * B * COMPUTER NETWORK *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY * B * COMPUTER NETWORK</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * B * COMPUTER NETWORK *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * B * COMPUTER NETWORK</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY B * COMPUTER NETWORK *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY B * COMPUTER NETWORK</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY B * COMPUTER NETWORK *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY B * COMPUTER NETWORK</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * B COMPUTER NETWORK *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * B COMPUTER NETWORK</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * B COMPUTER NETWORK *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * B COMPUTER NETWORK</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ COMPUTER NETWORK FACULTY * B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER NETWORK FACULTY * B</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>COMPUTER NETWORK FACULTY * B</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER NETWORK FACULTY B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>COMPUTER NETWORK FACULTY B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER NETWORK * B FACULTY *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER NETWORK * B FACULTY</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>COMPUTER NETWORK * B FACULTY *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>COMPUTER NETWORK * B FACULTY</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ COMPUTER NETWORK B * FACULTY *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER NETWORK B * FACULTY</pattern>
+
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>COMPUTER NETWORK B * FACULTY *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>COMPUTER NETWORK B * FACULTY</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B FACULTY * COMPUTER NETWORK *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B FACULTY * COMPUTER NETWORK</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY * COMPUTER NETWORK *</pattern>
+	<template><srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY * COMPUTER NETWORK</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B FACULTY COMPUTER NETWORK *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B FACULTY COMPUTER NETWORK</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * FACULTY COMPUTER NETWORK *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY COMPUTER NETWORK</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B COMPUTER NETWORK FACULTY *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B COMPUTER NETWORK FACULTY</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * COMPUTER NETWORK FACULTY *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * COMPUTER NETWORK FACULTY</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ TEACHES COMPUTER NETWORK * B</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES COMPUTER NETWORK B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHES * B COMPUTER NETWORK *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES * B COMPUTER NETWORK</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ TEACHES B * COMPUTER NETWORK *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES B * COMPUTER NETWORK</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER NETWORK * B * TAUGHT *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>COMPUTER NETWORK * B * TAUGHT *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER NETWORK B * TAUGHT *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>COMPUTER NETWORK B * TAUGHT *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER NETWORK * B TAUGHT *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>COMPUTER NETWORK * B TAUGHT *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * COMPUTER NETWORK * B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * COMPUTER NETWORK * B</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * COMPUTER NETWORK B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES COMPUTER NETWORK * B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES COMPUTER NETWORK * B</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES COMPUTER NETWORK B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * CN * B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * CN * B</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * CN * B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * CN * B</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * CN B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * CN B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR CN * B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR CN * B</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR CN * B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR CN * B</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR CN B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR CN B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR * B * CN *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR * B * CN</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * B * CN *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * B * CN</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR B * CN *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR B * CN</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR B * CN *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR B * CN</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * B CN *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * B CN</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * B CN *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * B CN</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CN PROFESSOR * B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CN PROFESSOR * B</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>CN PROFESSOR * B</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CN PROFESSOR B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>CN PROFESSOR B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CN * B PROFESSOR *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CN * B PROFESSOR</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>CN * B PROFESSOR *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>CN * B PROFESSOR</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ CN B * PROFESSOR *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CN B * PROFESSOR</pattern>
+
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>CN B * PROFESSOR *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>CN B * PROFESSOR</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROFESSOR * CN *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROFESSOR * CN</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR * CN *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR * CN</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROFESSOR CN *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROFESSOR CN</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * PROFESSOR CN *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR CN</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B CN PROFESSOR *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B CN PROFESSOR</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * CN PROFESSOR *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * CN PROFESSOR</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * CN * B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * CN * B</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * CN * B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * CN * B</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * CN B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * CN B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF CN * B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF CN * B</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF CN * B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF CN * B</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF CN B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF CN B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF * B * CN *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF * B * CN</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * B * CN *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * B * CN</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF B * CN *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF B * CN</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF B * CN *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF B * CN</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * B CN *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * B CN</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * B CN *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * B CN</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CN PROF * B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CN PROF * B</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>CN PROF * B</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CN PROF B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>CN PROF B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CN * B PROF *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CN * B PROF</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>CN * B PROF *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>CN * B PROF</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ CN B * PROF *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CN B * PROF</pattern>
+
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>CN B * PROF *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>CN B * PROF</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROF * CN *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROF * CN</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF * CN *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF * CN</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROF CN *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROF CN</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * PROF CN *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF CN</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B CN PROF *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B CN PROF</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * CN PROF *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * CN PROF</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * CN * B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * CN * B</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * CN * B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * CN * B</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * CN B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * CN B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER CN * B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER CN * B</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER CN * B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER CN * B</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER CN B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER CN B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER * B * CN *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER * B * CN</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * B * CN *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * B * CN</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER B * CN *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER B * CN</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER B * CN *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER B * CN</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * B CN *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * B CN</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * B CN *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * B CN</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CN LECTURER * B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CN LECTURER * B</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>CN LECTURER * B</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CN LECTURER B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>CN LECTURER B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CN * B LECTURER *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CN * B LECTURER</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>CN * B LECTURER *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>CN * B LECTURER</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ CN B * LECTURER *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CN B * LECTURER</pattern>
+
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>CN B * LECTURER *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>CN B * LECTURER</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LECTURER * CN *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECTURER * CN</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER * CN *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER * CN</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECTURER CN *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECTURER CN</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * LECTURER CN *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER CN</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B CN LECTURER *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B CN LECTURER</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * CN LECTURER *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * CN LECTURER</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * CN * B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * CN * B</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * CN * B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * CN * B</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * CN B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * CN B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT CN * B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT CN * B</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT CN * B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT CN * B</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT CN B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT CN B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT * B * CN *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT * B * CN</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * B * CN *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * B * CN</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT B * CN *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT B * CN</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT B * CN *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT B * CN</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * B CN *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * B CN</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * B CN *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * B CN</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CN LECT * B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CN LECT * B</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>CN LECT * B</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CN LECT B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>CN LECT B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CN * B LECT *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CN * B LECT</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>CN * B LECT *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>CN * B LECT</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ CN B * LECT *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CN B * LECT</pattern>
+
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>CN B * LECT *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>CN B * LECT</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LECT * CN *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECT * CN</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT * CN *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT * CN</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECT CN *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECT CN</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * LECT CN *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT CN</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B CN LECT *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B CN LECT</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * CN LECT *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * CN LECT</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * CN * B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * CN * B</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * CN * B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * CN * B</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * CN B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * CN B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER CN * B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER CN * B</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER CN * B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER CN * B</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER CN B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER CN B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER * B * CN *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER * B * CN</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * B * CN *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * B * CN</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER B * CN *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER B * CN</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER B * CN *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER B * CN</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * B CN *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * B CN</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * B CN *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * B CN</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CN TEACHER * B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CN TEACHER * B</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>CN TEACHER * B</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CN TEACHER B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>CN TEACHER B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CN * B TEACHER *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CN * B TEACHER</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>CN * B TEACHER *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>CN * B TEACHER</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ CN B * TEACHER *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CN B * TEACHER</pattern>
+
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>CN B * TEACHER *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>CN B * TEACHER</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B TEACHER * CN *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B TEACHER * CN</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER * CN *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER * CN</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B TEACHER CN *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B TEACHER CN</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * TEACHER CN *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER CN</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B CN TEACHER *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B CN TEACHER</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * CN TEACHER *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * CN TEACHER</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ FACULTY * CN * B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * CN * B</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * CN * B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * CN * B</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * CN B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * CN B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY CN * B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY CN * B</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY CN * B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY CN * B</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY CN B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY CN B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY * B * CN *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY * B * CN</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * B * CN *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * B * CN</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY B * CN *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY B * CN</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY B * CN *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY B * CN</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * B CN *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * B CN</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * B CN *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * B CN</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CN FACULTY * B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CN FACULTY * B</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>CN FACULTY * B</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CN FACULTY B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>CN FACULTY B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CN * B FACULTY *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CN * B FACULTY</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>CN * B FACULTY *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>CN * B FACULTY</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ CN B * FACULTY *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CN B * FACULTY</pattern>
+
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>CN B * FACULTY *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>CN B * FACULTY</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B FACULTY * CN *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B FACULTY * CN</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY * CN *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY * CN</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B FACULTY CN *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B FACULTY CN</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * FACULTY CN *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY CN</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B CN FACULTY *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B CN FACULTY</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * CN FACULTY *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * CN FACULTY</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ TEACHES CN * B</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES CN B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHES * B CN *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES * B CN</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ TEACHES B * CN *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES B * CN</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CN * B * TAUGHT *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>CN * B * TAUGHT *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CN B * TAUGHT *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>CN B * TAUGHT *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CN * B TAUGHT *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>CN * B TAUGHT *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURES * CN * B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * CN * B</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * CN B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES CN * B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES CN * B</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES CN B *</pattern>
+	<template>
+		<srai>CNB</srai>
+	</template>
+</category>
+
+
+</aiml>

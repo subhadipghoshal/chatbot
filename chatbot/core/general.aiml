@@ -1,0 +1,1445 @@
+<aiml version="1.0.1" encoding="UTF-8">
+
+<category>
+	<pattern>INT</pattern>
+	<template>
+		<random>
+			<li>The sanctioned intake of CT is 120.</li>
+			<li>The intake of CT is 120.</li>
+			<li>CT's sanctioned intake is 120.</li>
+		</random>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ INTAKE *</pattern>
+	<template>
+		<srai>INT</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ INTAKE</pattern>
+	<template>
+		<srai>INT</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>INTAKE *</pattern>
+	<template>
+		<srai>INT</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>INTAKE</pattern>
+	<template>
+		<srai>INT</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CAPACITY *</pattern>
+	<template>
+		<srai>INT</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CAPACITY</pattern>
+	<template>
+		<srai>INT</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>CAPACITY *</pattern>
+	<template>
+		<srai>INT</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>CAPACITY</pattern>
+	<template>
+		<srai>INT</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ STUDENTS *</pattern>
+	<template>
+		<srai>INT</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ STUDENTS</pattern>
+	<template>
+		<srai>INT</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>STUDENTS *</pattern>
+	<template>
+		<srai>INT</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>STUDENTS</pattern>
+	<template>
+		<srai>INT</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ STUDENT *</pattern>
+	<template>
+		<srai>INT</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ STUDENT</pattern>
+	<template>
+		<srai>INT</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>STUDENT *</pattern>
+	<template>
+		<srai>INT</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>STUDENT</pattern>
+	<template>
+		<srai>INT</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>SHF</pattern>
+	<template>
+		<random>
+			<li>There is NO shift for CT.</li>
+			<li>NO</li>
+		</random>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ SHIFT *</pattern>
+	<template>
+		<srai>SHF</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SHIFT *</pattern>
+	<template>
+		<srai>SHF</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SHIFT</pattern>
+	<template>
+		<srai>SHF</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SHIFT</pattern>
+	<template>
+		<srai>SHF</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>ACR</pattern>
+	<template>
+		<random>
+			<li>ThE year of accrediation is 2003*.</li>
+			<li>CT got accrediated in 2003*.</li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>_ YEAR * ACCREDIATION *</pattern>
+	<template>
+		<srai>ACR</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ YEAR * ACCREDIATION</pattern>
+	<template>
+		<srai>ACR</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>YEAR * ACCREDIATION *</pattern>
+	<template>
+		<srai>ACR</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>YEAR * ACCREDIATION</pattern>
+	<template>
+		<srai>ACR</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ YEAR ACCREDIATION *</pattern>
+	<template>
+		<srai>ACR</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ YEAR ACCREDIATION</pattern>
+	<template>
+		<srai>ACR</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>YEAR ACCREDIATION *</pattern>
+	<template>
+		<srai>ACR</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>YEAR ACCREDIATION</pattern>
+	<template>
+		<srai>ACR</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ ACCREDIATION * YEAR *</pattern>
+	<template>
+		<srai>ACR</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ACCREDIATION * YEAR</pattern>
+	<template>
+		<srai>ACR</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ACCREDIATION * YEAR *</pattern>
+	<template>
+		<srai>ACR</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ACCREDIATION * YEAR</pattern>
+	<template>
+		<srai>ACR</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ ACCREDIATION YEAR *</pattern>
+	<template>
+		<srai>ACR</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ACCREDIATION YEAR</pattern>
+	<template>
+		<srai>ACR</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ACCREDIATION YEAR *</pattern>
+	<template>
+		<srai>ACR</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ACCREDIATION YEAR</pattern>
+	<template>
+		<srai>ACR</srai>
+	</template>
+</category>
+
+
+
+
+<category>
+	<pattern>_ YEAR * ACCREDIATED *</pattern>
+	<template>
+		<srai>ACR</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ YEAR * ACCREDIATED</pattern>
+	<template>
+		<srai>ACR</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>YEAR * ACCREDIATED *</pattern>
+	<template>
+		<srai>ACR</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>YEAR * ACCREDIATED</pattern>
+	<template>
+		<srai>ACR</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ ACCREDIATED * YEAR *</pattern>
+	<template>
+		<srai>ACR</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ACCREDIATED * YEAR</pattern>
+	<template>
+		<srai>ACR</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ACCREDIATED * YEAR *</pattern>
+	<template>
+		<srai>ACR</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ACCREDIATED * YEAR</pattern>
+	<template>
+		<srai>ACR</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ YEAR ACCREDIATED *</pattern>
+	<template>
+		<srai>ACR</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ YEAR ACCREDIATED</pattern>
+	<template>
+		<srai>ACR</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>YEAR ACCREDIATED *</pattern>
+	<template>
+		<srai>ACR</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>YEAR ACCREDIATED</pattern>
+	<template>
+		<srai>ACR</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ ACCREDIATED YEAR *</pattern>
+	<template>
+		<srai>ACR</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ACCREDIATED YEAR</pattern>
+	<template>
+		<srai>ACR</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ACCREDIATED YEAR *</pattern>
+	<template>
+		<srai>ACR</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ACCREDIATED YEAR</pattern>
+	<template>
+		<srai>ACR</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>STR</pattern>
+	<template>The course started in the year 1985.</template>
+</category>
+
+<category>
+	<pattern>_ YEAR * COURSE *</pattern>
+	<template>
+		<srai>STR</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ YEAR * COURSE</pattern>
+	<template>
+		<srai>STR</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>YEAR * COURSE *</pattern>
+	<template>
+		<srai>STR</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>YEAR * COURSE</pattern>
+	<template>
+		<srai>STR</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ YEAR COURSE *</pattern>
+	<template>
+		<srai>STR</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ YEAR COURSE</pattern>
+	<template>
+		<srai>STR</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>YEAR COURSE *</pattern>
+	<template>
+		<srai>STR</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>YEAR COURSE</pattern>
+	<template>
+		<srai>STR</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ COURSE * START *</pattern>
+	<template>
+		<srai>STR</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COURSE * START</pattern>
+	<template>
+		<srai>STR</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>COURSE * START *</pattern>
+	<template>
+		<srai>STR</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>COURSE * START</pattern>
+	<template>
+		<srai>STR</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ COURSE START *</pattern>
+	<template>
+		<srai>STR</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COURSE START</pattern>
+	<template>
+		<srai>STR</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>COURSE START *</pattern>
+	<template>
+		<srai>STR</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>COURSE START</pattern>
+	<template>
+		<srai>STR</srai>
+	</template>
+</category>
+
+
+
+
+<category>
+	<pattern>_ COURSE * START *</pattern>
+	<template>
+		<srai>STR</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ START * COURSE</pattern>
+	<template>
+		<srai>STR</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>START * COURSE *</pattern>
+	<template>
+		<srai>STR</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>START * COURSE</pattern>
+	<template>
+		<srai>STR</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ START COURSE *</pattern>
+	<template>
+		<srai>STR</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ START COURSE</pattern>
+	<template>
+		<srai>STR</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>START COURSE *</pattern>
+	<template>
+		<srai>STR</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>START COURSE</pattern>
+	<template>
+		<srai>STR</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ YEAR * STARTED *</pattern>
+	<template>
+		<srai>STR</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ YEAR * STARTED</pattern>
+	<template>
+		<srai>STR</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>YEAR * STARTED *</pattern>
+	<template>
+		<srai>STR</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>YEAR * STARTED</pattern>
+	<template>
+		<srai>STR</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ STARTED * YEAR *</pattern>
+	<template>
+		<srai>STR</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ STARTED * YEAR</pattern>
+	<template>
+		<srai>STR</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>STARTED * YEAR *</pattern>
+	<template>
+		<srai>STR</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>STARTED * YEAR</pattern>
+	<template>
+		<srai>STR</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ YEAR * START *</pattern>
+	<template>
+		<srai>STR</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ YEAR * START</pattern>
+	<template>
+		<srai>STR</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>YEAR * START *</pattern>
+	<template>
+		<srai>STR</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>YEAR * START</pattern>
+	<template>
+		<srai>STR</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ START * YEAR *</pattern>
+	<template>
+		<srai>STR</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ START * YEAR</pattern>
+	<template>
+		<srai>STR</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>START * YEAR *</pattern>
+	<template>
+		<srai>STR</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>START * YEAR</pattern>
+	<template>
+		<srai>STR</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>WA</pattern>
+	<template>	
+		<random>
+			<li>Yes, there is availability of Water Cooler in the Department and it is near the 'Computer Programming lab'.</li>
+			<li>Yes, near Computer Programming lab water filter is available.</li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>_ WATER FILTER *</pattern>
+	<template><srai>WA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ WATER FILTER </pattern>
+	<template><srai>WA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>WATER FILTER *</pattern>
+	<template><srai>WA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>WATER FILTER </pattern>
+	<template><srai>WA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ WATER COOLER *</pattern>
+	<template><srai>WA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ WATER COOLER</pattern>
+	<template><srai>WA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>WATER COOLER *</pattern>
+	<template><srai>WA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>WATER COOLER</pattern>
+	<template><srai>WA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ WATER *</pattern>
+	<template><srai>WA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ WATER</pattern>
+	<template><srai>WA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>WATER *</pattern>
+	<template><srai>WA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>WATER</pattern>
+	<template><srai>WA</srai>
+	</template>
+</category>
+
+
+
+
+
+
+<category>
+	<pattern>GCCR</pattern>
+	<template>	
+		<random>
+			<li>Yes, GCR is available on 1st floor (CT103).</li>
+			<li>(CT103) is the GCR on the 1st floor.</li>
+		</random>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ GCR *</pattern>
+	<template><srai>GCCR</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>GCR *</pattern>
+	<template><srai>GCCR</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ GCR</pattern>
+	<template><srai>GCCR</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>GCR</pattern>
+	<template><srai>GCCR</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ GIRLS COMMON ROOM *</pattern>
+	<template><srai>GCCR</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ GIRLS COMMON ROOM</pattern>
+	<template><srai>GCCR</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>GIRLS COMMON ROOM *</pattern>
+	<template><srai>GCCR</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>GIRLS COMMON ROOM</pattern>
+	<template><srai>GCCR</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ GIRLS REST ROOM *</pattern>
+	<template><srai>GCCR</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>GIRLS REST ROOM *</pattern>
+	<template><srai>GCCR</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ GIRLS REST ROOM</pattern>
+	<template><srai>GCCR</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>GIRLS REST ROOM</pattern>
+	<template><srai>GCCR</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ REST ROOM *</pattern>
+	<template><srai>GCCR</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ REST ROOM</pattern>
+	<template><srai>GCCR</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>REST ROOM *</pattern>
+	<template><srai>GCCR</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>REST ROOM</pattern>
+	<template><srai>GCCR</srai>
+	</template>
+</category>
+
+
+
+
+
+
+<category>
+	<pattern>WF</pattern>
+	<template>Yes, Wifi is available.</template>
+</category>
+
+<category>
+	<pattern>_ WIFI FACILITY *</pattern>
+	<template><srai>WF</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>WIFI FACILITY *</pattern>
+	<template><srai>WF</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>WIFI FACILITY</pattern>
+	<template><srai>WF</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ WIFI *</pattern>
+	<template><srai>WF</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>WIFI *</pattern>
+	<template><srai>WF</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ WIFI</pattern>
+	<template><srai>WF</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>WIFI</pattern>
+	<template><srai>WF</srai>
+	</template>
+</category>
+
+
+
+
+
+
+
+<category>
+	<pattern>DDL</pattern>
+	<template>
+	<random>
+		<li>Yes, Ct has a Departmental Library(CT101).</li>
+		<li>CT101 is the departmental library.</li>	
+	</random>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DEPARTMENTAL LIBRARY *</pattern>
+	<template><srai>DDL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>DEPARTMENTAL LIBRARY *</pattern>
+	<template><srai>DDL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DEPARTMENTAL LIBRARY</pattern>
+	<template><srai>DDL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>DEPARTMENTAL LIBRARY</pattern>
+	<template><srai>DDL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DEPARTMENT LIBRARY *</pattern>
+	<template><srai>DDL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>DEPARTMENT LIBRARY *</pattern>
+	<template><srai>DDL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DEPARTMENT LIBRARY</pattern>
+	<template><srai>DDL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>DEPARTMENT LIBRARY</pattern>
+	<template><srai>DDL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DL *</pattern>
+	<template><srai>DDL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>DL *</pattern>
+	<template><srai>DDL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DL</pattern>
+	<template><srai>DDL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>DL</pattern>
+	<template><srai>DDL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DEPT LIB *</pattern>
+	<template><srai>DDL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>DEPT LIB *</pattern>
+	<template><srai>DDL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DEPT LIB</pattern>
+	<template><srai>DDL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>DEPT LIB</pattern>
+	<template><srai>DDL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LIBRARY </pattern>
+	<template><srai>DDL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LIBRARY * DEPARTMENT *</pattern>
+	<template><srai>DDL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LIBRARY * DEPARTMENT *</pattern>
+	<template><srai>DDL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LIBRARY * DEPARTMENT</pattern>
+	<template><srai>DDL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LIBRARY * DEPARTMENT</pattern>
+	<template><srai>DDL</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LIBRARY DEPARTMENT *</pattern>
+	<template><srai>DDL</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>VM</pattern>
+	<template>
+	<random>
+		<li>Yes, GCR has a vending machine.</li>
+		<li>There is one vending machine in GCR.</li>	
+	</random>
+	</template>
+</category>
+
+<category>
+	<pattern>_ VENDING MACHINE *</pattern>
+	<template><srai>VM</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>VENDING MACHINE *</pattern>
+	<template><srai>VM</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ VENDING MACHINE</pattern>
+	<template><srai>VM</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>VENDING MACHINE</pattern>
+	<template><srai>VM</srai>
+	</template>
+</category>
+
+
+
+
+
+
+<category>
+	<pattern>FA</pattern>
+	<template>First aid box is outside the HOD office.
+	</template>
+</category>
+
+<category>
+	<pattern>_ FIRST AID BOX *</pattern>
+	<template><srai>FA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FIRST AID BOX *</pattern>
+	<template><srai>FA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FIRST AID BOX</pattern>
+	<template><srai>FA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FIRST AID BOX</pattern>
+	<template><srai>FA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FIRST AID KIT *</pattern>
+	<template><srai>FA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FIRST AID KIT</pattern>
+	<template><srai>FA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FIRST AID KIT *</pattern>
+	<template><srai>FA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FIRST AID KIT</pattern>
+	<template><srai>FA</srai>
+	</template>
+</category>
+
+
+
+
+
+
+<category>
+	<pattern>EI</pattern>
+	<template>Mrs. Nilima Mahendra Jichkar is the Exam Incharge of CT.
+	</template>
+</category>
+
+<category>
+	<pattern>_ EXAM INCHARGE *</pattern>
+	<template><srai>EI</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>EXAM INCHARGE *</pattern>
+	<template><srai>EI</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ EXAM INCHARGE</pattern>
+	<template><srai>EI</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>EXAM INCHARGE</pattern>
+	<template><srai>EI</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ INCHARGE * EXAM *</pattern>
+	<template><srai>EI</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>INCHARGE * EXAM *</pattern>
+	<template><srai>EI</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ INCHARGE * EXAM</pattern>
+	<template><srai>EI</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>INCHARGE * EXAM</pattern>
+	<template><srai>EI</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>HO</pattern>
+	<template>
+		<random>
+			<li>Dr. Kavita Randhirkumar Singh is the Head of CT Department.</li>
+			<li>The name of CT's HOD is Dr. Kavita Randhirkumar Singh</li> 
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>_ HOD *</pattern>
+	<template><srai>HO</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ HOD</pattern>
+	<template><srai>HO</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>HOD *</pattern>
+	<template><srai>HO</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>HOD</pattern>
+	<template><srai>HO</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ HEAD OF DEPARTMENT *</pattern>
+	<template><srai>HO</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>HEAD OF DEPARTMENT *</pattern>
+	<template><srai>HO</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ HEAD OF DEPARTMENT</pattern>
+	<template><srai>HO</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>HEAD OF DEPARTMENT</pattern>
+	<template><srai>HO</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DEPARTMENTAL HEAD *</pattern>
+	<template><srai>HO</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>DEPARTMENTAL HEAD *</pattern>
+	<template><srai>HO</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DEPARTMENTAL HEAD</pattern>
+	<template><srai>HO</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>DEPARTMENTAL HEAD</pattern>
+	<template><srai>HO</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ HEAD * DEPARTMENT *</pattern>
+	<template><srai>HO</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ HEAD * DEPARTMENT</pattern>
+	<template><srai>HO</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>HEAD * DEPARTMENT *</pattern>
+	<template><srai>HO</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>HEAD * DEPARTMENT</pattern>
+	<template><srai>HO</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DEPARTMENT HEAD *</pattern>
+	<template><srai>HO</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>DEPARTMENT HEAD *</pattern>
+	<template><srai>HO</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DEPARTMENT HEAD</pattern>
+	<template><srai>HO</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>DEPARTMENT HEAD</pattern>
+	<template><srai>HO</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>PRO</pattern>
+	<template>Yes, projectors are available.
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROJECTORS *</pattern>
+	<template><srai>PRO</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROJECTORS *</pattern>
+	<template><srai>PRO</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROJECTORS</pattern>
+	<template><srai>PRO</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROJECTORS</pattern>
+	<template><srai>PRO</srai>
+	</template>
+</category>
+
+
+</aiml>

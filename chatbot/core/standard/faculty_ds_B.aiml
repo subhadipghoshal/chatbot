@@ -1,0 +1,5146 @@
+<aiml version="1.0.1" encoding="UTF-8">
+
+<category>
+	<pattern>DSB</pattern>
+	<template>
+		<random>
+			<li>Mr. Shivkumar Jaywantrao Karale teaches DATA STRUCTURE</li>
+			<li>Mr. Shivkumar Jaywantrao Karale</li>
+			<li>DATA STRUCTURE is taught by Mr. Shivkumar Jaywantrao Karale</li>
+		</random>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ PROFESSOR * DATA STRUCTURE * B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * DS * B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ PROFESSOR * DATA STRUCTURE * B</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * DS * B</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR * DATA STRUCTURE * B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR * DS * B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR * DATA STRUCTURE * B</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR * DS * B</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * DATA STRUCTURE B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * DS B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR * DATA STRUCTURE B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR * DS B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR DATA STRUCTURE * B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR DS * B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR DATA STRUCTURE * B</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR DS * B</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR DATA STRUCTURE * B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR DS * B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR DATA STRUCTURE * B</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR DS * B</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR DATA STRUCTURE B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR DS B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR DATA STRUCTURE B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR DS B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+
+
+<category>
+	<pattern>_ PROFESSOR * B * DATA STRUCTURE *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * B * DS *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * B * DATA STRUCTURE</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * B * DS</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR * B * DATA STRUCTURE *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR * B * DS *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR * B * DATA STRUCTURE</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR * B * DS</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR B * DATA STRUCTURE *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR B * DS *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR B * DATA STRUCTURE</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR B * DS</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR B * DATA STRUCTURE *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR B * DS *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR B * DATA STRUCTURE</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR B * DS</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * B DATA STRUCTURE *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * B DS *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * B DATA STRUCTURE</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * B DS</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR * B DATA STRUCTURE *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR * B DS *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR * B DATA STRUCTURE</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR * B DS</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>_ DATA STRUCTURE PROFESSOR * B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DS PROFESSOR * B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DATA STRUCTURE PROFESSOR * B</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DS PROFESSOR * B</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DATA STRUCTURE PROFESSOR * B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DS PROFESSOR * B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DATA STRUCTURE PROFESSOR * B</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DS PROFESSOR * B</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DATA STRUCTURE PROFESSOR B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DS PROFESSOR B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DATA STRUCTURE PROFESSOR B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DS PROFESSOR B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>_ DATA STRUCTURE * B PROFESSOR *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DS * B PROFESSOR *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DATA STRUCTURE * B PROFESSOR</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DS * B PROFESSOR</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DATA STRUCTURE * B PROFESSOR *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DS * B PROFESSOR *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DATA STRUCTURE * B PROFESSOR</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DS * B PROFESSOR</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DATA STRUCTURE B * PROFESSOR *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DS B * PROFESSOR *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DATA STRUCTURE B * PROFESSOR</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DS B * PROFESSOR</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DATA STRUCTURE B * PROFESSOR *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DS B * PROFESSOR *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DATA STRUCTURE B * PROFESSOR</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DS B * PROFESSOR</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>_ B PROFESSOR * DATA STRUCTURE *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROFESSOR * DS *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROFESSOR * DATA STRUCTURE</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROFESSOR * DS</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR * DATA STRUCTURE *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR * DS *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR * DATA STRUCTURE</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR * DS</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROFESSOR DATA STRUCTURE *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROFESSOR DS *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROFESSOR DATA STRUCTURE</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ B PROFESSOR DS</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR DATA STRUCTURE *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR DS *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR DATA STRUCTURE</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR DS</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+
+
+<category>
+	<pattern>_ B DATA STRUCTURE PROFESSOR *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B DS PROFESSOR *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B DATA STRUCTURE PROFESSOR</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B DS PROFESSOR</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * DATA STRUCTURE PROFESSOR *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * DS PROFESSOR *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * DATA STRUCTURE PROFESSOR</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * DS PROFESSOR</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+
+
+<category>
+	<pattern>_ PROF * DATA STRUCTURE * B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * DS * B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ PROF * DATA STRUCTURE * B</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * DS * B</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF * DATA STRUCTURE * B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF * DS * B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF * DATA STRUCTURE * B</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF * DS * B</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * DATA STRUCTURE B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * DS B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF * DATA STRUCTURE B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF * DS B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF DATA STRUCTURE * B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF DS * B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF DATA STRUCTURE * B</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF DS * B</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF DATA STRUCTURE * B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF DS * B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF DATA STRUCTURE * B</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF DS * B</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF DATA STRUCTURE B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF DS B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF DATA STRUCTURE B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF DS B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+
+
+<category>
+	<pattern>_ PROF * B * DATA STRUCTURE *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * B * DS *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * B * DATA STRUCTURE</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * B * DS</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF * B * DATA STRUCTURE *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF * B * DS *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF * B * DATA STRUCTURE</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF * B * DS</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF B * DATA STRUCTURE *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF B * DS *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF B * DATA STRUCTURE</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF B * DS</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF B * DATA STRUCTURE *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF B * DS *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF B * DATA STRUCTURE</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF B * DS</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * B DATA STRUCTURE *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * B DS *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * B DATA STRUCTURE</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * B DS</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF * B DATA STRUCTURE *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF * B DS *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF * B DATA STRUCTURE</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF * B DS</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>_ DATA STRUCTURE PROF * B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DS PROF * B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DATA STRUCTURE PROF * B</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DS PROF * B</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DATA STRUCTURE PROF * B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DS PROF * B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DATA STRUCTURE PROF * B</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DS PROF * B</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DATA STRUCTURE PROF B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DS PROF B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DATA STRUCTURE PROF B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DS PROF B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>_ DATA STRUCTURE * B PROF *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DS * B PROF *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DATA STRUCTURE * B PROF</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DS * B PROF</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DATA STRUCTURE * B PROF *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DS * B PROF *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DATA STRUCTURE * B PROF</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DS * B PROF</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DATA STRUCTURE B * PROF *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DS B * PROF *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DATA STRUCTURE B * PROF</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DS B * PROF</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DATA STRUCTURE B * PROF *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DS B * PROF *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DATA STRUCTURE B * PROF</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DS B * PROF</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>_ B PROF * DATA STRUCTURE *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROF * DS *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROF * DATA STRUCTURE</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROF * DS</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF * DATA STRUCTURE *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF * DS *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF * DATA STRUCTURE</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF * DS</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROF DATA STRUCTURE *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROF DS *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROF DATA STRUCTURE</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ B PROF DS</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF DATA STRUCTURE *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF DS *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF DATA STRUCTURE</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF DS</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+
+
+<category>
+	<pattern>_ B DATA STRUCTURE PROF *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B DS PROF *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B DATA STRUCTURE PROF</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B DS PROF</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * DATA STRUCTURE PROF *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * DS PROF *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * DATA STRUCTURE PROF</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * DS PROF</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+
+
+<category>
+	<pattern>_ LECTURER * DATA STRUCTURE * B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * DS * B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ LECTURER * DATA STRUCTURE * B</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * DS * B</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER * DATA STRUCTURE * B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER * DS * B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER * DATA STRUCTURE * B</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER * DS * B</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * DATA STRUCTURE B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * DS B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER * DATA STRUCTURE B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER * DS B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER DATA STRUCTURE * B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER DS * B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER DATA STRUCTURE * B</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER DS * B</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER DATA STRUCTURE * B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER DS * B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER DATA STRUCTURE * B</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER DS * B</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER DATA STRUCTURE B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER DS B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER DATA STRUCTURE B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER DS B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+
+
+<category>
+	<pattern>_ LECTURER * B * DATA STRUCTURE *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * B * DS *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * B * DATA STRUCTURE</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * B * DS</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER * B * DATA STRUCTURE *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER * B * DS *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER * B * DATA STRUCTURE</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER * B * DS</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER B * DATA STRUCTURE *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER B * DS *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER B * DATA STRUCTURE</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER B * DS</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER B * DATA STRUCTURE *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER B * DS *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER B * DATA STRUCTURE</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER B * DS</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * B DATA STRUCTURE *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * B DS *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * B DATA STRUCTURE</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * B DS</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER * B DATA STRUCTURE *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER * B DS *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER * B DATA STRUCTURE</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER * B DS</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>_ DATA STRUCTURE LECTURER * B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DS LECTURER * B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DATA STRUCTURE LECTURER * B</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DS LECTURER * B</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DATA STRUCTURE LECTURER * B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DS LECTURER * B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DATA STRUCTURE LECTURER * B</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DS LECTURER * B</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DATA STRUCTURE LECTURER B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DS LECTURER B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DATA STRUCTURE LECTURER B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DS LECTURER B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>_ DATA STRUCTURE * B LECTURER *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DS * B LECTURER *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DATA STRUCTURE * B LECTURER</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DS * B LECTURER</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DATA STRUCTURE * B LECTURER *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DS * B LECTURER *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DATA STRUCTURE * B LECTURER</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DS * B LECTURER</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DATA STRUCTURE B * LECTURER *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DS B * LECTURER *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DATA STRUCTURE B * LECTURER</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DS B * LECTURER</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DATA STRUCTURE B * LECTURER *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DS B * LECTURER *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DATA STRUCTURE B * LECTURER</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DS B * LECTURER</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>_ B LECTURER * DATA STRUCTURE *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LECTURER * DS *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LECTURER * DATA STRUCTURE</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LECTURER * DS</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER * DATA STRUCTURE *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER * DS *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER * DATA STRUCTURE</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER * DS</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LECTURER DATA STRUCTURE *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LECTURER DS *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LECTURER DATA STRUCTURE</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ B LECTURER DS</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER DATA STRUCTURE *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER DS *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER DATA STRUCTURE</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER DS</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+
+
+<category>
+	<pattern>_ B DATA STRUCTURE LECTURER *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B DS LECTURER *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B DATA STRUCTURE LECTURER</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B DS LECTURER</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * DATA STRUCTURE LECTURER *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * DS LECTURER *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * DATA STRUCTURE LECTURER</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * DS LECTURER</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+
+
+<category>
+	<pattern>_ LECT * DATA STRUCTURE * B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * DS * B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ LECT * DATA STRUCTURE * B</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * DS * B</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT * DATA STRUCTURE * B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT * DS * B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT * DATA STRUCTURE * B</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT * DS * B</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * DATA STRUCTURE B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * DS B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT * DATA STRUCTURE B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT * DS B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT DATA STRUCTURE * B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT DS * B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT DATA STRUCTURE * B</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT DS * B</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT DATA STRUCTURE * B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT DS * B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT DATA STRUCTURE * B</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT DS * B</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT DATA STRUCTURE B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT DS B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT DATA STRUCTURE B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT DS B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+
+
+<category>
+	<pattern>_ LECT * B * DATA STRUCTURE *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * B * DS *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * B * DATA STRUCTURE</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * B * DS</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT * B * DATA STRUCTURE *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT * B * DS *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT * B * DATA STRUCTURE</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT * B * DS</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT B * DATA STRUCTURE *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT B * DS *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT B * DATA STRUCTURE</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT B * DS</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT B * DATA STRUCTURE *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT B * DS *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT B * DATA STRUCTURE</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT B * DS</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * B DATA STRUCTURE *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * B DS *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * B DATA STRUCTURE</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * B DS</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT * B DATA STRUCTURE *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT * B DS *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT * B DATA STRUCTURE</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT * B DS</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>_ DATA STRUCTURE LECT * B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DS LECT * B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DATA STRUCTURE LECT * B</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DS LECT * B</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DATA STRUCTURE LECT * B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DS LECT * B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DATA STRUCTURE LECT * B</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DS LECT * B</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DATA STRUCTURE LECT B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DS LECT B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DATA STRUCTURE LECT B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DS LECT B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>_ DATA STRUCTURE * B LECT *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DS * B LECT *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DATA STRUCTURE * B LECT</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DS * B LECT</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DATA STRUCTURE * B LECT *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DS * B LECT *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DATA STRUCTURE * B LECT</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DS * B LECT</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DATA STRUCTURE B * LECT *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DS B * LECT *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DATA STRUCTURE B * LECT</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DS B * LECT</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DATA STRUCTURE B * LECT *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DS B * LECT *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DATA STRUCTURE B * LECT</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DS B * LECT</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>_ B LECT * DATA STRUCTURE *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LECT * DS *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LECT * DATA STRUCTURE</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LECT * DS</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT * DATA STRUCTURE *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT * DS *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT * DATA STRUCTURE</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT * DS</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LECT DATA STRUCTURE *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LECT DS *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LECT DATA STRUCTURE</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ B LECT DS</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT DATA STRUCTURE *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT DS *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT DATA STRUCTURE</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT DS</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+
+
+<category>
+	<pattern>_ B DATA STRUCTURE LECT *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B DS LECT *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B DATA STRUCTURE LECT</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B DS LECT</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * DATA STRUCTURE LECT *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * DS LECT *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * DATA STRUCTURE LECT</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * DS LECT</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>_ TEACHER * DATA STRUCTURE * B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * DS * B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ TEACHER * DATA STRUCTURE * B</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * DS * B</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER * DATA STRUCTURE * B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER * DS * B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER * DATA STRUCTURE * B</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER * DS * B</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * DATA STRUCTURE B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * DS B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER * DATA STRUCTURE B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER * DS B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER DATA STRUCTURE * B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER DS * B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER DATA STRUCTURE * B</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER DS * B</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER DATA STRUCTURE * B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER DS * B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER DATA STRUCTURE * B</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER DS * B</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER DATA STRUCTURE B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER DS B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER DATA STRUCTURE B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER DS B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+
+
+<category>
+	<pattern>_ TEACHER * B * DATA STRUCTURE *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * B * DS *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * B * DATA STRUCTURE</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * B * DS</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER * B * DATA STRUCTURE *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER * B * DS *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER * B * DATA STRUCTURE</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER * B * DS</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER B * DATA STRUCTURE *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER B * DS *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER B * DATA STRUCTURE</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER B * DS</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER B * DATA STRUCTURE *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER B * DS *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER B * DATA STRUCTURE</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER B * DS</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * B DATA STRUCTURE *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * B DS *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * B DATA STRUCTURE</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * B DS</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER * B DATA STRUCTURE *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER * B DS *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER * B DATA STRUCTURE</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER * B DS</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>_ DATA STRUCTURE TEACHER * B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DS TEACHER * B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DATA STRUCTURE TEACHER * B</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DS TEACHER * B</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DATA STRUCTURE TEACHER * B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DS TEACHER * B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DATA STRUCTURE TEACHER * B</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DS TEACHER * B</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DATA STRUCTURE TEACHER B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DS TEACHER B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DATA STRUCTURE TEACHER B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DS TEACHER B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>_ DATA STRUCTURE * B TEACHER *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DS * B TEACHER *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DATA STRUCTURE * B TEACHER</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DS * B TEACHER</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DATA STRUCTURE * B TEACHER *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DS * B TEACHER *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DATA STRUCTURE * B TEACHER</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DS * B TEACHER</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DATA STRUCTURE B * TEACHER *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DS B * TEACHER *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DATA STRUCTURE B * TEACHER</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DS B * TEACHER</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DATA STRUCTURE B * TEACHER *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DS B * TEACHER *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DATA STRUCTURE B * TEACHER</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DS B * TEACHER</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>_ B TEACHER * DATA STRUCTURE *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B TEACHER * DS *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B TEACHER * DATA STRUCTURE</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B TEACHER * DS</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER * DATA STRUCTURE *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER * DS *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER * DATA STRUCTURE</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER * DS</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B TEACHER DATA STRUCTURE *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B TEACHER DS *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B TEACHER DATA STRUCTURE</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ B TEACHER DS</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER DATA STRUCTURE *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER DS *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER DATA STRUCTURE</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER DS</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+
+
+<category>
+	<pattern>_ B DATA STRUCTURE TEACHER *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B DS TEACHER *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B DATA STRUCTURE TEACHER</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B DS TEACHER</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * DATA STRUCTURE TEACHER *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * DS TEACHER *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * DATA STRUCTURE TEACHER</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * DS TEACHER</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY * DATA STRUCTURE * B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * DS * B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ FACULTY * DATA STRUCTURE * B</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * DS * B</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY * DATA STRUCTURE * B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY * DS * B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY * DATA STRUCTURE * B</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY * DS * B</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * DATA STRUCTURE B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * DS B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY * DATA STRUCTURE B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY * DS B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY DATA STRUCTURE * B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY DS * B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY DATA STRUCTURE * B</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY DS * B</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY DATA STRUCTURE * B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY DS * B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY DATA STRUCTURE * B</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY DS * B</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY DATA STRUCTURE B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY DS B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY DATA STRUCTURE B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY DS B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+
+
+<category>
+	<pattern>_ FACULTY * B * DATA STRUCTURE *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * B * DS *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * B * DATA STRUCTURE</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * B * DS</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY * B * DATA STRUCTURE *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY * B * DS *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY * B * DATA STRUCTURE</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY * B * DS</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY B * DATA STRUCTURE *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY B * DS *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY B * DATA STRUCTURE</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY B * DS</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY B * DATA STRUCTURE *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY B * DS *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY B * DATA STRUCTURE</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY B * DS</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * B DATA STRUCTURE *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * B DS *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * B DATA STRUCTURE</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * B DS</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY * B DATA STRUCTURE *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY * B DS *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY * B DATA STRUCTURE</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY * B DS</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>_ DATA STRUCTURE FACULTY * B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DS FACULTY * B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DATA STRUCTURE FACULTY * B</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DS FACULTY * B</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DATA STRUCTURE FACULTY * B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DS FACULTY * B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DATA STRUCTURE FACULTY * B</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DS FACULTY * B</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DATA STRUCTURE FACULTY B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DS FACULTY B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DATA STRUCTURE FACULTY B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DS FACULTY B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>_ DATA STRUCTURE * B FACULTY *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DS * B FACULTY *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DATA STRUCTURE * B FACULTY</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DS * B FACULTY</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DATA STRUCTURE * B FACULTY *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DS * B FACULTY *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DATA STRUCTURE * B FACULTY</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DS * B FACULTY</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DATA STRUCTURE B * FACULTY *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DS B * FACULTY *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DATA STRUCTURE B * FACULTY</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DS B * FACULTY</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DATA STRUCTURE B * FACULTY *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DS B * FACULTY *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DATA STRUCTURE B * FACULTY</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DS B * FACULTY</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>_ B FACULTY * DATA STRUCTURE *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B FACULTY * DS *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B FACULTY * DATA STRUCTURE</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B FACULTY * DS</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY * DATA STRUCTURE *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY * DS *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY * DATA STRUCTURE</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY * DS</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B FACULTY DATA STRUCTURE *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B FACULTY DS *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B FACULTY DATA STRUCTURE</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ B FACULTY DS</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY DATA STRUCTURE *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY DS *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY DATA STRUCTURE</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY DS</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+
+
+<category>
+	<pattern>_ B DATA STRUCTURE FACULTY *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B DS FACULTY *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B DATA STRUCTURE FACULTY</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B DS FACULTY</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * DATA STRUCTURE FACULTY *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * DS FACULTY *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * DATA STRUCTURE FACULTY</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * DS FACULTY</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHES DATA STRUCTURE * B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES DS * B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES DATA STRUCTURE * B</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES DS * B</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES DATA STRUCTURE B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES DS B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES * B DATA STRUCTURE *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES * B DS *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES * B DATA STRUCTURE</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES * B DS</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES B * DATA STRUCTURE *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES B * DS *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES B * DATA STRUCTURE</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES B * DS</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DATA STRUCTURE * B * TAUGHT *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DS * B * TAUGHT *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DATA STRUCTURE * B * TAUGHT *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DS * B * TAUGHT *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DATA STRUCTURE B * TAUGHT *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DS B * TAUGHT *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DATA STRUCTURE B * TAUGHT *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DS B * TAUGHT *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DATA STRUCTURE * B TAUGHT *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DS * B TAUGHT *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DATA STRUCTURE * B TAUGHT *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DS * B TAUGHT *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURES * DATA STRUCTURE * B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURES * DS * B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURES * DATA STRUCTURE * B</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURES * DS * B</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURES * DATA STRUCTURE B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURES * DS B *</pattern>
+	<template>
+		<srai>DSB</srai>
+	</template>
+</category>
+
+
+
+</aiml>

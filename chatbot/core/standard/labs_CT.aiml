@@ -1,0 +1,1501 @@
+<aiml version="1.0.1" encoding="UTF-8">
+
+<category>
+	<pattern>CPL</pattern>
+	<template>
+		<random>
+			<li>Computer Programming Lab is Lab 6, 7 (CT112 A, CT112 B).</li>
+			<li>Lab 6, 7 is the Computer Programming Lab.</li>
+			<li>CT112A, CT112B are the Computer Programming labs.(lab 6, 7).</li>
+		</random>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ COMPUTER PROGRAMMING LAB *</pattern>
+	<template><srai>CPL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER PROGRAMMING LAB</pattern>
+	<template><srai>CPL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>COMPUTER PROGRAMMING LAB *</pattern>
+	<template><srai>CPL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>COMPUTER PROGRAMMING LAB</pattern>
+	<template><srai>CPL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER PROGRAMMING LABORATORY *</pattern>
+	<template><srai>CPL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER PROGRAMMING LABORATORY</pattern>
+	<template><srai>CPL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>COMPUTER PROGRAMMING LABORATORY *</pattern>
+	<template><srai>CPL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>COMPUTER PROGRAMMING LABORATORY</pattern>
+	<template><srai>CPL</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LABORATORY * COMPUTER PROGRAMMING *</pattern>
+	<template><srai>CPL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LABORATORY * COMPUTER PROGRAMMING</pattern>
+	<template><srai>CPL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LABORATORY * COMPUTER PROGRAMMING *</pattern>
+	<template><srai>CPL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LABORATORY * COMPUTER PROGRAMMING</pattern>
+	<template><srai>CPL</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LAB * COMPUTER PROGRAMMING *</pattern>
+	<template><srai>CPL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LAB * COMPUTER PROGRAMMING *</pattern>
+	<template><srai>CPL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LAB * COMPUTER PROGRAMMING</pattern>
+	<template><srai>CPL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LAB * COMPUTER PROGRAMMING</pattern>
+	<template><srai>CPL</srai>
+	</template>
+</category>
+
+
+
+
+<category>
+	<pattern>APL</pattern>
+	<template>
+		<random>
+			<li>Lab 8 is Advance Programming Lab.</li>
+			<li>Lab 8(CT001) is the Adavance Programming Lab.</li>
+			<li>CT001 is the Advance Programming Lab.</li>
+		</random>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LAB * ADVANCE PROGRAMMING *</pattern>
+	<template><srai>APL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LAB * ADVANCE PROGRAMMING</pattern>
+	<template><srai>APL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LAB * ADVANCE PROGRAMMING *</pattern>
+	<template><srai>APL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LAB * ADVANCE PROGRAMMING</pattern>
+	<template><srai>APL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LABORATORY * ADVANCE PROGRAMMING *</pattern>
+	<template><srai>APL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LABORATORY * ADVANCE PROGRAMMING *</pattern>
+	<template><srai>APL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LABORATORY * ADVANCE PROGRAMMING</pattern>
+	<template><srai>APL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LABORATORY * ADVANCE PROGRAMMING</pattern>
+	<template><srai>APL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ADVANCE PROGRAMMING LAB *</pattern>
+	<template><srai>APL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ADVANCE PROGRAMMING LAB *</pattern>
+	<template><srai>APL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ADVANCE PROGRAMMING LAB</pattern>
+	<template><srai>APL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ADVANCE PROGRAMMING LAB</pattern>
+	<template><srai>APL</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ ADVANCE PROGRAMMING LABORATORY *</pattern>
+	<template><srai>APL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ADVANCE PROGRAMMING LABORATORY *</pattern>
+	<template><srai>APL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ADVANCE PROGRAMMING LABORATORY</pattern>
+	<template><srai>APL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ADVANCE PROGRAMMING LABORATORY</pattern>
+	<template><srai>APL</srai>
+	</template>
+</category>
+
+
+
+
+
+
+<category>
+	<pattern>MPL</pattern>
+	<template>
+		<random>
+			<li>Lab 10(CT003) is the Mini Project Lab.</li>
+			<li>Mini Project Lab is Lab 10(CT003).</li>
+		</random>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ MINI PROJECT LAB *</pattern>
+	<template><srai>MPL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ MINI PROJECT LAB</pattern>
+	<template><srai>MPL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>MINI PROJECT LAB *</pattern>
+	<template><srai>MPL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>MINI PROJECT LAB</pattern>
+	<template><srai>MPL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ MINI PROJECT LABORATORY *</pattern>
+	<template><srai>MPL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ MINI PROJECT LABORATORY</pattern>
+	<template><srai>MPL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>MINI PROJECT LABORATORY *</pattern>
+	<template><srai>MPL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>MINI PROJECT LABORATORY</pattern>
+	<template><srai>MPL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LAB * MINI PROJECT *</pattern>
+	<template><srai>MPL</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LAB * MINI PROJECT</pattern>
+	<template><srai>MPL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LAB MINI PROJECT *</pattern>
+	<template><srai>MPL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LAB * MINI PROJECT</pattern>
+	<template><srai>MPL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LABORATORY * MINI PROJECT *</pattern>
+	<template><srai>MPL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LABORATORY* MINI PROJECT *</pattern>
+	<template><srai>MPL</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LABORATORY* MINI PROJECT</pattern>
+	<template><srai>MPL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LABORATORY * MINI PROJECT</pattern>
+	<template><srai>MPL</srai>
+	</template>
+</category>
+
+
+
+
+
+
+<category>
+	<pattern>SPL</pattern>
+	<template>
+		<random>
+			<li>Lab 9 is the System Programming Lab(CT002).</li>
+			<li>System programming lab is CT002(Lab 9).</li>
+		</random>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LAB * SYSTEM PROGRAMMING *</pattern>
+	<template><srai>SPL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LAB * SYSTEM PROGRAMMING</pattern>
+	<template><srai>SPL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LAB * SYSTEM PROGRAMMING *</pattern>
+	<template><srai>SPL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LAB * SYSTEM PROGRAMMING</pattern>
+	<template><srai>SPL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LABORATORY * SYSTEM PROGRAMMING *</pattern>
+	<template><srai>SPL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LABORATORY * SYSTEM PROGRAMMING</pattern>
+	<template><srai>SPL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LABORATORY * SYSTEM PROGRAMMING *</pattern>
+	<template><srai>SPL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LABORATORY * SYSTEM PROGRAMMING</pattern>
+	<template><srai>SPL</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ SYSTEM PROGRAMMING LAB *</pattern>
+	<template><srai>SPL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SYSTEM PROGRAMMING LAB</pattern>
+	<template><srai>SPL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SYSTEM PROGRAMMING LAB *</pattern>
+	<template><srai>SPL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SYSTEM PROGRAMMING LAB</pattern>
+	<template><srai>SPL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SYSTEM PROGRAMMING LABORATORY *</pattern>
+	<template><srai>SPL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SYSTEM PROGRAMMING LABORATORY</pattern>
+	<template><srai>SPL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SYSTEM PROGRAMMING LABORATORY *</pattern>
+	<template><srai>SPL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SYSTEM PROGRAMMING LABORATORY</pattern>
+	<template><srai>SPL</srai>
+	</template>
+</category>
+
+
+
+
+
+
+<category>
+	<pattern>DBL</pattern>
+	<template>
+		<random>
+			<li>Lab 4, 5 is for Database Management Systems(CT106).</li>
+			<li>Database Management Systems Lab is lab 4,5(CT106).</li>
+		</random>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DATABASE MANAGEMENT SYSTEMS LAB *</pattern>
+	<template><srai>DBL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>DATABASE MANAGEMENT SYSTEMS LAB *</pattern>
+	<template><srai>DBL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DATABASE MANAGEMENT SYSTEMS LAB</pattern>
+	<template><srai>DBL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>DATABASE MANAGEMENT SYSTEMS LAB</pattern>
+	<template><srai>DBL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DATABASE MANAGEMENT SYSTEMS LABORATORY *</pattern>
+	<template><srai>DBL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DATABASE MANAGEMENT SYSTEMS LABORATORY</pattern>
+	<template><srai>DBL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>DATABASE MANAGEMENT SYSTEMS LABORATORY *</pattern>
+	<template><srai>DBL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>DATABASE MANAGEMENT SYSTEMS LABORATORY</pattern>
+	<template><srai>DBL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LAB * DATABASE MANAGEMENT SYSTEMS *</pattern>
+	<template><srai>DBL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LAB * DATABASE MANAGEMENT SYSTEMS *</pattern>
+	<template><srai>DBL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LAB * DATABASE MANAGEMENT SYSTEMS</pattern>
+	<template><srai>DBL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LAB * DATABASE MANAGEMENT SYSTEMS</pattern>
+	<template><srai>DBL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LABORATORY * DATABASE MANAGEMENT SYSTEMS *</pattern>
+	<template><srai>DBL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LABORATORY * DATABASE MANAGEMENT SYSTEMS *</pattern>
+	<template><srai>DBL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LABORATORY * DATABASE MANAGEMENT SYSTEMS</pattern>
+	<template><srai>DBL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LABORATORY * DATABASE MANAGEMENT SYSTEMS</pattern>
+	<template><srai>DBL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DBMS LAB *</pattern>
+	<template><srai>DBL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>DBMS LAB *</pattern>
+	<template><srai>DBL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DBMS LAB</pattern>
+	<template><srai>DBL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>DBMS LAB</pattern>
+	<template><srai>DBL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DBMS LABORATORY *</pattern>
+	<template><srai>DBL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DBMS LABORATORY</pattern>
+	<template><srai>DBL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>DBMS LABORATORY *</pattern>
+	<template><srai>DBL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>DBMS LABORATORY</pattern>
+	<template><srai>DBL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LAB * DBMS *</pattern>
+	<template><srai>DBL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LAB * DBMS *</pattern>
+	<template><srai>DBL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LAB * DBMS</pattern>
+	<template><srai>DBL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LAB * DBMS</pattern>
+	<template><srai>DBL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LABORATORY * DBMS *</pattern>
+	<template><srai>DBL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LABORATORY * DBMS *</pattern>
+	<template><srai>DBL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LABORATORY * DBMS</pattern>
+	<template><srai>DBL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LABORATORY * DBMS</pattern>
+	<template><srai>DBL</srai>
+	</template>
+</category>
+
+
+
+
+
+
+<category>
+	<pattern>CGL</pattern>
+	<template>
+		<random>
+			<li>Lab 3 is for Computer Graphics and Multimedia(CT107).</li>
+			<li>Computer Graphics lab is Lab 3(CT107)</li>
+		</random>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ COMPUTER GRAPHICS * MULTIMEDIA LAB *</pattern>
+	<template><srai>CGL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>COMPUTER GRAPHICS * MULTIMEDIA LAB *</pattern>
+	<template><srai>CGL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER GRAPHICS * MULTIMEDIA LAB</pattern>
+	<template><srai>CGL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>COMPUTER GRAPHICS * MULTIMEDIA LAB</pattern>
+	<template><srai>CGL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER GRAPHICS * MULTIMEDIA LABORATORY *</pattern>
+	<template><srai>CGL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>COMPUTER GRAPHICS * MULTIMEDIA LABORATORY *</pattern>
+	<template><srai>CGL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER GRAPHICS * MULTIMEDIA LABORATORY</pattern>
+	<template><srai>CGL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>COMPUTER GRAPHICS * MULTIMEDIA LABORATORY</pattern>
+	<template><srai>CGL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LAB * COMPUTER GRAPHICS * MULTIMEDIA *</pattern>
+	<template><srai>CGL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LAB * COMPUTER GRAPHICS * MULTIMEDIA *</pattern>
+	<template><srai>CGL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LAB * COMPUTER GRAPHICS * MULTIMEDIA</pattern>
+	<template><srai>CGL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LAB * COMPUTER GRAPHICS * MULTIMEDIA</pattern>
+	<template><srai>CGL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LABORATORY * COMPUTER GRAPHICS * MULTIMEDIA *</pattern>
+	<template><srai>CGL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LABORATORY * COMPUTER GRAPHICS * MULTIMEDIA *</pattern>
+	<template><srai>CGL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LABORATORY * COMPUTER GRAPHICS * MULTIMEDIA</pattern>
+	<template><srai>CGL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LABORATORY * COMPUTER GRAPHICS * MULTIMEDIA</pattern>
+	<template><srai>CGL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CG LAB *</pattern>
+	<template><srai>CGL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>CG LAB *</pattern>
+	<template><srai>CGL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CG LAB</pattern>
+	<template><srai>CGL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>CG LAB</pattern>
+	<template><srai>CGL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CG LABORATORY *</pattern>
+	<template><srai>CGL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>CG LABORATORY *</pattern>
+	<template><srai>CGL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CG LABORATORY</pattern>
+	<template><srai>CGL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>CG LABORATORY</pattern>
+	<template><srai>CGL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LAB * CG *</pattern>
+	<template><srai>CGL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LAB * CG *</pattern>
+	<template><srai>CGL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LAB * CG</pattern>
+	<template><srai>CGL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LAB * CG</pattern>
+	<template><srai>CGL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ C G LAB *</pattern>
+	<template><srai>CGL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>C G LAB *</pattern>
+	<template><srai>CGL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ C G LAB</pattern>
+	<template><srai>CGL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>C G LAB</pattern>
+	<template><srai>CGL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ C G LABORATORY *</pattern>
+	<template><srai>CGL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>C G LABORATORY *</pattern>
+	<template><srai>CGL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ C G LABORATORY</pattern>
+	<template><srai>CGL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>C G LABORATORY</pattern>
+	<template><srai>CGL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LAB * C G *</pattern>
+	<template><srai>CGL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LAB * C G *</pattern>
+	<template><srai>CGL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LAB * C G</pattern>
+	<template><srai>CGL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LAB * C G</pattern>
+	<template><srai>CGL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LABORATORY * C G *</pattern>
+	<template><srai>CGL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LABORATORY * C G *</pattern>
+	<template><srai>CGL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER GRAPHICS LAB *</pattern>
+	<template><srai>CGL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>COMPUTER GRAPHICS LAB *</pattern>
+	<template><srai>CGL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER GRAPHICS LAB</pattern>
+	<template><srai>CGL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>COMPUTER GRAPHICS LAB</pattern>
+	<template><srai>CGL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER GRAPHICS LABORATORY *</pattern>
+	<template><srai>CGL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>COMPUTER GRAPHICS LABORATORY *</pattern>
+	<template><srai>CGL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER GRAPHICS LABORATORY</pattern>
+	<template><srai>CGL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>COMPUTER GRAPHICS LABORATORY</pattern>
+	<template><srai>CGL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LAB * COMPUTER GRAPHICS *</pattern>
+	<template><srai>CGL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LAB * COMPUTER GRAPHICS *</pattern>
+	<template><srai>CGL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LAB * COMPUTER GRAPHICS</pattern>
+	<template><srai>CGL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LAB * COMPUTER GRAPHICS</pattern>
+	<template><srai>CGL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LABORATORY * COMPUTER GRAPHICS *</pattern>
+	<template><srai>CGL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LABORATORY * COMPUTER GRAPHICS *</pattern>
+	<template><srai>CGL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LABORATORY *  COMPUTER GRAPHICS</pattern>
+	<template><srai>CGL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LABORATORY * COMPUTER GRAPHICS</pattern>
+	<template><srai>CGL</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>SEL</pattern>
+	<template>
+		<random>
+			<li>Lab 1(CT111) is of Software Engineering.</li>
+			<li>Software Engineering Lab is Lab 1(CT111).</li>
+		</random>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LABORATORY * SOFTWARE ENGINEERING *</pattern>
+	<template><srai>SEL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LABORATORY * SOFTWARE ENGINEERING *</pattern>
+	<template><srai>SEL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LABORATORY * SOFTWARE ENGINEERING</pattern>
+	<template><srai>SEL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LABORATORY * SOFTWARE ENGINEERING</pattern>
+	<template><srai>SEL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LAB * SOFTWARE ENGINEERING *</pattern>
+	<template><srai>SEL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LAB * SOFTWARE ENGINEERING *</pattern>
+	<template><srai>SEL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LAB * SOFTWARE ENGINEERING</pattern>
+	<template><srai>SEL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LAB * SOFTWARE ENGINEERING</pattern>
+	<template><srai>SEL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SOFTWARE ENGINEERING LAB *</pattern>
+	<template><srai>SEL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SOFTWARE ENGINEERING LAB</pattern>
+	<template><srai>SEL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SOFTWARE ENGINEERING LAB *</pattern>
+	<template><srai>SEL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SOFTWARE ENGINEERING LAB</pattern>
+	<template><srai>SEL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SOFTWARE ENGINEERING LABORATORY *</pattern>
+	<template><srai>SEL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SOFTWARE ENGINEERING LABORATORY *</pattern>
+	<template><srai>SEL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SOFTWARE ENGINEERING LABORATORY</pattern>
+	<template><srai>SEL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SOFTWARE ENGINEERING LABORATORY</pattern>
+	<template><srai>SEL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ MAJOR PROJECT LABORATORY *</pattern>
+	<template><srai>SEL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ MAJOR PROJECT LABORATORY</pattern>
+	<template><srai>SEL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>MAJOR PROJECT LABORATORY *</pattern>
+	<template><srai>SEL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>MAJOR PROJECT LABORATORY</pattern>
+	<template><srai>SEL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ MAJOR PROJECT LAB *</pattern>
+	<template><srai>SEL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>MAJOR PROJECT LAB *</pattern>
+	<template><srai>SEL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ MAJOR PROJECT LAB</pattern>
+	<template><srai>SEL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>MAJOR PROJECT LAB</pattern>
+	<template><srai>SEL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ MAJOR LAB PROJECT *</pattern>
+	<template><srai>SEL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LAB * MAJOR PROJECT</pattern>
+	<template><srai>SEL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LAB * MAJOR PROJECT *</pattern>
+	<template><srai>SEL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LAB * MAJOR PROJECT</pattern>
+	<template><srai>SEL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LABORATORY * MAJOR PROJECT *</pattern>
+	<template><srai>SEL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LABORATORY * MAJOR PROJECT</pattern>
+	<template><srai>SEL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LABORATORY * MAJOR PROJECT *</pattern>
+	<template><srai>SEL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LABORATORY * MAJOR PROJECT</pattern>
+	<template><srai>SEL</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LABORATORY * SE *</pattern>
+	<template><srai>SEL</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LABORATORY * SE *</pattern>
+	<template><srai>SEL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LABORATORY * SE</pattern>
+	<template><srai>SEL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LABORATORY * SE</pattern>
+	<template><srai>SEL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LAB * SE *</pattern>
+	<template><srai>SEL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LAB * SE</pattern>
+	<template><srai>SEL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LAB * SE *</pattern>
+	<template><srai>SEL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LAB * SE</pattern>
+	<template><srai>SEL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SE LAB *</pattern>
+	<template><srai>SEL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SE LAB</pattern>
+	<template><srai>SEL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SE LAB *</pattern>
+	<template><srai>SEL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SE LAB</pattern>
+	<template><srai>SEL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SE LABORATORY *</pattern>
+	<template><srai>SEL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SE LABORATORY *</pattern>
+	<template><srai>SEL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SE LABORATORY</pattern>
+	<template><srai>SEL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SE LABORATORY</pattern>
+	<template><srai>SEL</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>WBTL</pattern>
+	<template>
+		<random>
+			<li>Lab 2(CT108) is the Web Technology and Programming lab.</li>
+			<li>Web Technology and Programming Lab is Lab 2(CT108).</li>
+		</random>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ WT LAB *</pattern>
+	<template><srai>WBTL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ WT LAB</pattern>
+	<template><srai>WBTL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>WT LAB *</pattern>
+	<template><srai>WBTL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>WT LAB</pattern>
+	<template><srai>WBTL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ WT LABORATORY *</pattern>
+	<template><srai>WBTL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ WT LABORATORY *</pattern>
+	<template><srai>WBTL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ WT LABORATORY</pattern>
+	<template><srai>WBTL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>WT LABORATORY *</pattern>
+	<template><srai>WBTL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>WT LABORATORY</pattern>
+	<template><srai>WBTL</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LABORATORY * WT *</pattern>
+	<template><srai>WBTL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LABORATORY * WT</pattern>
+	<template><srai>WBTL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LABORATORY * WT *</pattern>
+	<template><srai>WBTL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LABORATORY * WT</pattern>
+	<template><srai>WBTL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LAB * WT *</pattern>
+	<template><srai>WBTL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LAB * WT *</pattern>
+	<template><srai>WBTL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LAB * WT</pattern>
+	<template><srai>WBTL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LAB * WT *</pattern>
+	<template><srai>WBTL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LAB * WT</pattern>
+	<template><srai>WBTL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LAB * WEB TECHNOLOGY * PROGRAMMIING *</pattern>
+	<template><srai>WBTL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LAB * WEB TECHNOLOGY * PROGRAMMIING</pattern>
+	<template><srai>WBTL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LAB * WEB TECHNOLOGY * PROGRAMMIING *</pattern>
+	<template><srai>WBTL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LAB * WEB TECHNOLOGY * PROGRAMMIING</pattern>
+	<template><srai>WBTL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LABORATORY * WEB TECHNOLOGY * PROGRAMMIING *</pattern>
+	<template><srai>WBTL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LABORATORY * WEB TECHNOLOGY * PROGRAMMIING</pattern>
+	<template><srai>WBTL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LABORATORY * WEB TECHNOLOGY * PROGRAMMIING *</pattern>
+	<template><srai>WBTL</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LABORATORY * WEB TECHNOLOGY * PROGRAMMIING</pattern>
+	<template><srai>WBTL</srai>
+	</template>
+</category>
+
+</aiml>

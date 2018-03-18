@@ -1,0 +1,11418 @@
+<aiml version="1.0.1" encoding="UTF-8">
+
+<category>
+	<pattern>ECOA</pattern>
+	<template>
+		<random>
+			<li>Mrs. Vishakha Domodhar Bhandarkar teaches FUNDAMENTALS OF ECONOMICS</li>
+			<li>Mrs. Vishakha Domodhar Bhandarkar</li>
+			<li>FUNDAMENTALS OF ECONOMICS is taught by Mrs. Vishakha Domodhar Bhandarkar</li>
+		</random>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * FUNDAMENTALS OF ECONOMICS * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * FUNDAMENTALS OF ECONOMICS * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * FUNDAMENTALS OF ECONOMICS * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * FUNDAMENTALS OF ECONOMICS * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * FUNDAMENTALS OF ECONOMICS A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * FUNDAMENTALS OF ECONOMICS A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR FUNDAMENTALS OF ECONOMICS * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR FUNDAMENTALS OF ECONOMICS * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR FUNDAMENTALS OF ECONOMICS * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR FUNDAMENTALS OF ECONOMICS * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR FUNDAMENTALS OF ECONOMICS A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR FUNDAMENTALS OF ECONOMICS A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR * A * FUNDAMENTALS OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR * A * FUNDAMENTALS OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * A * FUNDAMENTALS OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * A * FUNDAMENTALS OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR A * FUNDAMENTALS OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR A * FUNDAMENTALS OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR A * FUNDAMENTALS OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR A * FUNDAMENTALS OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * A FUNDAMENTALS OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * A FUNDAMENTALS OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * A FUNDAMENTALS OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * A FUNDAMENTALS OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FUNDAMENTALS OF ECONOMICS PROFESSOR * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTALS OF ECONOMICS PROFESSOR * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FUNDAMENTALS OF ECONOMICS PROFESSOR * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTALS OF ECONOMICS PROFESSOR A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FUNDAMENTALS OF ECONOMICS PROFESSOR A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTALS OF ECONOMICS * A PROFESSOR *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTALS OF ECONOMICS * A PROFESSOR</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTALS OF ECONOMICS * A PROFESSOR *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTALS OF ECONOMICS * A PROFESSOR</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ FUNDAMENTALS OF ECONOMICS A * PROFESSOR *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTALS OF ECONOMICS A * PROFESSOR</pattern>
+
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTALS OF ECONOMICS A * PROFESSOR *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTALS OF ECONOMICS A * PROFESSOR</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A PROFESSOR * FUNDAMENTALS OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROFESSOR * FUNDAMENTALS OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROFESSOR * FUNDAMENTALS OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROFESSOR * FUNDAMENTALS OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROFESSOR FUNDAMENTALS OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROFESSOR FUNDAMENTALS OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * PROFESSOR FUNDAMENTALS OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROFESSOR FUNDAMENTALS OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A FUNDAMENTALS OF ECONOMICS PROFESSOR *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A FUNDAMENTALS OF ECONOMICS PROFESSOR</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * FUNDAMENTALS OF ECONOMICS PROFESSOR *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * FUNDAMENTALS OF ECONOMICS PROFESSOR</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * FUNDAMENTALS OF ECONOMICS * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * FUNDAMENTALS OF ECONOMICS * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * FUNDAMENTALS OF ECONOMICS * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * FUNDAMENTALS OF ECONOMICS * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * FUNDAMENTALS OF ECONOMICS A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * FUNDAMENTALS OF ECONOMICS A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF FUNDAMENTALS OF ECONOMICS * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF FUNDAMENTALS OF ECONOMICS * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF FUNDAMENTALS OF ECONOMICS * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF FUNDAMENTALS OF ECONOMICS * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF FUNDAMENTALS OF ECONOMICS A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF FUNDAMENTALS OF ECONOMICS A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF * A * FUNDAMENTALS OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF * A * FUNDAMENTALS OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * A * FUNDAMENTALS OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * A * FUNDAMENTALS OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF A * FUNDAMENTALS OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF A * FUNDAMENTALS OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF A * FUNDAMENTALS OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF A * FUNDAMENTALS OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * A FUNDAMENTALS OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * A FUNDAMENTALS OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * A FUNDAMENTALS OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * A FUNDAMENTALS OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FUNDAMENTALS OF ECONOMICS PROF * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTALS OF ECONOMICS PROF * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FUNDAMENTALS OF ECONOMICS PROF * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTALS OF ECONOMICS PROF A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FUNDAMENTALS OF ECONOMICS PROF A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTALS OF ECONOMICS * A PROF *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTALS OF ECONOMICS * A PROF</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTALS OF ECONOMICS * A PROF *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTALS OF ECONOMICS * A PROF</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ FUNDAMENTALS OF ECONOMICS A * PROF *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTALS OF ECONOMICS A * PROF</pattern>
+
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTALS OF ECONOMICS A * PROF *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTALS OF ECONOMICS A * PROF</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A PROF * FUNDAMENTALS OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROF * FUNDAMENTALS OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROF * FUNDAMENTALS OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROF * FUNDAMENTALS OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROF FUNDAMENTALS OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROF FUNDAMENTALS OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * PROF FUNDAMENTALS OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROF FUNDAMENTALS OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A FUNDAMENTALS OF ECONOMICS PROF *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A FUNDAMENTALS OF ECONOMICS PROF</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * FUNDAMENTALS OF ECONOMICS PROF *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * FUNDAMENTALS OF ECONOMICS PROF</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * FUNDAMENTALS OF ECONOMICS * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * FUNDAMENTALS OF ECONOMICS * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * FUNDAMENTALS OF ECONOMICS * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * FUNDAMENTALS OF ECONOMICS * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * FUNDAMENTALS OF ECONOMICS A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * FUNDAMENTALS OF ECONOMICS A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER FUNDAMENTALS OF ECONOMICS * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER FUNDAMENTALS OF ECONOMICS * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER FUNDAMENTALS OF ECONOMICS * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER FUNDAMENTALS OF ECONOMICS * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER FUNDAMENTALS OF ECONOMICS A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER FUNDAMENTALS OF ECONOMICS A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER * A * FUNDAMENTALS OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER * A * FUNDAMENTALS OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * A * FUNDAMENTALS OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * A * FUNDAMENTALS OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER A * FUNDAMENTALS OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER A * FUNDAMENTALS OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER A * FUNDAMENTALS OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER A * FUNDAMENTALS OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * A FUNDAMENTALS OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * A FUNDAMENTALS OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * A FUNDAMENTALS OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * A FUNDAMENTALS OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FUNDAMENTALS OF ECONOMICS LECTURER * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTALS OF ECONOMICS LECTURER * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FUNDAMENTALS OF ECONOMICS LECTURER * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTALS OF ECONOMICS LECTURER A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FUNDAMENTALS OF ECONOMICS LECTURER A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTALS OF ECONOMICS * A LECTURER *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTALS OF ECONOMICS * A LECTURER</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTALS OF ECONOMICS * A LECTURER *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTALS OF ECONOMICS * A LECTURER</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ FUNDAMENTALS OF ECONOMICS A * LECTURER *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTALS OF ECONOMICS A * LECTURER</pattern>
+
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTALS OF ECONOMICS A * LECTURER *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTALS OF ECONOMICS A * LECTURER</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A LECTURER * FUNDAMENTALS OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECTURER * FUNDAMENTALS OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECTURER * FUNDAMENTALS OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECTURER * FUNDAMENTALS OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECTURER FUNDAMENTALS OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECTURER FUNDAMENTALS OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * LECTURER FUNDAMENTALS OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECTURER FUNDAMENTALS OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A FUNDAMENTALS OF ECONOMICS LECTURER *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A FUNDAMENTALS OF ECONOMICS LECTURER</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * FUNDAMENTALS OF ECONOMICS LECTURER *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * FUNDAMENTALS OF ECONOMICS LECTURER</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * FUNDAMENTALS OF ECONOMICS * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * FUNDAMENTALS OF ECONOMICS * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * FUNDAMENTALS OF ECONOMICS * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * FUNDAMENTALS OF ECONOMICS * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * FUNDAMENTALS OF ECONOMICS A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * FUNDAMENTALS OF ECONOMICS A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT FUNDAMENTALS OF ECONOMICS * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT FUNDAMENTALS OF ECONOMICS * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT FUNDAMENTALS OF ECONOMICS * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT FUNDAMENTALS OF ECONOMICS * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT FUNDAMENTALS OF ECONOMICS A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT FUNDAMENTALS OF ECONOMICS A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT * A * FUNDAMENTALS OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT * A * FUNDAMENTALS OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * A * FUNDAMENTALS OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * A * FUNDAMENTALS OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT A * FUNDAMENTALS OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT A * FUNDAMENTALS OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT A * FUNDAMENTALS OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT A * FUNDAMENTALS OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * A FUNDAMENTALS OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * A FUNDAMENTALS OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * A FUNDAMENTALS OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * A FUNDAMENTALS OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FUNDAMENTALS OF ECONOMICS LECT * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTALS OF ECONOMICS LECT * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FUNDAMENTALS OF ECONOMICS LECT * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTALS OF ECONOMICS LECT A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FUNDAMENTALS OF ECONOMICS LECT A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTALS OF ECONOMICS * A LECT *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTALS OF ECONOMICS * A LECT</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTALS OF ECONOMICS * A LECT *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTALS OF ECONOMICS * A LECT</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ FUNDAMENTALS OF ECONOMICS A * LECT *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTALS OF ECONOMICS A * LECT</pattern>
+
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTALS OF ECONOMICS A * LECT *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTALS OF ECONOMICS A * LECT</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A LECT * FUNDAMENTALS OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECT * FUNDAMENTALS OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECT * FUNDAMENTALS OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECT * FUNDAMENTALS OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECT FUNDAMENTALS OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECT FUNDAMENTALS OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * LECT FUNDAMENTALS OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECT FUNDAMENTALS OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A FUNDAMENTALS OF ECONOMICS LECT *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A FUNDAMENTALS OF ECONOMICS LECT</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * FUNDAMENTALS OF ECONOMICS LECT *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * FUNDAMENTALS OF ECONOMICS LECT</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * FUNDAMENTALS OF ECONOMICS * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * FUNDAMENTALS OF ECONOMICS * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * FUNDAMENTALS OF ECONOMICS * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * FUNDAMENTALS OF ECONOMICS * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * FUNDAMENTALS OF ECONOMICS A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * FUNDAMENTALS OF ECONOMICS A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER FUNDAMENTALS OF ECONOMICS * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER FUNDAMENTALS OF ECONOMICS * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER FUNDAMENTALS OF ECONOMICS * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER FUNDAMENTALS OF ECONOMICS * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER FUNDAMENTALS OF ECONOMICS A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER FUNDAMENTALS OF ECONOMICS A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER * A * FUNDAMENTALS OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER * A * FUNDAMENTALS OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * A * FUNDAMENTALS OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * A * FUNDAMENTALS OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER A * FUNDAMENTALS OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER A * FUNDAMENTALS OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER A * FUNDAMENTALS OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER A * FUNDAMENTALS OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * A FUNDAMENTALS OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * A FUNDAMENTALS OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * A FUNDAMENTALS OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * A FUNDAMENTALS OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FUNDAMENTALS OF ECONOMICS TEACHER * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTALS OF ECONOMICS TEACHER * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FUNDAMENTALS OF ECONOMICS TEACHER * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTALS OF ECONOMICS TEACHER A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FUNDAMENTALS OF ECONOMICS TEACHER A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTALS OF ECONOMICS * A TEACHER *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTALS OF ECONOMICS * A TEACHER</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTALS OF ECONOMICS * A TEACHER *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTALS OF ECONOMICS * A TEACHER</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ FUNDAMENTALS OF ECONOMICS A * TEACHER *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTALS OF ECONOMICS A * TEACHER</pattern>
+
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTALS OF ECONOMICS A * TEACHER *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTALS OF ECONOMICS A * TEACHER</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A TEACHER * FUNDAMENTALS OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A TEACHER * FUNDAMENTALS OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * TEACHER * FUNDAMENTALS OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * TEACHER * FUNDAMENTALS OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A TEACHER FUNDAMENTALS OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A TEACHER FUNDAMENTALS OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * TEACHER FUNDAMENTALS OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * TEACHER FUNDAMENTALS OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A FUNDAMENTALS OF ECONOMICS TEACHER *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A FUNDAMENTALS OF ECONOMICS TEACHER</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * FUNDAMENTALS OF ECONOMICS TEACHER *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * FUNDAMENTALS OF ECONOMICS TEACHER</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ FACULTY * FUNDAMENTALS OF ECONOMICS * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * FUNDAMENTALS OF ECONOMICS * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * FUNDAMENTALS OF ECONOMICS * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * FUNDAMENTALS OF ECONOMICS * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * FUNDAMENTALS OF ECONOMICS A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * FUNDAMENTALS OF ECONOMICS A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY FUNDAMENTALS OF ECONOMICS * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY FUNDAMENTALS OF ECONOMICS * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY FUNDAMENTALS OF ECONOMICS * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY FUNDAMENTALS OF ECONOMICS * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY FUNDAMENTALS OF ECONOMICS A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY FUNDAMENTALS OF ECONOMICS A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY * A * FUNDAMENTALS OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY * A * FUNDAMENTALS OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * A * FUNDAMENTALS OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * A * FUNDAMENTALS OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY A * FUNDAMENTALS OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY A * FUNDAMENTALS OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY A * FUNDAMENTALS OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY A * FUNDAMENTALS OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * A FUNDAMENTALS OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * A FUNDAMENTALS OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * A FUNDAMENTALS OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * A FUNDAMENTALS OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FUNDAMENTALS OF ECONOMICS FACULTY * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTALS OF ECONOMICS FACULTY * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FUNDAMENTALS OF ECONOMICS FACULTY * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTALS OF ECONOMICS FACULTY A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FUNDAMENTALS OF ECONOMICS FACULTY A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTALS OF ECONOMICS * A FACULTY *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTALS OF ECONOMICS * A FACULTY</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTALS OF ECONOMICS * A FACULTY *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTALS OF ECONOMICS * A FACULTY</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ FUNDAMENTALS OF ECONOMICS A * FACULTY *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTALS OF ECONOMICS A * FACULTY</pattern>
+
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTALS OF ECONOMICS A * FACULTY *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTALS OF ECONOMICS A * FACULTY</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A FACULTY * FUNDAMENTALS OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A FACULTY * FUNDAMENTALS OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * FACULTY * FUNDAMENTALS OF ECONOMICS *</pattern>
+	<template><srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * FACULTY * FUNDAMENTALS OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A FACULTY FUNDAMENTALS OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A FACULTY FUNDAMENTALS OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * FACULTY FUNDAMENTALS OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * FACULTY FUNDAMENTALS OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A FUNDAMENTALS OF ECONOMICS FACULTY *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A FUNDAMENTALS OF ECONOMICS FACULTY</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * FUNDAMENTALS OF ECONOMICS FACULTY *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * FUNDAMENTALS OF ECONOMICS FACULTY</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ TEACHES FUNDAMENTALS OF ECONOMICS * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES FUNDAMENTALS OF ECONOMICS A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHES * A FUNDAMENTALS OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES * A FUNDAMENTALS OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ TEACHES A * FUNDAMENTALS OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES A * FUNDAMENTALS OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTALS OF ECONOMICS * A * TAUGHT *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTALS OF ECONOMICS * A * TAUGHT *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTALS OF ECONOMICS A * TAUGHT *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTALS OF ECONOMICS A * TAUGHT *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTALS OF ECONOMICS * A TAUGHT *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FUNDAMENTALS OF ECONOMICS * A TAUGHT *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * FUNDAMENTALS OF ECONOMICS * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * FUNDAMENTALS OF ECONOMICS * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * FUNDAMENTALS OF ECONOMICS A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES FUNDAMENTALS OF ECONOMICS * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES FUNDAMENTALS OF ECONOMICS * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES FUNDAMENTALS OF ECONOMICS A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR * FUNDAMENTAL OF ECONOMICS * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * FUNDAMENTAL OF ECONOMICS * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * FUNDAMENTAL OF ECONOMICS * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * FUNDAMENTAL OF ECONOMICS * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * FUNDAMENTAL OF ECONOMICS A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * FUNDAMENTAL OF ECONOMICS A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR FUNDAMENTAL OF ECONOMICS * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR FUNDAMENTAL OF ECONOMICS * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR FUNDAMENTAL OF ECONOMICS * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR FUNDAMENTAL OF ECONOMICS * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR FUNDAMENTAL OF ECONOMICS A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR FUNDAMENTAL OF ECONOMICS A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR * A * FUNDAMENTAL OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR * A * FUNDAMENTAL OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * A * FUNDAMENTAL OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * A * FUNDAMENTAL OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR A * FUNDAMENTAL OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR A * FUNDAMENTAL OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR A * FUNDAMENTAL OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR A * FUNDAMENTAL OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * A FUNDAMENTAL OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * A FUNDAMENTAL OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * A FUNDAMENTAL OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * A FUNDAMENTAL OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FUNDAMENTAL OF ECONOMICS PROFESSOR * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTAL OF ECONOMICS PROFESSOR * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FUNDAMENTAL OF ECONOMICS PROFESSOR * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTAL OF ECONOMICS PROFESSOR A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FUNDAMENTAL OF ECONOMICS PROFESSOR A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTAL OF ECONOMICS * A PROFESSOR *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTAL OF ECONOMICS * A PROFESSOR</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTAL OF ECONOMICS * A PROFESSOR *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTAL OF ECONOMICS * A PROFESSOR</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ FUNDAMENTAL OF ECONOMICS A * PROFESSOR *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTAL OF ECONOMICS A * PROFESSOR</pattern>
+
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTAL OF ECONOMICS A * PROFESSOR *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTAL OF ECONOMICS A * PROFESSOR</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A PROFESSOR * FUNDAMENTAL OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROFESSOR * FUNDAMENTAL OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROFESSOR * FUNDAMENTAL OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROFESSOR * FUNDAMENTAL OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROFESSOR FUNDAMENTAL OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROFESSOR FUNDAMENTAL OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * PROFESSOR FUNDAMENTAL OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROFESSOR FUNDAMENTAL OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A FUNDAMENTAL OF ECONOMICS PROFESSOR *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A FUNDAMENTAL OF ECONOMICS PROFESSOR</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * FUNDAMENTAL OF ECONOMICS PROFESSOR *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * FUNDAMENTAL OF ECONOMICS PROFESSOR</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * FUNDAMENTAL OF ECONOMICS * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * FUNDAMENTAL OF ECONOMICS * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * FUNDAMENTAL OF ECONOMICS * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * FUNDAMENTAL OF ECONOMICS * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * FUNDAMENTAL OF ECONOMICS A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * FUNDAMENTAL OF ECONOMICS A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF FUNDAMENTAL OF ECONOMICS * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF FUNDAMENTAL OF ECONOMICS * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF FUNDAMENTAL OF ECONOMICS * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF FUNDAMENTAL OF ECONOMICS * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF FUNDAMENTAL OF ECONOMICS A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF FUNDAMENTAL OF ECONOMICS A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF * A * FUNDAMENTAL OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF * A * FUNDAMENTAL OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * A * FUNDAMENTAL OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * A * FUNDAMENTAL OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF A * FUNDAMENTAL OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF A * FUNDAMENTAL OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF A * FUNDAMENTAL OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF A * FUNDAMENTAL OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * A FUNDAMENTAL OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * A FUNDAMENTAL OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * A FUNDAMENTAL OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * A FUNDAMENTAL OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FUNDAMENTAL OF ECONOMICS PROF * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTAL OF ECONOMICS PROF * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FUNDAMENTAL OF ECONOMICS PROF * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTAL OF ECONOMICS PROF A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FUNDAMENTAL OF ECONOMICS PROF A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTAL OF ECONOMICS * A PROF *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTAL OF ECONOMICS * A PROF</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTAL OF ECONOMICS * A PROF *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTAL OF ECONOMICS * A PROF</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ FUNDAMENTAL OF ECONOMICS A * PROF *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTAL OF ECONOMICS A * PROF</pattern>
+
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTAL OF ECONOMICS A * PROF *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTAL OF ECONOMICS A * PROF</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A PROF * FUNDAMENTAL OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROF * FUNDAMENTAL OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROF * FUNDAMENTAL OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROF * FUNDAMENTAL OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROF FUNDAMENTAL OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROF FUNDAMENTAL OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * PROF FUNDAMENTAL OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROF FUNDAMENTAL OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A FUNDAMENTAL OF ECONOMICS PROF *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A FUNDAMENTAL OF ECONOMICS PROF</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * FUNDAMENTAL OF ECONOMICS PROF *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * FUNDAMENTAL OF ECONOMICS PROF</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * FUNDAMENTAL OF ECONOMICS * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * FUNDAMENTAL OF ECONOMICS * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * FUNDAMENTAL OF ECONOMICS * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * FUNDAMENTAL OF ECONOMICS * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * FUNDAMENTAL OF ECONOMICS A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * FUNDAMENTAL OF ECONOMICS A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER FUNDAMENTAL OF ECONOMICS * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER FUNDAMENTAL OF ECONOMICS * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER FUNDAMENTAL OF ECONOMICS * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER FUNDAMENTAL OF ECONOMICS * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER FUNDAMENTAL OF ECONOMICS A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER FUNDAMENTAL OF ECONOMICS A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER * A * FUNDAMENTAL OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER * A * FUNDAMENTAL OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * A * FUNDAMENTAL OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * A * FUNDAMENTAL OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER A * FUNDAMENTAL OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER A * FUNDAMENTAL OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER A * FUNDAMENTAL OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER A * FUNDAMENTAL OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * A FUNDAMENTAL OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * A FUNDAMENTAL OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * A FUNDAMENTAL OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * A FUNDAMENTAL OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FUNDAMENTAL OF ECONOMICS LECTURER * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTAL OF ECONOMICS LECTURER * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FUNDAMENTAL OF ECONOMICS LECTURER * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTAL OF ECONOMICS LECTURER A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FUNDAMENTAL OF ECONOMICS LECTURER A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTAL OF ECONOMICS * A LECTURER *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTAL OF ECONOMICS * A LECTURER</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTAL OF ECONOMICS * A LECTURER *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTAL OF ECONOMICS * A LECTURER</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ FUNDAMENTAL OF ECONOMICS A * LECTURER *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTAL OF ECONOMICS A * LECTURER</pattern>
+
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTAL OF ECONOMICS A * LECTURER *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTAL OF ECONOMICS A * LECTURER</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A LECTURER * FUNDAMENTAL OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECTURER * FUNDAMENTAL OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECTURER * FUNDAMENTAL OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECTURER * FUNDAMENTAL OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECTURER FUNDAMENTAL OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECTURER FUNDAMENTAL OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * LECTURER FUNDAMENTAL OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECTURER FUNDAMENTAL OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A FUNDAMENTAL OF ECONOMICS LECTURER *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A FUNDAMENTAL OF ECONOMICS LECTURER</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * FUNDAMENTAL OF ECONOMICS LECTURER *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * FUNDAMENTAL OF ECONOMICS LECTURER</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * FUNDAMENTAL OF ECONOMICS * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * FUNDAMENTAL OF ECONOMICS * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * FUNDAMENTAL OF ECONOMICS * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * FUNDAMENTAL OF ECONOMICS * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * FUNDAMENTAL OF ECONOMICS A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * FUNDAMENTAL OF ECONOMICS A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT FUNDAMENTAL OF ECONOMICS * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT FUNDAMENTAL OF ECONOMICS * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT FUNDAMENTAL OF ECONOMICS * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT FUNDAMENTAL OF ECONOMICS * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT FUNDAMENTAL OF ECONOMICS A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT FUNDAMENTAL OF ECONOMICS A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT * A * FUNDAMENTAL OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT * A * FUNDAMENTAL OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * A * FUNDAMENTAL OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * A * FUNDAMENTAL OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT A * FUNDAMENTAL OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT A * FUNDAMENTAL OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT A * FUNDAMENTAL OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT A * FUNDAMENTAL OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * A FUNDAMENTAL OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * A FUNDAMENTAL OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * A FUNDAMENTAL OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * A FUNDAMENTAL OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FUNDAMENTAL OF ECONOMICS LECT * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTAL OF ECONOMICS LECT * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FUNDAMENTAL OF ECONOMICS LECT * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTAL OF ECONOMICS LECT A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FUNDAMENTAL OF ECONOMICS LECT A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTAL OF ECONOMICS * A LECT *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTAL OF ECONOMICS * A LECT</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTAL OF ECONOMICS * A LECT *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTAL OF ECONOMICS * A LECT</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ FUNDAMENTAL OF ECONOMICS A * LECT *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTAL OF ECONOMICS A * LECT</pattern>
+
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTAL OF ECONOMICS A * LECT *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTAL OF ECONOMICS A * LECT</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A LECT * FUNDAMENTAL OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECT * FUNDAMENTAL OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECT * FUNDAMENTAL OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECT * FUNDAMENTAL OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECT FUNDAMENTAL OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECT FUNDAMENTAL OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * LECT FUNDAMENTAL OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECT FUNDAMENTAL OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A FUNDAMENTAL OF ECONOMICS LECT *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A FUNDAMENTAL OF ECONOMICS LECT</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * FUNDAMENTAL OF ECONOMICS LECT *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * FUNDAMENTAL OF ECONOMICS LECT</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * FUNDAMENTAL OF ECONOMICS * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * FUNDAMENTAL OF ECONOMICS * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * FUNDAMENTAL OF ECONOMICS * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * FUNDAMENTAL OF ECONOMICS * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * FUNDAMENTAL OF ECONOMICS A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * FUNDAMENTAL OF ECONOMICS A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER FUNDAMENTAL OF ECONOMICS * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER FUNDAMENTAL OF ECONOMICS * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER FUNDAMENTAL OF ECONOMICS * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER FUNDAMENTAL OF ECONOMICS * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER FUNDAMENTAL OF ECONOMICS A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER FUNDAMENTAL OF ECONOMICS A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER * A * FUNDAMENTAL OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER * A * FUNDAMENTAL OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * A * FUNDAMENTAL OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * A * FUNDAMENTAL OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER A * FUNDAMENTAL OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER A * FUNDAMENTAL OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER A * FUNDAMENTAL OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER A * FUNDAMENTAL OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * A FUNDAMENTAL OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * A FUNDAMENTAL OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * A FUNDAMENTAL OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * A FUNDAMENTAL OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FUNDAMENTAL OF ECONOMICS TEACHER * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTAL OF ECONOMICS TEACHER * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FUNDAMENTAL OF ECONOMICS TEACHER * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTAL OF ECONOMICS TEACHER A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FUNDAMENTAL OF ECONOMICS TEACHER A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTAL OF ECONOMICS * A TEACHER *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTAL OF ECONOMICS * A TEACHER</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTAL OF ECONOMICS * A TEACHER *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTAL OF ECONOMICS * A TEACHER</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ FUNDAMENTAL OF ECONOMICS A * TEACHER *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTAL OF ECONOMICS A * TEACHER</pattern>
+
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTAL OF ECONOMICS A * TEACHER *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTAL OF ECONOMICS A * TEACHER</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A TEACHER * FUNDAMENTAL OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A TEACHER * FUNDAMENTAL OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * TEACHER * FUNDAMENTAL OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * TEACHER * FUNDAMENTAL OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A TEACHER FUNDAMENTAL OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A TEACHER FUNDAMENTAL OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * TEACHER FUNDAMENTAL OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * TEACHER FUNDAMENTAL OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A FUNDAMENTAL OF ECONOMICS TEACHER *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A FUNDAMENTAL OF ECONOMICS TEACHER</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * FUNDAMENTAL OF ECONOMICS TEACHER *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * FUNDAMENTAL OF ECONOMICS TEACHER</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ FACULTY * FUNDAMENTAL OF ECONOMICS * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * FUNDAMENTAL OF ECONOMICS * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * FUNDAMENTAL OF ECONOMICS * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * FUNDAMENTAL OF ECONOMICS * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * FUNDAMENTAL OF ECONOMICS A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * FUNDAMENTAL OF ECONOMICS A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY FUNDAMENTAL OF ECONOMICS * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY FUNDAMENTAL OF ECONOMICS * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY FUNDAMENTAL OF ECONOMICS * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY FUNDAMENTAL OF ECONOMICS * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY FUNDAMENTAL OF ECONOMICS A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY FUNDAMENTAL OF ECONOMICS A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY * A * FUNDAMENTAL OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY * A * FUNDAMENTAL OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * A * FUNDAMENTAL OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * A * FUNDAMENTAL OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY A * FUNDAMENTAL OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY A * FUNDAMENTAL OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY A * FUNDAMENTAL OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY A * FUNDAMENTAL OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * A FUNDAMENTAL OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * A FUNDAMENTAL OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * A FUNDAMENTAL OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * A FUNDAMENTAL OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FUNDAMENTAL OF ECONOMICS FACULTY * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTAL OF ECONOMICS FACULTY * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FUNDAMENTAL OF ECONOMICS FACULTY * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTAL OF ECONOMICS FACULTY A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FUNDAMENTAL OF ECONOMICS FACULTY A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTAL OF ECONOMICS * A FACULTY *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTAL OF ECONOMICS * A FACULTY</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTAL OF ECONOMICS * A FACULTY *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTAL OF ECONOMICS * A FACULTY</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ FUNDAMENTAL OF ECONOMICS A * FACULTY *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTAL OF ECONOMICS A * FACULTY</pattern>
+
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTAL OF ECONOMICS A * FACULTY *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTAL OF ECONOMICS A * FACULTY</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A FACULTY * FUNDAMENTAL OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A FACULTY * FUNDAMENTAL OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * FACULTY * FUNDAMENTAL OF ECONOMICS *</pattern>
+	<template><srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * FACULTY * FUNDAMENTAL OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A FACULTY FUNDAMENTAL OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A FACULTY FUNDAMENTAL OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * FACULTY FUNDAMENTAL OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * FACULTY FUNDAMENTAL OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A FUNDAMENTAL OF ECONOMICS FACULTY *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A FUNDAMENTAL OF ECONOMICS FACULTY</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * FUNDAMENTAL OF ECONOMICS FACULTY *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * FUNDAMENTAL OF ECONOMICS FACULTY</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ TEACHES FUNDAMENTAL OF ECONOMICS * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES FUNDAMENTAL OF ECONOMICS A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHES * A FUNDAMENTAL OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES * A FUNDAMENTAL OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ TEACHES A * FUNDAMENTAL OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES A * FUNDAMENTAL OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTAL OF ECONOMICS * A * TAUGHT *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTAL OF ECONOMICS * A * TAUGHT *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTAL OF ECONOMICS A * TAUGHT *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTAL OF ECONOMICS A * TAUGHT *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTAL OF ECONOMICS * A TAUGHT *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FUNDAMENTAL OF ECONOMICS * A TAUGHT *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * FUNDAMENTAL OF ECONOMICS * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * FUNDAMENTAL OF ECONOMICS * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * FUNDAMENTAL OF ECONOMICS A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES FUNDAMENTAL OF ECONOMICS * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES FUNDAMENTAL OF ECONOMICS * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES FUNDAMENTAL OF ECONOMICS A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * ECO * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * ECO * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * ECO * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * ECO * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * ECO A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * ECO A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR ECO * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR ECO * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR ECO * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR ECO * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR ECO A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR ECO A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR * A * ECO *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR * A * ECO</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * A * ECO *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * A * ECO</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR A * ECO *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR A * ECO</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR A * ECO *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR A * ECO</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * A ECO *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * A ECO</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * A ECO *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * A ECO</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ ECO PROFESSOR * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECO PROFESSOR * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ECO PROFESSOR * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECO PROFESSOR A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ECO PROFESSOR A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECO * A PROFESSOR *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECO * A PROFESSOR</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ECO * A PROFESSOR *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ECO * A PROFESSOR</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ ECO A * PROFESSOR *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECO A * PROFESSOR</pattern>
+
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ECO A * PROFESSOR *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ECO A * PROFESSOR</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A PROFESSOR * ECO *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROFESSOR * ECO</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROFESSOR * ECO *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROFESSOR * ECO</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROFESSOR ECO *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROFESSOR ECO</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * PROFESSOR ECO *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROFESSOR ECO</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A ECO PROFESSOR *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A ECO PROFESSOR</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * ECO PROFESSOR *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * ECO PROFESSOR</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * ECO * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * ECO * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * ECO * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * ECO * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * ECO A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * ECO A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF ECO * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF ECO * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF ECO * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF ECO * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF ECO A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF ECO A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF * A * ECO *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF * A * ECO</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * A * ECO *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * A * ECO</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF A * ECO *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF A * ECO</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF A * ECO *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF A * ECO</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * A ECO *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * A ECO</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * A ECO *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * A ECO</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ ECO PROF * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECO PROF * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ECO PROF * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECO PROF A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ECO PROF A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECO * A PROF *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECO * A PROF</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ECO * A PROF *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ECO * A PROF</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ ECO A * PROF *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECO A * PROF</pattern>
+
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ECO A * PROF *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ECO A * PROF</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A PROF * ECO *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROF * ECO</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROF * ECO *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROF * ECO</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROF ECO *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROF ECO</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * PROF ECO *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROF ECO</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A ECO PROF *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A ECO PROF</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * ECO PROF *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * ECO PROF</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * ECO * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * ECO * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * ECO * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * ECO * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * ECO A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * ECO A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER ECO * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER ECO * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER ECO * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER ECO * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER ECO A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER ECO A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER * A * ECO *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER * A * ECO</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * A * ECO *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * A * ECO</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER A * ECO *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER A * ECO</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER A * ECO *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER A * ECO</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * A ECO *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * A ECO</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * A ECO *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * A ECO</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ ECO LECTURER * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECO LECTURER * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ECO LECTURER * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECO LECTURER A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ECO LECTURER A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECO * A LECTURER *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECO * A LECTURER</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ECO * A LECTURER *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ECO * A LECTURER</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ ECO A * LECTURER *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECO A * LECTURER</pattern>
+
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ECO A * LECTURER *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ECO A * LECTURER</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A LECTURER * ECO *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECTURER * ECO</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECTURER * ECO *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECTURER * ECO</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECTURER ECO *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECTURER ECO</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * LECTURER ECO *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECTURER ECO</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A ECO LECTURER *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A ECO LECTURER</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * ECO LECTURER *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * ECO LECTURER</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * ECO * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * ECO * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * ECO * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * ECO * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * ECO A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * ECO A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT ECO * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT ECO * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT ECO * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT ECO * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT ECO A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT ECO A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT * A * ECO *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT * A * ECO</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * A * ECO *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * A * ECO</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT A * ECO *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT A * ECO</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT A * ECO *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT A * ECO</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * A ECO *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * A ECO</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * A ECO *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * A ECO</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ ECO LECT * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECO LECT * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ECO LECT * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECO LECT A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ECO LECT A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECO * A LECT *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECO * A LECT</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ECO * A LECT *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ECO * A LECT</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ ECO A * LECT *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECO A * LECT</pattern>
+
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ECO A * LECT *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ECO A * LECT</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A LECT * ECO *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECT * ECO</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECT * ECO *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECT * ECO</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECT ECO *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECT ECO</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * LECT ECO *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECT ECO</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A ECO LECT *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A ECO LECT</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * ECO LECT *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * ECO LECT</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * ECO * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * ECO * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * ECO * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * ECO * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * ECO A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * ECO A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER ECO * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER ECO * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER ECO * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER ECO * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER ECO A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER ECO A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER * A * ECO *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER * A * ECO</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * A * ECO *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * A * ECO</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER A * ECO *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER A * ECO</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER A * ECO *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER A * ECO</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * A ECO *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * A ECO</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * A ECO *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * A ECO</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ ECO TEACHER * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECO TEACHER * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ECO TEACHER * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECO TEACHER A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ECO TEACHER A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECO * A TEACHER *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECO * A TEACHER</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ECO * A TEACHER *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ECO * A TEACHER</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ ECO A * TEACHER *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECO A * TEACHER</pattern>
+
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ECO A * TEACHER *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ECO A * TEACHER</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A TEACHER * ECO *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A TEACHER * ECO</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * TEACHER * ECO *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * TEACHER * ECO</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A TEACHER ECO *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A TEACHER ECO</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * TEACHER ECO *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * TEACHER ECO</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A ECO TEACHER *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A ECO TEACHER</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * ECO TEACHER *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * ECO TEACHER</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ FACULTY * ECO * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * ECO * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * ECO * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * ECO * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * ECO A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * ECO A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY ECO * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY ECO * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY ECO * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY ECO * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY ECO A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY ECO A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY * A * ECO *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY * A * ECO</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * A * ECO *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * A * ECO</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY A * ECO *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY A * ECO</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY A * ECO *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY A * ECO</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * A ECO *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * A ECO</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * A ECO *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * A ECO</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ ECO FACULTY * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECO FACULTY * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ECO FACULTY * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECO FACULTY A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ECO FACULTY A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECO * A FACULTY *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECO * A FACULTY</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ECO * A FACULTY *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ECO * A FACULTY</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ ECO A * FACULTY *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECO A * FACULTY</pattern>
+
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ECO A * FACULTY *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ECO A * FACULTY</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A FACULTY * ECO *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A FACULTY * ECO</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * FACULTY * ECO *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * FACULTY * ECO</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A FACULTY ECO *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A FACULTY ECO</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * FACULTY ECO *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * FACULTY ECO</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A ECO FACULTY *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A ECO FACULTY</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * ECO FACULTY *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * ECO FACULTY</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ TEACHES ECO * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES ECO A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHES * A ECO *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES * A ECO</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ TEACHES A * ECO *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES A * ECO</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECO * A * TAUGHT *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ECO * A * TAUGHT *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECO A * TAUGHT *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ECO A * TAUGHT *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECO * A TAUGHT *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ECO * A TAUGHT *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * ECO * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * ECO * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * ECO A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES ECO * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES ECO * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES ECO A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR * ECONOMICS * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * ECONOMICS * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * ECONOMICS * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * ECONOMICS * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * ECONOMICS A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * ECONOMICS A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR ECONOMICS * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR ECONOMICS * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR ECONOMICS * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR ECONOMICS * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR ECONOMICS A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR ECONOMICS A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR * A * ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR * A * ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * A * ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * A * ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR A * ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR A * ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR A * ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR A * ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * A ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * A ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * A ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * A ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ ECONOMICS PROFESSOR * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECONOMICS PROFESSOR * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ECONOMICS PROFESSOR * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECONOMICS PROFESSOR A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ECONOMICS PROFESSOR A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECONOMICS * A PROFESSOR *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECONOMICS * A PROFESSOR</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ECONOMICS * A PROFESSOR *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ECONOMICS * A PROFESSOR</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ ECONOMICS A * PROFESSOR *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECONOMICS A * PROFESSOR</pattern>
+
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ECONOMICS A * PROFESSOR *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ECONOMICS A * PROFESSOR</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A PROFESSOR * ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROFESSOR * ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROFESSOR * ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROFESSOR * ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROFESSOR ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROFESSOR ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * PROFESSOR ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROFESSOR ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A ECONOMICS PROFESSOR *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A ECONOMICS PROFESSOR</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * ECONOMICS PROFESSOR *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * ECONOMICS PROFESSOR</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * ECONOMICS * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * ECONOMICS * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * ECONOMICS * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * ECONOMICS * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * ECONOMICS A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * ECONOMICS A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF ECONOMICS * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF ECONOMICS * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF ECONOMICS * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF ECONOMICS * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF ECONOMICS A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF ECONOMICS A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF * A * ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF * A * ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * A * ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * A * ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF A * ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF A * ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF A * ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF A * ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * A ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * A ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * A ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * A ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ ECONOMICS PROF * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECONOMICS PROF * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ECONOMICS PROF * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECONOMICS PROF A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ECONOMICS PROF A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECONOMICS * A PROF *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECONOMICS * A PROF</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ECONOMICS * A PROF *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ECONOMICS * A PROF</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ ECONOMICS A * PROF *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECONOMICS A * PROF</pattern>
+
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ECONOMICS A * PROF *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ECONOMICS A * PROF</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A PROF * ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROF * ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROF * ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROF * ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROF ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * PROF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROF ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A ECONOMICS PROF *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A ECONOMICS PROF</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * ECONOMICS PROF *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * ECONOMICS PROF</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * ECONOMICS * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * ECONOMICS * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * ECONOMICS * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * ECONOMICS * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * ECONOMICS A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * ECONOMICS A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER ECONOMICS * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER ECONOMICS * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER ECONOMICS * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER ECONOMICS * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER ECONOMICS A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER ECONOMICS A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER * A * ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER * A * ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * A * ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * A * ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER A * ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER A * ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER A * ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER A * ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * A ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * A ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * A ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * A ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ ECONOMICS LECTURER * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECONOMICS LECTURER * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ECONOMICS LECTURER * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECONOMICS LECTURER A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ECONOMICS LECTURER A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECONOMICS * A LECTURER *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECONOMICS * A LECTURER</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ECONOMICS * A LECTURER *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ECONOMICS * A LECTURER</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ ECONOMICS A * LECTURER *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECONOMICS A * LECTURER</pattern>
+
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ECONOMICS A * LECTURER *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ECONOMICS A * LECTURER</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A LECTURER * ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECTURER * ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECTURER * ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECTURER * ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECTURER ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECTURER ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * LECTURER ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECTURER ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A ECONOMICS LECTURER *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A ECONOMICS LECTURER</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * ECONOMICS LECTURER *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * ECONOMICS LECTURER</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * ECONOMICS * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * ECONOMICS * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * ECONOMICS * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * ECONOMICS * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * ECONOMICS A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * ECONOMICS A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT ECONOMICS * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT ECONOMICS * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT ECONOMICS * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT ECONOMICS * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT ECONOMICS A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT ECONOMICS A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT * A * ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT * A * ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * A * ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * A * ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT A * ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT A * ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT A * ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT A * ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * A ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * A ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * A ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * A ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ ECONOMICS LECT * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECONOMICS LECT * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ECONOMICS LECT * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECONOMICS LECT A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ECONOMICS LECT A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECONOMICS * A LECT *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECONOMICS * A LECT</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ECONOMICS * A LECT *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ECONOMICS * A LECT</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ ECONOMICS A * LECT *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECONOMICS A * LECT</pattern>
+
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ECONOMICS A * LECT *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ECONOMICS A * LECT</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A LECT * ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECT * ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECT * ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECT * ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECT ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECT ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * LECT ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECT ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A ECONOMICS LECT *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A ECONOMICS LECT</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * ECONOMICS LECT *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * ECONOMICS LECT</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * ECONOMICS * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * ECONOMICS * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * ECONOMICS * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * ECONOMICS * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * ECONOMICS A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * ECONOMICS A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER ECONOMICS * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER ECONOMICS * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER ECONOMICS * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER ECONOMICS * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER ECONOMICS A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER ECONOMICS A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER * A * ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER * A * ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * A * ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * A * ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER A * ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER A * ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER A * ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER A * ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * A ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * A ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * A ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * A ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ ECONOMICS TEACHER * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECONOMICS TEACHER * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ECONOMICS TEACHER * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECONOMICS TEACHER A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ECONOMICS TEACHER A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECONOMICS * A TEACHER *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECONOMICS * A TEACHER</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ECONOMICS * A TEACHER *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ECONOMICS * A TEACHER</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ ECONOMICS A * TEACHER *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECONOMICS A * TEACHER</pattern>
+
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ECONOMICS A * TEACHER *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ECONOMICS A * TEACHER</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A TEACHER * ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A TEACHER * ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * TEACHER * ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * TEACHER * ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A TEACHER ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A TEACHER ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * TEACHER ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * TEACHER ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A ECONOMICS TEACHER *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A ECONOMICS TEACHER</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * ECONOMICS TEACHER *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * ECONOMICS TEACHER</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ FACULTY * ECONOMICS * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * ECONOMICS * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * ECONOMICS * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * ECONOMICS * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * ECONOMICS A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * ECONOMICS A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY ECONOMICS * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY ECONOMICS * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY ECONOMICS * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY ECONOMICS * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY ECONOMICS A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY ECONOMICS A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY * A * ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY * A * ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * A * ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * A * ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY A * ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY A * ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY A * ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY A * ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * A ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * A ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * A ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * A ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ ECONOMICS FACULTY * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECONOMICS FACULTY * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ECONOMICS FACULTY * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECONOMICS FACULTY A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ECONOMICS FACULTY A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECONOMICS * A FACULTY *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECONOMICS * A FACULTY</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ECONOMICS * A FACULTY *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ECONOMICS * A FACULTY</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ ECONOMICS A * FACULTY *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECONOMICS A * FACULTY</pattern>
+
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ECONOMICS A * FACULTY *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ECONOMICS A * FACULTY</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A FACULTY * ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A FACULTY * ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * FACULTY * ECONOMICS *</pattern>
+	<template><srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * FACULTY * ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A FACULTY ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A FACULTY ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * FACULTY ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * FACULTY ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A ECONOMICS FACULTY *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A ECONOMICS FACULTY</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * ECONOMICS FACULTY *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * ECONOMICS FACULTY</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ TEACHES ECONOMICS * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES ECONOMICS A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHES * A ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES * A ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ TEACHES A * ECONOMICS *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES A * ECONOMICS</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECONOMICS * A * TAUGHT *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ECONOMICS * A * TAUGHT *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECONOMICS A * TAUGHT *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ECONOMICS A * TAUGHT *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECONOMICS * A TAUGHT *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ECONOMICS * A TAUGHT *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * ECONOMICS * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * ECONOMICS * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * ECONOMICS A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES ECONOMICS * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES ECONOMICS * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES ECONOMICS A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR * FOE * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * FOE * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * FOE * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * FOE * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * FOE A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * FOE A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR FOE * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR FOE * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR FOE * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR FOE * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR FOE A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR FOE A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR * A * FOE *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR * A * FOE</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * A * FOE *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * A * FOE</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR A * FOE *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR A * FOE</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR A * FOE *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR A * FOE</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * A FOE *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * A FOE</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * A FOE *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * A FOE</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FOE PROFESSOR * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FOE PROFESSOR * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FOE PROFESSOR * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FOE PROFESSOR A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FOE PROFESSOR A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FOE * A PROFESSOR *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FOE * A PROFESSOR</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FOE * A PROFESSOR *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FOE * A PROFESSOR</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ FOE A * PROFESSOR *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FOE A * PROFESSOR</pattern>
+
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FOE A * PROFESSOR *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FOE A * PROFESSOR</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A PROFESSOR * FOE *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROFESSOR * FOE</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROFESSOR * FOE *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROFESSOR * FOE</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROFESSOR FOE *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROFESSOR FOE</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * PROFESSOR FOE *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROFESSOR FOE</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A FOE PROFESSOR *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A FOE PROFESSOR</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * FOE PROFESSOR *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * FOE PROFESSOR</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * FOE * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * FOE * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * FOE * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * FOE * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * FOE A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * FOE A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF FOE * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF FOE * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF FOE * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF FOE * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF FOE A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF FOE A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF * A * FOE *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF * A * FOE</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * A * FOE *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * A * FOE</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF A * FOE *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF A * FOE</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF A * FOE *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF A * FOE</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * A FOE *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * A FOE</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * A FOE *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * A FOE</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FOE PROF * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FOE PROF * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FOE PROF * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FOE PROF A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FOE PROF A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FOE * A PROF *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FOE * A PROF</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FOE * A PROF *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FOE * A PROF</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ FOE A * PROF *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FOE A * PROF</pattern>
+
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FOE A * PROF *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FOE A * PROF</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A PROF * FOE *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROF * FOE</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROF * FOE *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROF * FOE</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROF FOE *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROF FOE</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * PROF FOE *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROF FOE</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A FOE PROF *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A FOE PROF</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * FOE PROF *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * FOE PROF</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * FOE * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * FOE * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * FOE * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * FOE * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * FOE A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * FOE A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER FOE * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER FOE * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER FOE * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER FOE * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER FOE A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER FOE A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER * A * FOE *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER * A * FOE</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * A * FOE *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * A * FOE</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER A * FOE *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER A * FOE</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER A * FOE *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER A * FOE</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * A FOE *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * A FOE</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * A FOE *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * A FOE</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FOE LECTURER * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FOE LECTURER * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FOE LECTURER * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FOE LECTURER A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FOE LECTURER A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FOE * A LECTURER *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FOE * A LECTURER</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FOE * A LECTURER *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FOE * A LECTURER</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ FOE A * LECTURER *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FOE A * LECTURER</pattern>
+
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FOE A * LECTURER *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FOE A * LECTURER</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A LECTURER * FOE *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECTURER * FOE</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECTURER * FOE *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECTURER * FOE</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECTURER FOE *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECTURER FOE</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * LECTURER FOE *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECTURER FOE</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A FOE LECTURER *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A FOE LECTURER</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * FOE LECTURER *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * FOE LECTURER</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * FOE * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * FOE * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * FOE * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * FOE * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * FOE A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * FOE A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT FOE * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT FOE * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT FOE * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT FOE * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT FOE A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT FOE A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT * A * FOE *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT * A * FOE</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * A * FOE *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * A * FOE</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT A * FOE *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT A * FOE</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT A * FOE *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT A * FOE</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * A FOE *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * A FOE</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * A FOE *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * A FOE</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FOE LECT * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FOE LECT * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FOE LECT * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FOE LECT A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FOE LECT A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FOE * A LECT *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FOE * A LECT</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FOE * A LECT *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FOE * A LECT</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ FOE A * LECT *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FOE A * LECT</pattern>
+
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FOE A * LECT *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FOE A * LECT</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A LECT * FOE *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECT * FOE</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECT * FOE *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECT * FOE</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECT FOE *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECT FOE</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * LECT FOE *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECT FOE</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A FOE LECT *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A FOE LECT</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * FOE LECT *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * FOE LECT</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * FOE * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * FOE * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * FOE * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * FOE * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * FOE A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * FOE A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER FOE * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER FOE * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER FOE * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER FOE * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER FOE A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER FOE A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER * A * FOE *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER * A * FOE</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * A * FOE *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * A * FOE</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER A * FOE *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER A * FOE</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER A * FOE *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER A * FOE</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * A FOE *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * A FOE</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * A FOE *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * A FOE</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FOE TEACHER * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FOE TEACHER * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FOE TEACHER * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FOE TEACHER A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FOE TEACHER A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FOE * A TEACHER *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FOE * A TEACHER</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FOE * A TEACHER *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FOE * A TEACHER</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ FOE A * TEACHER *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FOE A * TEACHER</pattern>
+
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FOE A * TEACHER *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FOE A * TEACHER</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A TEACHER * FOE *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A TEACHER * FOE</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * TEACHER * FOE *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * TEACHER * FOE</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A TEACHER FOE *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A TEACHER FOE</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * TEACHER FOE *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * TEACHER FOE</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A FOE TEACHER *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A FOE TEACHER</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * FOE TEACHER *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * FOE TEACHER</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ FACULTY * FOE * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * FOE * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * FOE * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * FOE * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * FOE A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * FOE A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY FOE * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY FOE * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY FOE * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY FOE * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY FOE A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY FOE A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY * A * FOE *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY * A * FOE</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * A * FOE *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * A * FOE</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY A * FOE *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY A * FOE</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY A * FOE *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY A * FOE</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * A FOE *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * A FOE</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * A FOE *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * A FOE</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FOE FACULTY * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FOE FACULTY * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FOE FACULTY * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FOE FACULTY A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FOE FACULTY A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FOE * A FACULTY *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FOE * A FACULTY</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FOE * A FACULTY *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FOE * A FACULTY</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ FOE A * FACULTY *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FOE A * FACULTY</pattern>
+
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FOE A * FACULTY *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FOE A * FACULTY</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A FACULTY * FOE *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A FACULTY * FOE</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * FACULTY * FOE *</pattern>
+	<template><srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * FACULTY * FOE</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A FACULTY FOE *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A FACULTY FOE</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * FACULTY FOE *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * FACULTY FOE</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A FOE FACULTY *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A FOE FACULTY</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * FOE FACULTY *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * FOE FACULTY</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ TEACHES FOE * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES FOE A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHES * A FOE *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES * A FOE</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ TEACHES A * FOE *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES A * FOE</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FOE * A * TAUGHT *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FOE * A * TAUGHT *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FOE A * TAUGHT *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FOE A * TAUGHT *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FOE * A TAUGHT *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FOE * A TAUGHT *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * FOE * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * FOE * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * FOE A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES FOE * A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES FOE * A</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES FOE A *</pattern>
+	<template>
+		<srai>ECOA</srai>
+	</template>
+</category>
+
+
+</aiml>

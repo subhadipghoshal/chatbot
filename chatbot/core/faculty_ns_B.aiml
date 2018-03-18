@@ -1,0 +1,5146 @@
+<aiml version="1.0.1" encoding="UTF-8">
+
+<category>
+	<pattern>NSB</pattern>
+	<template>
+		<random>
+			<li>Mr. Nilesh Uttamrao Sambhe teaches NETWORK SECURITY</li>
+			<li>Mr. Nilesh Uttamrao Sambhe</li>
+			<li>NETWORK SECURITY is taught by Mr. Nilesh Uttamrao Sambhe</li>
+		</random>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ PROFESSOR * NETWORK SECURITY * B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * NS * B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ PROFESSOR * NETWORK SECURITY * B</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * NS * B</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR * NETWORK SECURITY * B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR * NS * B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR * NETWORK SECURITY * B</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR * NS * B</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * NETWORK SECURITY B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * NS B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR * NETWORK SECURITY B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR * NS B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR NETWORK SECURITY * B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR NS * B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR NETWORK SECURITY * B</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR NS * B</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR NETWORK SECURITY * B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR NS * B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR NETWORK SECURITY * B</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR NS * B</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR NETWORK SECURITY B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR NS B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR NETWORK SECURITY B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR NS B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+
+
+<category>
+	<pattern>_ PROFESSOR * B * NETWORK SECURITY *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * B * NS *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * B * NETWORK SECURITY</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * B * NS</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR * B * NETWORK SECURITY *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR * B * NS *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR * B * NETWORK SECURITY</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR * B * NS</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR B * NETWORK SECURITY *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR B * NS *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR B * NETWORK SECURITY</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR B * NS</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR B * NETWORK SECURITY *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR B * NS *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR B * NETWORK SECURITY</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR B * NS</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * B NETWORK SECURITY *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * B NS *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * B NETWORK SECURITY</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * B NS</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR * B NETWORK SECURITY *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR * B NS *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR * B NETWORK SECURITY</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROFESSOR * B NS</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>_ NETWORK SECURITY PROFESSOR * B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ NS PROFESSOR * B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ NETWORK SECURITY PROFESSOR * B</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ NS PROFESSOR * B</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>NETWORK SECURITY PROFESSOR * B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>NS PROFESSOR * B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>NETWORK SECURITY PROFESSOR * B</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>NS PROFESSOR * B</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ NETWORK SECURITY PROFESSOR B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ NS PROFESSOR B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>NETWORK SECURITY PROFESSOR B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>NS PROFESSOR B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>_ NETWORK SECURITY * B PROFESSOR *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ NS * B PROFESSOR *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ NETWORK SECURITY * B PROFESSOR</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ NS * B PROFESSOR</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>NETWORK SECURITY * B PROFESSOR *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>NS * B PROFESSOR *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>NETWORK SECURITY * B PROFESSOR</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>NS * B PROFESSOR</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ NETWORK SECURITY B * PROFESSOR *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ NS B * PROFESSOR *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ NETWORK SECURITY B * PROFESSOR</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ NS B * PROFESSOR</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>NETWORK SECURITY B * PROFESSOR *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>NS B * PROFESSOR *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>NETWORK SECURITY B * PROFESSOR</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>NS B * PROFESSOR</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>_ B PROFESSOR * NETWORK SECURITY *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROFESSOR * NS *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROFESSOR * NETWORK SECURITY</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROFESSOR * NS</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR * NETWORK SECURITY *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR * NS *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR * NETWORK SECURITY</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR * NS</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROFESSOR NETWORK SECURITY *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROFESSOR NS *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROFESSOR NETWORK SECURITY</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ B PROFESSOR NS</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR NETWORK SECURITY *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR NS *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR NETWORK SECURITY</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR NS</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+
+
+<category>
+	<pattern>_ B NETWORK SECURITY PROFESSOR *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B NS PROFESSOR *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B NETWORK SECURITY PROFESSOR</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B NS PROFESSOR</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * NETWORK SECURITY PROFESSOR *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * NS PROFESSOR *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * NETWORK SECURITY PROFESSOR</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * NS PROFESSOR</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY * NETWORK SECURITY * B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * NS * B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ FACULTY * NETWORK SECURITY * B</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * NS * B</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY * NETWORK SECURITY * B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY * NS * B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY * NETWORK SECURITY * B</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY * NS * B</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * NETWORK SECURITY B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * NS B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY * NETWORK SECURITY B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY * NS B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY NETWORK SECURITY * B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY NS * B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY NETWORK SECURITY * B</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY NS * B</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY NETWORK SECURITY * B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY NS * B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY NETWORK SECURITY * B</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY NS * B</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY NETWORK SECURITY B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY NS B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY NETWORK SECURITY B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY NS B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+
+
+<category>
+	<pattern>_ FACULTY * B * NETWORK SECURITY *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * B * NS *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * B * NETWORK SECURITY</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * B * NS</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY * B * NETWORK SECURITY *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY * B * NS *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY * B * NETWORK SECURITY</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY * B * NS</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY B * NETWORK SECURITY *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY B * NS *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY B * NETWORK SECURITY</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY B * NS</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY B * NETWORK SECURITY *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY B * NS *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY B * NETWORK SECURITY</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY B * NS</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * B NETWORK SECURITY *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * B NS *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * B NETWORK SECURITY</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * B NS</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY * B NETWORK SECURITY *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY * B NS *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY * B NETWORK SECURITY</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FACULTY * B NS</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>_ NETWORK SECURITY FACULTY * B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ NS FACULTY * B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ NETWORK SECURITY FACULTY * B</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ NS FACULTY * B</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>NETWORK SECURITY FACULTY * B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>NS FACULTY * B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>NETWORK SECURITY FACULTY * B</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>NS FACULTY * B</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ NETWORK SECURITY FACULTY B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ NS FACULTY B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>NETWORK SECURITY FACULTY B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>NS FACULTY B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>_ NETWORK SECURITY * B FACULTY *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ NS * B FACULTY *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ NETWORK SECURITY * B FACULTY</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ NS * B FACULTY</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>NETWORK SECURITY * B FACULTY *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>NS * B FACULTY *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>NETWORK SECURITY * B FACULTY</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>NS * B FACULTY</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ NETWORK SECURITY B * FACULTY *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ NS B * FACULTY *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ NETWORK SECURITY B * FACULTY</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ NS B * FACULTY</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>NETWORK SECURITY B * FACULTY *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>NS B * FACULTY *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>NETWORK SECURITY B * FACULTY</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>NS B * FACULTY</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>_ B FACULTY * NETWORK SECURITY *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B FACULTY * NS *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B FACULTY * NETWORK SECURITY</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B FACULTY * NS</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY * NETWORK SECURITY *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY * NS *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY * NETWORK SECURITY</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY * NS</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B FACULTY NETWORK SECURITY *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B FACULTY NS *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B FACULTY NETWORK SECURITY</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ B FACULTY NS</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY NETWORK SECURITY *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY NS *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY NETWORK SECURITY</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY NS</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+
+
+<category>
+	<pattern>_ B NETWORK SECURITY FACULTY *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B NS FACULTY *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B NETWORK SECURITY FACULTY</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B NS FACULTY</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * NETWORK SECURITY FACULTY *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * NS FACULTY *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * NETWORK SECURITY FACULTY</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * NS FACULTY</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * NETWORK SECURITY * B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * NS * B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ PROF * NETWORK SECURITY * B</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * NS * B</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF * NETWORK SECURITY * B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF * NS * B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF * NETWORK SECURITY * B</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF * NS * B</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * NETWORK SECURITY B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * NS B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF * NETWORK SECURITY B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF * NS B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF NETWORK SECURITY * B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF NS * B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF NETWORK SECURITY * B</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF NS * B</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF NETWORK SECURITY * B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF NS * B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF NETWORK SECURITY * B</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF NS * B</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF NETWORK SECURITY B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF NS B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF NETWORK SECURITY B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF NS B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+
+
+<category>
+	<pattern>_ PROF * B * NETWORK SECURITY *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * B * NS *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * B * NETWORK SECURITY</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * B * NS</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF * B * NETWORK SECURITY *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF * B * NS *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF * B * NETWORK SECURITY</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF * B * NS</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF B * NETWORK SECURITY *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF B * NS *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF B * NETWORK SECURITY</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF B * NS</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF B * NETWORK SECURITY *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF B * NS *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF B * NETWORK SECURITY</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF B * NS</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * B NETWORK SECURITY *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * B NS *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * B NETWORK SECURITY</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * B NS</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF * B NETWORK SECURITY *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF * B NS *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF * B NETWORK SECURITY</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROF * B NS</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>_ NETWORK SECURITY PROF * B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ NS PROF * B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ NETWORK SECURITY PROF * B</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ NS PROF * B</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>NETWORK SECURITY PROF * B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>NS PROF * B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>NETWORK SECURITY PROF * B</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>NS PROF * B</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ NETWORK SECURITY PROF B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ NS PROF B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>NETWORK SECURITY PROF B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>NS PROF B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>_ NETWORK SECURITY * B PROF *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ NS * B PROF *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ NETWORK SECURITY * B PROF</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ NS * B PROF</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>NETWORK SECURITY * B PROF *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>NS * B PROF *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>NETWORK SECURITY * B PROF</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>NS * B PROF</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ NETWORK SECURITY B * PROF *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ NS B * PROF *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ NETWORK SECURITY B * PROF</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ NS B * PROF</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>NETWORK SECURITY B * PROF *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>NS B * PROF *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>NETWORK SECURITY B * PROF</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>NS B * PROF</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>_ B PROF * NETWORK SECURITY *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROF * NS *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROF * NETWORK SECURITY</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROF * NS</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF * NETWORK SECURITY *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF * NS *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF * NETWORK SECURITY</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF * NS</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROF NETWORK SECURITY *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROF NS *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROF NETWORK SECURITY</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ B PROF NS</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF NETWORK SECURITY *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF NS *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF NETWORK SECURITY</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF NS</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+
+
+<category>
+	<pattern>_ B NETWORK SECURITY PROF *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B NS PROF *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B NETWORK SECURITY PROF</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B NS PROF</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * NETWORK SECURITY PROF *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * NS PROF *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * NETWORK SECURITY PROF</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * NS PROF</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+
+
+<category>
+	<pattern>_ LECTURER * NETWORK SECURITY * B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * NS * B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ LECTURER * NETWORK SECURITY * B</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * NS * B</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER * NETWORK SECURITY * B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER * NS * B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER * NETWORK SECURITY * B</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER * NS * B</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * NETWORK SECURITY B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * NS B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER * NETWORK SECURITY B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER * NS B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER NETWORK SECURITY * B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER NS * B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER NETWORK SECURITY * B</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER NS * B</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER NETWORK SECURITY * B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER NS * B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER NETWORK SECURITY * B</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER NS * B</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER NETWORK SECURITY B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER NS B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER NETWORK SECURITY B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER NS B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+
+
+<category>
+	<pattern>_ LECTURER * B * NETWORK SECURITY *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * B * NS *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * B * NETWORK SECURITY</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * B * NS</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER * B * NETWORK SECURITY *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER * B * NS *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER * B * NETWORK SECURITY</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER * B * NS</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER B * NETWORK SECURITY *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER B * NS *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER B * NETWORK SECURITY</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER B * NS</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER B * NETWORK SECURITY *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER B * NS *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER B * NETWORK SECURITY</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER B * NS</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * B NETWORK SECURITY *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * B NS *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * B NETWORK SECURITY</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * B NS</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER * B NETWORK SECURITY *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER * B NS *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER * B NETWORK SECURITY</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECTURER * B NS</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>_ NETWORK SECURITY LECTURER * B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ NS LECTURER * B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ NETWORK SECURITY LECTURER * B</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ NS LECTURER * B</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>NETWORK SECURITY LECTURER * B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>NS LECTURER * B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>NETWORK SECURITY LECTURER * B</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>NS LECTURER * B</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ NETWORK SECURITY LECTURER B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ NS LECTURER B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>NETWORK SECURITY LECTURER B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>NS LECTURER B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>_ NETWORK SECURITY * B LECTURER *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ NS * B LECTURER *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ NETWORK SECURITY * B LECTURER</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ NS * B LECTURER</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>NETWORK SECURITY * B LECTURER *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>NS * B LECTURER *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>NETWORK SECURITY * B LECTURER</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>NS * B LECTURER</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ NETWORK SECURITY B * LECTURER *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ NS B * LECTURER *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ NETWORK SECURITY B * LECTURER</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ NS B * LECTURER</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>NETWORK SECURITY B * LECTURER *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>NS B * LECTURER *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>NETWORK SECURITY B * LECTURER</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>NS B * LECTURER</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>_ B LECTURER * NETWORK SECURITY *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LECTURER * NS *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LECTURER * NETWORK SECURITY</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LECTURER * NS</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER * NETWORK SECURITY *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER * NS *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER * NETWORK SECURITY</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER * NS</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LECTURER NETWORK SECURITY *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LECTURER NS *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LECTURER NETWORK SECURITY</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ B LECTURER NS</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER NETWORK SECURITY *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER NS *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER NETWORK SECURITY</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER NS</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+
+
+<category>
+	<pattern>_ B NETWORK SECURITY LECTURER *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B NS LECTURER *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B NETWORK SECURITY LECTURER</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B NS LECTURER</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * NETWORK SECURITY LECTURER *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * NS LECTURER *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * NETWORK SECURITY LECTURER</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * NS LECTURER</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+
+
+<category>
+	<pattern>_ LECT * NETWORK SECURITY * B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * NS * B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ LECT * NETWORK SECURITY * B</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * NS * B</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT * NETWORK SECURITY * B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT * NS * B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT * NETWORK SECURITY * B</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT * NS * B</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * NETWORK SECURITY B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * NS B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT * NETWORK SECURITY B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT * NS B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT NETWORK SECURITY * B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT NS * B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT NETWORK SECURITY * B</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT NS * B</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT NETWORK SECURITY * B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT NS * B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT NETWORK SECURITY * B</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT NS * B</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT NETWORK SECURITY B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT NS B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT NETWORK SECURITY B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT NS B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+
+
+<category>
+	<pattern>_ LECT * B * NETWORK SECURITY *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * B * NS *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * B * NETWORK SECURITY</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * B * NS</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT * B * NETWORK SECURITY *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT * B * NS *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT * B * NETWORK SECURITY</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT * B * NS</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT B * NETWORK SECURITY *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT B * NS *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT B * NETWORK SECURITY</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT B * NS</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT B * NETWORK SECURITY *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT B * NS *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT B * NETWORK SECURITY</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT B * NS</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * B NETWORK SECURITY *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * B NS *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * B NETWORK SECURITY</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * B NS</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT * B NETWORK SECURITY *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT * B NS *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT * B NETWORK SECURITY</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>LECT * B NS</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>_ NETWORK SECURITY LECT * B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ NS LECT * B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ NETWORK SECURITY LECT * B</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ NS LECT * B</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>NETWORK SECURITY LECT * B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>NS LECT * B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>NETWORK SECURITY LECT * B</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>NS LECT * B</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ NETWORK SECURITY LECT B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ NS LECT B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>NETWORK SECURITY LECT B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>NS LECT B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>_ NETWORK SECURITY * B LECT *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ NS * B LECT *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ NETWORK SECURITY * B LECT</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ NS * B LECT</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>NETWORK SECURITY * B LECT *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>NS * B LECT *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>NETWORK SECURITY * B LECT</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>NS * B LECT</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ NETWORK SECURITY B * LECT *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ NS B * LECT *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ NETWORK SECURITY B * LECT</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ NS B * LECT</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>NETWORK SECURITY B * LECT *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>NS B * LECT *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>NETWORK SECURITY B * LECT</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>NS B * LECT</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>_ B LECT * NETWORK SECURITY *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LECT * NS *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LECT * NETWORK SECURITY</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LECT * NS</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT * NETWORK SECURITY *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT * NS *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT * NETWORK SECURITY</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT * NS</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LECT NETWORK SECURITY *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LECT NS *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LECT NETWORK SECURITY</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ B LECT NS</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT NETWORK SECURITY *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT NS *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT NETWORK SECURITY</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT NS</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+
+
+<category>
+	<pattern>_ B NETWORK SECURITY LECT *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B NS LECT *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B NETWORK SECURITY LECT</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B NS LECT</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * NETWORK SECURITY LECT *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * NS LECT *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * NETWORK SECURITY LECT</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * NS LECT</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>_ TEACHER * NETWORK SECURITY * B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * NS * B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ TEACHER * NETWORK SECURITY * B</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * NS * B</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER * NETWORK SECURITY * B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER * NS * B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER * NETWORK SECURITY * B</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER * NS * B</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * NETWORK SECURITY B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * NS B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER * NETWORK SECURITY B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER * NS B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER NETWORK SECURITY * B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER NS * B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER NETWORK SECURITY * B</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER NS * B</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER NETWORK SECURITY * B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER NS * B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER NETWORK SECURITY * B</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER NS * B</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER NETWORK SECURITY B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER NS B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER NETWORK SECURITY B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER NS B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+
+
+<category>
+	<pattern>_ TEACHER * B * NETWORK SECURITY *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * B * NS *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * B * NETWORK SECURITY</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * B * NS</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER * B * NETWORK SECURITY *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER * B * NS *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER * B * NETWORK SECURITY</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER * B * NS</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER B * NETWORK SECURITY *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER B * NS *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER B * NETWORK SECURITY</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER B * NS</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER B * NETWORK SECURITY *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER B * NS *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER B * NETWORK SECURITY</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER B * NS</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * B NETWORK SECURITY *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * B NS *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * B NETWORK SECURITY</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * B NS</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER * B NETWORK SECURITY *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER * B NS *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER * B NETWORK SECURITY</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>TEACHER * B NS</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>_ NETWORK SECURITY TEACHER * B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ NS TEACHER * B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ NETWORK SECURITY TEACHER * B</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ NS TEACHER * B</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>NETWORK SECURITY TEACHER * B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>NS TEACHER * B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>NETWORK SECURITY TEACHER * B</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>NS TEACHER * B</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ NETWORK SECURITY TEACHER B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ NS TEACHER B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>NETWORK SECURITY TEACHER B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>NS TEACHER B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>_ NETWORK SECURITY * B TEACHER *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ NS * B TEACHER *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ NETWORK SECURITY * B TEACHER</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ NS * B TEACHER</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>NETWORK SECURITY * B TEACHER *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>NS * B TEACHER *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>NETWORK SECURITY * B TEACHER</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>NS * B TEACHER</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ NETWORK SECURITY B * TEACHER *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ NS B * TEACHER *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ NETWORK SECURITY B * TEACHER</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ NS B * TEACHER</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>NETWORK SECURITY B * TEACHER *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>NS B * TEACHER *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>NETWORK SECURITY B * TEACHER</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>NS B * TEACHER</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>_ B TEACHER * NETWORK SECURITY *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B TEACHER * NS *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B TEACHER * NETWORK SECURITY</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B TEACHER * NS</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER * NETWORK SECURITY *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER * NS *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER * NETWORK SECURITY</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER * NS</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B TEACHER NETWORK SECURITY *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B TEACHER NS *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B TEACHER NETWORK SECURITY</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ B TEACHER NS</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER NETWORK SECURITY *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER NS *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER NETWORK SECURITY</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER NS</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+
+
+<category>
+	<pattern>_ B NETWORK SECURITY TEACHER *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B NS TEACHER *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B NETWORK SECURITY TEACHER</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B NS TEACHER</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * NETWORK SECURITY TEACHER *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * NS TEACHER *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * NETWORK SECURITY TEACHER</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * NS TEACHER</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ TEACHES NETWORK SECURITY * B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES NS * B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES NETWORK SECURITY * B</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES NS * B</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES NETWORK SECURITY B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES NS B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES * B NETWORK SECURITY *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES * B NS *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES * B NETWORK SECURITY</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES * B NS</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES B * NETWORK SECURITY *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES B * NS *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES B * NETWORK SECURITY</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES B * NS</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ NETWORK SECURITY * B * TAUGHT *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ NS * B * TAUGHT *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>NETWORK SECURITY * B * TAUGHT *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>NS * B * TAUGHT *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ NETWORK SECURITY B * TAUGHT *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ NS B * TAUGHT *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>NETWORK SECURITY B * TAUGHT *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>NS B * TAUGHT *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ NETWORK SECURITY * B TAUGHT *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ NS * B TAUGHT *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>NETWORK SECURITY * B TAUGHT *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>NS * B TAUGHT *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURE * NETWORK SECURITY * B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURE * NS * B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURE * NETWORK SECURITY * B</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURE * NS * B</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURE * NETWORK SECURITY B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURE * NS B *</pattern>
+	<template>
+		<srai>NSB</srai>
+	</template>
+</category>
+
+
+
+</aiml>

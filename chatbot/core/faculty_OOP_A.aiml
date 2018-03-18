@@ -1,0 +1,9143 @@
+<aiml version="1.0.1" encoding="UTF-8">
+
+<category>
+	<pattern>OOPA</pattern>
+	<template>
+		<random>
+			<li>Mr. Nikhil Shrikant Mangrulkar teaches OBJECT ORIENTED PROGRAMMING</li>
+			<li>Mr. Nikhil Shrikant Mangrulkar</li>
+			<li>OBJECT ORIENTED PROGRAMMING is taught by Mr. Nikhil Shrikant Mangrulkar</li>
+		</random>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * OBJECT ORIENTED PROGRAMMING * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * OBJECT ORIENTED PROGRAMMING * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * OBJECT ORIENTED PROGRAMMING * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * OBJECT ORIENTED PROGRAMMING * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * OBJECT ORIENTED PROGRAMMING A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * OBJECT ORIENTED PROGRAMMING A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR OBJECT ORIENTED PROGRAMMING * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR OBJECT ORIENTED PROGRAMMING * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR OBJECT ORIENTED PROGRAMMING * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR OBJECT ORIENTED PROGRAMMING * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR OBJECT ORIENTED PROGRAMMING A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR OBJECT ORIENTED PROGRAMMING A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR * A * OBJECT ORIENTED PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR * A * OBJECT ORIENTED PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * A * OBJECT ORIENTED PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * A * OBJECT ORIENTED PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR A * OBJECT ORIENTED PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR A * OBJECT ORIENTED PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR A * OBJECT ORIENTED PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR A * OBJECT ORIENTED PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * A OBJECT ORIENTED PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * A OBJECT ORIENTED PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * A OBJECT ORIENTED PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * A OBJECT ORIENTED PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OBJECT ORIENTED PROGRAMMING PROFESSOR * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OBJECT ORIENTED PROGRAMMING PROFESSOR * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OBJECT ORIENTED PROGRAMMING PROFESSOR * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OBJECT ORIENTED PROGRAMMING PROFESSOR A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OBJECT ORIENTED PROGRAMMING PROFESSOR A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OBJECT ORIENTED PROGRAMMING * A PROFESSOR *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OBJECT ORIENTED PROGRAMMING * A PROFESSOR</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OBJECT ORIENTED PROGRAMMING * A PROFESSOR *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OBJECT ORIENTED PROGRAMMING * A PROFESSOR</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ OBJECT ORIENTED PROGRAMMING A * PROFESSOR *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OBJECT ORIENTED PROGRAMMING A * PROFESSOR</pattern>
+
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OBJECT ORIENTED PROGRAMMING A * PROFESSOR *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OBJECT ORIENTED PROGRAMMING A * PROFESSOR</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A PROFESSOR * OBJECT ORIENTED PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROFESSOR * OBJECT ORIENTED PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROFESSOR * OBJECT ORIENTED PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROFESSOR * OBJECT ORIENTED PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROFESSOR OBJECT ORIENTED PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROFESSOR OBJECT ORIENTED PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * PROFESSOR OBJECT ORIENTED PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROFESSOR OBJECT ORIENTED PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A OBJECT ORIENTED PROGRAMMING PROFESSOR *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A OBJECT ORIENTED PROGRAMMING PROFESSOR</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * OBJECT ORIENTED PROGRAMMING PROFESSOR *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * OBJECT ORIENTED PROGRAMMING PROFESSOR</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * OBJECT ORIENTED PROGRAMMING * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * OBJECT ORIENTED PROGRAMMING * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * OBJECT ORIENTED PROGRAMMING * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * OBJECT ORIENTED PROGRAMMING * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * OBJECT ORIENTED PROGRAMMING A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * OBJECT ORIENTED PROGRAMMING A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF OBJECT ORIENTED PROGRAMMING * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF OBJECT ORIENTED PROGRAMMING * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF OBJECT ORIENTED PROGRAMMING * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF OBJECT ORIENTED PROGRAMMING * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF OBJECT ORIENTED PROGRAMMING A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF OBJECT ORIENTED PROGRAMMING A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF * A * OBJECT ORIENTED PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF * A * OBJECT ORIENTED PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * A * OBJECT ORIENTED PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * A * OBJECT ORIENTED PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF A * OBJECT ORIENTED PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF A * OBJECT ORIENTED PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF A * OBJECT ORIENTED PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF A * OBJECT ORIENTED PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * A OBJECT ORIENTED PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * A OBJECT ORIENTED PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * A OBJECT ORIENTED PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * A OBJECT ORIENTED PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OBJECT ORIENTED PROGRAMMING PROF * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OBJECT ORIENTED PROGRAMMING PROF * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OBJECT ORIENTED PROGRAMMING PROF * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OBJECT ORIENTED PROGRAMMING PROF A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OBJECT ORIENTED PROGRAMMING PROF A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OBJECT ORIENTED PROGRAMMING * A PROF *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OBJECT ORIENTED PROGRAMMING * A PROF</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OBJECT ORIENTED PROGRAMMING * A PROF *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OBJECT ORIENTED PROGRAMMING * A PROF</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ OBJECT ORIENTED PROGRAMMING A * PROF *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OBJECT ORIENTED PROGRAMMING A * PROF</pattern>
+
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OBJECT ORIENTED PROGRAMMING A * PROF *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OBJECT ORIENTED PROGRAMMING A * PROF</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A PROF * OBJECT ORIENTED PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROF * OBJECT ORIENTED PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROF * OBJECT ORIENTED PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROF * OBJECT ORIENTED PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROF OBJECT ORIENTED PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROF OBJECT ORIENTED PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * PROF OBJECT ORIENTED PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROF OBJECT ORIENTED PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A OBJECT ORIENTED PROGRAMMING PROF *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A OBJECT ORIENTED PROGRAMMING PROF</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * OBJECT ORIENTED PROGRAMMING PROF *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * OBJECT ORIENTED PROGRAMMING PROF</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * OBJECT ORIENTED PROGRAMMING * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * OBJECT ORIENTED PROGRAMMING * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * OBJECT ORIENTED PROGRAMMING * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * OBJECT ORIENTED PROGRAMMING * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * OBJECT ORIENTED PROGRAMMING A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * OBJECT ORIENTED PROGRAMMING A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER OBJECT ORIENTED PROGRAMMING * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER OBJECT ORIENTED PROGRAMMING * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER OBJECT ORIENTED PROGRAMMING * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER OBJECT ORIENTED PROGRAMMING * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER OBJECT ORIENTED PROGRAMMING A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER OBJECT ORIENTED PROGRAMMING A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER * A * OBJECT ORIENTED PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER * A * OBJECT ORIENTED PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * A * OBJECT ORIENTED PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * A * OBJECT ORIENTED PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER A * OBJECT ORIENTED PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER A * OBJECT ORIENTED PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER A * OBJECT ORIENTED PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER A * OBJECT ORIENTED PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * A OBJECT ORIENTED PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * A OBJECT ORIENTED PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * A OBJECT ORIENTED PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * A OBJECT ORIENTED PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OBJECT ORIENTED PROGRAMMING LECTURER * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OBJECT ORIENTED PROGRAMMING LECTURER * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OBJECT ORIENTED PROGRAMMING LECTURER * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OBJECT ORIENTED PROGRAMMING LECTURER A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OBJECT ORIENTED PROGRAMMING LECTURER A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OBJECT ORIENTED PROGRAMMING * A LECTURER *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OBJECT ORIENTED PROGRAMMING * A LECTURER</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OBJECT ORIENTED PROGRAMMING * A LECTURER *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OBJECT ORIENTED PROGRAMMING * A LECTURER</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ OBJECT ORIENTED PROGRAMMING A * LECTURER *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OBJECT ORIENTED PROGRAMMING A * LECTURER</pattern>
+
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OBJECT ORIENTED PROGRAMMING A * LECTURER *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OBJECT ORIENTED PROGRAMMING A * LECTURER</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A LECTURER * OBJECT ORIENTED PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECTURER * OBJECT ORIENTED PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECTURER * OBJECT ORIENTED PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECTURER * OBJECT ORIENTED PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECTURER OBJECT ORIENTED PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECTURER OBJECT ORIENTED PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * LECTURER OBJECT ORIENTED PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECTURER OBJECT ORIENTED PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A OBJECT ORIENTED PROGRAMMING LECTURER *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A OBJECT ORIENTED PROGRAMMING LECTURER</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * OBJECT ORIENTED PROGRAMMING LECTURER *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * OBJECT ORIENTED PROGRAMMING LECTURER</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * OBJECT ORIENTED PROGRAMMING * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * OBJECT ORIENTED PROGRAMMING * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * OBJECT ORIENTED PROGRAMMING * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * OBJECT ORIENTED PROGRAMMING * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * OBJECT ORIENTED PROGRAMMING A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * OBJECT ORIENTED PROGRAMMING A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT OBJECT ORIENTED PROGRAMMING * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT OBJECT ORIENTED PROGRAMMING * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT OBJECT ORIENTED PROGRAMMING * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT OBJECT ORIENTED PROGRAMMING * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT OBJECT ORIENTED PROGRAMMING A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT OBJECT ORIENTED PROGRAMMING A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT * A * OBJECT ORIENTED PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT * A * OBJECT ORIENTED PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * A * OBJECT ORIENTED PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * A * OBJECT ORIENTED PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT A * OBJECT ORIENTED PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT A * OBJECT ORIENTED PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT A * OBJECT ORIENTED PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT A * OBJECT ORIENTED PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * A OBJECT ORIENTED PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * A OBJECT ORIENTED PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * A OBJECT ORIENTED PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * A OBJECT ORIENTED PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OBJECT ORIENTED PROGRAMMING LECT * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OBJECT ORIENTED PROGRAMMING LECT * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OBJECT ORIENTED PROGRAMMING LECT * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OBJECT ORIENTED PROGRAMMING LECT A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OBJECT ORIENTED PROGRAMMING LECT A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OBJECT ORIENTED PROGRAMMING * A LECT *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OBJECT ORIENTED PROGRAMMING * A LECT</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OBJECT ORIENTED PROGRAMMING * A LECT *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OBJECT ORIENTED PROGRAMMING * A LECT</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ OBJECT ORIENTED PROGRAMMING A * LECT *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OBJECT ORIENTED PROGRAMMING A * LECT</pattern>
+
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OBJECT ORIENTED PROGRAMMING A * LECT *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OBJECT ORIENTED PROGRAMMING A * LECT</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A LECT * OBJECT ORIENTED PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECT * OBJECT ORIENTED PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECT * OBJECT ORIENTED PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECT * OBJECT ORIENTED PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECT OBJECT ORIENTED PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECT OBJECT ORIENTED PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * LECT OBJECT ORIENTED PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECT OBJECT ORIENTED PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A OBJECT ORIENTED PROGRAMMING LECT *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A OBJECT ORIENTED PROGRAMMING LECT</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * OBJECT ORIENTED PROGRAMMING LECT *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * OBJECT ORIENTED PROGRAMMING LECT</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * OBJECT ORIENTED PROGRAMMING * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * OBJECT ORIENTED PROGRAMMING * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * OBJECT ORIENTED PROGRAMMING * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * OBJECT ORIENTED PROGRAMMING * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * OBJECT ORIENTED PROGRAMMING A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * OBJECT ORIENTED PROGRAMMING A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER OBJECT ORIENTED PROGRAMMING * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER OBJECT ORIENTED PROGRAMMING * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER OBJECT ORIENTED PROGRAMMING * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER OBJECT ORIENTED PROGRAMMING * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER OBJECT ORIENTED PROGRAMMING A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER OBJECT ORIENTED PROGRAMMING A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER * A * OBJECT ORIENTED PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER * A * OBJECT ORIENTED PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * A * OBJECT ORIENTED PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * A * OBJECT ORIENTED PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER A * OBJECT ORIENTED PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER A * OBJECT ORIENTED PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER A * OBJECT ORIENTED PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER A * OBJECT ORIENTED PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * A OBJECT ORIENTED PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * A OBJECT ORIENTED PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * A OBJECT ORIENTED PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * A OBJECT ORIENTED PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OBJECT ORIENTED PROGRAMMING TEACHER * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OBJECT ORIENTED PROGRAMMING TEACHER * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OBJECT ORIENTED PROGRAMMING TEACHER * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OBJECT ORIENTED PROGRAMMING TEACHER A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OBJECT ORIENTED PROGRAMMING TEACHER A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OBJECT ORIENTED PROGRAMMING * A TEACHER *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OBJECT ORIENTED PROGRAMMING * A TEACHER</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OBJECT ORIENTED PROGRAMMING * A TEACHER *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OBJECT ORIENTED PROGRAMMING * A TEACHER</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ OBJECT ORIENTED PROGRAMMING A * TEACHER *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OBJECT ORIENTED PROGRAMMING A * TEACHER</pattern>
+
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OBJECT ORIENTED PROGRAMMING A * TEACHER *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OBJECT ORIENTED PROGRAMMING A * TEACHER</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A TEACHER * OBJECT ORIENTED PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A TEACHER * OBJECT ORIENTED PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * TEACHER * OBJECT ORIENTED PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * TEACHER * OBJECT ORIENTED PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A TEACHER OBJECT ORIENTED PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A TEACHER OBJECT ORIENTED PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * TEACHER OBJECT ORIENTED PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * TEACHER OBJECT ORIENTED PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A OBJECT ORIENTED PROGRAMMING TEACHER *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A OBJECT ORIENTED PROGRAMMING TEACHER</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * OBJECT ORIENTED PROGRAMMING TEACHER *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * OBJECT ORIENTED PROGRAMMING TEACHER</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ FACULTY * OBJECT ORIENTED PROGRAMMING * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * OBJECT ORIENTED PROGRAMMING * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * OBJECT ORIENTED PROGRAMMING * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * OBJECT ORIENTED PROGRAMMING * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * OBJECT ORIENTED PROGRAMMING A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * OBJECT ORIENTED PROGRAMMING A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY OBJECT ORIENTED PROGRAMMING * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY OBJECT ORIENTED PROGRAMMING * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY OBJECT ORIENTED PROGRAMMING * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY OBJECT ORIENTED PROGRAMMING * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY OBJECT ORIENTED PROGRAMMING A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY OBJECT ORIENTED PROGRAMMING A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY * A * OBJECT ORIENTED PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY * A * OBJECT ORIENTED PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * A * OBJECT ORIENTED PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * A * OBJECT ORIENTED PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY A * OBJECT ORIENTED PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY A * OBJECT ORIENTED PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY A * OBJECT ORIENTED PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY A * OBJECT ORIENTED PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * A OBJECT ORIENTED PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * A OBJECT ORIENTED PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * A OBJECT ORIENTED PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * A OBJECT ORIENTED PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OBJECT ORIENTED PROGRAMMING FACULTY * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OBJECT ORIENTED PROGRAMMING FACULTY * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OBJECT ORIENTED PROGRAMMING FACULTY * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OBJECT ORIENTED PROGRAMMING FACULTY A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OBJECT ORIENTED PROGRAMMING FACULTY A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OBJECT ORIENTED PROGRAMMING * A FACULTY *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OBJECT ORIENTED PROGRAMMING * A FACULTY</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OBJECT ORIENTED PROGRAMMING * A FACULTY *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OBJECT ORIENTED PROGRAMMING * A FACULTY</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ OBJECT ORIENTED PROGRAMMING A * FACULTY *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OBJECT ORIENTED PROGRAMMING A * FACULTY</pattern>
+
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OBJECT ORIENTED PROGRAMMING A * FACULTY *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OBJECT ORIENTED PROGRAMMING A * FACULTY</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A FACULTY * OBJECT ORIENTED PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A FACULTY * OBJECT ORIENTED PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * FACULTY * OBJECT ORIENTED PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * FACULTY * OBJECT ORIENTED PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A FACULTY OBJECT ORIENTED PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A FACULTY OBJECT ORIENTED PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * FACULTY OBJECT ORIENTED PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * FACULTY OBJECT ORIENTED PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A OBJECT ORIENTED PROGRAMMING FACULTY *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A OBJECT ORIENTED PROGRAMMING FACULTY</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * OBJECT ORIENTED PROGRAMMING FACULTY *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * OBJECT ORIENTED PROGRAMMING FACULTY</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ TEACHES OBJECT ORIENTED PROGRAMMING * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES OBJECT ORIENTED PROGRAMMING A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHES * A OBJECT ORIENTED PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES * A OBJECT ORIENTED PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ TEACHES A * OBJECT ORIENTED PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES A * OBJECT ORIENTED PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OBJECT ORIENTED PROGRAMMING * A * TAUGHT *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OBJECT ORIENTED PROGRAMMING * A * TAUGHT *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OBJECT ORIENTED PROGRAMMING A * TAUGHT *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OBJECT ORIENTED PROGRAMMING A * TAUGHT *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OBJECT ORIENTED PROGRAMMING * A TAUGHT *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OBJECT ORIENTED PROGRAMMING * A TAUGHT *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * OBJECT ORIENTED PROGRAMMING * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * OBJECT ORIENTED PROGRAMMING * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * OBJECT ORIENTED PROGRAMMING A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES OBJECT ORIENTED PROGRAMMING * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES OBJECT ORIENTED PROGRAMMING * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES OBJECT ORIENTED PROGRAMMING A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * OOP * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * OOP * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * OOP * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * OOP * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * OOP A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * OOP A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR OOP * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR OOP * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR OOP * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR OOP * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR OOP A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR OOP A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR * A * OOP *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR * A * OOP</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * A * OOP *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * A * OOP</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR A * OOP *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR A * OOP</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR A * OOP *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR A * OOP</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * A OOP *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * A OOP</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * A OOP *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * A OOP</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OOP PROFESSOR * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OOP PROFESSOR * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OOP PROFESSOR * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OOP PROFESSOR A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OOP PROFESSOR A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OOP * A PROFESSOR *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OOP * A PROFESSOR</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OOP * A PROFESSOR *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OOP * A PROFESSOR</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ OOP A * PROFESSOR *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OOP A * PROFESSOR</pattern>
+
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OOP A * PROFESSOR *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OOP A * PROFESSOR</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A PROFESSOR * OOP *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROFESSOR * OOP</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROFESSOR * OOP *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROFESSOR * OOP</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROFESSOR OOP *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROFESSOR OOP</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * PROFESSOR OOP *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROFESSOR OOP</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A OOP PROFESSOR *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A OOP PROFESSOR</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * OOP PROFESSOR *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * OOP PROFESSOR</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * OOP * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * OOP * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * OOP * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * OOP * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * OOP A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * OOP A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF OOP * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF OOP * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF OOP * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF OOP * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF OOP A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF OOP A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF * A * OOP *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF * A * OOP</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * A * OOP *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * A * OOP</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF A * OOP *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF A * OOP</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF A * OOP *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF A * OOP</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * A OOP *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * A OOP</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * A OOP *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * A OOP</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OOP PROF * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OOP PROF * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OOP PROF * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OOP PROF A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OOP PROF A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OOP * A PROF *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OOP * A PROF</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OOP * A PROF *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OOP * A PROF</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ OOP A * PROF *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OOP A * PROF</pattern>
+
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OOP A * PROF *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OOP A * PROF</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A PROF * OOP *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROF * OOP</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROF * OOP *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROF * OOP</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROF OOP *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROF OOP</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * PROF OOP *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROF OOP</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A OOP PROF *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A OOP PROF</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * OOP PROF *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * OOP PROF</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * OOP * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * OOP * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * OOP * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * OOP * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * OOP A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * OOP A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER OOP * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER OOP * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER OOP * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER OOP * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER OOP A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER OOP A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER * A * OOP *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER * A * OOP</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * A * OOP *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * A * OOP</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER A * OOP *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER A * OOP</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER A * OOP *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER A * OOP</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * A OOP *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * A OOP</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * A OOP *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * A OOP</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OOP LECTURER * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OOP LECTURER * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OOP LECTURER * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OOP LECTURER A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OOP LECTURER A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OOP * A LECTURER *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OOP * A LECTURER</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OOP * A LECTURER *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OOP * A LECTURER</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ OOP A * LECTURER *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OOP A * LECTURER</pattern>
+
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OOP A * LECTURER *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OOP A * LECTURER</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A LECTURER * OOP *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECTURER * OOP</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECTURER * OOP *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECTURER * OOP</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECTURER OOP *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECTURER OOP</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * LECTURER OOP *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECTURER OOP</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A OOP LECTURER *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A OOP LECTURER</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * OOP LECTURER *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * OOP LECTURER</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * OOP * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * OOP * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * OOP * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * OOP * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * OOP A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * OOP A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT OOP * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT OOP * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT OOP * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT OOP * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT OOP A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT OOP A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT * A * OOP *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT * A * OOP</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * A * OOP *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * A * OOP</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT A * OOP *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT A * OOP</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT A * OOP *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT A * OOP</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * A OOP *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * A OOP</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * A OOP *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * A OOP</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OOP LECT * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OOP LECT * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OOP LECT * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OOP LECT A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OOP LECT A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OOP * A LECT *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OOP * A LECT</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OOP * A LECT *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OOP * A LECT</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ OOP A * LECT *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OOP A * LECT</pattern>
+
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OOP A * LECT *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OOP A * LECT</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A LECT * OOP *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECT * OOP</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECT * OOP *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECT * OOP</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECT OOP *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECT OOP</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * LECT OOP *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECT OOP</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A OOP LECT *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A OOP LECT</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * OOP LECT *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * OOP LECT</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * OOP * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * OOP * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * OOP * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * OOP * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * OOP A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * OOP A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER OOP * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER OOP * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER OOP * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER OOP * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER OOP A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER OOP A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER * A * OOP *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER * A * OOP</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * A * OOP *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * A * OOP</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER A * OOP *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER A * OOP</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER A * OOP *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER A * OOP</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * A OOP *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * A OOP</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * A OOP *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * A OOP</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OOP TEACHER * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OOP TEACHER * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OOP TEACHER * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OOP TEACHER A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OOP TEACHER A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OOP * A TEACHER *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OOP * A TEACHER</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OOP * A TEACHER *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OOP * A TEACHER</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ OOP A * TEACHER *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OOP A * TEACHER</pattern>
+
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OOP A * TEACHER *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OOP A * TEACHER</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A TEACHER * OOP *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A TEACHER * OOP</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * TEACHER * OOP *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * TEACHER * OOP</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A TEACHER OOP *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A TEACHER OOP</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * TEACHER OOP *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * TEACHER OOP</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A OOP TEACHER *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A OOP TEACHER</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * OOP TEACHER *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * OOP TEACHER</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ FACULTY * OOP * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * OOP * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * OOP * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * OOP * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * OOP A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * OOP A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY OOP * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY OOP * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY OOP * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY OOP * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY OOP A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY OOP A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY * A * OOP *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY * A * OOP</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * A * OOP *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * A * OOP</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY A * OOP *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY A * OOP</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY A * OOP *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY A * OOP</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * A OOP *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * A OOP</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * A OOP *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * A OOP</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OOP FACULTY * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OOP FACULTY * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OOP FACULTY * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OOP FACULTY A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OOP FACULTY A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OOP * A FACULTY *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OOP * A FACULTY</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OOP * A FACULTY *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OOP * A FACULTY</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ OOP A * FACULTY *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OOP A * FACULTY</pattern>
+
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OOP A * FACULTY *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OOP A * FACULTY</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A FACULTY * OOP *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A FACULTY * OOP</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * FACULTY * OOP *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * FACULTY * OOP</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A FACULTY OOP *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A FACULTY OOP</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * FACULTY OOP *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * FACULTY OOP</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A OOP FACULTY *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A OOP FACULTY</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * OOP FACULTY *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * OOP FACULTY</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ TEACHES OOP * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES OOP A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHES * A OOP *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES * A OOP</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ TEACHES A * OOP *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES A * OOP</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OOP * A * TAUGHT *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OOP * A * TAUGHT *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OOP A * TAUGHT *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OOP A * TAUGHT *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OOP * A TAUGHT *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OOP * A TAUGHT *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * OOP * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * OOP * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * OOP A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES OOP * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES OOP * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES OOP A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * OO PROGRAMMING * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * OO PROGRAMMING * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * OO PROGRAMMING * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * OO PROGRAMMING * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * OO PROGRAMMING A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * OO PROGRAMMING A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR OO PROGRAMMING * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR OO PROGRAMMING * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR OO PROGRAMMING * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR OO PROGRAMMING * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR OO PROGRAMMING A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR OO PROGRAMMING A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR * A * OO PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR * A * OO PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * A * OO PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * A * OO PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR A * OO PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR A * OO PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR A * OO PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR A * OO PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * A OO PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * A OO PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * A OO PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * A OO PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OO PROGRAMMING PROFESSOR * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OO PROGRAMMING PROFESSOR * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OO PROGRAMMING PROFESSOR * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OO PROGRAMMING PROFESSOR A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OO PROGRAMMING PROFESSOR A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OO PROGRAMMING * A PROFESSOR *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OO PROGRAMMING * A PROFESSOR</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OO PROGRAMMING * A PROFESSOR *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OO PROGRAMMING * A PROFESSOR</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ OO PROGRAMMING A * PROFESSOR *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OO PROGRAMMING A * PROFESSOR</pattern>
+
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OO PROGRAMMING A * PROFESSOR *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OO PROGRAMMING A * PROFESSOR</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A PROFESSOR * OO PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROFESSOR * OO PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROFESSOR * OO PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROFESSOR * OO PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROFESSOR OO PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROFESSOR OO PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * PROFESSOR OO PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROFESSOR OO PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A OO PROGRAMMING PROFESSOR *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A OO PROGRAMMING PROFESSOR</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * OO PROGRAMMING PROFESSOR *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * OO PROGRAMMING PROFESSOR</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * OO PROGRAMMING * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * OO PROGRAMMING * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * OO PROGRAMMING * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * OO PROGRAMMING * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * OO PROGRAMMING A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * OO PROGRAMMING A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF OO PROGRAMMING * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF OO PROGRAMMING * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF OO PROGRAMMING * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF OO PROGRAMMING * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF OO PROGRAMMING A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF OO PROGRAMMING A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF * A * OO PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF * A * OO PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * A * OO PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * A * OO PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF A * OO PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF A * OO PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF A * OO PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF A * OO PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * A OO PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * A OO PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * A OO PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * A OO PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OO PROGRAMMING PROF * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OO PROGRAMMING PROF * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OO PROGRAMMING PROF * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OO PROGRAMMING PROF A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OO PROGRAMMING PROF A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OO PROGRAMMING * A PROF *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OO PROGRAMMING * A PROF</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OO PROGRAMMING * A PROF *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OO PROGRAMMING * A PROF</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ OO PROGRAMMING A * PROF *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OO PROGRAMMING A * PROF</pattern>
+
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OO PROGRAMMING A * PROF *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OO PROGRAMMING A * PROF</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A PROF * OO PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROF * OO PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROF * OO PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROF * OO PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROF OO PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROF OO PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * PROF OO PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROF OO PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A OO PROGRAMMING PROF *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A OO PROGRAMMING PROF</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * OO PROGRAMMING PROF *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * OO PROGRAMMING PROF</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * OO PROGRAMMING * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * OO PROGRAMMING * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * OO PROGRAMMING * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * OO PROGRAMMING * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * OO PROGRAMMING A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * OO PROGRAMMING A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER OO PROGRAMMING * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER OO PROGRAMMING * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER OO PROGRAMMING * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER OO PROGRAMMING * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER OO PROGRAMMING A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER OO PROGRAMMING A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER * A * OO PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER * A * OO PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * A * OO PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * A * OO PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER A * OO PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER A * OO PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER A * OO PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER A * OO PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * A OO PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * A OO PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * A OO PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * A OO PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OO PROGRAMMING LECTURER * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OO PROGRAMMING LECTURER * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OO PROGRAMMING LECTURER * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OO PROGRAMMING LECTURER A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OO PROGRAMMING LECTURER A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OO PROGRAMMING * A LECTURER *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OO PROGRAMMING * A LECTURER</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OO PROGRAMMING * A LECTURER *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OO PROGRAMMING * A LECTURER</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ OO PROGRAMMING A * LECTURER *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OO PROGRAMMING A * LECTURER</pattern>
+
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OO PROGRAMMING A * LECTURER *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OO PROGRAMMING A * LECTURER</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A LECTURER * OO PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECTURER * OO PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECTURER * OO PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECTURER * OO PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECTURER OO PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECTURER OO PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * LECTURER OO PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECTURER OO PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A OO PROGRAMMING LECTURER *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A OO PROGRAMMING LECTURER</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * OO PROGRAMMING LECTURER *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * OO PROGRAMMING LECTURER</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * OO PROGRAMMING * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * OO PROGRAMMING * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * OO PROGRAMMING * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * OO PROGRAMMING * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * OO PROGRAMMING A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * OO PROGRAMMING A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT OO PROGRAMMING * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT OO PROGRAMMING * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT OO PROGRAMMING * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT OO PROGRAMMING * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT OO PROGRAMMING A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT OO PROGRAMMING A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT * A * OO PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT * A * OO PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * A * OO PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * A * OO PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT A * OO PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT A * OO PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT A * OO PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT A * OO PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * A OO PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * A OO PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * A OO PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * A OO PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OO PROGRAMMING LECT * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OO PROGRAMMING LECT * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OO PROGRAMMING LECT * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OO PROGRAMMING LECT A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OO PROGRAMMING LECT A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OO PROGRAMMING * A LECT *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OO PROGRAMMING * A LECT</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OO PROGRAMMING * A LECT *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OO PROGRAMMING * A LECT</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ OO PROGRAMMING A * LECT *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OO PROGRAMMING A * LECT</pattern>
+
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OO PROGRAMMING A * LECT *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OO PROGRAMMING A * LECT</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A LECT * OO PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECT * OO PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECT * OO PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECT * OO PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECT OO PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECT OO PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * LECT OO PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECT OO PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A OO PROGRAMMING LECT *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A OO PROGRAMMING LECT</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * OO PROGRAMMING LECT *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * OO PROGRAMMING LECT</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * OO PROGRAMMING * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * OO PROGRAMMING * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * OO PROGRAMMING * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * OO PROGRAMMING * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * OO PROGRAMMING A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * OO PROGRAMMING A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER OO PROGRAMMING * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER OO PROGRAMMING * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER OO PROGRAMMING * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER OO PROGRAMMING * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER OO PROGRAMMING A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER OO PROGRAMMING A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER * A * OO PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER * A * OO PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * A * OO PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * A * OO PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER A * OO PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER A * OO PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER A * OO PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER A * OO PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * A OO PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * A OO PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * A OO PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * A OO PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OO PROGRAMMING TEACHER * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OO PROGRAMMING TEACHER * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OO PROGRAMMING TEACHER * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OO PROGRAMMING TEACHER A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OO PROGRAMMING TEACHER A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OO PROGRAMMING * A TEACHER *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OO PROGRAMMING * A TEACHER</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OO PROGRAMMING * A TEACHER *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OO PROGRAMMING * A TEACHER</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ OO PROGRAMMING A * TEACHER *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OO PROGRAMMING A * TEACHER</pattern>
+
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OO PROGRAMMING A * TEACHER *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OO PROGRAMMING A * TEACHER</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A TEACHER * OO PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A TEACHER * OO PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * TEACHER * OO PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * TEACHER * OO PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A TEACHER OO PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A TEACHER OO PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * TEACHER OO PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * TEACHER OO PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A OO PROGRAMMING TEACHER *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A OO PROGRAMMING TEACHER</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * OO PROGRAMMING TEACHER *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * OO PROGRAMMING TEACHER</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ FACULTY * OO PROGRAMMING * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * OO PROGRAMMING * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * OO PROGRAMMING * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * OO PROGRAMMING * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * OO PROGRAMMING A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * OO PROGRAMMING A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY OO PROGRAMMING * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY OO PROGRAMMING * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY OO PROGRAMMING * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY OO PROGRAMMING * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY OO PROGRAMMING A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY OO PROGRAMMING A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY * A * OO PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY * A * OO PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * A * OO PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * A * OO PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY A * OO PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY A * OO PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY A * OO PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY A * OO PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * A OO PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * A OO PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * A OO PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * A OO PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OO PROGRAMMING FACULTY * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OO PROGRAMMING FACULTY * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OO PROGRAMMING FACULTY * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OO PROGRAMMING FACULTY A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OO PROGRAMMING FACULTY A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OO PROGRAMMING * A FACULTY *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OO PROGRAMMING * A FACULTY</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OO PROGRAMMING * A FACULTY *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OO PROGRAMMING * A FACULTY</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ OO PROGRAMMING A * FACULTY *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OO PROGRAMMING A * FACULTY</pattern>
+
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OO PROGRAMMING A * FACULTY *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OO PROGRAMMING A * FACULTY</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A FACULTY * OO PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A FACULTY * OO PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * FACULTY * OO PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * FACULTY * OO PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A FACULTY OO PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A FACULTY OO PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * FACULTY OO PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * FACULTY OO PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A OO PROGRAMMING FACULTY *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A OO PROGRAMMING FACULTY</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * OO PROGRAMMING FACULTY *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * OO PROGRAMMING FACULTY</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ TEACHES OO PROGRAMMING * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES OO PROGRAMMING A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHES * A OO PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES * A OO PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ TEACHES A * OO PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES A * OO PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OO PROGRAMMING * A * TAUGHT *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OO PROGRAMMING * A * TAUGHT *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OO PROGRAMMING A * TAUGHT *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OO PROGRAMMING A * TAUGHT *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OO PROGRAMMING * A TAUGHT *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OO PROGRAMMING * A TAUGHT *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * OO PROGRAMMING * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * OO PROGRAMMING * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * OO PROGRAMMING A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES OO PROGRAMMING * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES OO PROGRAMMING * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES OO PROGRAMMING A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR * O O PROGRAMMING * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR * O O PROGRAMMING * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * O O PROGRAMMING * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * O O PROGRAMMING * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * O O PROGRAMMING A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * O O PROGRAMMING A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR O O PROGRAMMING * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR O O PROGRAMMING * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR O O PROGRAMMING * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR O O PROGRAMMING * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR O O PROGRAMMING A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR O O PROGRAMMING A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR * A * O O PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR * A * O O PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * A * O O PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * A * O O PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR A * O O PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR A * O O PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR A * O O PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR A * O O PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * A O O PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * A O O PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * A O O PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * A O O PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ O O PROGRAMMING PROFESSOR * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ O O PROGRAMMING PROFESSOR * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>O O PROGRAMMING PROFESSOR * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ O O PROGRAMMING PROFESSOR A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>O O PROGRAMMING PROFESSOR A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ O O PROGRAMMING * A PROFESSOR *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ O O PROGRAMMING * A PROFESSOR</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>O O PROGRAMMING * A PROFESSOR *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>O O PROGRAMMING * A PROFESSOR</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ O O PROGRAMMING A * PROFESSOR *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ O O PROGRAMMING A * PROFESSOR</pattern>
+
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>O O PROGRAMMING A * PROFESSOR *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>O O PROGRAMMING A * PROFESSOR</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A PROFESSOR * O O PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROFESSOR * O O PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROFESSOR * O O PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROFESSOR * O O PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROFESSOR O O PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROFESSOR O O PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * PROFESSOR O O PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROFESSOR O O PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A O O PROGRAMMING PROFESSOR *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A O O PROGRAMMING PROFESSOR</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * O O PROGRAMMING PROFESSOR *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * O O PROGRAMMING PROFESSOR</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * O O PROGRAMMING * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * O O PROGRAMMING * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * O O PROGRAMMING * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * O O PROGRAMMING * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * O O PROGRAMMING A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * O O PROGRAMMING A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF O O PROGRAMMING * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF O O PROGRAMMING * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF O O PROGRAMMING * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF O O PROGRAMMING * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF O O PROGRAMMING A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF O O PROGRAMMING A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF * A * O O PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF * A * O O PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * A * O O PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * A * O O PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF A * O O PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF A * O O PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF A * O O PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF A * O O PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * A O O PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * A O O PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * A O O PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * A O O PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ O O PROGRAMMING PROF * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ O O PROGRAMMING PROF * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>O O PROGRAMMING PROF * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ O O PROGRAMMING PROF A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>O O PROGRAMMING PROF A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ O O PROGRAMMING * A PROF *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ O O PROGRAMMING * A PROF</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>O O PROGRAMMING * A PROF *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>O O PROGRAMMING * A PROF</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ O O PROGRAMMING A * PROF *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ O O PROGRAMMING A * PROF</pattern>
+
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>O O PROGRAMMING A * PROF *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>O O PROGRAMMING A * PROF</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A PROF * O O PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROF * O O PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROF * O O PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROF * O O PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROF O O PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROF O O PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * PROF O O PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROF O O PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A O O PROGRAMMING PROF *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A O O PROGRAMMING PROF</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * O O PROGRAMMING PROF *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * O O PROGRAMMING PROF</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * O O PROGRAMMING * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * O O PROGRAMMING * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * O O PROGRAMMING * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * O O PROGRAMMING * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * O O PROGRAMMING A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * O O PROGRAMMING A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER O O PROGRAMMING * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER O O PROGRAMMING * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER O O PROGRAMMING * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER O O PROGRAMMING * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER O O PROGRAMMING A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER O O PROGRAMMING A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER * A * O O PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER * A * O O PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * A * O O PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * A * O O PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER A * O O PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER A * O O PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER A * O O PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER A * O O PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * A O O PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * A O O PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * A O O PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * A O O PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ O O PROGRAMMING LECTURER * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ O O PROGRAMMING LECTURER * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>O O PROGRAMMING LECTURER * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ O O PROGRAMMING LECTURER A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>O O PROGRAMMING LECTURER A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ O O PROGRAMMING * A LECTURER *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ O O PROGRAMMING * A LECTURER</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>O O PROGRAMMING * A LECTURER *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>O O PROGRAMMING * A LECTURER</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ O O PROGRAMMING A * LECTURER *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ O O PROGRAMMING A * LECTURER</pattern>
+
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>O O PROGRAMMING A * LECTURER *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>O O PROGRAMMING A * LECTURER</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A LECTURER * O O PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECTURER * O O PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECTURER * O O PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECTURER * O O PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECTURER O O PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECTURER O O PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * LECTURER O O PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECTURER O O PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A O O PROGRAMMING LECTURER *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A O O PROGRAMMING LECTURER</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * O O PROGRAMMING LECTURER *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * O O PROGRAMMING LECTURER</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * O O PROGRAMMING * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * O O PROGRAMMING * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * O O PROGRAMMING * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * O O PROGRAMMING * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * O O PROGRAMMING A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * O O PROGRAMMING A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT O O PROGRAMMING * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT O O PROGRAMMING * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT O O PROGRAMMING * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT O O PROGRAMMING * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT O O PROGRAMMING A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT O O PROGRAMMING A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT * A * O O PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT * A * O O PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * A * O O PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * A * O O PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT A * O O PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT A * O O PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT A * O O PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT A * O O PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * A O O PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * A O O PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * A O O PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * A O O PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ O O PROGRAMMING LECT * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ O O PROGRAMMING LECT * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>O O PROGRAMMING LECT * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ O O PROGRAMMING LECT A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>O O PROGRAMMING LECT A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ O O PROGRAMMING * A LECT *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ O O PROGRAMMING * A LECT</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>O O PROGRAMMING * A LECT *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>O O PROGRAMMING * A LECT</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ O O PROGRAMMING A * LECT *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ O O PROGRAMMING A * LECT</pattern>
+
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>O O PROGRAMMING A * LECT *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>O O PROGRAMMING A * LECT</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A LECT * O O PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECT * O O PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECT * O O PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECT * O O PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECT O O PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECT O O PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * LECT O O PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECT O O PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A O O PROGRAMMING LECT *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A O O PROGRAMMING LECT</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * O O PROGRAMMING LECT *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * O O PROGRAMMING LECT</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * O O PROGRAMMING * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * O O PROGRAMMING * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * O O PROGRAMMING * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * O O PROGRAMMING * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * O O PROGRAMMING A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * O O PROGRAMMING A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER O O PROGRAMMING * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER O O PROGRAMMING * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER O O PROGRAMMING * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER O O PROGRAMMING * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER O O PROGRAMMING A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER O O PROGRAMMING A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER * A * O O PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER * A * O O PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * A * O O PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * A * O O PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER A * O O PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER A * O O PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER A * O O PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER A * O O PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * A O O PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * A O O PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * A O O PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * A O O PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ O O PROGRAMMING TEACHER * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ O O PROGRAMMING TEACHER * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>O O PROGRAMMING TEACHER * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ O O PROGRAMMING TEACHER A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>O O PROGRAMMING TEACHER A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ O O PROGRAMMING * A TEACHER *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ O O PROGRAMMING * A TEACHER</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>O O PROGRAMMING * A TEACHER *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>O O PROGRAMMING * A TEACHER</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ O O PROGRAMMING A * TEACHER *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ O O PROGRAMMING A * TEACHER</pattern>
+
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>O O PROGRAMMING A * TEACHER *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>O O PROGRAMMING A * TEACHER</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A TEACHER * O O PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A TEACHER * O O PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * TEACHER * O O PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * TEACHER * O O PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A TEACHER O O PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A TEACHER O O PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * TEACHER O O PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * TEACHER O O PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A O O PROGRAMMING TEACHER *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A O O PROGRAMMING TEACHER</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * O O PROGRAMMING TEACHER *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * O O PROGRAMMING TEACHER</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ FACULTY * O O PROGRAMMING * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * O O PROGRAMMING * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * O O PROGRAMMING * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * O O PROGRAMMING * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * O O PROGRAMMING A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * O O PROGRAMMING A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY O O PROGRAMMING * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY O O PROGRAMMING * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY O O PROGRAMMING * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY O O PROGRAMMING * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY O O PROGRAMMING A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY O O PROGRAMMING A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY * A * O O PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY * A * O O PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * A * O O PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * A * O O PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY A * O O PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY A * O O PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY A * O O PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY A * O O PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * A O O PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * A O O PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * A O O PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * A O O PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ O O PROGRAMMING FACULTY * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ O O PROGRAMMING FACULTY * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>O O PROGRAMMING FACULTY * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ O O PROGRAMMING FACULTY A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>O O PROGRAMMING FACULTY A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ O O PROGRAMMING * A FACULTY *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ O O PROGRAMMING * A FACULTY</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>O O PROGRAMMING * A FACULTY *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>O O PROGRAMMING * A FACULTY</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ O O PROGRAMMING A * FACULTY *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ O O PROGRAMMING A * FACULTY</pattern>
+
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>O O PROGRAMMING A * FACULTY *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>O O PROGRAMMING A * FACULTY</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A FACULTY * O O PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A FACULTY * O O PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * FACULTY * O O PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * FACULTY * O O PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A FACULTY O O PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A FACULTY O O PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * FACULTY O O PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * FACULTY O O PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A O O PROGRAMMING FACULTY *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A O O PROGRAMMING FACULTY</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * O O PROGRAMMING FACULTY *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * O O PROGRAMMING FACULTY</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ TEACHES O O PROGRAMMING * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES O O PROGRAMMING A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHES * A O O PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES * A O O PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ TEACHES A * O O PROGRAMMING *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES A * O O PROGRAMMING</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ O O PROGRAMMING * A * TAUGHT *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>O O PROGRAMMING * A * TAUGHT *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ O O PROGRAMMING A * TAUGHT *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>O O PROGRAMMING A * TAUGHT *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ O O PROGRAMMING * A TAUGHT *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>O O PROGRAMMING * A TAUGHT *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURES * O O PROGRAMMING * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * O O PROGRAMMING * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * O O PROGRAMMING A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES O O PROGRAMMING * A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES O O PROGRAMMING * A</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES O O PROGRAMMING A *</pattern>
+	<template>
+		<srai>OOPA</srai>
+	</template>
+</category>
+
+
+</aiml>
+

@@ -1,0 +1,6858 @@
+<aiml version="1.0.1" encoding="UTF-8">
+
+<category>
+	<pattern>OSA</pattern>
+	<template>
+		<random>
+			<li>Mrs. Nilima Mahendra Jichkar teaches OPERATING SYSTEM</li>
+			<li>Mrs. Nilima Mahendra Jichkar</li>
+			<li>OPERATING SYSTEM is taught by Mrs. Nilima Mahendra Jichkar</li>
+		</random>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * OPERATING SYSTEMS * A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * OPERATING SYSTEMS * A</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * OPERATING SYSTEMS * A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * OPERATING SYSTEMS * A</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * OPERATING SYSTEMS A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * OPERATING SYSTEMS A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR OPERATING SYSTEMS * A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR OPERATING SYSTEMS * A</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR OPERATING SYSTEMS * A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR OPERATING SYSTEMS * A</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR OPERATING SYSTEMS A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR OPERATING SYSTEMS A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR * A * OPERATING SYSTEMS *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR * A * OPERATING SYSTEMS</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * A * OPERATING SYSTEMS *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * A * OPERATING SYSTEMS</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR A * OPERATING SYSTEMS *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR A * OPERATING SYSTEMS</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR A * OPERATING SYSTEMS *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR A * OPERATING SYSTEMS</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * A OPERATING SYSTEMS *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * A OPERATING SYSTEMS</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * A OPERATING SYSTEMS *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * A OPERATING SYSTEMS</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OPERATING SYSTEMS PROFESSOR * A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEMS PROFESSOR * A</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OPERATING SYSTEMS PROFESSOR * A</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEMS PROFESSOR A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OPERATING SYSTEMS PROFESSOR A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEMS * A PROFESSOR *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEMS * A PROFESSOR</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OPERATING SYSTEMS * A PROFESSOR *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OPERATING SYSTEMS * A PROFESSOR</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ OPERATING SYSTEMS A * PROFESSOR *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEMS A * PROFESSOR</pattern>
+
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OPERATING SYSTEMS A * PROFESSOR *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OPERATING SYSTEMS A * PROFESSOR</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A PROFESSOR * OPERATING SYSTEMS *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROFESSOR * OPERATING SYSTEMS</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROFESSOR * OPERATING SYSTEMS *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROFESSOR * OPERATING SYSTEMS</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROFESSOR OPERATING SYSTEMS *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROFESSOR OPERATING SYSTEMS</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * PROFESSOR OPERATING SYSTEMS *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROFESSOR OPERATING SYSTEMS</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A OPERATING SYSTEMS PROFESSOR *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A OPERATING SYSTEMS PROFESSOR</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * OPERATING SYSTEMS PROFESSOR *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * OPERATING SYSTEMS PROFESSOR</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * OPERATING SYSTEMS * A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * OPERATING SYSTEMS * A</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * OPERATING SYSTEMS * A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * OPERATING SYSTEMS * A</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * OPERATING SYSTEMS A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * OPERATING SYSTEMS A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF OPERATING SYSTEMS * A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF OPERATING SYSTEMS * A</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF OPERATING SYSTEMS * A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF OPERATING SYSTEMS * A</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF OPERATING SYSTEMS A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF OPERATING SYSTEMS A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF * A * OPERATING SYSTEMS *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF * A * OPERATING SYSTEMS</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * A * OPERATING SYSTEMS *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * A * OPERATING SYSTEMS</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF A * OPERATING SYSTEMS *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF A * OPERATING SYSTEMS</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF A * OPERATING SYSTEMS *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF A * OPERATING SYSTEMS</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * A OPERATING SYSTEMS *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * A OPERATING SYSTEMS</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * A OPERATING SYSTEMS *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * A OPERATING SYSTEMS</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OPERATING SYSTEMS PROF * A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEMS PROF * A</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OPERATING SYSTEMS PROF * A</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEMS PROF A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OPERATING SYSTEMS PROF A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEMS * A PROF *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEMS * A PROF</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OPERATING SYSTEMS * A PROF *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OPERATING SYSTEMS * A PROF</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ OPERATING SYSTEMS A * PROF *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEMS A * PROF</pattern>
+
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OPERATING SYSTEMS A * PROF *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OPERATING SYSTEMS A * PROF</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A PROF * OPERATING SYSTEMS *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROF * OPERATING SYSTEMS</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROF * OPERATING SYSTEMS *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROF * OPERATING SYSTEMS</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROF OPERATING SYSTEMS *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROF OPERATING SYSTEMS</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * PROF OPERATING SYSTEMS *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROF OPERATING SYSTEMS</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A OPERATING SYSTEMS PROF *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A OPERATING SYSTEMS PROF</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * OPERATING SYSTEMS PROF *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * OPERATING SYSTEMS PROF</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * OPERATING SYSTEMS * A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * OPERATING SYSTEMS * A</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * OPERATING SYSTEMS * A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * OPERATING SYSTEMS * A</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * OPERATING SYSTEMS A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * OPERATING SYSTEMS A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER OPERATING SYSTEMS * A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER OPERATING SYSTEMS * A</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER OPERATING SYSTEMS * A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER OPERATING SYSTEMS * A</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER OPERATING SYSTEMS A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER OPERATING SYSTEMS A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER * A * OPERATING SYSTEMS *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER * A * OPERATING SYSTEMS</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * A * OPERATING SYSTEMS *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * A * OPERATING SYSTEMS</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER A * OPERATING SYSTEMS *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER A * OPERATING SYSTEMS</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER A * OPERATING SYSTEMS *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER A * OPERATING SYSTEMS</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * A OPERATING SYSTEMS *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * A OPERATING SYSTEMS</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * A OPERATING SYSTEMS *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * A OPERATING SYSTEMS</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OPERATING SYSTEMS LECTURER * A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEMS LECTURER * A</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OPERATING SYSTEMS LECTURER * A</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEMS LECTURER A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OPERATING SYSTEMS LECTURER A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEMS * A LECTURER *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEMS * A LECTURER</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OPERATING SYSTEMS * A LECTURER *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OPERATING SYSTEMS * A LECTURER</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ OPERATING SYSTEMS A * LECTURER *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEMS A * LECTURER</pattern>
+
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OPERATING SYSTEMS A * LECTURER *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OPERATING SYSTEMS A * LECTURER</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A LECTURER * OPERATING SYSTEMS *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECTURER * OPERATING SYSTEMS</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECTURER * OPERATING SYSTEMS *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECTURER * OPERATING SYSTEMS</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECTURER OPERATING SYSTEMS *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECTURER OPERATING SYSTEMS</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * LECTURER OPERATING SYSTEMS *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECTURER OPERATING SYSTEMS</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A OPERATING SYSTEMS LECTURER *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A OPERATING SYSTEMS LECTURER</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * OPERATING SYSTEMS LECTURER *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * OPERATING SYSTEMS LECTURER</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * OPERATING SYSTEMS * A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * OPERATING SYSTEMS * A</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * OPERATING SYSTEMS * A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * OPERATING SYSTEMS * A</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * OPERATING SYSTEMS A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * OPERATING SYSTEMS A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT OPERATING SYSTEMS * A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT OPERATING SYSTEMS * A</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT OPERATING SYSTEMS * A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT OPERATING SYSTEMS * A</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT OPERATING SYSTEMS A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT OPERATING SYSTEMS A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT * A * OPERATING SYSTEMS *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT * A * OPERATING SYSTEMS</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * A * OPERATING SYSTEMS *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * A * OPERATING SYSTEMS</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT A * OPERATING SYSTEMS *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT A * OPERATING SYSTEMS</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT A * OPERATING SYSTEMS *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT A * OPERATING SYSTEMS</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * A OPERATING SYSTEMS *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * A OPERATING SYSTEMS</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * A OPERATING SYSTEMS *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * A OPERATING SYSTEMS</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OPERATING SYSTEMS LECT * A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEMS LECT * A</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OPERATING SYSTEMS LECT * A</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEMS LECT A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OPERATING SYSTEMS LECT A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEMS * A LECT *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEMS * A LECT</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OPERATING SYSTEMS * A LECT *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OPERATING SYSTEMS * A LECT</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ OPERATING SYSTEMS A * LECT *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEMS A * LECT</pattern>
+
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OPERATING SYSTEMS A * LECT *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OPERATING SYSTEMS A * LECT</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A LECT * OPERATING SYSTEMS *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECT * OPERATING SYSTEMS</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECT * OPERATING SYSTEMS *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECT * OPERATING SYSTEMS</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECT OPERATING SYSTEMS *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECT OPERATING SYSTEMS</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * LECT OPERATING SYSTEMS *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECT OPERATING SYSTEMS</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A OPERATING SYSTEMS LECT *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A OPERATING SYSTEMS LECT</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * OPERATING SYSTEMS LECT *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * OPERATING SYSTEMS LECT</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * OPERATING SYSTEMS * A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * OPERATING SYSTEMS * A</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * OPERATING SYSTEMS * A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * OPERATING SYSTEMS * A</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * OPERATING SYSTEMS A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * OPERATING SYSTEMS A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER OPERATING SYSTEMS * A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER OPERATING SYSTEMS * A</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER OPERATING SYSTEMS * A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER OPERATING SYSTEMS * A</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER OPERATING SYSTEMS A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER OPERATING SYSTEMS A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER * A * OPERATING SYSTEMS *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER * A * OPERATING SYSTEMS</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * A * OPERATING SYSTEMS *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * A * OPERATING SYSTEMS</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER A * OPERATING SYSTEMS *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER A * OPERATING SYSTEMS</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER A * OPERATING SYSTEMS *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER A * OPERATING SYSTEMS</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * A OPERATING SYSTEMS *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * A OPERATING SYSTEMS</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * A OPERATING SYSTEMS *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * A OPERATING SYSTEMS</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OPERATING SYSTEMS TEACHER * A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEMS TEACHER * A</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OPERATING SYSTEMS TEACHER * A</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEMS TEACHER A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OPERATING SYSTEMS TEACHER A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEMS * A TEACHER *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEMS * A TEACHER</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OPERATING SYSTEMS * A TEACHER *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OPERATING SYSTEMS * A TEACHER</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ OPERATING SYSTEMS A * TEACHER *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEMS A * TEACHER</pattern>
+
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OPERATING SYSTEMS A * TEACHER *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OPERATING SYSTEMS A * TEACHER</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A TEACHER * OPERATING SYSTEMS *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A TEACHER * OPERATING SYSTEMS</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * TEACHER * OPERATING SYSTEMS *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * TEACHER * OPERATING SYSTEMS</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A TEACHER OPERATING SYSTEMS *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A TEACHER OPERATING SYSTEMS</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * TEACHER OPERATING SYSTEMS *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * TEACHER OPERATING SYSTEMS</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A OPERATING SYSTEMS TEACHER *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A OPERATING SYSTEMS TEACHER</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * OPERATING SYSTEMS TEACHER *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * OPERATING SYSTEMS TEACHER</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ FACULTY * OPERATING SYSTEMS * A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * OPERATING SYSTEMS * A</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * OPERATING SYSTEMS * A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * OPERATING SYSTEMS * A</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * OPERATING SYSTEMS A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * OPERATING SYSTEMS A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY OPERATING SYSTEMS * A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY OPERATING SYSTEMS * A</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY OPERATING SYSTEMS * A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY OPERATING SYSTEMS * A</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY OPERATING SYSTEMS A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY OPERATING SYSTEMS A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY * A * OPERATING SYSTEMS *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY * A * OPERATING SYSTEMS</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * A * OPERATING SYSTEMS *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * A * OPERATING SYSTEMS</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY A * OPERATING SYSTEMS *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY A * OPERATING SYSTEMS</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY A * OPERATING SYSTEMS *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY A * OPERATING SYSTEMS</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * A OPERATING SYSTEMS *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * A OPERATING SYSTEMS</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * A OPERATING SYSTEMS *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * A OPERATING SYSTEMS</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OPERATING SYSTEMS FACULTY * A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEMS FACULTY * A</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OPERATING SYSTEMS FACULTY * A</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEMS FACULTY A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OPERATING SYSTEMS FACULTY A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEMS * A FACULTY *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEMS * A FACULTY</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OPERATING SYSTEMS * A FACULTY *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OPERATING SYSTEMS * A FACULTY</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ OPERATING SYSTEMS A * FACULTY *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEMS A * FACULTY</pattern>
+
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OPERATING SYSTEMS A * FACULTY *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OPERATING SYSTEMS A * FACULTY</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A FACULTY * OPERATING SYSTEMS *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A FACULTY * OPERATING SYSTEMS</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * FACULTY * OPERATING SYSTEMS *</pattern>
+	<template><srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * FACULTY * OPERATING SYSTEMS</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A FACULTY OPERATING SYSTEMS *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A FACULTY OPERATING SYSTEMS</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * FACULTY OPERATING SYSTEMS *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * FACULTY OPERATING SYSTEMS</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A OPERATING SYSTEMS FACULTY *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A OPERATING SYSTEMS FACULTY</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * OPERATING SYSTEMS FACULTY *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * OPERATING SYSTEMS FACULTY</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ TEACHES OPERATING SYSTEMS * A</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES OPERATING SYSTEMS A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHES * A OPERATING SYSTEMS *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES * A OPERATING SYSTEMS</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ TEACHES A * OPERATING SYSTEMS *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES A * OPERATING SYSTEMS</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEMS * A * TAUGHT *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OPERATING SYSTEMS * A * TAUGHT *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEMS A * TAUGHT *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OPERATING SYSTEMS A * TAUGHT *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEMS * A TAUGHT *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OPERATING SYSTEMS * A TAUGHT *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * OPERATING SYSTEMS * A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * OPERATING SYSTEMS * A</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * OPERATING SYSTEMS A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES OPERATING SYSTEMS * A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES OPERATING SYSTEMS * A</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES OPERATING SYSTEMS A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR * OPERATING SYSTEM * A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * OPERATING SYSTEM * A</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * OPERATING SYSTEM * A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * OPERATING SYSTEM * A</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * OPERATING SYSTEM A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * OPERATING SYSTEM A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR OPERATING SYSTEM * A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR OPERATING SYSTEM * A</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR OPERATING SYSTEM * A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR OPERATING SYSTEM * A</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR OPERATING SYSTEM A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR OPERATING SYSTEM A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR * A * OPERATING SYSTEM *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR * A * OPERATING SYSTEM</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * A * OPERATING SYSTEM *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * A * OPERATING SYSTEM</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR A * OPERATING SYSTEM *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR A * OPERATING SYSTEM</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR A * OPERATING SYSTEM *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR A * OPERATING SYSTEM</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * A OPERATING SYSTEM *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * A OPERATING SYSTEM</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * A OPERATING SYSTEM *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * A OPERATING SYSTEM</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OPERATING SYSTEM PROFESSOR * A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEM PROFESSOR * A</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OPERATING SYSTEM PROFESSOR * A</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEM PROFESSOR A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OPERATING SYSTEM PROFESSOR A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEM * A PROFESSOR *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEM * A PROFESSOR</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OPERATING SYSTEM * A PROFESSOR *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OPERATING SYSTEM * A PROFESSOR</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ OPERATING SYSTEM A * PROFESSOR *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEM A * PROFESSOR</pattern>
+
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OPERATING SYSTEM A * PROFESSOR *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OPERATING SYSTEM A * PROFESSOR</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A PROFESSOR * OPERATING SYSTEM *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROFESSOR * OPERATING SYSTEM</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROFESSOR * OPERATING SYSTEM *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROFESSOR * OPERATING SYSTEM</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROFESSOR OPERATING SYSTEM *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROFESSOR OPERATING SYSTEM</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * PROFESSOR OPERATING SYSTEM *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROFESSOR OPERATING SYSTEM</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A OPERATING SYSTEM PROFESSOR *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A OPERATING SYSTEM PROFESSOR</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * OPERATING SYSTEM PROFESSOR *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * OPERATING SYSTEM PROFESSOR</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * OPERATING SYSTEM * A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * OPERATING SYSTEM * A</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * OPERATING SYSTEM * A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * OPERATING SYSTEM * A</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * OPERATING SYSTEM A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * OPERATING SYSTEM A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF OPERATING SYSTEM * A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF OPERATING SYSTEM * A</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF OPERATING SYSTEM * A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF OPERATING SYSTEM * A</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF OPERATING SYSTEM A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF OPERATING SYSTEM A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF * A * OPERATING SYSTEM *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF * A * OPERATING SYSTEM</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * A * OPERATING SYSTEM *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * A * OPERATING SYSTEM</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF A * OPERATING SYSTEM *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF A * OPERATING SYSTEM</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF A * OPERATING SYSTEM *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF A * OPERATING SYSTEM</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * A OPERATING SYSTEM *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * A OPERATING SYSTEM</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * A OPERATING SYSTEM *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * A OPERATING SYSTEM</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OPERATING SYSTEM PROF * A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEM PROF * A</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OPERATING SYSTEM PROF * A</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEM PROF A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OPERATING SYSTEM PROF A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEM * A PROF *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEM * A PROF</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OPERATING SYSTEM * A PROF *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OPERATING SYSTEM * A PROF</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ OPERATING SYSTEM A * PROF *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEM A * PROF</pattern>
+
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OPERATING SYSTEM A * PROF *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OPERATING SYSTEM A * PROF</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A PROF * OPERATING SYSTEM *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROF * OPERATING SYSTEM</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROF * OPERATING SYSTEM *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROF * OPERATING SYSTEM</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROF OPERATING SYSTEM *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROF OPERATING SYSTEM</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * PROF OPERATING SYSTEM *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROF OPERATING SYSTEM</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A OPERATING SYSTEM PROF *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A OPERATING SYSTEM PROF</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * OPERATING SYSTEM PROF *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * OPERATING SYSTEM PROF</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * OPERATING SYSTEM * A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * OPERATING SYSTEM * A</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * OPERATING SYSTEM * A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * OPERATING SYSTEM * A</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * OPERATING SYSTEM A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * OPERATING SYSTEM A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER OPERATING SYSTEM * A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER OPERATING SYSTEM * A</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER OPERATING SYSTEM * A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER OPERATING SYSTEM * A</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER OPERATING SYSTEM A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER OPERATING SYSTEM A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER * A * OPERATING SYSTEM *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER * A * OPERATING SYSTEM</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * A * OPERATING SYSTEM *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * A * OPERATING SYSTEM</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER A * OPERATING SYSTEM *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER A * OPERATING SYSTEM</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER A * OPERATING SYSTEM *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER A * OPERATING SYSTEM</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * A OPERATING SYSTEM *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * A OPERATING SYSTEM</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * A OPERATING SYSTEM *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * A OPERATING SYSTEM</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OPERATING SYSTEM LECTURER * A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEM LECTURER * A</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OPERATING SYSTEM LECTURER * A</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEM LECTURER A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OPERATING SYSTEM LECTURER A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEM * A LECTURER *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEM * A LECTURER</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OPERATING SYSTEM * A LECTURER *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OPERATING SYSTEM * A LECTURER</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ OPERATING SYSTEM A * LECTURER *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEM A * LECTURER</pattern>
+
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OPERATING SYSTEM A * LECTURER *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OPERATING SYSTEM A * LECTURER</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A LECTURER * OPERATING SYSTEM *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECTURER * OPERATING SYSTEM</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECTURER * OPERATING SYSTEM *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECTURER * OPERATING SYSTEM</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECTURER OPERATING SYSTEM *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECTURER OPERATING SYSTEM</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * LECTURER OPERATING SYSTEM *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECTURER OPERATING SYSTEM</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A OPERATING SYSTEM LECTURER *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A OPERATING SYSTEM LECTURER</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * OPERATING SYSTEM LECTURER *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * OPERATING SYSTEM LECTURER</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * OPERATING SYSTEM * A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * OPERATING SYSTEM * A</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * OPERATING SYSTEM * A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * OPERATING SYSTEM * A</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * OPERATING SYSTEM A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * OPERATING SYSTEM A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT OPERATING SYSTEM * A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT OPERATING SYSTEM * A</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT OPERATING SYSTEM * A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT OPERATING SYSTEM * A</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT OPERATING SYSTEM A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT OPERATING SYSTEM A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT * A * OPERATING SYSTEM *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT * A * OPERATING SYSTEM</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * A * OPERATING SYSTEM *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * A * OPERATING SYSTEM</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT A * OPERATING SYSTEM *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT A * OPERATING SYSTEM</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT A * OPERATING SYSTEM *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT A * OPERATING SYSTEM</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * A OPERATING SYSTEM *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * A OPERATING SYSTEM</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * A OPERATING SYSTEM *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * A OPERATING SYSTEM</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OPERATING SYSTEM LECT * A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEM LECT * A</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OPERATING SYSTEM LECT * A</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEM LECT A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OPERATING SYSTEM LECT A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEM * A LECT *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEM * A LECT</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OPERATING SYSTEM * A LECT *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OPERATING SYSTEM * A LECT</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ OPERATING SYSTEM A * LECT *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEM A * LECT</pattern>
+
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OPERATING SYSTEM A * LECT *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OPERATING SYSTEM A * LECT</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A LECT * OPERATING SYSTEM *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECT * OPERATING SYSTEM</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECT * OPERATING SYSTEM *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECT * OPERATING SYSTEM</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECT OPERATING SYSTEM *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECT OPERATING SYSTEM</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * LECT OPERATING SYSTEM *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECT OPERATING SYSTEM</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A OPERATING SYSTEM LECT *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A OPERATING SYSTEM LECT</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * OPERATING SYSTEM LECT *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * OPERATING SYSTEM LECT</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * OPERATING SYSTEM * A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * OPERATING SYSTEM * A</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * OPERATING SYSTEM * A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * OPERATING SYSTEM * A</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * OPERATING SYSTEM A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * OPERATING SYSTEM A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER OPERATING SYSTEM * A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER OPERATING SYSTEM * A</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER OPERATING SYSTEM * A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER OPERATING SYSTEM * A</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER OPERATING SYSTEM A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER OPERATING SYSTEM A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER * A * OPERATING SYSTEM *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER * A * OPERATING SYSTEM</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * A * OPERATING SYSTEM *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * A * OPERATING SYSTEM</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER A * OPERATING SYSTEM *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER A * OPERATING SYSTEM</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER A * OPERATING SYSTEM *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER A * OPERATING SYSTEM</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * A OPERATING SYSTEM *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * A OPERATING SYSTEM</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * A OPERATING SYSTEM *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * A OPERATING SYSTEM</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OPERATING SYSTEM TEACHER * A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEM TEACHER * A</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OPERATING SYSTEM TEACHER * A</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEM TEACHER A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OPERATING SYSTEM TEACHER A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEM * A TEACHER *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEM * A TEACHER</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OPERATING SYSTEM * A TEACHER *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OPERATING SYSTEM * A TEACHER</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ OPERATING SYSTEM A * TEACHER *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEM A * TEACHER</pattern>
+
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OPERATING SYSTEM A * TEACHER *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OPERATING SYSTEM A * TEACHER</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A TEACHER * OPERATING SYSTEM *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A TEACHER * OPERATING SYSTEM</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * TEACHER * OPERATING SYSTEM *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * TEACHER * OPERATING SYSTEM</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A TEACHER OPERATING SYSTEM *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A TEACHER OPERATING SYSTEM</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * TEACHER OPERATING SYSTEM *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * TEACHER OPERATING SYSTEM</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A OPERATING SYSTEM TEACHER *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A OPERATING SYSTEM TEACHER</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * OPERATING SYSTEM TEACHER *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * OPERATING SYSTEM TEACHER</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ FACULTY * OPERATING SYSTEM * A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * OPERATING SYSTEM * A</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * OPERATING SYSTEM * A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * OPERATING SYSTEM * A</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * OPERATING SYSTEM A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * OPERATING SYSTEM A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY OPERATING SYSTEM * A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY OPERATING SYSTEM * A</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY OPERATING SYSTEM * A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY OPERATING SYSTEM * A</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY OPERATING SYSTEM A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY OPERATING SYSTEM A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY * A * OPERATING SYSTEM *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY * A * OPERATING SYSTEM</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * A * OPERATING SYSTEM *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * A * OPERATING SYSTEM</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY A * OPERATING SYSTEM *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY A * OPERATING SYSTEM</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY A * OPERATING SYSTEM *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY A * OPERATING SYSTEM</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * A OPERATING SYSTEM *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * A OPERATING SYSTEM</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * A OPERATING SYSTEM *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * A OPERATING SYSTEM</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OPERATING SYSTEM FACULTY * A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEM FACULTY * A</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OPERATING SYSTEM FACULTY * A</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEM FACULTY A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OPERATING SYSTEM FACULTY A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEM * A FACULTY *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEM * A FACULTY</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OPERATING SYSTEM * A FACULTY *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OPERATING SYSTEM * A FACULTY</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ OPERATING SYSTEM A * FACULTY *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEM A * FACULTY</pattern>
+
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OPERATING SYSTEM A * FACULTY *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OPERATING SYSTEM A * FACULTY</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A FACULTY * OPERATING SYSTEM *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A FACULTY * OPERATING SYSTEM</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * FACULTY * OPERATING SYSTEM *</pattern>
+	<template><srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * FACULTY * OPERATING SYSTEM</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A FACULTY OPERATING SYSTEM *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A FACULTY OPERATING SYSTEM</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * FACULTY OPERATING SYSTEM *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * FACULTY OPERATING SYSTEM</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A OPERATING SYSTEM FACULTY *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A OPERATING SYSTEM FACULTY</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * OPERATING SYSTEM FACULTY *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * OPERATING SYSTEM FACULTY</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ TEACHES OPERATING SYSTEM * A</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES OPERATING SYSTEM A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHES * A OPERATING SYSTEM *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES * A OPERATING SYSTEM</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ TEACHES A * OPERATING SYSTEM *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES A * OPERATING SYSTEM</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEM * A * TAUGHT *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OPERATING SYSTEM * A * TAUGHT *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEM A * TAUGHT *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OPERATING SYSTEM A * TAUGHT *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEM * A TAUGHT *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OPERATING SYSTEM * A TAUGHT *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * OPERATING SYSTEM * A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * OPERATING SYSTEM * A</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * OPERATING SYSTEM A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES OPERATING SYSTEM * A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES OPERATING SYSTEM * A</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES OPERATING SYSTEM A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * OS * A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * OS * A</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * OS * A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * OS * A</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * OS A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * OS A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR OS * A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR OS * A</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR OS * A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR OS * A</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR OS A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR OS A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR * A * OS *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR * A * OS</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * A * OS *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * A * OS</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR A * OS *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR A * OS</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR A * OS *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR A * OS</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * A OS *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * A OS</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * A OS *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * A OS</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OS PROFESSOR * A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OS PROFESSOR * A</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OS PROFESSOR * A</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OS PROFESSOR A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OS PROFESSOR A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OS * A PROFESSOR *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OS * A PROFESSOR</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OS * A PROFESSOR *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OS * A PROFESSOR</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ OS A * PROFESSOR *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OS A * PROFESSOR</pattern>
+
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OS A * PROFESSOR *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OS A * PROFESSOR</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A PROFESSOR * OS *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROFESSOR * OS</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROFESSOR * OS *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROFESSOR * OS</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROFESSOR OS *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROFESSOR OS</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * PROFESSOR OS *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROFESSOR OS</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A OS PROFESSOR *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A OS PROFESSOR</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * OS PROFESSOR *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * OS PROFESSOR</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * OS * A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * OS * A</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * OS * A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * OS * A</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * OS A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * OS A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF OS * A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF OS * A</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF OS * A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF OS * A</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF OS A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF OS A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF * A * OS *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF * A * OS</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * A * OS *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * A * OS</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF A * OS *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF A * OS</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF A * OS *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF A * OS</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * A OS *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * A OS</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * A OS *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * A OS</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OS PROF * A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OS PROF * A</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OS PROF * A</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OS PROF A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OS PROF A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OS * A PROF *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OS * A PROF</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OS * A PROF *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OS * A PROF</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ OS A * PROF *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OS A * PROF</pattern>
+
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OS A * PROF *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OS A * PROF</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A PROF * OS *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROF * OS</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROF * OS *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROF * OS</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROF OS *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROF OS</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * PROF OS *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROF OS</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A OS PROF *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A OS PROF</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * OS PROF *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * OS PROF</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * OS * A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * OS * A</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * OS * A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * OS * A</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * OS A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * OS A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER OS * A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER OS * A</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER OS * A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER OS * A</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER OS A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER OS A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER * A * OS *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER * A * OS</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * A * OS *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * A * OS</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER A * OS *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER A * OS</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER A * OS *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER A * OS</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * A OS *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * A OS</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * A OS *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * A OS</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OS LECTURER * A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OS LECTURER * A</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OS LECTURER * A</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OS LECTURER A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OS LECTURER A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OS * A LECTURER *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OS * A LECTURER</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OS * A LECTURER *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OS * A LECTURER</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ OS A * LECTURER *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OS A * LECTURER</pattern>
+
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OS A * LECTURER *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OS A * LECTURER</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A LECTURER * OS *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECTURER * OS</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECTURER * OS *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECTURER * OS</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECTURER OS *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECTURER OS</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * LECTURER OS *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECTURER OS</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A OS LECTURER *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A OS LECTURER</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * OS LECTURER *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * OS LECTURER</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * OS * A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * OS * A</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * OS * A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * OS * A</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * OS A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * OS A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT OS * A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT OS * A</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT OS * A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT OS * A</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT OS A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT OS A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT * A * OS *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT * A * OS</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * A * OS *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * A * OS</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT A * OS *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT A * OS</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT A * OS *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT A * OS</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * A OS *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * A OS</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * A OS *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * A OS</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OS LECT * A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OS LECT * A</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OS LECT * A</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OS LECT A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OS LECT A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OS * A LECT *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OS * A LECT</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OS * A LECT *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OS * A LECT</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ OS A * LECT *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OS A * LECT</pattern>
+
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OS A * LECT *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OS A * LECT</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A LECT * OS *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECT * OS</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECT * OS *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECT * OS</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECT OS *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECT OS</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * LECT OS *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECT OS</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A OS LECT *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A OS LECT</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * OS LECT *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * OS LECT</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * OS * A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * OS * A</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * OS * A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * OS * A</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * OS A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * OS A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER OS * A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER OS * A</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER OS * A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER OS * A</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER OS A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER OS A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER * A * OS *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER * A * OS</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * A * OS *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * A * OS</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER A * OS *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER A * OS</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER A * OS *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER A * OS</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * A OS *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * A OS</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * A OS *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * A OS</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OS TEACHER * A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OS TEACHER * A</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OS TEACHER * A</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OS TEACHER A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OS TEACHER A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OS * A TEACHER *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OS * A TEACHER</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OS * A TEACHER *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OS * A TEACHER</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ OS A * TEACHER *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OS A * TEACHER</pattern>
+
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OS A * TEACHER *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OS A * TEACHER</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A TEACHER * OS *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A TEACHER * OS</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * TEACHER * OS *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * TEACHER * OS</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A TEACHER OS *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A TEACHER OS</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * TEACHER OS *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * TEACHER OS</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A OS TEACHER *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A OS TEACHER</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * OS TEACHER *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * OS TEACHER</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ FACULTY * OS * A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * OS * A</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * OS * A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * OS * A</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * OS A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * OS A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY OS * A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY OS * A</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY OS * A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY OS * A</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY OS A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY OS A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY * A * OS *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY * A * OS</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * A * OS *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * A * OS</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY A * OS *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY A * OS</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY A * OS *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY A * OS</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * A OS *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * A OS</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * A OS *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * A OS</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OS FACULTY * A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OS FACULTY * A</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OS FACULTY * A</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OS FACULTY A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OS FACULTY A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OS * A FACULTY *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OS * A FACULTY</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OS * A FACULTY *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OS * A FACULTY</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ OS A * FACULTY *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OS A * FACULTY</pattern>
+
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OS A * FACULTY *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OS A * FACULTY</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A FACULTY * OS *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A FACULTY * OS</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * FACULTY * OS *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * FACULTY * OS</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A FACULTY OS *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A FACULTY OS</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * FACULTY OS *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * FACULTY OS</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A OS FACULTY *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A OS FACULTY</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * OS FACULTY *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * OS FACULTY</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ TEACHES OS * A</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES OS A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHES * A OS *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES * A OS</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ TEACHES A * OS *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES A * OS</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OS * A * TAUGHT *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OS * A * TAUGHT *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OS A * TAUGHT *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OS A * TAUGHT *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OS * A TAUGHT *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>OS * A TAUGHT *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * OS * A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * OS * A</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * OS A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES OS * A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES OS * A</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES OS A *</pattern>
+	<template>
+		<srai>OSA</srai>
+	</template>
+</category>
+
+
+</aiml>

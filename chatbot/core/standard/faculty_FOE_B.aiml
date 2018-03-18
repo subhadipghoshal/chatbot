@@ -1,0 +1,11418 @@
+<aiml version="1.0.1" encoding="UTF-8">
+
+<category>
+	<pattern>ECOB</pattern>
+	<template>
+		<random>
+			<li>Mrs. Vishakha Domodhar Bhandarkar teaches FUNDAMENTALS OF ECONOMICS</li>
+			<li>Mrs. Vishakha Domodhar Bhandarkar</li>
+			<li>FUNDAMENTALS OF ECONOMICS is taught by Mrs. Vishakha Domodhar Bhandarkar</li>
+		</random>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR * ECONOMICS * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * ECONOMICS * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * ECONOMICS * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * ECONOMICS * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * ECONOMICS B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * ECONOMICS B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR ECONOMICS * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR ECONOMICS * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR ECONOMICS * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR ECONOMICS * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR ECONOMICS B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR ECONOMICS B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR * B * ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR * B * ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * B * ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * B * ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR B * ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR B * ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR B * ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR B * ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * B ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * B ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * B ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * B ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ ECONOMICS PROFESSOR * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECONOMICS PROFESSOR * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ECONOMICS PROFESSOR * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECONOMICS PROFESSOR B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ECONOMICS PROFESSOR B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECONOMICS * B PROFESSOR *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECONOMICS * B PROFESSOR</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ECONOMICS * B PROFESSOR *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ECONOMICS * B PROFESSOR</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ ECONOMICS B * PROFESSOR *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECONOMICS B * PROFESSOR</pattern>
+
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ECONOMICS B * PROFESSOR *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ECONOMICS B * PROFESSOR</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROFESSOR * ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROFESSOR * ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR * ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR * ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROFESSOR ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROFESSOR ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * PROFESSOR ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B ECONOMICS PROFESSOR *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B ECONOMICS PROFESSOR</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * ECONOMICS PROFESSOR *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * ECONOMICS PROFESSOR</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * ECONOMICS * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * ECONOMICS * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * ECONOMICS * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * ECONOMICS * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * ECONOMICS B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * ECONOMICS B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF ECONOMICS * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF ECONOMICS * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF ECONOMICS * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF ECONOMICS * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF ECONOMICS B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF ECONOMICS B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF * B * ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF * B * ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * B * ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * B * ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF B * ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF B * ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF B * ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF B * ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * B ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * B ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * B ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * B ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ ECONOMICS PROF * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECONOMICS PROF * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ECONOMICS PROF * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECONOMICS PROF B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ECONOMICS PROF B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECONOMICS * B PROF *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECONOMICS * B PROF</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ECONOMICS * B PROF *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ECONOMICS * B PROF</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ ECONOMICS B * PROF *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECONOMICS B * PROF</pattern>
+
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ECONOMICS B * PROF *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ECONOMICS B * PROF</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROF * ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROF * ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF * ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF * ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROF ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * PROF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B ECONOMICS PROF *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B ECONOMICS PROF</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * ECONOMICS PROF *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * ECONOMICS PROF</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * ECONOMICS * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * ECONOMICS * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * ECONOMICS * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * ECONOMICS * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * ECONOMICS B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * ECONOMICS B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER ECONOMICS * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER ECONOMICS * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER ECONOMICS * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER ECONOMICS * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER ECONOMICS B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER ECONOMICS B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER * B * ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER * B * ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * B * ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * B * ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER B * ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER B * ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER B * ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER B * ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * B ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * B ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * B ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * B ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ ECONOMICS LECTURER * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECONOMICS LECTURER * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ECONOMICS LECTURER * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECONOMICS LECTURER B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ECONOMICS LECTURER B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECONOMICS * B LECTURER *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECONOMICS * B LECTURER</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ECONOMICS * B LECTURER *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ECONOMICS * B LECTURER</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ ECONOMICS B * LECTURER *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECONOMICS B * LECTURER</pattern>
+
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ECONOMICS B * LECTURER *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ECONOMICS B * LECTURER</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LECTURER * ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECTURER * ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER * ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER * ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECTURER ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECTURER ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * LECTURER ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B ECONOMICS LECTURER *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B ECONOMICS LECTURER</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * ECONOMICS LECTURER *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * ECONOMICS LECTURER</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * ECONOMICS * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * ECONOMICS * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * ECONOMICS * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * ECONOMICS * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * ECONOMICS B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * ECONOMICS B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT ECONOMICS * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT ECONOMICS * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT ECONOMICS * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT ECONOMICS * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT ECONOMICS B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT ECONOMICS B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT * B * ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT * B * ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * B * ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * B * ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT B * ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT B * ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT B * ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT B * ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * B ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * B ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * B ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * B ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ ECONOMICS LECT * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECONOMICS LECT * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ECONOMICS LECT * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECONOMICS LECT B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ECONOMICS LECT B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECONOMICS * B LECT *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECONOMICS * B LECT</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ECONOMICS * B LECT *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ECONOMICS * B LECT</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ ECONOMICS B * LECT *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECONOMICS B * LECT</pattern>
+
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ECONOMICS B * LECT *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ECONOMICS B * LECT</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LECT * ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECT * ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT * ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT * ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECT ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECT ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * LECT ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B ECONOMICS LECT *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B ECONOMICS LECT</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * ECONOMICS LECT *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * ECONOMICS LECT</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * ECONOMICS * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * ECONOMICS * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * ECONOMICS * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * ECONOMICS * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * ECONOMICS B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * ECONOMICS B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER ECONOMICS * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER ECONOMICS * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER ECONOMICS * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER ECONOMICS * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER ECONOMICS B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER ECONOMICS B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER * B * ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER * B * ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * B * ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * B * ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER B * ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER B * ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER B * ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER B * ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * B ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * B ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * B ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * B ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ ECONOMICS TEACHER * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECONOMICS TEACHER * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ECONOMICS TEACHER * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECONOMICS TEACHER B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ECONOMICS TEACHER B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECONOMICS * B TEACHER *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECONOMICS * B TEACHER</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ECONOMICS * B TEACHER *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ECONOMICS * B TEACHER</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ ECONOMICS B * TEACHER *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECONOMICS B * TEACHER</pattern>
+
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ECONOMICS B * TEACHER *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ECONOMICS B * TEACHER</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B TEACHER * ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B TEACHER * ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER * ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER * ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B TEACHER ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B TEACHER ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * TEACHER ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B ECONOMICS TEACHER *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B ECONOMICS TEACHER</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * ECONOMICS TEACHER *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * ECONOMICS TEACHER</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ FACULTY * ECONOMICS * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * ECONOMICS * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * ECONOMICS * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * ECONOMICS * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * ECONOMICS B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * ECONOMICS B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY ECONOMICS * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY ECONOMICS * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY ECONOMICS * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY ECONOMICS * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY ECONOMICS B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY ECONOMICS B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY * B * ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY * B * ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * B * ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * B * ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY B * ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY B * ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY B * ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY B * ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * B ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * B ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * B ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * B ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ ECONOMICS FACULTY * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECONOMICS FACULTY * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ECONOMICS FACULTY * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECONOMICS FACULTY B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ECONOMICS FACULTY B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECONOMICS * B FACULTY *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECONOMICS * B FACULTY</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ECONOMICS * B FACULTY *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ECONOMICS * B FACULTY</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ ECONOMICS B * FACULTY *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECONOMICS B * FACULTY</pattern>
+
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ECONOMICS B * FACULTY *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ECONOMICS B * FACULTY</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B FACULTY * ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B FACULTY * ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY * ECONOMICS *</pattern>
+	<template><srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY * ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B FACULTY ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B FACULTY ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * FACULTY ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B ECONOMICS FACULTY *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B ECONOMICS FACULTY</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * ECONOMICS FACULTY *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * ECONOMICS FACULTY</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ TEACHES ECONOMICS * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES ECONOMICS B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHES * B ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES * B ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ TEACHES B * ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES B * ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECONOMICS * B * TAUGHT *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ECONOMICS * B * TAUGHT *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECONOMICS B * TAUGHT *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ECONOMICS B * TAUGHT *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECONOMICS * B TAUGHT *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ECONOMICS * B TAUGHT *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * ECONOMICS * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * ECONOMICS * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * ECONOMICS B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES ECONOMICS * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES ECONOMICS * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES ECONOMICS B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR * FUNDAMENTALS OF ECONOMICS * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * FUNDAMENTALS OF ECONOMICS * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * FUNDAMENTALS OF ECONOMICS * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * FUNDAMENTALS OF ECONOMICS * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * FUNDAMENTALS OF ECONOMICS B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * FUNDAMENTALS OF ECONOMICS B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR FUNDAMENTALS OF ECONOMICS * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR FUNDAMENTALS OF ECONOMICS * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR FUNDAMENTALS OF ECONOMICS * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR FUNDAMENTALS OF ECONOMICS * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR FUNDAMENTALS OF ECONOMICS B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR FUNDAMENTALS OF ECONOMICS B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR * B * FUNDAMENTALS OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR * B * FUNDAMENTALS OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * B * FUNDAMENTALS OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * B * FUNDAMENTALS OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR B * FUNDAMENTALS OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR B * FUNDAMENTALS OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR B * FUNDAMENTALS OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR B * FUNDAMENTALS OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * B FUNDAMENTALS OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * B FUNDAMENTALS OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * B FUNDAMENTALS OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * B FUNDAMENTALS OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FUNDAMENTALS OF ECONOMICS PROFESSOR * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTALS OF ECONOMICS PROFESSOR * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FUNDAMENTALS OF ECONOMICS PROFESSOR * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTALS OF ECONOMICS PROFESSOR B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FUNDAMENTALS OF ECONOMICS PROFESSOR B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTALS OF ECONOMICS * B PROFESSOR *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTALS OF ECONOMICS * B PROFESSOR</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTALS OF ECONOMICS * B PROFESSOR *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTALS OF ECONOMICS * B PROFESSOR</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ FUNDAMENTALS OF ECONOMICS B * PROFESSOR *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTALS OF ECONOMICS B * PROFESSOR</pattern>
+
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTALS OF ECONOMICS B * PROFESSOR *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTALS OF ECONOMICS B * PROFESSOR</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROFESSOR * FUNDAMENTALS OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROFESSOR * FUNDAMENTALS OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR * FUNDAMENTALS OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR * FUNDAMENTALS OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROFESSOR FUNDAMENTALS OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROFESSOR FUNDAMENTALS OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * PROFESSOR FUNDAMENTALS OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR FUNDAMENTALS OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B FUNDAMENTALS OF ECONOMICS PROFESSOR *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B FUNDAMENTALS OF ECONOMICS PROFESSOR</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * FUNDAMENTALS OF ECONOMICS PROFESSOR *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FUNDAMENTALS OF ECONOMICS PROFESSOR</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * FUNDAMENTALS OF ECONOMICS * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * FUNDAMENTALS OF ECONOMICS * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * FUNDAMENTALS OF ECONOMICS * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * FUNDAMENTALS OF ECONOMICS * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * FUNDAMENTALS OF ECONOMICS B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * FUNDAMENTALS OF ECONOMICS B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF FUNDAMENTALS OF ECONOMICS * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF FUNDAMENTALS OF ECONOMICS * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF FUNDAMENTALS OF ECONOMICS * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF FUNDAMENTALS OF ECONOMICS * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF FUNDAMENTALS OF ECONOMICS B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF FUNDAMENTALS OF ECONOMICS B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF * B * FUNDAMENTALS OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF * B * FUNDAMENTALS OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * B * FUNDAMENTALS OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * B * FUNDAMENTALS OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF B * FUNDAMENTALS OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF B * FUNDAMENTALS OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF B * FUNDAMENTALS OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF B * FUNDAMENTALS OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * B FUNDAMENTALS OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * B FUNDAMENTALS OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * B FUNDAMENTALS OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * B FUNDAMENTALS OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FUNDAMENTALS OF ECONOMICS PROF * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTALS OF ECONOMICS PROF * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FUNDAMENTALS OF ECONOMICS PROF * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTALS OF ECONOMICS PROF B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FUNDAMENTALS OF ECONOMICS PROF B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTALS OF ECONOMICS * B PROF *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTALS OF ECONOMICS * B PROF</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTALS OF ECONOMICS * B PROF *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTALS OF ECONOMICS * B PROF</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ FUNDAMENTALS OF ECONOMICS B * PROF *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTALS OF ECONOMICS B * PROF</pattern>
+
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTALS OF ECONOMICS B * PROF *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTALS OF ECONOMICS B * PROF</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROF * FUNDAMENTALS OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROF * FUNDAMENTALS OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF * FUNDAMENTALS OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF * FUNDAMENTALS OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROF FUNDAMENTALS OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROF FUNDAMENTALS OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * PROF FUNDAMENTALS OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF FUNDAMENTALS OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B FUNDAMENTALS OF ECONOMICS PROF *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B FUNDAMENTALS OF ECONOMICS PROF</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * FUNDAMENTALS OF ECONOMICS PROF *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * FUNDAMENTALS OF ECONOMICS PROF</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * FUNDAMENTALS OF ECONOMICS * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * FUNDAMENTALS OF ECONOMICS * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * FUNDAMENTALS OF ECONOMICS * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * FUNDAMENTALS OF ECONOMICS * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * FUNDAMENTALS OF ECONOMICS B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * FUNDAMENTALS OF ECONOMICS B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER FUNDAMENTALS OF ECONOMICS * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER FUNDAMENTALS OF ECONOMICS * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER FUNDAMENTALS OF ECONOMICS * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER FUNDAMENTALS OF ECONOMICS * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER FUNDAMENTALS OF ECONOMICS B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER FUNDAMENTALS OF ECONOMICS B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER * B * FUNDAMENTALS OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER * B * FUNDAMENTALS OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * B * FUNDAMENTALS OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * B * FUNDAMENTALS OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER B * FUNDAMENTALS OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER B * FUNDAMENTALS OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER B * FUNDAMENTALS OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER B * FUNDAMENTALS OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * B FUNDAMENTALS OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * B FUNDAMENTALS OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * B FUNDAMENTALS OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * B FUNDAMENTALS OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FUNDAMENTALS OF ECONOMICS LECTURER * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTALS OF ECONOMICS LECTURER * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FUNDAMENTALS OF ECONOMICS LECTURER * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTALS OF ECONOMICS LECTURER B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FUNDAMENTALS OF ECONOMICS LECTURER B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTALS OF ECONOMICS * B LECTURER *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTALS OF ECONOMICS * B LECTURER</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTALS OF ECONOMICS * B LECTURER *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTALS OF ECONOMICS * B LECTURER</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ FUNDAMENTALS OF ECONOMICS B * LECTURER *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTALS OF ECONOMICS B * LECTURER</pattern>
+
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTALS OF ECONOMICS B * LECTURER *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTALS OF ECONOMICS B * LECTURER</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LECTURER * FUNDAMENTALS OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECTURER * FUNDAMENTALS OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER * FUNDAMENTALS OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER * FUNDAMENTALS OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECTURER FUNDAMENTALS OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECTURER FUNDAMENTALS OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * LECTURER FUNDAMENTALS OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER FUNDAMENTALS OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B FUNDAMENTALS OF ECONOMICS LECTURER *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B FUNDAMENTALS OF ECONOMICS LECTURER</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * FUNDAMENTALS OF ECONOMICS LECTURER *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FUNDAMENTALS OF ECONOMICS LECTURER</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * FUNDAMENTALS OF ECONOMICS * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * FUNDAMENTALS OF ECONOMICS * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * FUNDAMENTALS OF ECONOMICS * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * FUNDAMENTALS OF ECONOMICS * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * FUNDAMENTALS OF ECONOMICS B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * FUNDAMENTALS OF ECONOMICS B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT FUNDAMENTALS OF ECONOMICS * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT FUNDAMENTALS OF ECONOMICS * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT FUNDAMENTALS OF ECONOMICS * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT FUNDAMENTALS OF ECONOMICS * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT FUNDAMENTALS OF ECONOMICS B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT FUNDAMENTALS OF ECONOMICS B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT * B * FUNDAMENTALS OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT * B * FUNDAMENTALS OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * B * FUNDAMENTALS OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * B * FUNDAMENTALS OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT B * FUNDAMENTALS OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT B * FUNDAMENTALS OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT B * FUNDAMENTALS OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT B * FUNDAMENTALS OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * B FUNDAMENTALS OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * B FUNDAMENTALS OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * B FUNDAMENTALS OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * B FUNDAMENTALS OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FUNDAMENTALS OF ECONOMICS LECT * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTALS OF ECONOMICS LECT * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FUNDAMENTALS OF ECONOMICS LECT * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTALS OF ECONOMICS LECT B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FUNDAMENTALS OF ECONOMICS LECT B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTALS OF ECONOMICS * B LECT *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTALS OF ECONOMICS * B LECT</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTALS OF ECONOMICS * B LECT *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTALS OF ECONOMICS * B LECT</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ FUNDAMENTALS OF ECONOMICS B * LECT *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTALS OF ECONOMICS B * LECT</pattern>
+
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTALS OF ECONOMICS B * LECT *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTALS OF ECONOMICS B * LECT</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LECT * FUNDAMENTALS OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECT * FUNDAMENTALS OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT * FUNDAMENTALS OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT * FUNDAMENTALS OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECT FUNDAMENTALS OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECT FUNDAMENTALS OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * LECT FUNDAMENTALS OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT FUNDAMENTALS OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B FUNDAMENTALS OF ECONOMICS LECT *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B FUNDAMENTALS OF ECONOMICS LECT</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * FUNDAMENTALS OF ECONOMICS LECT *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FUNDAMENTALS OF ECONOMICS LECT</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * FUNDAMENTALS OF ECONOMICS * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * FUNDAMENTALS OF ECONOMICS * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * FUNDAMENTALS OF ECONOMICS * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * FUNDAMENTALS OF ECONOMICS * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * FUNDAMENTALS OF ECONOMICS B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * FUNDAMENTALS OF ECONOMICS B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER FUNDAMENTALS OF ECONOMICS * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER FUNDAMENTALS OF ECONOMICS * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER FUNDAMENTALS OF ECONOMICS * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER FUNDAMENTALS OF ECONOMICS * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER FUNDAMENTALS OF ECONOMICS B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER FUNDAMENTALS OF ECONOMICS B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER * B * FUNDAMENTALS OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER * B * FUNDAMENTALS OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * B * FUNDAMENTALS OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * B * FUNDAMENTALS OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER B * FUNDAMENTALS OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER B * FUNDAMENTALS OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER B * FUNDAMENTALS OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER B * FUNDAMENTALS OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * B FUNDAMENTALS OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * B FUNDAMENTALS OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * B FUNDAMENTALS OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * B FUNDAMENTALS OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FUNDAMENTALS OF ECONOMICS TEACHER * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTALS OF ECONOMICS TEACHER * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FUNDAMENTALS OF ECONOMICS TEACHER * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTALS OF ECONOMICS TEACHER B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FUNDAMENTALS OF ECONOMICS TEACHER B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTALS OF ECONOMICS * B TEACHER *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTALS OF ECONOMICS * B TEACHER</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTALS OF ECONOMICS * B TEACHER *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTALS OF ECONOMICS * B TEACHER</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ FUNDAMENTALS OF ECONOMICS B * TEACHER *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTALS OF ECONOMICS B * TEACHER</pattern>
+
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTALS OF ECONOMICS B * TEACHER *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTALS OF ECONOMICS B * TEACHER</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B TEACHER * FUNDAMENTALS OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B TEACHER * FUNDAMENTALS OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER * FUNDAMENTALS OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER * FUNDAMENTALS OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B TEACHER FUNDAMENTALS OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B TEACHER FUNDAMENTALS OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * TEACHER FUNDAMENTALS OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER FUNDAMENTALS OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B FUNDAMENTALS OF ECONOMICS TEACHER *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B FUNDAMENTALS OF ECONOMICS TEACHER</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * FUNDAMENTALS OF ECONOMICS TEACHER *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FUNDAMENTALS OF ECONOMICS TEACHER</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ FACULTY * FUNDAMENTALS OF ECONOMICS * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * FUNDAMENTALS OF ECONOMICS * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * FUNDAMENTALS OF ECONOMICS * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * FUNDAMENTALS OF ECONOMICS * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * FUNDAMENTALS OF ECONOMICS B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * FUNDAMENTALS OF ECONOMICS B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY FUNDAMENTALS OF ECONOMICS * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY FUNDAMENTALS OF ECONOMICS * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY FUNDAMENTALS OF ECONOMICS * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY FUNDAMENTALS OF ECONOMICS * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY FUNDAMENTALS OF ECONOMICS B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY FUNDAMENTALS OF ECONOMICS B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY * B * FUNDAMENTALS OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY * B * FUNDAMENTALS OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * B * FUNDAMENTALS OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * B * FUNDAMENTALS OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY B * FUNDAMENTALS OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY B * FUNDAMENTALS OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY B * FUNDAMENTALS OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY B * FUNDAMENTALS OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * B FUNDAMENTALS OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * B FUNDAMENTALS OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * B FUNDAMENTALS OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * B FUNDAMENTALS OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FUNDAMENTALS OF ECONOMICS FACULTY * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTALS OF ECONOMICS FACULTY * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FUNDAMENTALS OF ECONOMICS FACULTY * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTALS OF ECONOMICS FACULTY B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FUNDAMENTALS OF ECONOMICS FACULTY B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTALS OF ECONOMICS * B FACULTY *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTALS OF ECONOMICS * B FACULTY</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTALS OF ECONOMICS * B FACULTY *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTALS OF ECONOMICS * B FACULTY</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ FUNDAMENTALS OF ECONOMICS B * FACULTY *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTALS OF ECONOMICS B * FACULTY</pattern>
+
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTALS OF ECONOMICS B * FACULTY *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTALS OF ECONOMICS B * FACULTY</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B FACULTY * FUNDAMENTALS OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B FACULTY * FUNDAMENTALS OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY * FUNDAMENTALS OF ECONOMICS *</pattern>
+	<template><srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY * FUNDAMENTALS OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B FACULTY FUNDAMENTALS OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B FACULTY FUNDAMENTALS OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * FACULTY FUNDAMENTALS OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY FUNDAMENTALS OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B FUNDAMENTALS OF ECONOMICS FACULTY *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B FUNDAMENTALS OF ECONOMICS FACULTY</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * FUNDAMENTALS OF ECONOMICS FACULTY *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FUNDAMENTALS OF ECONOMICS FACULTY</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ TEACHES FUNDAMENTALS OF ECONOMICS * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES FUNDAMENTALS OF ECONOMICS B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHES * B FUNDAMENTALS OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES * B FUNDAMENTALS OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ TEACHES B * FUNDAMENTALS OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES B * FUNDAMENTALS OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTALS OF ECONOMICS * B * TAUGHT *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTALS OF ECONOMICS * B * TAUGHT *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTALS OF ECONOMICS B * TAUGHT *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTALS OF ECONOMICS B * TAUGHT *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTALS OF ECONOMICS * B TAUGHT *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FUNDAMENTALS OF ECONOMICS * B TAUGHT *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * FUNDAMENTALS OF ECONOMICS * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * FUNDAMENTALS OF ECONOMICS * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * FUNDAMENTALS OF ECONOMICS B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES FUNDAMENTALS OF ECONOMICS * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES FUNDAMENTALS OF ECONOMICS * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES FUNDAMENTALS OF ECONOMICS B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR * FUNDAMENTAL OF ECONOMICS * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * FUNDAMENTAL OF ECONOMICS * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * FUNDAMENTAL OF ECONOMICS * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * FUNDAMENTAL OF ECONOMICS * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * FUNDAMENTAL OF ECONOMICS B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * FUNDAMENTAL OF ECONOMICS B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR FUNDAMENTAL OF ECONOMICS * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR FUNDAMENTAL OF ECONOMICS * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR FUNDAMENTAL OF ECONOMICS * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR FUNDAMENTAL OF ECONOMICS * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR FUNDAMENTAL OF ECONOMICS B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR FUNDAMENTAL OF ECONOMICS B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR * B * FUNDAMENTAL OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR * B * FUNDAMENTAL OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * B * FUNDAMENTAL OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * B * FUNDAMENTAL OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR B * FUNDAMENTAL OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR B * FUNDAMENTAL OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR B * FUNDAMENTAL OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR B * FUNDAMENTAL OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * B FUNDAMENTAL OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * B FUNDAMENTAL OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * B FUNDAMENTAL OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * B FUNDAMENTAL OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FUNDAMENTAL OF ECONOMICS PROFESSOR * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTAL OF ECONOMICS PROFESSOR * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FUNDAMENTAL OF ECONOMICS PROFESSOR * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTAL OF ECONOMICS PROFESSOR B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FUNDAMENTAL OF ECONOMICS PROFESSOR B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTAL OF ECONOMICS * B PROFESSOR *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTAL OF ECONOMICS * B PROFESSOR</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTAL OF ECONOMICS * B PROFESSOR *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTAL OF ECONOMICS * B PROFESSOR</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ FUNDAMENTAL OF ECONOMICS B * PROFESSOR *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTAL OF ECONOMICS B * PROFESSOR</pattern>
+
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTAL OF ECONOMICS B * PROFESSOR *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTAL OF ECONOMICS B * PROFESSOR</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROFESSOR * FUNDAMENTAL OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROFESSOR * FUNDAMENTAL OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR * FUNDAMENTAL OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR * FUNDAMENTAL OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROFESSOR FUNDAMENTAL OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROFESSOR FUNDAMENTAL OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * PROFESSOR FUNDAMENTAL OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR FUNDAMENTAL OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B FUNDAMENTAL OF ECONOMICS PROFESSOR *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B FUNDAMENTAL OF ECONOMICS PROFESSOR</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * FUNDAMENTAL OF ECONOMICS PROFESSOR *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FUNDAMENTAL OF ECONOMICS PROFESSOR</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * FUNDAMENTAL OF ECONOMICS * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * FUNDAMENTAL OF ECONOMICS * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * FUNDAMENTAL OF ECONOMICS * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * FUNDAMENTAL OF ECONOMICS * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * FUNDAMENTAL OF ECONOMICS B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * FUNDAMENTAL OF ECONOMICS B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF FUNDAMENTAL OF ECONOMICS * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF FUNDAMENTAL OF ECONOMICS * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF FUNDAMENTAL OF ECONOMICS * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF FUNDAMENTAL OF ECONOMICS * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF FUNDAMENTAL OF ECONOMICS B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF FUNDAMENTAL OF ECONOMICS B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF * B * FUNDAMENTAL OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF * B * FUNDAMENTAL OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * B * FUNDAMENTAL OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * B * FUNDAMENTAL OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF B * FUNDAMENTAL OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF B * FUNDAMENTAL OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF B * FUNDAMENTAL OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF B * FUNDAMENTAL OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * B FUNDAMENTAL OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * B FUNDAMENTAL OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * B FUNDAMENTAL OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * B FUNDAMENTAL OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FUNDAMENTAL OF ECONOMICS PROF * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTAL OF ECONOMICS PROF * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FUNDAMENTAL OF ECONOMICS PROF * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTAL OF ECONOMICS PROF B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FUNDAMENTAL OF ECONOMICS PROF B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTAL OF ECONOMICS * B PROF *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTAL OF ECONOMICS * B PROF</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTAL OF ECONOMICS * B PROF *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTAL OF ECONOMICS * B PROF</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ FUNDAMENTAL OF ECONOMICS B * PROF *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTAL OF ECONOMICS B * PROF</pattern>
+
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTAL OF ECONOMICS B * PROF *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTAL OF ECONOMICS B * PROF</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROF * FUNDAMENTAL OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROF * FUNDAMENTAL OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF * FUNDAMENTAL OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF * FUNDAMENTAL OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROF FUNDAMENTAL OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROF FUNDAMENTAL OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * PROF FUNDAMENTAL OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF FUNDAMENTAL OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B FUNDAMENTAL OF ECONOMICS PROF *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B FUNDAMENTAL OF ECONOMICS PROF</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * FUNDAMENTAL OF ECONOMICS PROF *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * FUNDAMENTAL OF ECONOMICS PROF</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * FUNDAMENTAL OF ECONOMICS * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * FUNDAMENTAL OF ECONOMICS * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * FUNDAMENTAL OF ECONOMICS * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * FUNDAMENTAL OF ECONOMICS * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * FUNDAMENTAL OF ECONOMICS B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * FUNDAMENTAL OF ECONOMICS B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER FUNDAMENTAL OF ECONOMICS * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER FUNDAMENTAL OF ECONOMICS * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER FUNDAMENTAL OF ECONOMICS * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER FUNDAMENTAL OF ECONOMICS * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER FUNDAMENTAL OF ECONOMICS B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER FUNDAMENTAL OF ECONOMICS B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER * B * FUNDAMENTAL OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER * B * FUNDAMENTAL OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * B * FUNDAMENTAL OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * B * FUNDAMENTAL OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER B * FUNDAMENTAL OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER B * FUNDAMENTAL OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER B * FUNDAMENTAL OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER B * FUNDAMENTAL OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * B FUNDAMENTAL OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * B FUNDAMENTAL OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * B FUNDAMENTAL OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * B FUNDAMENTAL OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FUNDAMENTAL OF ECONOMICS LECTURER * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTAL OF ECONOMICS LECTURER * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FUNDAMENTAL OF ECONOMICS LECTURER * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTAL OF ECONOMICS LECTURER B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FUNDAMENTAL OF ECONOMICS LECTURER B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTAL OF ECONOMICS * B LECTURER *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTAL OF ECONOMICS * B LECTURER</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTAL OF ECONOMICS * B LECTURER *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTAL OF ECONOMICS * B LECTURER</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ FUNDAMENTAL OF ECONOMICS B * LECTURER *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTAL OF ECONOMICS B * LECTURER</pattern>
+
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTAL OF ECONOMICS B * LECTURER *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTAL OF ECONOMICS B * LECTURER</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LECTURER * FUNDAMENTAL OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECTURER * FUNDAMENTAL OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER * FUNDAMENTAL OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER * FUNDAMENTAL OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECTURER FUNDAMENTAL OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECTURER FUNDAMENTAL OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * LECTURER FUNDAMENTAL OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER FUNDAMENTAL OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B FUNDAMENTAL OF ECONOMICS LECTURER *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B FUNDAMENTAL OF ECONOMICS LECTURER</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * FUNDAMENTAL OF ECONOMICS LECTURER *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FUNDAMENTAL OF ECONOMICS LECTURER</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * FUNDAMENTAL OF ECONOMICS * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * FUNDAMENTAL OF ECONOMICS * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * FUNDAMENTAL OF ECONOMICS * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * FUNDAMENTAL OF ECONOMICS * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * FUNDAMENTAL OF ECONOMICS B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * FUNDAMENTAL OF ECONOMICS B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT FUNDAMENTAL OF ECONOMICS * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT FUNDAMENTAL OF ECONOMICS * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT FUNDAMENTAL OF ECONOMICS * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT FUNDAMENTAL OF ECONOMICS * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT FUNDAMENTAL OF ECONOMICS B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT FUNDAMENTAL OF ECONOMICS B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT * B * FUNDAMENTAL OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT * B * FUNDAMENTAL OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * B * FUNDAMENTAL OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * B * FUNDAMENTAL OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT B * FUNDAMENTAL OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT B * FUNDAMENTAL OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT B * FUNDAMENTAL OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT B * FUNDAMENTAL OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * B FUNDAMENTAL OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * B FUNDAMENTAL OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * B FUNDAMENTAL OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * B FUNDAMENTAL OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FUNDAMENTAL OF ECONOMICS LECT * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTAL OF ECONOMICS LECT * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FUNDAMENTAL OF ECONOMICS LECT * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTAL OF ECONOMICS LECT B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FUNDAMENTAL OF ECONOMICS LECT B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTAL OF ECONOMICS * B LECT *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTAL OF ECONOMICS * B LECT</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTAL OF ECONOMICS * B LECT *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTAL OF ECONOMICS * B LECT</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ FUNDAMENTAL OF ECONOMICS B * LECT *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTAL OF ECONOMICS B * LECT</pattern>
+
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTAL OF ECONOMICS B * LECT *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTAL OF ECONOMICS B * LECT</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LECT * FUNDAMENTAL OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECT * FUNDAMENTAL OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT * FUNDAMENTAL OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT * FUNDAMENTAL OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECT FUNDAMENTAL OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECT FUNDAMENTAL OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * LECT FUNDAMENTAL OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT FUNDAMENTAL OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B FUNDAMENTAL OF ECONOMICS LECT *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B FUNDAMENTAL OF ECONOMICS LECT</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * FUNDAMENTAL OF ECONOMICS LECT *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FUNDAMENTAL OF ECONOMICS LECT</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * FUNDAMENTAL OF ECONOMICS * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * FUNDAMENTAL OF ECONOMICS * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * FUNDAMENTAL OF ECONOMICS * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * FUNDAMENTAL OF ECONOMICS * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * FUNDAMENTAL OF ECONOMICS B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * FUNDAMENTAL OF ECONOMICS B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER FUNDAMENTAL OF ECONOMICS * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER FUNDAMENTAL OF ECONOMICS * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER FUNDAMENTAL OF ECONOMICS * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER FUNDAMENTAL OF ECONOMICS * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER FUNDAMENTAL OF ECONOMICS B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER FUNDAMENTAL OF ECONOMICS B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER * B * FUNDAMENTAL OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER * B * FUNDAMENTAL OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * B * FUNDAMENTAL OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * B * FUNDAMENTAL OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER B * FUNDAMENTAL OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER B * FUNDAMENTAL OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER B * FUNDAMENTAL OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER B * FUNDAMENTAL OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * B FUNDAMENTAL OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * B FUNDAMENTAL OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * B FUNDAMENTAL OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * B FUNDAMENTAL OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FUNDAMENTAL OF ECONOMICS TEACHER * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTAL OF ECONOMICS TEACHER * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FUNDAMENTAL OF ECONOMICS TEACHER * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTAL OF ECONOMICS TEACHER B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FUNDAMENTAL OF ECONOMICS TEACHER B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTAL OF ECONOMICS * B TEACHER *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTAL OF ECONOMICS * B TEACHER</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTAL OF ECONOMICS * B TEACHER *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTAL OF ECONOMICS * B TEACHER</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ FUNDAMENTAL OF ECONOMICS B * TEACHER *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTAL OF ECONOMICS B * TEACHER</pattern>
+
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTAL OF ECONOMICS B * TEACHER *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTAL OF ECONOMICS B * TEACHER</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B TEACHER * FUNDAMENTAL OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B TEACHER * FUNDAMENTAL OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER * FUNDAMENTAL OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER * FUNDAMENTAL OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B TEACHER FUNDAMENTAL OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B TEACHER FUNDAMENTAL OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * TEACHER FUNDAMENTAL OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER FUNDAMENTAL OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B FUNDAMENTAL OF ECONOMICS TEACHER *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B FUNDAMENTAL OF ECONOMICS TEACHER</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * FUNDAMENTAL OF ECONOMICS TEACHER *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FUNDAMENTAL OF ECONOMICS TEACHER</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ FACULTY * FUNDAMENTAL OF ECONOMICS * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * FUNDAMENTAL OF ECONOMICS * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * FUNDAMENTAL OF ECONOMICS * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * FUNDAMENTAL OF ECONOMICS * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * FUNDAMENTAL OF ECONOMICS B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * FUNDAMENTAL OF ECONOMICS B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY FUNDAMENTAL OF ECONOMICS * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY FUNDAMENTAL OF ECONOMICS * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY FUNDAMENTAL OF ECONOMICS * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY FUNDAMENTAL OF ECONOMICS * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY FUNDAMENTAL OF ECONOMICS B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY FUNDAMENTAL OF ECONOMICS B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY * B * FUNDAMENTAL OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY * B * FUNDAMENTAL OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * B * FUNDAMENTAL OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * B * FUNDAMENTAL OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY B * FUNDAMENTAL OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY B * FUNDAMENTAL OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY B * FUNDAMENTAL OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY B * FUNDAMENTAL OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * B FUNDAMENTAL OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * B FUNDAMENTAL OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * B FUNDAMENTAL OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * B FUNDAMENTAL OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FUNDAMENTAL OF ECONOMICS FACULTY * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTAL OF ECONOMICS FACULTY * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FUNDAMENTAL OF ECONOMICS FACULTY * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTAL OF ECONOMICS FACULTY B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FUNDAMENTAL OF ECONOMICS FACULTY B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTAL OF ECONOMICS * B FACULTY *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTAL OF ECONOMICS * B FACULTY</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTAL OF ECONOMICS * B FACULTY *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTAL OF ECONOMICS * B FACULTY</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ FUNDAMENTAL OF ECONOMICS B * FACULTY *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTAL OF ECONOMICS B * FACULTY</pattern>
+
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTAL OF ECONOMICS B * FACULTY *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTAL OF ECONOMICS B * FACULTY</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B FACULTY * FUNDAMENTAL OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B FACULTY * FUNDAMENTAL OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY * FUNDAMENTAL OF ECONOMICS *</pattern>
+	<template><srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY * FUNDAMENTAL OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B FACULTY FUNDAMENTAL OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B FACULTY FUNDAMENTAL OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * FACULTY FUNDAMENTAL OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY FUNDAMENTAL OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B FUNDAMENTAL OF ECONOMICS FACULTY *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B FUNDAMENTAL OF ECONOMICS FACULTY</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * FUNDAMENTAL OF ECONOMICS FACULTY *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FUNDAMENTAL OF ECONOMICS FACULTY</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ TEACHES FUNDAMENTAL OF ECONOMICS * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES FUNDAMENTAL OF ECONOMICS B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHES * B FUNDAMENTAL OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES * B FUNDAMENTAL OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ TEACHES B * FUNDAMENTAL OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES B * FUNDAMENTAL OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTAL OF ECONOMICS * B * TAUGHT *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTAL OF ECONOMICS * B * TAUGHT *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTAL OF ECONOMICS B * TAUGHT *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTAL OF ECONOMICS B * TAUGHT *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTAL OF ECONOMICS * B TAUGHT *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FUNDAMENTAL OF ECONOMICS * B TAUGHT *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * FUNDAMENTAL OF ECONOMICS * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * FUNDAMENTAL OF ECONOMICS * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * FUNDAMENTAL OF ECONOMICS B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES FUNDAMENTAL OF ECONOMICS * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES FUNDAMENTAL OF ECONOMICS * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES FUNDAMENTAL OF ECONOMICS B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * ECO * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * ECO * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * ECO * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * ECO * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * ECO B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * ECO B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR ECO * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR ECO * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR ECO * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR ECO * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR ECO B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR ECO B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR * B * ECO *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR * B * ECO</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * B * ECO *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * B * ECO</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR B * ECO *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR B * ECO</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR B * ECO *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR B * ECO</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * B ECO *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * B ECO</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * B ECO *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * B ECO</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ ECO PROFESSOR * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECO PROFESSOR * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ECO PROFESSOR * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECO PROFESSOR B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ECO PROFESSOR B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECO * B PROFESSOR *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECO * B PROFESSOR</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ECO * B PROFESSOR *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ECO * B PROFESSOR</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ ECO B * PROFESSOR *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECO B * PROFESSOR</pattern>
+
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ECO B * PROFESSOR *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ECO B * PROFESSOR</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROFESSOR * ECO *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROFESSOR * ECO</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR * ECO *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR * ECO</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROFESSOR ECO *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROFESSOR ECO</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * PROFESSOR ECO *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR ECO</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B ECO PROFESSOR *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B ECO PROFESSOR</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * ECO PROFESSOR *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * ECO PROFESSOR</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * ECO * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * ECO * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * ECO * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * ECO * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * ECO B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * ECO B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF ECO * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF ECO * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF ECO * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF ECO * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF ECO B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF ECO B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF * B * ECO *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF * B * ECO</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * B * ECO *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * B * ECO</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF B * ECO *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF B * ECO</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF B * ECO *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF B * ECO</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * B ECO *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * B ECO</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * B ECO *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * B ECO</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ ECO PROF * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECO PROF * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ECO PROF * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECO PROF B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ECO PROF B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECO * B PROF *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECO * B PROF</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ECO * B PROF *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ECO * B PROF</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ ECO B * PROF *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECO B * PROF</pattern>
+
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ECO B * PROF *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ECO B * PROF</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROF * ECO *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROF * ECO</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF * ECO *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF * ECO</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROF ECO *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROF ECO</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * PROF ECO *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF ECO</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B ECO PROF *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B ECO PROF</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * ECO PROF *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * ECO PROF</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * ECO * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * ECO * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * ECO * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * ECO * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * ECO B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * ECO B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER ECO * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER ECO * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER ECO * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER ECO * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER ECO B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER ECO B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER * B * ECO *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER * B * ECO</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * B * ECO *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * B * ECO</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER B * ECO *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER B * ECO</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER B * ECO *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER B * ECO</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * B ECO *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * B ECO</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * B ECO *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * B ECO</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ ECO LECTURER * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECO LECTURER * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ECO LECTURER * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECO LECTURER B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ECO LECTURER B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECO * B LECTURER *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECO * B LECTURER</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ECO * B LECTURER *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ECO * B LECTURER</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ ECO B * LECTURER *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECO B * LECTURER</pattern>
+
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ECO B * LECTURER *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ECO B * LECTURER</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LECTURER * ECO *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECTURER * ECO</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER * ECO *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER * ECO</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECTURER ECO *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECTURER ECO</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * LECTURER ECO *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER ECO</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B ECO LECTURER *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B ECO LECTURER</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * ECO LECTURER *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * ECO LECTURER</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * ECO * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * ECO * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * ECO * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * ECO * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * ECO B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * ECO B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT ECO * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT ECO * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT ECO * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT ECO * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT ECO B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT ECO B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT * B * ECO *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT * B * ECO</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * B * ECO *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * B * ECO</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT B * ECO *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT B * ECO</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT B * ECO *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT B * ECO</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * B ECO *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * B ECO</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * B ECO *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * B ECO</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ ECO LECT * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECO LECT * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ECO LECT * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECO LECT B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ECO LECT B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECO * B LECT *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECO * B LECT</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ECO * B LECT *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ECO * B LECT</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ ECO B * LECT *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECO B * LECT</pattern>
+
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ECO B * LECT *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ECO B * LECT</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LECT * ECO *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECT * ECO</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT * ECO *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT * ECO</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECT ECO *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECT ECO</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * LECT ECO *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT ECO</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B ECO LECT *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B ECO LECT</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * ECO LECT *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * ECO LECT</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * ECO * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * ECO * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * ECO * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * ECO * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * ECO B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * ECO B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER ECO * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER ECO * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER ECO * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER ECO * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER ECO B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER ECO B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER * B * ECO *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER * B * ECO</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * B * ECO *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * B * ECO</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER B * ECO *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER B * ECO</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER B * ECO *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER B * ECO</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * B ECO *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * B ECO</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * B ECO *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * B ECO</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ ECO TEACHER * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECO TEACHER * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ECO TEACHER * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECO TEACHER B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ECO TEACHER B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECO * B TEACHER *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECO * B TEACHER</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ECO * B TEACHER *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ECO * B TEACHER</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ ECO B * TEACHER *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECO B * TEACHER</pattern>
+
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ECO B * TEACHER *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ECO B * TEACHER</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B TEACHER * ECO *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B TEACHER * ECO</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER * ECO *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER * ECO</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B TEACHER ECO *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B TEACHER ECO</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * TEACHER ECO *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER ECO</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B ECO TEACHER *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B ECO TEACHER</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * ECO TEACHER *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * ECO TEACHER</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ FACULTY * ECO * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * ECO * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * ECO * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * ECO * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * ECO B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * ECO B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY ECO * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY ECO * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY ECO * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY ECO * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY ECO B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY ECO B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY * B * ECO *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY * B * ECO</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * B * ECO *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * B * ECO</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY B * ECO *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY B * ECO</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY B * ECO *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY B * ECO</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * B ECO *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * B ECO</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * B ECO *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * B ECO</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ ECO FACULTY * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECO FACULTY * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ECO FACULTY * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECO FACULTY B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ECO FACULTY B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECO * B FACULTY *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECO * B FACULTY</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ECO * B FACULTY *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ECO * B FACULTY</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ ECO B * FACULTY *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECO B * FACULTY</pattern>
+
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ECO B * FACULTY *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ECO B * FACULTY</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B FACULTY * ECO *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B FACULTY * ECO</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY * ECO *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY * ECO</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B FACULTY ECO *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B FACULTY ECO</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * FACULTY ECO *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY ECO</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B ECO FACULTY *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B ECO FACULTY</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * ECO FACULTY *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * ECO FACULTY</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ TEACHES ECO * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES ECO B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHES * B ECO *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES * B ECO</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ TEACHES B * ECO *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES B * ECO</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECO * B * TAUGHT *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ECO * B * TAUGHT *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECO B * TAUGHT *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ECO B * TAUGHT *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECO * B TAUGHT *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ECO * B TAUGHT *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * ECO * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * ECO * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * ECO B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES ECO * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES ECO * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES ECO B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * FOE * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * FOE * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * FOE * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * FOE * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * FOE B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * FOE B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR FOE * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR FOE * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR FOE * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR FOE * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR FOE B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR FOE B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR * B * FOE *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR * B * FOE</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * B * FOE *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * B * FOE</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR B * FOE *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR B * FOE</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR B * FOE *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR B * FOE</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * B FOE *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * B FOE</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * B FOE *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * B FOE</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FOE PROFESSOR * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FOE PROFESSOR * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FOE PROFESSOR * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FOE PROFESSOR B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FOE PROFESSOR B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FOE * B PROFESSOR *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FOE * B PROFESSOR</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FOE * B PROFESSOR *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FOE * B PROFESSOR</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ FOE B * PROFESSOR *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FOE B * PROFESSOR</pattern>
+
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FOE B * PROFESSOR *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FOE B * PROFESSOR</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROFESSOR * FOE *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROFESSOR * FOE</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR * FOE *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR * FOE</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROFESSOR FOE *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROFESSOR FOE</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * PROFESSOR FOE *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR FOE</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B FOE PROFESSOR *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B FOE PROFESSOR</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * FOE PROFESSOR *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FOE PROFESSOR</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * FOE * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * FOE * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * FOE * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * FOE * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * FOE B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * FOE B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF FOE * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF FOE * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF FOE * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF FOE * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF FOE B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF FOE B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF * B * FOE *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF * B * FOE</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * B * FOE *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * B * FOE</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF B * FOE *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF B * FOE</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF B * FOE *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF B * FOE</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * B FOE *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * B FOE</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * B FOE *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * B FOE</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FOE PROF * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FOE PROF * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FOE PROF * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FOE PROF B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FOE PROF B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FOE * B PROF *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FOE * B PROF</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FOE * B PROF *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FOE * B PROF</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ FOE B * PROF *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FOE B * PROF</pattern>
+
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FOE B * PROF *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FOE B * PROF</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROF * FOE *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROF * FOE</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF * FOE *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF * FOE</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROF FOE *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROF FOE</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * PROF FOE *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF FOE</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B FOE PROF *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B FOE PROF</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * FOE PROF *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * FOE PROF</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * FOE * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * FOE * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * FOE * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * FOE * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * FOE B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * FOE B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER FOE * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER FOE * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER FOE * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER FOE * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER FOE B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER FOE B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER * B * FOE *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER * B * FOE</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * B * FOE *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * B * FOE</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER B * FOE *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER B * FOE</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER B * FOE *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER B * FOE</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * B FOE *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * B FOE</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * B FOE *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * B FOE</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FOE LECTURER * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FOE LECTURER * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FOE LECTURER * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FOE LECTURER B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FOE LECTURER B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FOE * B LECTURER *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FOE * B LECTURER</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FOE * B LECTURER *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FOE * B LECTURER</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ FOE B * LECTURER *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FOE B * LECTURER</pattern>
+
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FOE B * LECTURER *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FOE B * LECTURER</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LECTURER * FOE *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECTURER * FOE</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER * FOE *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER * FOE</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECTURER FOE *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECTURER FOE</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * LECTURER FOE *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER FOE</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B FOE LECTURER *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B FOE LECTURER</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * FOE LECTURER *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FOE LECTURER</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * FOE * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * FOE * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * FOE * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * FOE * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * FOE B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * FOE B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT FOE * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT FOE * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT FOE * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT FOE * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT FOE B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT FOE B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT * B * FOE *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT * B * FOE</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * B * FOE *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * B * FOE</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT B * FOE *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT B * FOE</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT B * FOE *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT B * FOE</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * B FOE *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * B FOE</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * B FOE *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * B FOE</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FOE LECT * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FOE LECT * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FOE LECT * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FOE LECT B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FOE LECT B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FOE * B LECT *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FOE * B LECT</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FOE * B LECT *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FOE * B LECT</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ FOE B * LECT *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FOE B * LECT</pattern>
+
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FOE B * LECT *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FOE B * LECT</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LECT * FOE *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECT * FOE</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT * FOE *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT * FOE</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECT FOE *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECT FOE</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * LECT FOE *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT FOE</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B FOE LECT *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B FOE LECT</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * FOE LECT *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FOE LECT</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * FOE * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * FOE * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * FOE * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * FOE * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * FOE B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * FOE B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER FOE * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER FOE * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER FOE * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER FOE * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER FOE B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER FOE B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER * B * FOE *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER * B * FOE</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * B * FOE *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * B * FOE</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER B * FOE *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER B * FOE</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER B * FOE *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER B * FOE</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * B FOE *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * B FOE</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * B FOE *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * B FOE</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FOE TEACHER * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FOE TEACHER * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FOE TEACHER * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FOE TEACHER B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FOE TEACHER B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FOE * B TEACHER *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FOE * B TEACHER</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FOE * B TEACHER *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FOE * B TEACHER</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ FOE B * TEACHER *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FOE B * TEACHER</pattern>
+
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FOE B * TEACHER *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FOE B * TEACHER</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B TEACHER * FOE *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B TEACHER * FOE</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER * FOE *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER * FOE</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B TEACHER FOE *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B TEACHER FOE</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * TEACHER FOE *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER FOE</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B FOE TEACHER *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B FOE TEACHER</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * FOE TEACHER *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FOE TEACHER</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ FACULTY * FOE * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * FOE * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * FOE * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * FOE * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * FOE B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * FOE B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY FOE * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY FOE * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY FOE * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY FOE * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY FOE B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY FOE B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY * B * FOE *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY * B * FOE</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * B * FOE *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * B * FOE</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY B * FOE *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY B * FOE</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY B * FOE *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY B * FOE</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * B FOE *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * B FOE</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * B FOE *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * B FOE</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FOE FACULTY * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FOE FACULTY * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FOE FACULTY * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FOE FACULTY B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FOE FACULTY B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FOE * B FACULTY *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FOE * B FACULTY</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FOE * B FACULTY *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FOE * B FACULTY</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ FOE B * FACULTY *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FOE B * FACULTY</pattern>
+
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FOE B * FACULTY *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FOE B * FACULTY</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B FACULTY * FOE *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B FACULTY * FOE</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY * FOE *</pattern>
+	<template><srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY * FOE</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B FACULTY FOE *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B FACULTY FOE</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * FACULTY FOE *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY FOE</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B FOE FACULTY *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B FOE FACULTY</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * FOE FACULTY *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FOE FACULTY</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ TEACHES FOE * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES FOE B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHES * B FOE *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES * B FOE</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ TEACHES B * FOE *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES B * FOE</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FOE * B * TAUGHT *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FOE * B * TAUGHT *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FOE B * TAUGHT *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FOE B * TAUGHT *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FOE * B TAUGHT *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>FOE * B TAUGHT *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * FOE * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * FOE * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * FOE B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES FOE * B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES FOE * B</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES FOE B *</pattern>
+	<template>
+		<srai>ECOB</srai>
+	</template>
+</category>
+
+
+</aiml>

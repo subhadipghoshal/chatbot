@@ -1,0 +1,76 @@
+<aiml version="1.0.1" encoding="UTF-8">
+    <!-- std-startup.xml -->
+
+    <!-- Category is an atomic AIML unit -->
+    <category>
+
+        <!-- Pattern to match in user input -->
+        <!-- If user enters "LOAD AIML B" -->
+        <pattern>LOAD AIML B</pattern>
+
+        <!-- Template is the response to the pattern -->
+        <!-- This learn an aiml file -->
+        <template>
+            <learn>*.aiml</learn>>
+            <learn>tnp.aiml</learn>
+            <learn>general.aiml</learn>
+            <learn>greeting.aiml</learn>
+            <learn>labs_CT.aiml</learn>
+            <learn>syllabus.aiml</learn>
+            <learn>3rd sem codes.aiml</learn>
+            <learn>4th sem codes.aiml</learn>
+            <learn>5th sem codes.aiml</learn>
+            <learn>6th sem codes.aiml</learn>
+            <learn>7th sem codes.aiml</learn>
+            <learn>8th sem codes.aiml</learn>
+            <learn>faculty_ADS_A.aiml</learn>
+            <learn>faculty_ADS_B.aiml</learn>
+            <learn>faculty_CAO_A.aiml</learn>
+            <learn>faculty_CAO_B.aiml</learn>
+            <learn>faculty_DMGT_A.aiml</learn>
+            <learn>faculty_DMGT_B.aiml</learn>
+            <learn>faculty_PLCC_A.aiml</learn>
+            <learn>faculty_PLCC_B.aiml</learn>
+            <learn>faculty_SP_A.aiml</learn>
+            <learn>faculty_SP_B.aiml</learn>
+            <learn>faculty_ds_A.aiml</learn>
+            <learn>faculty_ds_A.aiml</learn>
+            <learn>faculty_EM_A.aiml</learn>
+            <learn>faculty_EM_B.aiml</learn>
+            <learn>faculty_LD_A.aiml</learn>
+            <learn>faculty_LD_B.aiml</learn>
+            <learn>faculty_OOP_A.aiml</learn>
+            <learn>faculty_OOP_B.aiml</learn>
+            <learn>faculty_oom_A.aiml</learn>
+            <learn>faculty_oom_B.aiml</learn>
+            <learn>faculty_CN_A.aiml</learn>
+            <learn>faculty_CN_B.aiml</learn>
+            <learn>faculty_DBMS_A.aiml</learn>
+            <learn>faculty_DBMS_B.aiml</learn>
+            <learn>faculty_FOE_A.aiml</learn>
+            <learn>faculty_FOE_B.aiml</learn>
+            <learn>faculty_OS_A.aiml</learn>
+            <learn>faculty_OS_B.aiml</learn>
+            <learn>faculty_TFCS_A.aiml</learn>
+            <learn>faculty_TFCS_B.aiml</learn>
+            <learn>faculty_daa_A.aiml</learn>
+            <learn>faculty_daa_B.aiml</learn>
+            <learn>faculty_FOM_A.aiml</learn>
+            <learn>faculty_FOM_B.aiml</learn>
+            <learn>faculty_LP_A.aiml</learn>
+            <learn>faculty_LP_B.aiml</learn>
+            <learn>faculty_SE_A.aiml</learn>
+            <learn>faculty_SE_B.aiml</learn>
+            <learn>faculty_ai_A.aiml</learn>
+            <learn>faculty_ai_B.aiml</learn>
+            <learn>faculty_ns_A.aiml</learn>
+            <learn>faculty_ns_B.aiml</learn>
+            <learn>faculty_cl_A.aiml</learn>
+            <learn>faculty_cl_B.aiml</learn>
+            <learn>faculty_oom_A.aiml</learn>
+            <learn>faculty_oom_B.aiml</learn>
+        </template>
+        
+    </category>
+
+</aiml>

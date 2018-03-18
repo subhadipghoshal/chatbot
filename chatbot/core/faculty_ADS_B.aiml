@@ -1,0 +1,6862 @@
+<aiml version="1.0.1" encoding="UTF-8">
+
+<category>
+	<pattern>ADSB</pattern>
+	<template>
+		<random>
+			<li>Mrs. Siddhi Dilip Raut teaches ADVANCED DATA STRUCTURE</li>
+			<li>Mrs. Siddhi Dilip Raut</li>
+			<li>ADVANCED DATA STRUCTURE is taught by Mrs.Siddhi Dilip Raut</li>
+		</random>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * ADVANCED DATA STRUCTURE * B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * ADVANCED DATA STRUCTURE * B</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * ADVANCED DATA STRUCTURE * B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * ADVANCED DATA STRUCTURE * B</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * ADVANCED DATA STRUCTURE B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * ADVANCED DATA STRUCTURE B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR ADVANCED DATA STRUCTURE * B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR ADVANCED DATA STRUCTURE * B</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR ADVANCED DATA STRUCTURE * B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR ADVANCED DATA STRUCTURE * B</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR ADVANCED DATA STRUCTURE B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR ADVANCED DATA STRUCTURE B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR * B * ADVANCED DATA STRUCTURE *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR * B * ADVANCED DATA STRUCTURE</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * B * ADVANCED DATA STRUCTURE *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * B * ADVANCED DATA STRUCTURE</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR B * ADVANCED DATA STRUCTURE *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR B * ADVANCED DATA STRUCTURE</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR B * ADVANCED DATA STRUCTURE *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR B * ADVANCED DATA STRUCTURE</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * B ADVANCED DATA STRUCTURE *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * B ADVANCED DATA STRUCTURE</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * B ADVANCED DATA STRUCTURE *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * B ADVANCED DATA STRUCTURE</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ ADVANCED DATA STRUCTURE PROFESSOR * B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ADVANCED DATA STRUCTURE PROFESSOR * B</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ADVANCED DATA STRUCTURE PROFESSOR * B</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ADVANCED DATA STRUCTURE PROFESSOR B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ADVANCED DATA STRUCTURE PROFESSOR B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ADVANCED DATA STRUCTURE * B PROFESSOR *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ADVANCED DATA STRUCTURE * B PROFESSOR</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ADVANCED DATA STRUCTURE * B PROFESSOR *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ADVANCED DATA STRUCTURE * B PROFESSOR</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ ADVANCED DATA STRUCTURE B * PROFESSOR *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ADVANCED DATA STRUCTURE B * PROFESSOR</pattern>
+
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ADVANCED DATA STRUCTURE B * PROFESSOR *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ADVANCED DATA STRUCTURE B * PROFESSOR</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROFESSOR * ADVANCED DATA STRUCTURE *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROFESSOR * ADVANCED DATA STRUCTURE</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR * ADVANCED DATA STRUCTURE *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR * ADVANCED DATA STRUCTURE</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROFESSOR ADVANCED DATA STRUCTURE *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROFESSOR ADVANCED DATA STRUCTURE</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * PROFESSOR ADVANCED DATA STRUCTURE *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR ADVANCED DATA STRUCTURE</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B ADVANCED DATA STRUCTURE PROFESSOR *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B ADVANCED DATA STRUCTURE PROFESSOR</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * ADVANCED DATA STRUCTURE PROFESSOR *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * ADVANCED DATA STRUCTURE PROFESSOR</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * ADVANCED DATA STRUCTURE * B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * ADVANCED DATA STRUCTURE * B</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * ADVANCED DATA STRUCTURE * B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * ADVANCED DATA STRUCTURE * B</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * ADVANCED DATA STRUCTURE B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * ADVANCED DATA STRUCTURE B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF ADVANCED DATA STRUCTURE * B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF ADVANCED DATA STRUCTURE * B</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF ADVANCED DATA STRUCTURE * B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF ADVANCED DATA STRUCTURE * B</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF ADVANCED DATA STRUCTURE B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF ADVANCED DATA STRUCTURE B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF * B * ADVANCED DATA STRUCTURE *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF * B * ADVANCED DATA STRUCTURE</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * B * ADVANCED DATA STRUCTURE *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * B * ADVANCED DATA STRUCTURE</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF B * ADVANCED DATA STRUCTURE *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF B * ADVANCED DATA STRUCTURE</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF B * ADVANCED DATA STRUCTURE *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF B * ADVANCED DATA STRUCTURE</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * B ADVANCED DATA STRUCTURE *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * B ADVANCED DATA STRUCTURE</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * B ADVANCED DATA STRUCTURE *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * B ADVANCED DATA STRUCTURE</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ ADVANCED DATA STRUCTURE PROF * B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ADVANCED DATA STRUCTURE PROF * B</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ADVANCED DATA STRUCTURE PROF * B</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ADVANCED DATA STRUCTURE PROF B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ADVANCED DATA STRUCTURE PROF B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ADVANCED DATA STRUCTURE * B PROF *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ADVANCED DATA STRUCTURE * B PROF</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ADVANCED DATA STRUCTURE * B PROF *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ADVANCED DATA STRUCTURE * B PROF</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ ADVANCED DATA STRUCTURE B * PROF *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ADVANCED DATA STRUCTURE B * PROF</pattern>
+
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ADVANCED DATA STRUCTURE B * PROF *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ADVANCED DATA STRUCTURE B * PROF</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROF * ADVANCED DATA STRUCTURE *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROF * ADVANCED DATA STRUCTURE</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF * ADVANCED DATA STRUCTURE *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF * ADVANCED DATA STRUCTURE</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROF ADVANCED DATA STRUCTURE *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROF ADVANCED DATA STRUCTURE</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * PROF ADVANCED DATA STRUCTURE *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF ADVANCED DATA STRUCTURE</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B ADVANCED DATA STRUCTURE PROF *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B ADVANCED DATA STRUCTURE PROF</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * ADVANCED DATA STRUCTURE PROF *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * ADVANCED DATA STRUCTURE PROF</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * ADVANCED DATA STRUCTURE * B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * ADVANCED DATA STRUCTURE * B</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * ADVANCED DATA STRUCTURE * B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * ADVANCED DATA STRUCTURE * B</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * ADVANCED DATA STRUCTURE B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * ADVANCED DATA STRUCTURE B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER ADVANCED DATA STRUCTURE * B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER ADVANCED DATA STRUCTURE * B</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER ADVANCED DATA STRUCTURE * B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER ADVANCED DATA STRUCTURE * B</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER ADVANCED DATA STRUCTURE B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER ADVANCED DATA STRUCTURE B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER * B * ADVANCED DATA STRUCTURE *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER * B * ADVANCED DATA STRUCTURE</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * B * ADVANCED DATA STRUCTURE *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * B * ADVANCED DATA STRUCTURE</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER B * ADVANCED DATA STRUCTURE *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER B * ADVANCED DATA STRUCTURE</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER B * ADVANCED DATA STRUCTURE *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER B * ADVANCED DATA STRUCTURE</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * B ADVANCED DATA STRUCTURE *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * B ADVANCED DATA STRUCTURE</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * B ADVANCED DATA STRUCTURE *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * B ADVANCED DATA STRUCTURE</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ ADVANCED DATA STRUCTURE LECTURER * B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ADVANCED DATA STRUCTURE LECTURER * B</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ADVANCED DATA STRUCTURE LECTURER * B</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ADVANCED DATA STRUCTURE LECTURER B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ADVANCED DATA STRUCTURE LECTURER B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ADVANCED DATA STRUCTURE * B LECTURER *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ADVANCED DATA STRUCTURE * B LECTURER</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ADVANCED DATA STRUCTURE * B LECTURER *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ADVANCED DATA STRUCTURE * B LECTURER</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ ADVANCED DATA STRUCTURE B * LECTURER *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ADVANCED DATA STRUCTURE B * LECTURER</pattern>
+
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ADVANCED DATA STRUCTURE B * LECTURER *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ADVANCED DATA STRUCTURE B * LECTURER</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LECTURER * ADVANCED DATA STRUCTURE *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECTURER * ADVANCED DATA STRUCTURE</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER * ADVANCED DATA STRUCTURE *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER * ADVANCED DATA STRUCTURE</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECTURER ADVANCED DATA STRUCTURE *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECTURER ADVANCED DATA STRUCTURE</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * LECTURER ADVANCED DATA STRUCTURE *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER ADVANCED DATA STRUCTURE</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B ADVANCED DATA STRUCTURE LECTURER *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B ADVANCED DATA STRUCTURE LECTURER</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * ADVANCED DATA STRUCTURE LECTURER *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * ADVANCED DATA STRUCTURE LECTURER</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * ADVANCED DATA STRUCTURE * B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * ADVANCED DATA STRUCTURE * B</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * ADVANCED DATA STRUCTURE * B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * ADVANCED DATA STRUCTURE * B</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * ADVANCED DATA STRUCTURE B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * ADVANCED DATA STRUCTURE B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT ADVANCED DATA STRUCTURE * B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT ADVANCED DATA STRUCTURE * B</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT ADVANCED DATA STRUCTURE * B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT ADVANCED DATA STRUCTURE * B</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT ADVANCED DATA STRUCTURE B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT ADVANCED DATA STRUCTURE B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT * B * ADVANCED DATA STRUCTURE *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT * B * ADVANCED DATA STRUCTURE</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * B * ADVANCED DATA STRUCTURE *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * B * ADVANCED DATA STRUCTURE</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT B * ADVANCED DATA STRUCTURE *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT B * ADVANCED DATA STRUCTURE</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT B * ADVANCED DATA STRUCTURE *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT B * ADVANCED DATA STRUCTURE</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * B ADVANCED DATA STRUCTURE *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * B ADVANCED DATA STRUCTURE</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * B ADVANCED DATA STRUCTURE *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * B ADVANCED DATA STRUCTURE</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ ADVANCED DATA STRUCTURE LECT * B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ADVANCED DATA STRUCTURE LECT * B</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ADVANCED DATA STRUCTURE LECT * B</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ADVANCED DATA STRUCTURE LECT B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ADVANCED DATA STRUCTURE LECT B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ADVANCED DATA STRUCTURE * B LECT *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ADVANCED DATA STRUCTURE * B LECT</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ADVANCED DATA STRUCTURE * B LECT *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ADVANCED DATA STRUCTURE * B LECT</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ ADVANCED DATA STRUCTURE B * LECT *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ADVANCED DATA STRUCTURE B * LECT</pattern>
+
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ADVANCED DATA STRUCTURE B * LECT *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ADVANCED DATA STRUCTURE B * LECT</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LECT * ADVANCED DATA STRUCTURE *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECT * ADVANCED DATA STRUCTURE</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT * ADVANCED DATA STRUCTURE *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT * ADVANCED DATA STRUCTURE</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECT ADVANCED DATA STRUCTURE *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECT ADVANCED DATA STRUCTURE</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * LECT ADVANCED DATA STRUCTURE *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT ADVANCED DATA STRUCTURE</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B ADVANCED DATA STRUCTURE LECT *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B ADVANCED DATA STRUCTURE LECT</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * ADVANCED DATA STRUCTURE LECT *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * ADVANCED DATA STRUCTURE LECT</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * ADVANCED DATA STRUCTURE * B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * ADVANCED DATA STRUCTURE * B</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * ADVANCED DATA STRUCTURE * B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * ADVANCED DATA STRUCTURE * B</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * ADVANCED DATA STRUCTURE B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * ADVANCED DATA STRUCTURE B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER ADVANCED DATA STRUCTURE * B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER ADVANCED DATA STRUCTURE * B</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER ADVANCED DATA STRUCTURE * B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER ADVANCED DATA STRUCTURE * B</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER ADVANCED DATA STRUCTURE B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER ADVANCED DATA STRUCTURE B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER * B * ADVANCED DATA STRUCTURE *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER * B * ADVANCED DATA STRUCTURE</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * B * ADVANCED DATA STRUCTURE *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * B * ADVANCED DATA STRUCTURE</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER B * ADVANCED DATA STRUCTURE *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER B * ADVANCED DATA STRUCTURE</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER B * ADVANCED DATA STRUCTURE *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER B * ADVANCED DATA STRUCTURE</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * B ADVANCED DATA STRUCTURE *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * B ADVANCED DATA STRUCTURE</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * B ADVANCED DATA STRUCTURE *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * B ADVANCED DATA STRUCTURE</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ ADVANCED DATA STRUCTURE TEACHER * B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ADVANCED DATA STRUCTURE TEACHER * B</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ADVANCED DATA STRUCTURE TEACHER * B</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ADVANCED DATA STRUCTURE TEACHER B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ADVANCED DATA STRUCTURE TEACHER B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ADVANCED DATA STRUCTURE * B TEACHER *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ADVANCED DATA STRUCTURE * B TEACHER</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ADVANCED DATA STRUCTURE * B TEACHER *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ADVANCED DATA STRUCTURE * B TEACHER</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ ADVANCED DATA STRUCTURE B * TEACHER *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ADVANCED DATA STRUCTURE B * TEACHER</pattern>
+
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ADVANCED DATA STRUCTURE B * TEACHER *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ADVANCED DATA STRUCTURE B * TEACHER</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B TEACHER * ADVANCED DATA STRUCTURE *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B TEACHER * ADVANCED DATA STRUCTURE</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER * ADVANCED DATA STRUCTURE *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER * ADVANCED DATA STRUCTURE</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B TEACHER ADVANCED DATA STRUCTURE *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B TEACHER ADVANCED DATA STRUCTURE</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * TEACHER ADVANCED DATA STRUCTURE *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER ADVANCED DATA STRUCTURE</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B ADVANCED DATA STRUCTURE TEACHER *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B ADVANCED DATA STRUCTURE TEACHER</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * ADVANCED DATA STRUCTURE TEACHER *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * ADVANCED DATA STRUCTURE TEACHER</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ FACULTY * ADVANCED DATA STRUCTURE * B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * ADVANCED DATA STRUCTURE * B</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * ADVANCED DATA STRUCTURE * B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * ADVANCED DATA STRUCTURE * B</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * ADVANCED DATA STRUCTURE B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * ADVANCED DATA STRUCTURE B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY ADVANCED DATA STRUCTURE * B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY ADVANCED DATA STRUCTURE * B</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY ADVANCED DATA STRUCTURE * B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY ADVANCED DATA STRUCTURE * B</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY ADVANCED DATA STRUCTURE B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY ADVANCED DATA STRUCTURE B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY * B * ADVANCED DATA STRUCTURE *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY * B * ADVANCED DATA STRUCTURE</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * B * ADVANCED DATA STRUCTURE *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * B * ADVANCED DATA STRUCTURE</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY B * ADVANCED DATA STRUCTURE *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY B * ADVANCED DATA STRUCTURE</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY B * ADVANCED DATA STRUCTURE *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY B * ADVANCED DATA STRUCTURE</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * B ADVANCED DATA STRUCTURE *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * B ADVANCED DATA STRUCTURE</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * B ADVANCED DATA STRUCTURE *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * B ADVANCED DATA STRUCTURE</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ ADVANCED DATA STRUCTURE FACULTY * B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ADVANCED DATA STRUCTURE FACULTY * B</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ADVANCED DATA STRUCTURE FACULTY * B</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ADVANCED DATA STRUCTURE FACULTY B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ADVANCED DATA STRUCTURE FACULTY B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ADVANCED DATA STRUCTURE * B FACULTY *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ADVANCED DATA STRUCTURE * B FACULTY</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ADVANCED DATA STRUCTURE * B FACULTY *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ADVANCED DATA STRUCTURE * B FACULTY</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ ADVANCED DATA STRUCTURE B * FACULTY *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ADVANCED DATA STRUCTURE B * FACULTY</pattern>
+
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ADVANCED DATA STRUCTURE B * FACULTY *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ADVANCED DATA STRUCTURE B * FACULTY</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B FACULTY * ADVANCED DATA STRUCTURE *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B FACULTY * ADVANCED DATA STRUCTURE</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY * ADVANCED DATA STRUCTURE *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY * ADVANCED DATA STRUCTURE</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B FACULTY ADVANCED DATA STRUCTURE *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B FACULTY ADVANCED DATA STRUCTURE</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * FACULTY ADVANCED DATA STRUCTURE *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY ADVANCED DATA STRUCTURE</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B ADVANCED DATA STRUCTURE FACULTY *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B ADVANCED DATA STRUCTURE FACULTY</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * ADVANCED DATA STRUCTURE FACULTY *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * ADVANCED DATA STRUCTURE FACULTY</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ TEACHES ADVANCED DATA STRUCTURE * B</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES ADVANCED DATA STRUCTURE B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHES * B ADVANCED DATA STRUCTURE *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES * B ADVANCED DATA STRUCTURE</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ TEACHES B * ADVANCED DATA STRUCTURE *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES B * ADVANCED DATA STRUCTURE</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ADVANCED DATA STRUCTURE * B * TAUGHT *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ADVANCED DATA STRUCTURE * B * TAUGHT *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ADVANCED DATA STRUCTURE B * TAUGHT *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ADVANCED DATA STRUCTURE B * TAUGHT *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ADVANCED DATA STRUCTURE * B TAUGHT *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ADVANCED DATA STRUCTURE * B TAUGHT *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * ADVANCED DATA STRUCTURE * B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * ADVANCED DATA STRUCTURE * B</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * ADVANCED DATA STRUCTURE B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES ADVANCED DATA STRUCTURE * B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES ADVANCED DATA STRUCTURE * B</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES ADVANCED DATA STRUCTURE B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR * ADS * B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * ADS * B</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * ADS * B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * ADS * B</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * ADS B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * ADS B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR ADS * B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR ADS * B</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR ADS * B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR ADS * B</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR ADS B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR ADS B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR * B * ADS *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR * B * ADS</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * B * ADS *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * B * ADS</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR B * ADS *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR B * ADS</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR B * ADS *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR B * ADS</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * B ADS *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * B ADS</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * B ADS *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * B ADS</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ ADS PROFESSOR * B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ADS PROFESSOR * B</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ADS PROFESSOR * B</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ADS PROFESSOR B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ADS PROFESSOR B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ADS * B PROFESSOR *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ADS * B PROFESSOR</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ADS * B PROFESSOR *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ADS * B PROFESSOR</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ ADS B * PROFESSOR *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ADS B * PROFESSOR</pattern>
+
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ADS B * PROFESSOR *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ADS B * PROFESSOR</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROFESSOR * ADS *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROFESSOR * ADS</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR * ADS *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR * ADS</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROFESSOR ADS *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROFESSOR ADS</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * PROFESSOR ADS *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR ADS</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B ADS PROFESSOR *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B ADS PROFESSOR</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * ADS PROFESSOR *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * ADS PROFESSOR</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * ADS * B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * ADS * B</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * ADS * B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * ADS * B</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * ADS B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * ADS B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF ADS * B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF ADS * B</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF ADS * B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF ADS * B</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF ADS B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF ADS B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF * B * ADS *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF * B * ADS</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * B * ADS *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * B * ADS</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF B * ADS *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF B * ADS</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF B * ADS *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF B * ADS</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * B ADS *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * B ADS</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * B ADS *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * B ADS</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ ADS PROF * B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ADS PROF * B</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ADS PROF * B</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ADS PROF B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ADS PROF B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ADS * B PROF *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ADS * B PROF</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ADS * B PROF *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ADS * B PROF</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ ADS B * PROF *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ADS B * PROF</pattern>
+
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ADS B * PROF *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ADS B * PROF</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROF * ADS *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROF * ADS</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF * ADS *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF * ADS</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROF ADS *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROF ADS</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * PROF ADS *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF ADS</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B ADS PROF *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B ADS PROF</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * ADS PROF *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * ADS PROF</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * ADS * B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * ADS * B</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * ADS * B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * ADS * B</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * ADS B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * ADS B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER ADS * B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER ADS * B</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER ADS * B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER ADS * B</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER ADS B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER ADS B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER * B * ADS *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER * B * ADS</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * B * ADS *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * B * ADS</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER B * ADS *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER B * ADS</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER B * ADS *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER B * ADS</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * B ADS *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * B ADS</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * B ADS *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * B ADS</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ ADS LECTURER * B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ADS LECTURER * B</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ADS LECTURER * B</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ADS LECTURER B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ADS LECTURER B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ADS * B LECTURER *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ADS * B LECTURER</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ADS * B LECTURER *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ADS * B LECTURER</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ ADS B * LECTURER *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ADS B * LECTURER</pattern>
+
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ADS B * LECTURER *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ADS B * LECTURER</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LECTURER * ADS *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECTURER * ADS</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER * ADS *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER * ADS</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECTURER ADS *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECTURER ADS</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * LECTURER ADS *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER ADS</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B ADS LECTURER *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B ADS LECTURER</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * ADS LECTURER *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * ADS LECTURER</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * ADS * B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * ADS * B</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * ADS * B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * ADS * B</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * ADS B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * ADS B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT ADS * B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT ADS * B</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT ADS * B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT ADS * B</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT ADS B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT ADS B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT * B * ADS *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT * B * ADS</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * B * ADS *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * B * ADS</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT B * ADS *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT B * ADS</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT B * ADS *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT B * ADS</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * B ADS *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * B ADS</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * B ADS *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * B ADS</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ ADS LECT * B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ADS LECT * B</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ADS LECT * B</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ADS LECT B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ADS LECT B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ADS * B LECT *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ADS * B LECT</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ADS * B LECT *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ADS * B LECT</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ ADS B * LECT *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ADS B * LECT</pattern>
+
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ADS B * LECT *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ADS B * LECT</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LECT * ADS *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECT * ADS</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT * ADS *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT * ADS</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECT ADS *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECT ADS</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * LECT ADS *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT ADS</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B ADS LECT *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B ADS LECT</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * ADS LECT *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * ADS LECT</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * ADS * B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * ADS * B</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * ADS * B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * ADS * B</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * ADS B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * ADS B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER ADS * B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER ADS * B</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER ADS * B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER ADS * B</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER ADS B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER ADS B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER * B * ADS *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER * B * ADS</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * B * ADS *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * B * ADS</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER B * ADS *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER B * ADS</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER B * ADS *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER B * ADS</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * B ADS *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * B ADS</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * B ADS *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * B ADS</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ ADS TEACHER * B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ADS TEACHER * B</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ADS TEACHER * B</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ADS TEACHER B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ADS TEACHER B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ADS * B TEACHER *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ADS * B TEACHER</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ADS * B TEACHER *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ADS * B TEACHER</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ ADS B * TEACHER *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ADS B * TEACHER</pattern>
+
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ADS B * TEACHER *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ADS B * TEACHER</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B TEACHER * ADS *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B TEACHER * ADS</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER * ADS *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER * ADS</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B TEACHER ADS *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B TEACHER ADS</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * TEACHER ADS *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER ADS</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B ADS TEACHER *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B ADS TEACHER</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * ADS TEACHER *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * ADS TEACHER</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ FACULTY * ADS * B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * ADS * B</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * ADS * B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * ADS * B</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * ADS B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * ADS B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY ADS * B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY ADS * B</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY ADS * B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY ADS * B</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY ADS B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY ADS B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY * B * ADS *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY * B * ADS</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * B * ADS *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * B * ADS</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY B * ADS *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY B * ADS</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY B * ADS *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY B * ADS</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * B ADS *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * B ADS</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * B ADS *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * B ADS</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ ADS FACULTY * B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ADS FACULTY * B</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ADS FACULTY * B</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ADS FACULTY B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ADS FACULTY B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ADS * B FACULTY *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ADS * B FACULTY</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ADS * B FACULTY *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ADS * B FACULTY</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ ADS B * FACULTY *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ADS B * FACULTY</pattern>
+
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ADS B * FACULTY *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ADS B * FACULTY</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B FACULTY * ADS *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B FACULTY * ADS</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY * ADS *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY * ADS</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B FACULTY ADS *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B FACULTY ADS</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * FACULTY ADS *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY ADS</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B ADS FACULTY *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B ADS FACULTY</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * ADS FACULTY *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * ADS FACULTY</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ TEACHES ADS * B</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES ADS B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHES * B ADS *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES * B ADS</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ TEACHES B * ADS *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES B * ADS</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ADS * B * TAUGHT *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ADS * B * TAUGHT *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ADS B * TAUGHT *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ADS B * TAUGHT *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ADS * B TAUGHT *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ADS * B TAUGHT *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * ADS * B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * ADS * B</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * ADS B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES ADS * B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES ADS * B</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES ADS B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * ADVANCED DS * B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * ADVANCED DS * B</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * ADVANCED DS * B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * ADVANCED DS * B</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * ADVANCED DS B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * ADVANCED DS B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR ADVANCED DS * B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR ADVANCED DS * B</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR ADVANCED DS * B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR ADVANCED DS * B</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR ADVANCED DS B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR ADVANCED DS B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR * B * ADVANCED DS *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR * B * ADVANCED DS</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * B * ADVANCED DS *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * B * ADVANCED DS</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR B * ADVANCED DS *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR B * ADVANCED DS</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR B * ADVANCED DS *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR B * ADVANCED DS</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * B ADVANCED DS *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * B ADVANCED DS</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * B ADVANCED DS *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * B ADVANCED DS</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ ADVANCED DS PROFESSOR * B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ADVANCED DS PROFESSOR * B</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ADVANCED DS PROFESSOR * B</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ADVANCED DS PROFESSOR B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ADVANCED DS PROFESSOR B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ADVANCED DS * B PROFESSOR *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ADVANCED DS * B PROFESSOR</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ADVANCED DS * B PROFESSOR *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ADVANCED DS * B PROFESSOR</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ ADVANCED DS B * PROFESSOR *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ADVANCED DS B * PROFESSOR</pattern>
+
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ADVANCED DS B * PROFESSOR *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ADVANCED DS B * PROFESSOR</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROFESSOR * ADVANCED DS *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROFESSOR * ADVANCED DS</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR * ADVANCED DS *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR * ADVANCED DS</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROFESSOR ADVANCED DS *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROFESSOR ADVANCED DS</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * PROFESSOR ADVANCED DS *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR ADVANCED DS</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B ADVANCED DS PROFESSOR *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B ADVANCED DS PROFESSOR</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * ADVANCED DS PROFESSOR *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * ADVANCED DS PROFESSOR</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * ADVANCED DS * B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * ADVANCED DS * B</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * ADVANCED DS * B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * ADVANCED DS * B</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * ADVANCED DS B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * ADVANCED DS B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF ADVANCED DS * B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF ADVANCED DS * B</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF ADVANCED DS * B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF ADVANCED DS * B</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF ADVANCED DS B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF ADVANCED DS B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF * B * ADVANCED DS *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF * B * ADVANCED DS</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * B * ADVANCED DS *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * B * ADVANCED DS</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF B * ADVANCED DS *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF B * ADVANCED DS</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF B * ADVANCED DS *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF B * ADVANCED DS</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * B ADVANCED DS *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * B ADVANCED DS</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * B ADVANCED DS *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * B ADVANCED DS</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ ADVANCED DS PROF * B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ADVANCED DS PROF * B</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ADVANCED DS PROF * B</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ADVANCED DS PROF B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ADVANCED DS PROF B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ADVANCED DS * B PROF *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ADVANCED DS * B PROF</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ADVANCED DS * B PROF *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ADVANCED DS * B PROF</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ ADVANCED DS B * PROF *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ADVANCED DS B * PROF</pattern>
+
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ADVANCED DS B * PROF *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ADVANCED DS B * PROF</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROF * ADVANCED DS *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROF * ADVANCED DS</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF * ADVANCED DS *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF * ADVANCED DS</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROF ADVANCED DS *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROF ADVANCED DS</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * PROF ADVANCED DS *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF ADVANCED DS</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B ADVANCED DS PROF *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B ADVANCED DS PROF</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * ADVANCED DS PROF *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * ADVANCED DS PROF</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * ADVANCED DS * B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * ADVANCED DS * B</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * ADVANCED DS * B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * ADVANCED DS * B</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * ADVANCED DS B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * ADVANCED DS B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER ADVANCED DS * B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER ADVANCED DS * B</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER ADVANCED DS * B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER ADVANCED DS * B</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER ADVANCED DS B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER ADVANCED DS B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER * B * ADVANCED DS *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER * B * ADVANCED DS</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * B * ADVANCED DS *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * B * ADVANCED DS</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER B * ADVANCED DS *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER B * ADVANCED DS</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER B * ADVANCED DS *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER B * ADVANCED DS</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * B ADVANCED DS *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * B ADVANCED DS</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * B ADVANCED DS *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * B ADVANCED DS</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ ADVANCED DS LECTURER * B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ADVANCED DS LECTURER * B</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ADVANCED DS LECTURER * B</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ADVANCED DS LECTURER B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ADVANCED DS LECTURER B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ADVANCED DS * B LECTURER *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ADVANCED DS * B LECTURER</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ADVANCED DS * B LECTURER *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ADVANCED DS * B LECTURER</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ ADVANCED DS B * LECTURER *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ADVANCED DS B * LECTURER</pattern>
+
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ADVANCED DS B * LECTURER *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ADVANCED DS B * LECTURER</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LECTURER * ADVANCED DS *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECTURER * ADVANCED DS</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER * ADVANCED DS *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER * ADVANCED DS</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECTURER ADVANCED DS *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECTURER ADVANCED DS</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * LECTURER ADVANCED DS *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER ADVANCED DS</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B ADVANCED DS LECTURER *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B ADVANCED DS LECTURER</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * ADVANCED DS LECTURER *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * ADVANCED DS LECTURER</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * ADVANCED DS * B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * ADVANCED DS * B</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * ADVANCED DS * B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * ADVANCED DS * B</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * ADVANCED DS B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * ADVANCED DS B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT ADVANCED DS * B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT ADVANCED DS * B</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT ADVANCED DS * B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT ADVANCED DS * B</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT ADVANCED DS B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT ADVANCED DS B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT * B * ADVANCED DS *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT * B * ADVANCED DS</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * B * ADVANCED DS *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * B * ADVANCED DS</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT B * ADVANCED DS *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT B * ADVANCED DS</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT B * ADVANCED DS *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT B * ADVANCED DS</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * B ADVANCED DS *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * B ADVANCED DS</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * B ADVANCED DS *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * B ADVANCED DS</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ ADVANCED DS LECT * B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ADVANCED DS LECT * B</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ADVANCED DS LECT * B</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ADVANCED DS LECT B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ADVANCED DS LECT B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ADVANCED DS * B LECT *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ADVANCED DS * B LECT</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ADVANCED DS * B LECT *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ADVANCED DS * B LECT</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ ADVANCED DS B * LECT *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ADVANCED DS B * LECT</pattern>
+
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ADVANCED DS B * LECT *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ADVANCED DS B * LECT</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LECT * ADVANCED DS *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECT * ADVANCED DS</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT * ADVANCED DS *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT * ADVANCED DS</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECT ADVANCED DS *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECT ADVANCED DS</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * LECT ADVANCED DS *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT ADVANCED DS</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B ADVANCED DS LECT *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B ADVANCED DS LECT</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * ADVANCED DS LECT *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * ADVANCED DS LECT</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * ADVANCED DS * B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * ADVANCED DS * B</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * ADVANCED DS * B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * ADVANCED DS * B</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * ADVANCED DS B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * ADVANCED DS B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER ADVANCED DS * B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER ADVANCED DS * B</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER ADVANCED DS * B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER ADVANCED DS * B</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER ADVANCED DS B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER ADVANCED DS B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER * B * ADVANCED DS *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER * B * ADVANCED DS</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * B * ADVANCED DS *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * B * ADVANCED DS</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER B * ADVANCED DS *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER B * ADVANCED DS</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER B * ADVANCED DS *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER B * ADVANCED DS</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * B ADVANCED DS *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * B ADVANCED DS</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * B ADVANCED DS *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * B ADVANCED DS</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ ADVANCED DS TEACHER * B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ADVANCED DS TEACHER * B</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ADVANCED DS TEACHER * B</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ADVANCED DS TEACHER B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ADVANCED DS TEACHER B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ADVANCED DS * B TEACHER *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ADVANCED DS * B TEACHER</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ADVANCED DS * B TEACHER *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ADVANCED DS * B TEACHER</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ ADVANCED DS B * TEACHER *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ADVANCED DS B * TEACHER</pattern>
+
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ADVANCED DS B * TEACHER *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ADVANCED DS B * TEACHER</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B TEACHER * ADVANCED DS *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B TEACHER * ADVANCED DS</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER * ADVANCED DS *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER * ADVANCED DS</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B TEACHER ADVANCED DS *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B TEACHER ADVANCED DS</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * TEACHER ADVANCED DS *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER ADVANCED DS</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B ADVANCED DS TEACHER *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B ADVANCED DS TEACHER</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * ADVANCED DS TEACHER *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * ADVANCED DS TEACHER</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ FACULTY * ADVANCED DS * B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * ADVANCED DS * B</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * ADVANCED DS * B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * ADVANCED DS * B</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * ADVANCED DS B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * ADVANCED DS B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY ADVANCED DS * B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY ADVANCED DS * B</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY ADVANCED DS * B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY ADVANCED DS * B</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY ADVANCED DS B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY ADVANCED DS B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY * B * ADVANCED DS *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY * B * ADVANCED DS</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * B * ADVANCED DS *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * B * ADVANCED DS</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY B * ADVANCED DS *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY B * ADVANCED DS</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY B * ADVANCED DS *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY B * ADVANCED DS</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * B ADVANCED DS *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * B ADVANCED DS</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * B ADVANCED DS *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * B ADVANCED DS</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ ADVANCED DS FACULTY * B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ADVANCED DS FACULTY * B</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ADVANCED DS FACULTY * B</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ADVANCED DS FACULTY B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ADVANCED DS FACULTY B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ADVANCED DS * B FACULTY *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ADVANCED DS * B FACULTY</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ADVANCED DS * B FACULTY *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ADVANCED DS * B FACULTY</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ ADVANCED DS B * FACULTY *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ADVANCED DS B * FACULTY</pattern>
+
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ADVANCED DS B * FACULTY *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ADVANCED DS B * FACULTY</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B FACULTY * ADVANCED DS *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B FACULTY * ADVANCED DS</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY * ADVANCED DS *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY * ADVANCED DS</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B FACULTY ADVANCED DS *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B FACULTY ADVANCED DS</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * FACULTY ADVANCED DS *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY ADVANCED DS</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B ADVANCED DS FACULTY *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B ADVANCED DS FACULTY</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * ADVANCED DS FACULTY *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * ADVANCED DS FACULTY</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ TEACHES ADVANCED DS * B</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES ADVANCED DS B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHES * B ADVANCED DS *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES * B ADVANCED DS</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ TEACHES B * ADVANCED DS *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES B * ADVANCED DS</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ADVANCED DS * B * TAUGHT *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ADVANCED DS * B * TAUGHT *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ADVANCED DS B * TAUGHT *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ADVANCED DS B * TAUGHT *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ADVANCED DS * B TAUGHT *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>ADVANCED DS * B TAUGHT</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURES * ADVANCED DS * B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * ADVANCED DS * B</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * ADVANCED DS B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES ADVANCED DS * B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES ADVANCED DS * B</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES ADVANCED DS B *</pattern>
+	<template>
+		<srai>ADSB</srai>
+	</template>
+</category>
+
+
+
+</aiml>
