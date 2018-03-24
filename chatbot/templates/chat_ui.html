@@ -3,13 +3,19 @@
 <head>
 	<meta charset="utf-8">
 	<title>CHAT</title>
-	<link rel="stylesheet" type="text/css" href="style.css" />
+	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css" />
+	<link rel="stylesheet" type="text/css" href="css/style.css" />
+	<script type="text/javascript" src = "js/bootstrap.min.js"></script>
+	<script type="text/javascript" src = "js/jquery.min.js"></script>
+	<script type="text/javascript" src = "js/script.js"></script>
 </head>
 <body>
 	<div class="container">
 		<div class="app">
-			<div class="head">
-				<span class="title">liaCT.ai</span>
+			<div class = "row">
+				<div class="head">
+					<span class="title">liaCT.ai</span>
+				</div>
 			</div>
 			<div class="body">
 				<div class="chat-messages">
@@ -21,12 +27,12 @@
 						</div>
 					</div>
 				</div>
-				<footer class="msg-box">
-						<input type="text" class="ip-msg" placeholder="Type your message..." />
-						<button class="btn">
+				<div class="msg-box">
+						<input id = "chat-input" type="text" class="ip-msg" placeholder="Type your message..." />
+						<button class="btn" onclick = "getBotResponse()">
 							<span class="send">Send</span>
 						</button>
-				</footer>
+				</div>
 			</div>
 		</div>
 	</div>

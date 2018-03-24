@@ -19,6 +19,6 @@ from django.contrib import admin
 from chatbot.chat import views
 
 urlpatterns = [
-    url(r'^chat(/)?$', views.ChatView.as_view()),
+    url(r'^(/)?$', views.ChatView.as_view()),
     url(r'^response(/)?$', views.ResponseView.as_view()),
 ]

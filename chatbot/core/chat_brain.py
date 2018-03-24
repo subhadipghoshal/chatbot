@@ -1,4 +1,4 @@
-import aiml
+from aiml import Kernel
 import sys
 import os
 
@@ -16,16 +16,18 @@ def singleton(class_):
     return getinstance
 
 
-# @singleton
+@singleton
 class ChatBrain:
 
     def __init__(self):
-        self.kernel = aiml.Kernel()
+        self.kernel = Kernel()
         self.kernel.verbose(True)
 
-        self.kernel.learn(os.path.join(BASE_DIR, 'chatbot', 'core', 'std-startup.xml'))
+        # self.kernel.learn(os.path.join(BASE_DIR, 'chatbot', 'core', 'std-startup.xml'))
 
-        self.kernel.respond('LOAD AIML B')
+        self.kernel.bootstrap(brainFile=os.path.join(BASE_DIR, 'chatbot', 'AIML', 'liaCt.brn'))
+
+        # self.kernel.respond('LOAD AIML B')
 
     def getResponse(self, chat_input):
         response = self.kernel.respond(chat_input)
