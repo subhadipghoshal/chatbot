@@ -36,15 +36,3 @@ class ChatBrain:
             return "Sorry! I don't know! :("
         else:
             return response
-
-# while True:
-# 	input_string = raw_input("Enter your message >> ")
-# 	if input_string in ['exit', 'quit', 'bye','thanks']:
-# 		print ("OK Bye!")
-# 		break
-# 	response = kernel.respond(input_string)
-# 	if not response:
-# 		print("Sorry! I don't know! :(")
-# 	else:
-# 		print(response)
-#     # print kernel.respond(raw_input("Enter your message >> "))
