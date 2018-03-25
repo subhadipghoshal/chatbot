@@ -28,17 +28,14 @@ class ChatView(View):
         else:
             return HttpResponse('Aw! Shucks!')
 
-    # def get(self, request, *args, **kwargs):
-    #     return HttpResponse('Hello, World!')
-
 
 class ResponseView(View):
 
     def post(self, request, *args, **kwargs):
         body_unicode = request.body.decode('utf-8')
-        body = json.loads(body_unicode)
+        data = json.loads(body_unicode)
 
         chat_brain = ChatBrain()
-        response = chat_brain.getResponse(body['content'])
+        response = chat_brain.getResponse(data['content'])
 
         return HttpResponse(response)

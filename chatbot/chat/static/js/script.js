@@ -37,19 +37,17 @@ function addMessage() {
         'content': val
     };
 
-    var settings = {
+    var request = {
         "async": true,
-        "crossDomain": true,
         "url": "/response",
         "method": "POST",
         "headers": {
             "Content-Type": "application/json"
         },
-        "processData": false,
         "data": JSON.stringify(data)
     }
 
-    $.ajax(settings).done(function (response) {
+    $.ajax(request).done(function (response) {
         console.log(response);
         $('.chats').append(
             createMessage(response,'left')

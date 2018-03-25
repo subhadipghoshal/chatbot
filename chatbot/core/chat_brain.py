@@ -22,17 +22,13 @@ class ChatBrain:
     def __init__(self):
         self.kernel = Kernel()
         self.kernel.verbose(True)
-
-        # self.kernel.learn(os.path.join(BASE_DIR, 'chatbot', 'core', 'std-startup.xml'))
-
         self.kernel.bootstrap(brainFile=os.path.join(BASE_DIR, 'chatbot', 'AIML', 'liaCt.brn'))
 
-        # self.kernel.respond('LOAD AIML B')
 
     def getResponse(self, chat_input):
         response = self.kernel.respond(chat_input)
 
         if not response:
-            return "Sorry! I don't know! :("
+            return "I am sorry! I don't know the answer! I am just a stupid little bot :("
         else:
             return response
