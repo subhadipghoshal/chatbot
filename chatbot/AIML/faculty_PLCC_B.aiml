@@ -1,0 +1,4577 @@
+<aiml version="1.0.1" encoding="UTF-8">
+
+<category>
+	<pattern>PLCB</pattern>
+	<template>
+		<random>
+			<li>Nilofer Shoaib Khan teaches PROGRAMMING LANGUAGE CONCEPTS and CONSTRUCTS</li>
+			<li>Nilofer Shoaib Khan</li>
+			<li>PROGRAMMING LANGUAGE CONCEPTS and CONSTRUCTS is taught by Nilofer Shoaib Khan</li>
+		</random>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS * B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS * B</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS * B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS * B</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS * B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS * B</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS * B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS * B</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR * B * PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR * B * PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * B * PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * B * PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR B * PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR B * PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR B * PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR B * PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * B PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * B PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * B PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * B PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS PROFESSOR * B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS PROFESSOR * B</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS PROFESSOR * B</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS PROFESSOR B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS PROFESSOR B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS * B PROFESSOR *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS * B PROFESSOR</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS * B PROFESSOR *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS * B PROFESSOR</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS B * PROFESSOR *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS B * PROFESSOR</pattern>
+
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS B * PROFESSOR *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS B * PROFESSOR</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROFESSOR * PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROFESSOR * PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR * PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR * PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROFESSOR PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROFESSOR PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * PROFESSOR PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS PROFESSOR *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS PROFESSOR</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS PROFESSOR *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS PROFESSOR</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS * B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS * B</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS * B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS * B</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS * B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS * B</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS * B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS * B</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF * B * PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF * B * PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * B * PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * B * PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF B * PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF B * PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF B * PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF B * PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * B PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * B PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * B PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * B PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS PROF * B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS PROF * B</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS PROF * B</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS PROF B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS PROF B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS * B PROF *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS * B PROF</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS * B PROF *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS * B PROF</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS B * PROF *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS B * PROF</pattern>
+
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS B * PROF *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS B * PROF</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROF * PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROF * PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF * PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF * PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROF PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROF PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * PROF PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS PROF *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS PROF</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS PROF *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS PROF</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS * B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS * B</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS * B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS * B</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS * B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS * B</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS * B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS * B</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER * B * PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER * B * PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * B * PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * B * PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER B * PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER B * PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER B * PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER B * PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * B PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * B PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * B PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * B PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS LECTURER * B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS LECTURER * B</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS LECTURER * B</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS LECTURER B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS LECTURER B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS * B LECTURER *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS * B LECTURER</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS * B LECTURER *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS * B LECTURER</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS B * LECTURER *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS B * LECTURER</pattern>
+
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS B * LECTURER *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS B * LECTURER</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LECTURER * PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECTURER * PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER * PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER * PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECTURER PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECTURER PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * LECTURER PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS LECTURER *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS LECTURER</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS LECTURER *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS LECTURER</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS * B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS * B</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS * B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS * B</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS * B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS * B</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS * B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS * B</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT * B * PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT * B * PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * B * PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * B * PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT B * PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT B * PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT B * PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT B * PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * B PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * B PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * B PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * B PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS LECT * B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS LECT * B</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS LECT * B</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS LECT B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS LECT B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS * B LECT *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS * B LECT</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS * B LECT *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS * B LECT</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS B * LECT *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS B * LECT</pattern>
+
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS B * LECT *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS B * LECT</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LECT * PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECT * PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT * PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT * PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECT PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECT PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * LECT PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS LECT *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS LECT</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS LECT *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS LECT</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS * B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS * B</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS * B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS * B</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS * B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS * B</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS * B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS * B</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER * B * PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER * B * PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * B * PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * B * PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER B * PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER B * PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER B * PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER B * PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * B PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * B PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * B PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * B PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS TEACHER * B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS TEACHER * B</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS TEACHER * B</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS TEACHER B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS TEACHER B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS * B TEACHER *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS * B TEACHER</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS * B TEACHER *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS * B TEACHER</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS B * TEACHER *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS B * TEACHER</pattern>
+
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS B * TEACHER *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS B * TEACHER</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B TEACHER * PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B TEACHER * PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER * PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER * PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B TEACHER PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B TEACHER PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * TEACHER PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS TEACHER *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS TEACHER</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS TEACHER *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS TEACHER</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ FACULTY * PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS * B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS * B</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS * B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS * B</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS * B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS * B</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS * B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS * B</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY * B * PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY * B * PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * B * PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * B * PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY B * PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY B * PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY B * PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY B * PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * B PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * B PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * B PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * B PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS FACULTY * B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS FACULTY * B</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS FACULTY * B</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS FACULTY B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS FACULTY B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS * B FACULTY *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS * B FACULTY</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS * B FACULTY *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS * B FACULTY</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS B * FACULTY *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS B * FACULTY</pattern>
+
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS B * FACULTY *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS B * FACULTY</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B FACULTY * PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B FACULTY * PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY * PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS *</pattern>
+	<template><srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY * PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B FACULTY PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B FACULTY PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * FACULTY PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS FACULTY *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS FACULTY</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS FACULTY *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS FACULTY</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ TEACHES PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS * B</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHES * B PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES * B PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ TEACHES B * PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES B * PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS * B * TAUGHT *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS * B * TAUGHT *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS B * TAUGHT *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS B * TAUGHT *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS * B TAUGHT *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS * B TAUGHT *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS * B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS * B</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS * B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS * B</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES PROGRAMMING LANGUAGE CONCEPTS * CONSTRUCTS B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR * PLCC * B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * PLCC * B</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * PLCC * B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * PLCC * B</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * PLCC B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * PLCC B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR PLCC * B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR PLCC * B</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR PLCC * B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR PLCC * B</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR PLCC B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR PLCC B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR * B * PLCC *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR * B * PLCC</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * B * PLCC *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * B * PLCC</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR B * PLCC *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR B * PLCC</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR B * PLCC *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR B * PLCC</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * B PLCC *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * B PLCC</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * B PLCC *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * B PLCC</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PLCC PROFESSOR * B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PLCC PROFESSOR * B</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PLCC PROFESSOR * B</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PLCC PROFESSOR B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PLCC PROFESSOR B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PLCC * B PROFESSOR *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PLCC * B PROFESSOR</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PLCC * B PROFESSOR *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PLCC * B PROFESSOR</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ PLCC B * PROFESSOR *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PLCC B * PROFESSOR</pattern>
+
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PLCC B * PROFESSOR *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PLCC B * PROFESSOR</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROFESSOR * PLCC *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROFESSOR * PLCC</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR * PLCC *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR * PLCC</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROFESSOR PLCC *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROFESSOR PLCC</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * PROFESSOR PLCC *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR PLCC</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PLCC PROFESSOR *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PLCC PROFESSOR</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * PLCC PROFESSOR *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PLCC PROFESSOR</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * PLCC * B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * PLCC * B</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * PLCC * B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * PLCC * B</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * PLCC B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * PLCC B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF PLCC * B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF PLCC * B</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF PLCC * B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF PLCC * B</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF PLCC B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF PLCC B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF * B * PLCC *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF * B * PLCC</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * B * PLCC *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * B * PLCC</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF B * PLCC *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF B * PLCC</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF B * PLCC *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF B * PLCC</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * B PLCC *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * B PLCC</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * B PLCC *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * B PLCC</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PLCC PROF * B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PLCC PROF * B</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PLCC PROF * B</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PLCC PROF B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PLCC PROF B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PLCC * B PROF *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PLCC * B PROF</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PLCC * B PROF *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PLCC * B PROF</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ PLCC B * PROF *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PLCC B * PROF</pattern>
+
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PLCC B * PROF *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PLCC B * PROF</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROF * PLCC *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROF * PLCC</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF * PLCC *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF * PLCC</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROF PLCC *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROF PLCC</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * PROF PLCC *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF PLCC</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PLCC PROF *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PLCC PROF</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * PLCC PROF *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * PLCC PROF</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * PLCC * B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * PLCC * B</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * PLCC * B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * PLCC * B</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * PLCC B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * PLCC B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER PLCC * B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER PLCC * B</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER PLCC * B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER PLCC * B</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER PLCC B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER PLCC B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER * B * PLCC *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER * B * PLCC</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * B * PLCC *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * B * PLCC</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER B * PLCC *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER B * PLCC</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER B * PLCC *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER B * PLCC</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * B PLCC *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * B PLCC</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * B PLCC *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * B PLCC</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PLCC LECTURER * B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PLCC LECTURER * B</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PLCC LECTURER * B</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PLCC LECTURER B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PLCC LECTURER B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PLCC * B LECTURER *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PLCC * B LECTURER</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PLCC * B LECTURER *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PLCC * B LECTURER</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ PLCC B * LECTURER *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PLCC B * LECTURER</pattern>
+
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PLCC B * LECTURER *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PLCC B * LECTURER</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LECTURER * PLCC *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECTURER * PLCC</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER * PLCC *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER * PLCC</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECTURER PLCC *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECTURER PLCC</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * LECTURER PLCC *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER PLCC</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PLCC LECTURER *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PLCC LECTURER</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * PLCC LECTURER *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PLCC LECTURER</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * PLCC * B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * PLCC * B</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * PLCC * B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * PLCC * B</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * PLCC B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * PLCC B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT PLCC * B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT PLCC * B</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT PLCC * B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT PLCC * B</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT PLCC B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT PLCC B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT * B * PLCC *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT * B * PLCC</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * B * PLCC *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * B * PLCC</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT B * PLCC *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT B * PLCC</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT B * PLCC *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT B * PLCC</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * B PLCC *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * B PLCC</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * B PLCC *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * B PLCC</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PLCC LECT * B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PLCC LECT * B</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PLCC LECT * B</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PLCC LECT B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PLCC LECT B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PLCC * B LECT *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PLCC * B LECT</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PLCC * B LECT *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PLCC * B LECT</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ PLCC B * LECT *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PLCC B * LECT</pattern>
+
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PLCC B * LECT *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PLCC B * LECT</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LECT * PLCC *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECT * PLCC</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT * PLCC *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT * PLCC</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECT PLCC *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECT PLCC</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * LECT PLCC *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT PLCC</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PLCC LECT *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PLCC LECT</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * PLCC LECT *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PLCC LECT</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * PLCC * B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * PLCC * B</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * PLCC * B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * PLCC * B</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * PLCC B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * PLCC B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER PLCC * B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER PLCC * B</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER PLCC * B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER PLCC * B</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER PLCC B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER PLCC B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER * B * PLCC *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER * B * PLCC</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * B * PLCC *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * B * PLCC</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER B * PLCC *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER B * PLCC</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER B * PLCC *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER B * PLCC</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * B PLCC *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * B PLCC</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * B PLCC *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * B PLCC</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PLCC TEACHER * B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PLCC TEACHER * B</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PLCC TEACHER * B</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PLCC TEACHER B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PLCC TEACHER B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PLCC * B TEACHER *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PLCC * B TEACHER</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PLCC * B TEACHER *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PLCC * B TEACHER</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ PLCC B * TEACHER *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PLCC B * TEACHER</pattern>
+
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PLCC B * TEACHER *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PLCC B * TEACHER</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B TEACHER * PLCC *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B TEACHER * PLCC</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER * PLCC *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER * PLCC</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B TEACHER PLCC *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B TEACHER PLCC</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * TEACHER PLCC *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER PLCC</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PLCC TEACHER *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PLCC TEACHER</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * PLCC TEACHER *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PLCC TEACHER</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ FACULTY * PLCC * B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * PLCC * B</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * PLCC * B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * PLCC * B</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * PLCC B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * PLCC B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY PLCC * B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY PLCC * B</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY PLCC * B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY PLCC * B</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY PLCC B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY PLCC B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY * B * PLCC *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY * B * PLCC</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * B * PLCC *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * B * PLCC</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY B * PLCC *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY B * PLCC</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY B * PLCC *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY B * PLCC</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * B PLCC *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * B PLCC</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * B PLCC *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * B PLCC</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PLCC FACULTY * B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PLCC FACULTY * B</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PLCC FACULTY * B</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PLCC FACULTY B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PLCC FACULTY B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PLCC * B FACULTY *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PLCC * B FACULTY</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PLCC * B FACULTY *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PLCC * B FACULTY</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ PLCC B * FACULTY *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PLCC B * FACULTY</pattern>
+
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PLCC B * FACULTY *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PLCC B * FACULTY</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B FACULTY * PLCC *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B FACULTY * PLCC</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY * PLCC *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY * PLCC</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B FACULTY PLCC *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B FACULTY PLCC</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * FACULTY PLCC *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY PLCC</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PLCC FACULTY *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PLCC FACULTY</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * PLCC FACULTY *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PLCC FACULTY</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ TEACHES PLCC * B</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES PLCC B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHES * B PLCC *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES * B PLCC</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ TEACHES B * PLCC *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES B * PLCC</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PLCC * B * TAUGHT *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PLCC * B * TAUGHT *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PLCC B * TAUGHT *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PLCC B * TAUGHT *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PLCC * B TAUGHT *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>PLCC * B TAUGHT *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * PLCC * B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * PLCC * B</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * PLCC B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES PLCC * B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES PLCC * B</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES PLCC B *</pattern>
+	<template>
+		<srai>PLCB</srai>
+	</template>
+</category>
+
+
+</aiml>

@@ -1,0 +1,898 @@
+<aiml version="1.0.1" encoding="UTF-8">
+
+<category>
+	<pattern>CNN</pattern>
+	<template>CT1340</template>
+</category>
+
+<category>
+	<pattern>_ CODE * CN *</pattern>
+	<template>
+		<srai>CNN</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE * CN</pattern>
+	<template>
+		<srai>CNN</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE CN *</pattern>
+	<template>
+		<srai>CNN</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE CN</pattern>
+	<template>
+		<srai>CNN</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CN * CODE *</pattern>
+	<template>
+		<srai>CNN</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CN * CODE</pattern>
+	<template>
+		<srai>CNN</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>CN * CODE *</pattern>
+	<template>
+		<srai>CNN</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>CN * CODE</pattern>
+	<template>
+		<srai>CNN</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CODE * COMPUTER NETWORKS *</pattern>
+	<template>
+		<srai>CN</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE * COMPUTER NETWORKS</pattern>
+	<template>
+		<srai>CN</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE COMPUTER NETWORKS *</pattern>
+	<template>
+		<srai>CN</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE COMPUTER NETWORKS</pattern>
+	<template>
+		<srai>CN</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER NETWORKS * CODE *</pattern>
+	<template>
+		<srai>CN</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER NETWORKS * CODE</pattern>
+	<template>
+		<srai>CN</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>COMPUTER NETWORKS * CODE *</pattern>
+	<template>
+		<srai>CN</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>COMPUTER NETWORKS * CODE</pattern>
+	<template>
+		<srai>CN</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ CODE * COMPUTER NETWORK *</pattern>
+	<template>
+		<srai>CN</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE * COMPUTER NETWORK</pattern>
+	<template>
+		<srai>CN</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE COMPUTER NETWORK *</pattern>
+	<template>
+		<srai>CN</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE COMPUTER NETWORK</pattern>
+	<template>
+		<srai>CN</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER NETWORK * CODE *</pattern>
+	<template>
+		<srai>CN</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ COMPUTER NETWORK * CODE</pattern>
+	<template>
+		<srai>CN</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>COMPUTER NETWORK * CODE *</pattern>
+	<template>
+		<srai>CN</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>COMPUTER NETWORK * CODE</pattern>
+	<template>
+		<srai>CN</srai>
+	</template>
+</category>
+
+
+
+
+<category>
+	<pattern>DB</pattern>
+	<template>CT1316</template>
+</category>
+
+<category>
+	<pattern>_ CODE * DATABASE MANAGEMENT SYSTEM *</pattern>
+	<template>
+		<srai>DB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE * DATABASE MANAGEMENT SYSTEM</pattern>
+	<template>
+		<srai>DB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE DATABASE MANAGEMENT SYSTEM *</pattern>
+	<template>
+		<srai>DB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE DATABASE MANAGEMENT SYSTEM</pattern>
+	<template>
+		<srai>DB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DATABASE MANAGEMENT SYSTEM * CODE *</pattern>
+	<template>
+		<srai>DB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DATABASE MANAGEMENT SYSTEM * CODE</pattern>
+	<template>
+		<srai>DB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>DATABASE MANAGEMENT SYSTEM * CODE *</pattern>
+	<template>
+		<srai>DB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>DATABASE MANAGEMENT SYSTEM * CODE</pattern>
+	<template>
+		<srai>DB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CODE * DATABASE MANAGEMENT SYSTEMS *</pattern>
+	<template>
+		<srai>DB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE * DATABASE MANAGEMENT SYSTEMS</pattern>
+	<template>
+		<srai>DB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE DATABASE MANAGEMENT SYSTEMS *</pattern>
+	<template>
+		<srai>DB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE DATABASE MANAGEMENT SYSTEMS</pattern>
+	<template>
+		<srai>DB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DATABASE MANAGEMENT SYSTEMS * CODE *</pattern>
+	<template>
+		<srai>DB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DATABASE MANAGEMENT SYSTEMS * CODE</pattern>
+	<template>
+		<srai>DB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>DATABASE MANAGEMENT SYSTEMS * CODE *</pattern>
+	<template>
+		<srai>DB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>DATABASE MANAGEMENT SYSTEMS * CODE</pattern>
+	<template>
+		<srai>DB</srai>
+	</template>
+</category>
+
+
+
+
+<category>
+	<pattern>_ CODE * DBMS *</pattern>
+	<template>
+		<srai>DB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE * DBMS</pattern>
+	<template>
+		<srai>DB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE DBMS *</pattern>
+	<template>
+		<srai>DB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE DBMS</pattern>
+	<template>
+		<srai>DB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DBMS * CODE *</pattern>
+	<template>
+		<srai>DB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DBMS * CODE</pattern>
+	<template>
+		<srai>DB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>DBMS * CODE *</pattern>
+	<template>
+		<srai>DB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>DBMS * CODE</pattern>
+	<template>
+		<srai>DB</srai>
+	</template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>ECOO</pattern>
+	<template>GE1312</template>
+</category>
+
+<category>
+	<pattern>_ CODE * ECO *</pattern>
+	<template>
+		<srai>ECOO</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE * ECO</pattern>
+	<template>
+		<srai>ECOO</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE ECO *</pattern>
+	<template>
+		<srai>ECOO</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE ECO</pattern>
+	<template>
+		<srai>ECOO</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECO * CODE *</pattern>
+	<template>
+		<srai>ECOO</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECO * CODE</pattern>
+	<template>
+		<srai>ECOO</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ECO * CODE *</pattern>
+	<template>
+		<srai>ECOO</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ECO * CODE</pattern>
+	<template>
+		<srai>ECOO</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE * FOE *</pattern>
+	<template>
+		<srai>FOEO</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE * FOE</pattern>
+	<template>
+		<srai>FOEO</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE FOE *</pattern>
+	<template>
+		<srai>FOEO</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE FOE</pattern>
+	<template>
+		<srai>FOEO</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FOE * CODE *</pattern>
+	<template>
+		<srai>FOEO</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FOE * CODE</pattern>
+	<template>
+		<srai>FOEO</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FOE * CODE *</pattern>
+	<template>
+		<srai>FOEO</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FOE * CODE</pattern>
+	<template>
+		<srai>FOEO</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CODE * FUNDAMENTALS OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOO</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE * FUNDAMENTALS OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOO</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE FUNDAMENTALS OF ECONOMICS *</pattern>
+	<template>
+		<srai>ECOO</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE FUNDAMENTALS OF ECONOMICS</pattern>
+	<template>
+		<srai>ECOO</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTALS OF ECONOMICS * CODE *</pattern>
+	<template>
+		<srai>ECOO</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FUNDAMENTALS OF ECONOMICS * CODE</pattern>
+	<template>
+		<srai>ECOO</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTALS OF ECONOMICS * CODE *</pattern>
+	<template>
+		<srai>ECOO</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FUNDAMENTALS OF ECONOMICS * CODE</pattern>
+	<template>
+		<srai>ECOO</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CODE * ECONOMICS *</pattern>
+	<template>
+		<srai>ECOO</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE * ECONOMICS</pattern>
+	<template>
+		<srai>ECOO</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE ECONOMICS *</pattern>
+	<template>
+		<srai>ECOO</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE ECONOMICS</pattern>
+	<template>
+		<srai>ECOO</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECONOMICS * CODE *</pattern>
+	<template>
+		<srai>ECOO</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ ECONOMICS * CODE</pattern>
+	<template>
+		<srai>ECOO</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ECONOMICS * CODE *</pattern>
+	<template>
+		<srai>ECOO</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>ECONOMICS * CODE</pattern>
+	<template>
+		<srai>ECOO</srai>
+	</template>
+</category>
+
+
+
+
+<category>
+	<pattern>OSS</pattern>
+	<template>CT1302</template>
+</category>
+
+<category>
+	<pattern>_ CODE * OPERATING SYSTEM *</pattern>
+	<template>
+		<srai>OSS</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE * OPERATING SYSTEM</pattern>
+	<template>
+		<srai>OSS</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE OPERATING SYSTEM *</pattern>
+	<template>
+		<srai>OSS</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE OPERATING SYSTEM</pattern>
+	<template>
+		<srai>OSS</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEM * CODE *</pattern>
+	<template>
+		<srai>OSS</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERATING SYSTEM * CODE</pattern>
+	<template>
+		<srai>OSS</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OPERATING SYSTEM * CODE *</pattern>
+	<template>
+		<srai>OSS</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OPERATING SYSTEM * CODE</pattern>
+	<template>
+		<srai>OSS</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE * OPERARING SYSTEMS *</pattern>
+	<template>
+		<srai>OSS</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE * OPERARING SYSTEMS</pattern>
+	<template>
+		<srai>OSS</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE OPERARING SYSTEMS *</pattern>
+	<template>
+		<srai>OSS</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE OPERARING SYSTEMS</pattern>
+	<template>
+		<srai>OSS</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERARING SYSTEMS * CODE *</pattern>
+	<template>
+		<srai>OSS</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OPERARING SYSTEMS * CODE</pattern>
+	<template>
+		<srai>OSS</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OPERARING SYSTEMS * CODE *</pattern>
+	<template>
+		<srai>OSS</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OPERARING SYSTEMS * CODE</pattern>
+	<template>
+		<srai>OSS</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ CODE * OS *</pattern>
+	<template>
+		<srai>OSS</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE * OS</pattern>
+	<template>
+		<srai>OSS</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE OS *</pattern>
+	<template>
+		<srai>OSS</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE OS</pattern>
+	<template>
+		<srai>OSS</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OS * CODE *</pattern>
+	<template>
+		<srai>OSS</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OS * CODE</pattern>
+	<template>
+		<srai>OSS</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OS * CODE *</pattern>
+	<template>
+		<srai>OSS</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OS * CODE</pattern>
+	<template>
+		<srai>OSS</srai>
+	</template>
+</category>
+
+
+
+
+
+
+
+
+<category>
+	<pattern>TFCSS</pattern>
+	<template>CT1301</template>
+</category>
+
+<category>
+	<pattern>_ CODE * THEORETICAL FOUNDATION * COMPUTER SCIENCE *</pattern>
+	<template>
+		<srai>TFCSS</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE * THEORETICAL FOUNDATION * COMPUTER SCIENCE</pattern>
+	<template>
+		<srai>TFCSS</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE THEORETICAL FOUNDATION * COMPUTER SCIENCE *</pattern>
+	<template>
+		<srai>TFCSS</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE THEORETICAL FOUNDATION * COMPUTER SCIENCE</pattern>
+	<template>
+		<srai>TFCSS</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ THEORETICAL FOUNDATION * COMPUTER SCIENCE * CODE *</pattern>
+	<template>
+		<srai>TFCSS</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ THEORETICAL FOUNDATION * COMPUTER SCIENCE * CODE</pattern>
+	<template>
+		<srai>TFCSS</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>THEORETICAL FOUNDATION * COMPUTER SCIENCE * CODE *</pattern>
+	<template>
+		<srai>TFCSS</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>THEORETICAL FOUNDATION * COMPUTER SCIENCE * CODE</pattern>
+	<template>
+		<srai>TFCSS</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ CODE * TFCS *</pattern>
+	<template>
+		<srai>TFCSS</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE * TFCS</pattern>
+	<template>
+		<srai>TFCSS</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE TFCS *</pattern>
+	<template>
+		<srai>TFCSS</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ CODE TFCS</pattern>
+	<template>
+		<srai>TFCSS</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TFCS * CODE *</pattern>
+	<template>
+		<srai>TFCSS</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TFCS * CODE</pattern>
+	<template>
+		<srai>TFCSS</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TFCS * CODE *</pattern>
+	<template>
+		<srai>TFCSS</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TFCS * CODE</pattern>
+	<template>
+		<srai>TFCSS</srai>
+	</template>
+</category>
+
+
+</aiml>

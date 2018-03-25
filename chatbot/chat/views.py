@@ -19,7 +19,7 @@ from chatbot.settings import BASE_DIR
 class ChatView(View):
     def get(self, request, *args, **kwargs):
         # template = get_template('chat_ui.html')
-        with open(os.path.join(BASE_DIR, 'chatbot', 'templates', 'chat_ui.html')) as fp:
+        with open(os.path.join(BASE_DIR, 'chatbot', 'chat', 'static', 'templates', 'chat_ui.html')) as fp:
             t = Template(fp.read())
             fp.close()
         if t:

@@ -1,0 +1,4581 @@
+<aiml version="1.0.1" encoding="UTF-8">
+
+<category>
+	<pattern>SEA</pattern>
+	<template>
+		<random>
+			<li>Mrs. Shweta Amar Gode teaches SOFTWARE ENGINEERING</li>
+			<li>Mrs. Shweta Amar Gode</li>
+			<li>SOFTWARE ENGINEERING is taught by Mrs. Shweta Amar Gode</li>
+		</random>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * SOFTWARE ENGINEERING * A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * SOFTWARE ENGINEERING * A</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * SOFTWARE ENGINEERING * A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * SOFTWARE ENGINEERING * A</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * SOFTWARE ENGINEERING A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * SOFTWARE ENGINEERING A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR SOFTWARE ENGINEERING * A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR SOFTWARE ENGINEERING * A</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR SOFTWARE ENGINEERING * A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR SOFTWARE ENGINEERING * A</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR SOFTWARE ENGINEERING A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR SOFTWARE ENGINEERING A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR * A * SOFTWARE ENGINEERING *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR * A * SOFTWARE ENGINEERING</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * A * SOFTWARE ENGINEERING *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * A * SOFTWARE ENGINEERING</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR A * SOFTWARE ENGINEERING *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR A * SOFTWARE ENGINEERING</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR A * SOFTWARE ENGINEERING *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR A * SOFTWARE ENGINEERING</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * A SOFTWARE ENGINEERING *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * A SOFTWARE ENGINEERING</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * A SOFTWARE ENGINEERING *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * A SOFTWARE ENGINEERING</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ SOFTWARE ENGINEERING PROFESSOR * A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SOFTWARE ENGINEERING PROFESSOR * A</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>SOFTWARE ENGINEERING PROFESSOR * A</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SOFTWARE ENGINEERING PROFESSOR A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>SOFTWARE ENGINEERING PROFESSOR A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SOFTWARE ENGINEERING * A PROFESSOR *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SOFTWARE ENGINEERING * A PROFESSOR</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SOFTWARE ENGINEERING * A PROFESSOR *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SOFTWARE ENGINEERING * A PROFESSOR</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ SOFTWARE ENGINEERING A * PROFESSOR *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SOFTWARE ENGINEERING A * PROFESSOR</pattern>
+
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SOFTWARE ENGINEERING A * PROFESSOR *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SOFTWARE ENGINEERING A * PROFESSOR</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A PROFESSOR * SOFTWARE ENGINEERING *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROFESSOR * SOFTWARE ENGINEERING</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROFESSOR * SOFTWARE ENGINEERING *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROFESSOR * SOFTWARE ENGINEERING</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROFESSOR SOFTWARE ENGINEERING *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROFESSOR SOFTWARE ENGINEERING</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * PROFESSOR SOFTWARE ENGINEERING *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROFESSOR SOFTWARE ENGINEERING</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A SOFTWARE ENGINEERING PROFESSOR *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A SOFTWARE ENGINEERING PROFESSOR</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * SOFTWARE ENGINEERING PROFESSOR *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * SOFTWARE ENGINEERING PROFESSOR</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * SOFTWARE ENGINEERING * A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * SOFTWARE ENGINEERING * A</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * SOFTWARE ENGINEERING * A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * SOFTWARE ENGINEERING * A</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * SOFTWARE ENGINEERING A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * SOFTWARE ENGINEERING A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF SOFTWARE ENGINEERING * A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF SOFTWARE ENGINEERING * A</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF SOFTWARE ENGINEERING * A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF SOFTWARE ENGINEERING * A</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF SOFTWARE ENGINEERING A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF SOFTWARE ENGINEERING A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF * A * SOFTWARE ENGINEERING *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF * A * SOFTWARE ENGINEERING</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * A * SOFTWARE ENGINEERING *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * A * SOFTWARE ENGINEERING</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF A * SOFTWARE ENGINEERING *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF A * SOFTWARE ENGINEERING</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF A * SOFTWARE ENGINEERING *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF A * SOFTWARE ENGINEERING</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * A SOFTWARE ENGINEERING *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * A SOFTWARE ENGINEERING</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * A SOFTWARE ENGINEERING *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * A SOFTWARE ENGINEERING</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ SOFTWARE ENGINEERING PROF * A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SOFTWARE ENGINEERING PROF * A</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>SOFTWARE ENGINEERING PROF * A</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SOFTWARE ENGINEERING PROF A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>SOFTWARE ENGINEERING PROF A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SOFTWARE ENGINEERING * A PROF *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SOFTWARE ENGINEERING * A PROF</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SOFTWARE ENGINEERING * A PROF *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SOFTWARE ENGINEERING * A PROF</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ SOFTWARE ENGINEERING A * PROF *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SOFTWARE ENGINEERING A * PROF</pattern>
+
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SOFTWARE ENGINEERING A * PROF *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SOFTWARE ENGINEERING A * PROF</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A PROF * SOFTWARE ENGINEERING *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROF * SOFTWARE ENGINEERING</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROF * SOFTWARE ENGINEERING *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROF * SOFTWARE ENGINEERING</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROF SOFTWARE ENGINEERING *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROF SOFTWARE ENGINEERING</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * PROF SOFTWARE ENGINEERING *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROF SOFTWARE ENGINEERING</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A SOFTWARE ENGINEERING PROF *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A SOFTWARE ENGINEERING PROF</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * SOFTWARE ENGINEERING PROF *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * SOFTWARE ENGINEERING PROF</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * SOFTWARE ENGINEERING * A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * SOFTWARE ENGINEERING * A</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * SOFTWARE ENGINEERING * A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * SOFTWARE ENGINEERING * A</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * SOFTWARE ENGINEERING A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * SOFTWARE ENGINEERING A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER SOFTWARE ENGINEERING * A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER SOFTWARE ENGINEERING * A</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER SOFTWARE ENGINEERING * A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER SOFTWARE ENGINEERING * A</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER SOFTWARE ENGINEERING A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER SOFTWARE ENGINEERING A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER * A * SOFTWARE ENGINEERING *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER * A * SOFTWARE ENGINEERING</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * A * SOFTWARE ENGINEERING *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * A * SOFTWARE ENGINEERING</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER A * SOFTWARE ENGINEERING *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER A * SOFTWARE ENGINEERING</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER A * SOFTWARE ENGINEERING *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER A * SOFTWARE ENGINEERING</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * A SOFTWARE ENGINEERING *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * A SOFTWARE ENGINEERING</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * A SOFTWARE ENGINEERING *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * A SOFTWARE ENGINEERING</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ SOFTWARE ENGINEERING LECTURER * A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SOFTWARE ENGINEERING LECTURER * A</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>SOFTWARE ENGINEERING LECTURER * A</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SOFTWARE ENGINEERING LECTURER A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>SOFTWARE ENGINEERING LECTURER A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SOFTWARE ENGINEERING * A LECTURER *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SOFTWARE ENGINEERING * A LECTURER</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SOFTWARE ENGINEERING * A LECTURER *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SOFTWARE ENGINEERING * A LECTURER</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ SOFTWARE ENGINEERING A * LECTURER *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SOFTWARE ENGINEERING A * LECTURER</pattern>
+
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SOFTWARE ENGINEERING A * LECTURER *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SOFTWARE ENGINEERING A * LECTURER</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A LECTURER * SOFTWARE ENGINEERING *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECTURER * SOFTWARE ENGINEERING</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECTURER * SOFTWARE ENGINEERING *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECTURER * SOFTWARE ENGINEERING</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECTURER SOFTWARE ENGINEERING *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECTURER SOFTWARE ENGINEERING</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * LECTURER SOFTWARE ENGINEERING *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECTURER SOFTWARE ENGINEERING</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A SOFTWARE ENGINEERING LECTURER *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A SOFTWARE ENGINEERING LECTURER</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * SOFTWARE ENGINEERING LECTURER *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * SOFTWARE ENGINEERING LECTURER</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * SOFTWARE ENGINEERING * A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * SOFTWARE ENGINEERING * A</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * SOFTWARE ENGINEERING * A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * SOFTWARE ENGINEERING * A</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * SOFTWARE ENGINEERING A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * SOFTWARE ENGINEERING A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT SOFTWARE ENGINEERING * A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT SOFTWARE ENGINEERING * A</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT SOFTWARE ENGINEERING * A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT SOFTWARE ENGINEERING * A</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT SOFTWARE ENGINEERING A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT SOFTWARE ENGINEERING A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT * A * SOFTWARE ENGINEERING *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT * A * SOFTWARE ENGINEERING</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * A * SOFTWARE ENGINEERING *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * A * SOFTWARE ENGINEERING</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT A * SOFTWARE ENGINEERING *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT A * SOFTWARE ENGINEERING</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT A * SOFTWARE ENGINEERING *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT A * SOFTWARE ENGINEERING</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * A SOFTWARE ENGINEERING *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * A SOFTWARE ENGINEERING</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * A SOFTWARE ENGINEERING *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * A SOFTWARE ENGINEERING</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ SOFTWARE ENGINEERING LECT * A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SOFTWARE ENGINEERING LECT * A</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>SOFTWARE ENGINEERING LECT * A</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SOFTWARE ENGINEERING LECT A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>SOFTWARE ENGINEERING LECT A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SOFTWARE ENGINEERING * A LECT *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SOFTWARE ENGINEERING * A LECT</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SOFTWARE ENGINEERING * A LECT *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SOFTWARE ENGINEERING * A LECT</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ SOFTWARE ENGINEERING A * LECT *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SOFTWARE ENGINEERING A * LECT</pattern>
+
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SOFTWARE ENGINEERING A * LECT *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SOFTWARE ENGINEERING A * LECT</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A LECT * SOFTWARE ENGINEERING *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECT * SOFTWARE ENGINEERING</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECT * SOFTWARE ENGINEERING *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECT * SOFTWARE ENGINEERING</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECT SOFTWARE ENGINEERING *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECT SOFTWARE ENGINEERING</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * LECT SOFTWARE ENGINEERING *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECT SOFTWARE ENGINEERING</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A SOFTWARE ENGINEERING LECT *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A SOFTWARE ENGINEERING LECT</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * SOFTWARE ENGINEERING LECT *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * SOFTWARE ENGINEERING LECT</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * SOFTWARE ENGINEERING * A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * SOFTWARE ENGINEERING * A</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * SOFTWARE ENGINEERING * A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * SOFTWARE ENGINEERING * A</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * SOFTWARE ENGINEERING A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * SOFTWARE ENGINEERING A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER SOFTWARE ENGINEERING * A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER SOFTWARE ENGINEERING * A</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER SOFTWARE ENGINEERING * A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER SOFTWARE ENGINEERING * A</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER SOFTWARE ENGINEERING A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER SOFTWARE ENGINEERING A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER * A * SOFTWARE ENGINEERING *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER * A * SOFTWARE ENGINEERING</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * A * SOFTWARE ENGINEERING *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * A * SOFTWARE ENGINEERING</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER A * SOFTWARE ENGINEERING *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER A * SOFTWARE ENGINEERING</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER A * SOFTWARE ENGINEERING *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER A * SOFTWARE ENGINEERING</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * A SOFTWARE ENGINEERING *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * A SOFTWARE ENGINEERING</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * A SOFTWARE ENGINEERING *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * A SOFTWARE ENGINEERING</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ SOFTWARE ENGINEERING TEACHER * A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SOFTWARE ENGINEERING TEACHER * A</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>SOFTWARE ENGINEERING TEACHER * A</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SOFTWARE ENGINEERING TEACHER A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>SOFTWARE ENGINEERING TEACHER A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SOFTWARE ENGINEERING * A TEACHER *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SOFTWARE ENGINEERING * A TEACHER</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SOFTWARE ENGINEERING * A TEACHER *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SOFTWARE ENGINEERING * A TEACHER</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ SOFTWARE ENGINEERING A * TEACHER *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SOFTWARE ENGINEERING A * TEACHER</pattern>
+
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SOFTWARE ENGINEERING A * TEACHER *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SOFTWARE ENGINEERING A * TEACHER</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A TEACHER * SOFTWARE ENGINEERING *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A TEACHER * SOFTWARE ENGINEERING</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * TEACHER * SOFTWARE ENGINEERING *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * TEACHER * SOFTWARE ENGINEERING</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A TEACHER SOFTWARE ENGINEERING *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A TEACHER SOFTWARE ENGINEERING</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * TEACHER SOFTWARE ENGINEERING *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * TEACHER SOFTWARE ENGINEERING</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A SOFTWARE ENGINEERING TEACHER *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A SOFTWARE ENGINEERING TEACHER</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * SOFTWARE ENGINEERING TEACHER *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * SOFTWARE ENGINEERING TEACHER</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ FACULTY * SOFTWARE ENGINEERING * A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * SOFTWARE ENGINEERING * A</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * SOFTWARE ENGINEERING * A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * SOFTWARE ENGINEERING * A</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * SOFTWARE ENGINEERING A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * SOFTWARE ENGINEERING A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY SOFTWARE ENGINEERING * A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY SOFTWARE ENGINEERING * A</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY SOFTWARE ENGINEERING * A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY SOFTWARE ENGINEERING * A</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY SOFTWARE ENGINEERING A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY SOFTWARE ENGINEERING A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY * A * SOFTWARE ENGINEERING *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY * A * SOFTWARE ENGINEERING</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * A * SOFTWARE ENGINEERING *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * A * SOFTWARE ENGINEERING</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY A * SOFTWARE ENGINEERING *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY A * SOFTWARE ENGINEERING</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY A * SOFTWARE ENGINEERING *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY A * SOFTWARE ENGINEERING</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * A SOFTWARE ENGINEERING *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * A SOFTWARE ENGINEERING</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * A SOFTWARE ENGINEERING *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * A SOFTWARE ENGINEERING</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ SOFTWARE ENGINEERING FACULTY * A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SOFTWARE ENGINEERING FACULTY * A</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>SOFTWARE ENGINEERING FACULTY * A</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SOFTWARE ENGINEERING FACULTY A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>SOFTWARE ENGINEERING FACULTY A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SOFTWARE ENGINEERING * A FACULTY *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SOFTWARE ENGINEERING * A FACULTY</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SOFTWARE ENGINEERING * A FACULTY *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SOFTWARE ENGINEERING * A FACULTY</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ SOFTWARE ENGINEERING A * FACULTY *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SOFTWARE ENGINEERING A * FACULTY</pattern>
+
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SOFTWARE ENGINEERING A * FACULTY *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SOFTWARE ENGINEERING A * FACULTY</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A FACULTY * SOFTWARE ENGINEERING *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A FACULTY * SOFTWARE ENGINEERING</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * FACULTY * SOFTWARE ENGINEERING *</pattern>
+	<template><srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * FACULTY * SOFTWARE ENGINEERING</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A FACULTY SOFTWARE ENGINEERING *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A FACULTY SOFTWARE ENGINEERING</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * FACULTY SOFTWARE ENGINEERING *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * FACULTY SOFTWARE ENGINEERING</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A SOFTWARE ENGINEERING FACULTY *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A SOFTWARE ENGINEERING FACULTY</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * SOFTWARE ENGINEERING FACULTY *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * SOFTWARE ENGINEERING FACULTY</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ TEACHES SOFTWARE ENGINEERING * A</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES SOFTWARE ENGINEERING A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHES * A SOFTWARE ENGINEERING *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES * A SOFTWARE ENGINEERING</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ TEACHES A * SOFTWARE ENGINEERING *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES A * SOFTWARE ENGINEERING</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SOFTWARE ENGINEERING * A * TAUGHT *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SOFTWARE ENGINEERING * A * TAUGHT *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SOFTWARE ENGINEERING A * TAUGHT *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SOFTWARE ENGINEERING A * TAUGHT *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SOFTWARE ENGINEERING * A TAUGHT *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>SOFTWARE ENGINEERING * A TAUGHT *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURES * SOFTWARE ENGINEERING * A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * SOFTWARE ENGINEERING * A</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * SOFTWARE ENGINEERING A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES SOFTWARE ENGINEERING * A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES SOFTWARE ENGINEERING * A</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES SOFTWARE ENGINEERING A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ PROFESSOR * SE * A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * SE * A</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * SE * A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * SE * A</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * SE A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * SE A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR SE * A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR SE * A</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR SE * A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR SE * A</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR SE A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR SE A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR * A * SE *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR * A * SE</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * A * SE *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * A * SE</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR A * SE *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR A * SE</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR A * SE *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR A * SE</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * A SE *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * A SE</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * A SE *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * A SE</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ SE PROFESSOR * A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SE PROFESSOR * A</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>SE PROFESSOR * A</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SE PROFESSOR A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>SE PROFESSOR A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SE * A PROFESSOR *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SE * A PROFESSOR</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SE * A PROFESSOR *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SE * A PROFESSOR</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ SE A * PROFESSOR *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SE A * PROFESSOR</pattern>
+
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SE A * PROFESSOR *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SE A * PROFESSOR</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A PROFESSOR * SE *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROFESSOR * SE</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROFESSOR * SE *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROFESSOR * SE</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROFESSOR SE *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROFESSOR SE</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * PROFESSOR SE *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROFESSOR SE</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A SE PROFESSOR *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A SE PROFESSOR</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * SE PROFESSOR *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * SE PROFESSOR</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * SE * A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * SE * A</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * SE * A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * SE * A</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * SE A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * SE A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF SE * A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF SE * A</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF SE * A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF SE * A</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF SE A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF SE A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF * A * SE *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF * A * SE</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * A * SE *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * A * SE</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF A * SE *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF A * SE</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF A * SE *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF A * SE</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * A SE *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * A SE</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * A SE *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * A SE</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ SE PROF * A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SE PROF * A</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>SE PROF * A</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SE PROF A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>SE PROF A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SE * A PROF *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SE * A PROF</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SE * A PROF *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SE * A PROF</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ SE A * PROF *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SE A * PROF</pattern>
+
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SE A * PROF *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SE A * PROF</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A PROF * SE *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROF * SE</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROF * SE *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROF * SE</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROF SE *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A PROF SE</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * PROF SE *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * PROF SE</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A SE PROF *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A SE PROF</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * SE PROF *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * SE PROF</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * SE * A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * SE * A</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * SE * A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * SE * A</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * SE A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * SE A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER SE * A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER SE * A</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER SE * A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER SE * A</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER SE A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER SE A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER * A * SE *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER * A * SE</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * A * SE *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * A * SE</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER A * SE *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER A * SE</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER A * SE *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER A * SE</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * A SE *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * A SE</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * A SE *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * A SE</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ SE LECTURER * A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SE LECTURER * A</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>SE LECTURER * A</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SE LECTURER A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>SE LECTURER A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SE * A LECTURER *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SE * A LECTURER</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SE * A LECTURER *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SE * A LECTURER</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ SE A * LECTURER *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SE A * LECTURER</pattern>
+
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SE A * LECTURER *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SE A * LECTURER</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A LECTURER * SE *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECTURER * SE</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECTURER * SE *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECTURER * SE</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECTURER SE *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECTURER SE</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * LECTURER SE *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECTURER SE</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A SE LECTURER *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A SE LECTURER</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * SE LECTURER *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * SE LECTURER</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * SE * A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * SE * A</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * SE * A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * SE * A</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * SE A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * SE A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT SE * A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT SE * A</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT SE * A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT SE * A</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT SE A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT SE A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT * A * SE *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT * A * SE</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * A * SE *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * A * SE</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT A * SE *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT A * SE</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT A * SE *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT A * SE</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * A SE *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * A SE</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * A SE *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * A SE</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ SE LECT * A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SE LECT * A</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>SE LECT * A</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SE LECT A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>SE LECT A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SE * A LECT *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SE * A LECT</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SE * A LECT *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SE * A LECT</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ SE A * LECT *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SE A * LECT</pattern>
+
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SE A * LECT *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SE A * LECT</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A LECT * SE *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECT * SE</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECT * SE *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECT * SE</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECT SE *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A LECT SE</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * LECT SE *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * LECT SE</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A SE LECT *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A SE LECT</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * SE LECT *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * SE LECT</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * SE * A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * SE * A</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * SE * A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * SE * A</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * SE A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * SE A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER SE * A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER SE * A</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER SE * A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER SE * A</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER SE A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER SE A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER * A * SE *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER * A * SE</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * A * SE *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * A * SE</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER A * SE *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER A * SE</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER A * SE *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER A * SE</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * A SE *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * A SE</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * A SE *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * A SE</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ SE TEACHER * A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SE TEACHER * A</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>SE TEACHER * A</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SE TEACHER A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>SE TEACHER A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SE * A TEACHER *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SE * A TEACHER</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SE * A TEACHER *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SE * A TEACHER</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ SE A * TEACHER *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SE A * TEACHER</pattern>
+
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SE A * TEACHER *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SE A * TEACHER</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A TEACHER * SE *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A TEACHER * SE</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * TEACHER * SE *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * TEACHER * SE</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A TEACHER SE *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A TEACHER SE</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * TEACHER SE *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * TEACHER SE</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A SE TEACHER *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A SE TEACHER</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * SE TEACHER *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * SE TEACHER</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ FACULTY * SE * A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * SE * A</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * SE * A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * SE * A</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * SE A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * SE A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY SE * A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY SE * A</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY SE * A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY SE * A</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY SE A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY SE A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY * A * SE *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY * A * SE</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * A * SE *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * A * SE</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY A * SE *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY A * SE</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY A * SE *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY A * SE</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * A SE *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * A SE</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * A SE *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * A SE</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ SE FACULTY * A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SE FACULTY * A</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>SE FACULTY * A</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SE FACULTY A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>SE FACULTY A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SE * A FACULTY *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SE * A FACULTY</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SE * A FACULTY *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SE * A FACULTY</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ SE A * FACULTY *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SE A * FACULTY</pattern>
+
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SE A * FACULTY *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SE A * FACULTY</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A FACULTY * SE *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A FACULTY * SE</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * FACULTY * SE *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * FACULTY * SE</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A FACULTY SE *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A FACULTY SE</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * FACULTY SE *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * FACULTY SE</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ A SE FACULTY *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ A SE FACULTY</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>A * SE FACULTY *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>A * SE FACULTY</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ TEACHES SE * A</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES SE A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHES * A SE *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES * A SE</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ TEACHES A * SE *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES A * SE</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SE * A * TAUGHT *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SE * A * TAUGHT *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SE A * TAUGHT *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>SE A * TAUGHT *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ SE * A TAUGHT *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>SE * A TAUGHT *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * SE * A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * SE * A</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * SE A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES SOFTWARE ENGINEERING * A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES SOFTWARE ENGINEERING * A</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES SOFTWARE ENGINEERING A *</pattern>
+	<template>
+		<srai>SEA</srai>
+	</template>
+</category>
+
+
+
+</aiml>

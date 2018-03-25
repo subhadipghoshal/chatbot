@@ -1,0 +1,1006 @@
+<aiml version="1.0.1" encoding="UTF-8">
+
+<category>
+	<pattern>TNPCT</pattern>
+	<template>Mr. Praful Barekar is the TnP coordinator of CT department.</template>
+</category>
+
+
+<category>
+	<pattern>_ TNP COORDINATOR *</pattern>
+	<template><srai>TNPCT</srai></template>
+</category>
+
+<category>
+	<pattern>_ TNP COORDINATOR</pattern>
+	<template><srai>TNPCT</srai></template>
+</category>
+
+<category>
+	<pattern>TNP COORDINATOR *</pattern>
+	<template><srai>TNPCT</srai></template>
+</category>
+
+<category>
+	<pattern>TNP COORDINATOR</pattern>
+	<template><srai>TNPCT</srai></template>
+</category>
+
+<category>
+	<pattern>_ COORDINATOR * TNP *</pattern>
+	<template><srai>TNPCT</srai></template>
+</category>
+
+<category>
+	<pattern>_ COORDINATOR * TNP</pattern>
+	<template><srai>TNPCT</srai></template>
+</category>
+
+<category>
+	<pattern>COORDINATOR * TNP *</pattern>
+	<template><srai>TNPCT</srai></template>
+</category>
+
+<category>
+	<pattern>_ COORDINATOR * TNP</pattern>
+	<template><srai>TNPCT</srai></template>
+</category>
+
+<category>
+	<pattern>COORDINATOR * TNP</pattern>
+	<template><srai>TNPCT</srai></template>
+</category>
+
+<category>
+	<pattern>_ COORDINATOR TNP *</pattern>
+	<template><srai>TNPCT</srai></template>
+</category>
+
+
+<category>
+	<pattern>_ COORDINATOR TNP</pattern>
+	<template><srai>TNPCT</srai></template>
+</category>
+
+<category>
+	<pattern>COORDINATOR TNP *</pattern>
+	<template><srai>TNPCT</srai></template>
+</category>
+
+<category>
+	<pattern>COORDINATOR TNP</pattern>
+	<template><srai>TNPCT</srai></template>
+</category>
+
+
+<category>
+	<pattern>_ TNP INCHARGE *</pattern>
+	<template><srai>TNPCT</srai></template>
+</category>
+
+<category>
+	<pattern>_ TNP INCHARGE</pattern>
+	<template><srai>TNPCT</srai></template>
+</category>
+
+<category>
+	<pattern>TNP INCHARGE *</pattern>
+	<template><srai>TNPCT</srai></template>
+</category>
+
+<category>
+	<pattern>TNP INCHARGE</pattern>
+	<template><srai>TNPCT</srai></template>
+</category>
+
+<category>
+	<pattern>_ INCHARGE * TNP *</pattern>
+	<template><srai>TNPCT</srai></template>
+</category>
+
+<category>
+	<pattern>INCHARGE * TNP *</pattern>
+	<template><srai>TNPCT</srai></template>
+</category>
+
+<category>
+	<pattern>_ INCHARGE * TNP</pattern>
+	<template><srai>TNPCT</srai></template>
+</category>
+
+<category>
+	<pattern>INCHARGE * TNP</pattern>
+	<template><srai>TNPCT</srai></template>
+</category>
+
+<category>
+	<pattern>_ INCHARGE TNP *</pattern>
+	<template><srai>TNPCT</srai></template>
+</category>
+
+
+<category>
+	<pattern>_ INCHARGE TNP</pattern>
+	<template><srai>TNPCT</srai></template>
+</category>
+
+<category>
+	<pattern>INCHARGE TNP *</pattern>
+	<template><srai>TNPCT</srai></template>
+</category>
+
+<category>
+	<pattern>INCHARGE TNP</pattern>
+	<template><srai>TNPCT</srai></template>
+</category>
+
+
+
+
+<category>
+	<pattern>_ TANDP COORDINATOR *</pattern>
+	<template><srai>TNPCT</srai></template>
+</category>
+
+<category>
+	<pattern>_ TANDP COORDINATOR</pattern>
+	<template><srai>TNPCT</srai></template>
+</category>
+
+<category>
+	<pattern>TANDP COORDINATOR *</pattern>
+	<template><srai>TNPCT</srai></template>
+</category>
+
+<category>
+	<pattern>TANDP COORDINATOR</pattern>
+	<template><srai>TNPCT</srai></template>
+</category>
+
+<category>
+	<pattern>_ COORDINATOR * TANDP *</pattern>
+	<template><srai>TNPCT</srai></template>
+</category>
+
+<category>
+	<pattern>_ COORDINATOR * TANDP</pattern>
+	<template><srai>TNPCT</srai></template>
+</category>
+
+<category>
+	<pattern>COORDINATOR * TANDP *</pattern>
+	<template><srai>TNPCT</srai></template>
+</category>
+
+<category>
+	<pattern>_ COORDINATOR * TANDP</pattern>
+	<template><srai>TNPCT</srai></template>
+</category>
+
+<category>
+	<pattern>COORDINATOR * TANDP</pattern>
+	<template><srai>TNPCT</srai></template>
+</category>
+
+<category>
+	<pattern>_ COORDINATOR TANDP *</pattern>
+	<template><srai>TNPCT</srai></template>
+</category>
+
+
+<category>
+	<pattern>_ COORDINATOR TANDP</pattern>
+	<template><srai>TNPCT</srai></template>
+</category>
+
+<category>
+	<pattern>COORDINATOR TANDP *</pattern>
+	<template><srai>TNPCT</srai></template>
+</category>
+
+<category>
+	<pattern>COORDINATOR TANDP</pattern>
+	<template><srai>TNPCT</srai></template>
+</category>
+
+
+<category>
+	<pattern>_ TANDP INCHARGE *</pattern>
+	<template><srai>TNPCT</srai></template>
+</category>
+
+<category>
+	<pattern>_ TANDP INCHARGE</pattern>
+	<template><srai>TNPCT</srai></template>
+</category>
+
+<category>
+	<pattern>TANDP INCHARGE *</pattern>
+	<template><srai>TNPCT</srai></template>
+</category>
+
+<category>
+	<pattern>TANDP INCHARGE</pattern>
+	<template><srai>TNPCT</srai></template>
+</category>
+
+<category>
+	<pattern>_ INCHARGE * TANDP *</pattern>
+	<template><srai>TNPCT</srai></template>
+</category>
+
+<category>
+	<pattern>INCHARGE * TANDP *</pattern>
+	<template><srai>TNPCT</srai></template>
+</category>
+
+<category>
+	<pattern>_ INCHARGE * TANDP</pattern>
+	<template><srai>TNPCT</srai></template>
+</category>
+
+<category>
+	<pattern>INCHARGE * TANDP</pattern>
+	<template><srai>TNPCT</srai></template>
+</category>
+
+<category>
+	<pattern>_ INCHARGE TANDP *</pattern>
+	<template><srai>TNPCT</srai></template>
+</category>
+
+
+<category>
+	<pattern>_ INCHARGE TANDP</pattern>
+	<template><srai>TNPCT</srai></template>
+</category>
+
+<category>
+	<pattern>INCHARGE TANDP *</pattern>
+	<template><srai>TNPCT</srai></template>
+</category>
+
+<category>
+	<pattern>INCHARGE TANDP</pattern>
+	<template><srai>TNPCT</srai></template>
+</category>
+
+
+<category>
+	<pattern>_ * T * P COORDINATOR *</pattern>
+	<template><srai>TNPCT</srai></template>
+</category>
+
+<category>
+	<pattern>_ * T * P COORDINATOR</pattern>
+	<template><srai>TNPCT</srai></template>
+</category>
+
+<category>
+	<pattern>* T * P COORDINATOR *</pattern>
+	<template><srai>TNPCT</srai></template>
+</category>
+
+<category>
+	<pattern>* T * P COORDINATOR</pattern>
+	<template><srai>TNPCT</srai></template>
+</category>
+
+<category>
+	<pattern>_ COORDINATOR * T * P *</pattern>
+	<template><srai>TNPCT</srai></template>
+</category>
+
+<category>
+	<pattern>_ COORDINATOR * T * P</pattern>
+	<template><srai>TNPCT</srai></template>
+</category>
+
+<category>
+	<pattern>COORDINATOR * T * P *</pattern>
+	<template><srai>TNPCT</srai></template>
+</category>
+
+<category>
+	<pattern>_ COORDINATOR * T * P</pattern>
+	<template><srai>TNPCT</srai></template>
+</category>
+
+<category>
+	<pattern>COORDINATOR * T * P</pattern>
+	<template><srai>TNPCT</srai></template>
+</category>
+
+<category>
+	<pattern>_ COORDINATOR T * P *</pattern>
+	<template><srai>TNPCT</srai></template>
+</category>
+
+
+<category>
+	<pattern>_ COORDINATOR T * P</pattern>
+	<template><srai>TNPCT</srai></template>
+</category>
+
+<category>
+	<pattern>COORDINATOR T * P *</pattern>
+	<template><srai>TNPCT</srai></template>
+</category>
+
+<category>
+	<pattern>COORDINATOR T * P</pattern>
+	<template><srai>TNPCT</srai></template>
+</category>
+
+
+<category>
+	<pattern>_ T * P INCHARGE *</pattern>
+	<template><srai>TNPCT</srai></template>
+</category>
+
+<category>
+	<pattern>_ T * P INCHARGE</pattern>
+	<template><srai>TNPCT</srai></template>
+</category>
+
+<category>
+	<pattern>T * P INCHARGE *</pattern>
+	<template><srai>TNPCT</srai></template>
+</category>
+
+<category>
+	<pattern>T * P INCHARGE</pattern>
+	<template><srai>TNPCT</srai></template>
+</category>
+
+<category>
+	<pattern>_ INCHARGE * T * P *</pattern>
+	<template><srai>TNPCT</srai></template>
+</category>
+
+<category>
+	<pattern>INCHARGE * T * P *</pattern>
+	<template><srai>TNPCT</srai></template>
+</category>
+
+<category>
+	<pattern>_ INCHARGE * T * P</pattern>
+	<template><srai>TNPCT</srai></template>
+</category>
+
+<category>
+	<pattern>INCHARGE * T * P</pattern>
+	<template><srai>TNPCT</srai></template>
+</category>
+
+<category>
+	<pattern>_ INCHARGE T * P *</pattern>
+	<template><srai>TNPCT</srai></template>
+</category>
+
+
+<category>
+	<pattern>_ INCHARGE T * P</pattern>
+	<template><srai>TNPCT</srai></template>
+</category>
+
+<category>
+	<pattern>INCHARGE T * P *</pattern>
+	<template><srai>TNPCT</srai></template>
+</category>
+
+<category>
+	<pattern>INCHARGE T * P</pattern>
+	<template><srai>TNPCT</srai></template>
+</category>
+
+
+
+
+
+<category>
+	<pattern>_ * TRAINING * PLACEMENT COORDINATOR *</pattern>
+	<template><srai>TNPCT</srai></template>
+</category>
+
+<category>
+	<pattern>_ * TRAINING * PLACEMENT COORDINATOR</pattern>
+	<template><srai>TNPCT</srai></template>
+</category>
+
+<category>
+	<pattern>* TRAINING * PLACEMENT COORDINATOR *</pattern>
+	<template><srai>TNPCT</srai></template>
+</category>
+
+<category>
+	<pattern>* TRAINING * PLACEMENT COORDINATOR</pattern>
+	<template><srai>TNPCT</srai></template>
+</category>
+
+<category>
+	<pattern>_ COORDINATOR * TRAINING * PLACEMENT *</pattern>
+	<template><srai>TNPCT</srai></template>
+</category>
+
+<category>
+	<pattern>_ COORDINATOR * TRAINING * PLACEMENT</pattern>
+	<template><srai>TNPCT</srai></template>
+</category>
+
+<category>
+	<pattern>COORDINATOR * TRAINING * PLACEMENT *</pattern>
+	<template><srai>TNPCT</srai></template>
+</category>
+
+<category>
+	<pattern>_ COORDINATOR * TRAINING * PLACEMENT</pattern>
+	<template><srai>TNPCT</srai></template>
+</category>
+
+<category>
+	<pattern>COORDINATOR * TRAINING * PLACEMENT</pattern>
+	<template><srai>TNPCT</srai></template>
+</category>
+
+<category>
+	<pattern>_ COORDINATOR TRAINING * PLACEMENT *</pattern>
+	<template><srai>TNPCT</srai></template>
+</category>
+
+
+<category>
+	<pattern>_ COORDINATOR TRAINING * PLACEMENT</pattern>
+	<template><srai>TNPCT</srai></template>
+</category>
+
+<category>
+	<pattern>COORDINATOR TRAINING * PLACEMENT *</pattern>
+	<template><srai>TNPCT</srai></template>
+</category>
+
+<category>
+	<pattern>COORDINATOR TRAINING * PLACEMENT</pattern>
+	<template><srai>TNPCT</srai></template>
+</category>
+
+
+<category>
+	<pattern>_ TRAINING * PLACEMENT INCHARGE *</pattern>
+	<template><srai>TNPCT</srai></template>
+</category>
+
+<category>
+	<pattern>_ TRAINING * PLACEMENT INCHARGE</pattern>
+	<template><srai>TNPCT</srai></template>
+</category>
+
+<category>
+	<pattern>TRAINING * PLACEMENT INCHARGE *</pattern>
+	<template><srai>TNPCT</srai></template>
+</category>
+
+<category>
+	<pattern>TRAINING * PLACEMENT INCHARGE</pattern>
+	<template><srai>TNPCT</srai></template>
+</category>
+
+<category>
+	<pattern>_ INCHARGE * TRAINING * PLACEMENT *</pattern>
+	<template><srai>TNPCT</srai></template>
+</category>
+
+<category>
+	<pattern>INCHARGE * TRAINING * PLACEMENT *</pattern>
+	<template><srai>TNPCT</srai></template>
+</category>
+
+<category>
+	<pattern>_ INCHARGE * TRAINING * PLACEMENT</pattern>
+	<template><srai>TNPCT</srai></template>
+</category>
+
+<category>
+	<pattern>INCHARGE * TRAINING * PLACEMENT</pattern>
+	<template><srai>TNPCT</srai></template>
+</category>
+
+<category>
+	<pattern>_ INCHARGE TRAINING * PLACEMENT *</pattern>
+	<template><srai>TNPCT</srai></template>
+</category>
+
+
+<category>
+	<pattern>_ INCHARGE TRAINING * PLACEMENT</pattern>
+	<template><srai>TNPCT</srai></template>
+</category>
+
+<category>
+	<pattern>INCHARGE TRAINING * PLACEMENT *</pattern>
+	<template><srai>TNPCT</srai></template>
+</category>
+
+<category>
+	<pattern>INCHARGE TRAINING * PLACEMENT</pattern>
+	<template><srai>TNPCT</srai></template>
+</category>
+
+
+
+
+
+
+<category>
+	<pattern>TNPH</pattern>
+	<template>Mr. Neeraj Wakhre is the TnP HEAD of CT department.</template>
+</category>
+
+
+<category>
+	<pattern>_ TPO *</pattern>
+	<template>
+		<srai>TNPH</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TPO</pattern>
+	<template>
+		<srai>TNPH</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TPO *</pattern>
+	<template>
+		<srai>TNPH</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TPO</pattern>
+	<template>
+		<srai>TNPH</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ T * P OFFICER *</pattern>
+	<template>
+		<srai>TNPH</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ T * P OFFICER</pattern>
+	<template>
+		<srai>TNPH</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>T * P OFFICER *</pattern>
+	<template>
+		<srai>TNPH</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>T * P OFFICER</pattern>
+	<template>
+		<srai>TNPH</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TANDP OFFICER *</pattern>
+	<template>
+		<srai>TNPH</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TANDP OFFICER *</pattern>
+	<template>
+		<srai>TNPH</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TANDP OFFICER</pattern>
+	<template>
+		<srai>TNPH</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TANDP OFFICER</pattern>
+	<template>
+		<srai>TNPH</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TNP OFFICER *</pattern>
+	<template>
+		<srai>TNPH</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TNP OFFICER *</pattern>
+	<template>
+		<srai>TNPH</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TNP OFFICER</pattern>
+	<template>
+		<srai>TNPH</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TNP OFFICER</pattern>
+	<template>
+		<srai>TNPH</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TRAINING * PLACEMENT OFFICER *</pattern>
+	<template>
+		<srai>TNPH</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TRAINING * PLACEMENT OFFICER *</pattern>
+	<template>
+		<srai>TNPH</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TRAINING * PLACEMENT OFFICER</pattern>
+	<template>
+		<srai>TNPH</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TRAINING * PLACEMENT OFFICER</pattern>
+	<template>
+		<srai>TNPH</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OFFICER * TNP *</pattern>
+	<template>
+		<srai>TNPH</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OFFICER * TNP *</pattern>
+	<template>
+		<srai>TNPH</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OFFICER * TNP</pattern>
+	<template>
+		<srai>TNPH</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OFFICER * TNP</pattern>
+	<template>
+		<srai>TNPH</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ OFFICER * TANDP *</pattern>
+	<template>
+		<srai>TNPH</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OFFICER * TANDP *</pattern>
+	<template>
+		<srai>TNPH</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OFFICER * TANDP</pattern>
+	<template>
+		<srai>TNPH</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OFFICER * TANDP</pattern>
+	<template>
+		<srai>TNPH</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OFFICER * TRAINING * PLACEMENT *</pattern>
+	<template>
+		<srai>TNPH</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OFFICER * TRAINING * PLACEMENT *</pattern>
+	<template>
+		<srai>TNPH</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OFFICER * TRAINING * PLACEMENT</pattern>
+	<template>
+		<srai>TNPH</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OFFICER * TRAINING * PLACEMENT</pattern>
+	<template>
+		<srai>TNPH</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ OFFICER * T * P *</pattern>
+	<template>
+		<srai>TNPH</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OFFICER * T * P *</pattern>
+	<template>
+		<srai>TNPH</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ OFFICER * T * P</pattern>
+	<template>
+		<srai>TNPH</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>OFFICER * T * P</pattern>
+	<template>
+		<srai>TNPH</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ T * P HEAD *</pattern>
+	<template>
+		<srai>TNPH</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ T * P HEAD</pattern>
+	<template>
+		<srai>TNPH</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>T * P HEAD *</pattern>
+	<template>
+		<srai>TNPH</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>T * P HEAD</pattern>
+	<template>
+		<srai>TNPH</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TANDP HEAD *</pattern>
+	<template>
+		<srai>TNPH</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TANDP HEAD *</pattern>
+	<template>
+		<srai>TNPH</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TANDP HEAD</pattern>
+	<template>
+		<srai>TNPH</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TANDP HEAD</pattern>
+	<template>
+		<srai>TNPH</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TRAINING * PLACEMENT HEAD *</pattern>
+	<template>
+		<srai>TNPH</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TRAINING * PLACEMENT HEAD *</pattern>
+	<template>
+		<srai>TNPH</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TRAINING * PLACEMENT HEAD</pattern>
+	<template>
+		<srai>TNPH</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TRAINING * PLACEMENT HEAD</pattern>
+	<template>
+		<srai>TNPH</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ HEAD * TNP *</pattern>
+	<template>
+		<srai>TNPH</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>HEAD * TNP *</pattern>
+	<template>
+		<srai>TNPH</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ HEAD * TNP</pattern>
+	<template>
+		<srai>TNPH</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>HEAD * TNP</pattern>
+	<template>
+		<srai>TNPH</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ HEAD * TANDP *</pattern>
+	<template>
+		<srai>TNPH</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>HEAD * TANDP *</pattern>
+	<template>
+		<srai>TNPH</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ HEAD * TANDP</pattern>
+	<template>
+		<srai>TNPH</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>HEAD * TANDP</pattern>
+	<template>
+		<srai>TNPH</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ HEAD * TRAINING * PLACEMENT *</pattern>
+	<template>
+		<srai>TNPH</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>HEAD * TRAINING * PLACEMENT *</pattern>
+	<template>
+		<srai>TNPH</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ HEAD * TRAINING * PLACEMENT</pattern>
+	<template>
+		<srai>TNPH</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>HEAD * TRAINING * PLACEMENT</pattern>
+	<template>
+		<srai>TNPH</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ HEAD * T * P *</pattern>
+	<template>
+		<srai>TNPH</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>HEAD * T * P *</pattern>
+	<template>
+		<srai>TNPH</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ HEAD * T * P</pattern>
+	<template>
+		<srai>TNPH</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>HEAD * T * P</pattern>
+	<template>
+		<srai>TNPH</srai>
+	</template>
+</category>
+
+
+</aiml>

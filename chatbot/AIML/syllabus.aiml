@@ -1,0 +1,124 @@
+<aiml version="1.0.1" encoding="UTF-8">
+
+	<category>
+		<pattern>COU</pattern>
+		<template>
+			Please visit here -> http://www.ycce.edu/computer_syllabus.php
+		</template>
+	</category>
+
+	<category>
+		<pattern>_ COURSES *</pattern>
+		<template>
+			<srai>COU</srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern>_ COURSES</pattern>
+		<template>
+			<srai>COU</srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern>COURSES *</pattern>
+		<template>
+			<srai>COU</srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern>COURSES</pattern>
+		<template>
+			<srai>COU</srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern>_ SYLLABUS *</pattern>
+		<template>
+			<srai>COU</srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern>_ SYLLABUS</pattern>
+		<template>
+			<srai>COU</srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern>SYLLABUS *</pattern>
+		<template>
+			<srai>COU</srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern>SYLLABUS</pattern>
+		<template>
+			<srai>COU</srai>
+		</template>
+	</category>
+
+
+	<category>
+		<pattern>_ SUBJECTS *</pattern>
+		<template>
+			<srai>COU</srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern>_ SUBJECTS</pattern>
+		<template>
+			<srai>COU</srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern>SUBJECTS *</pattern>
+		<template>
+			<srai>COU</srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern>SUBJECTS</pattern>
+		<template>
+			<srai>COU</srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern>_ SUBS *</pattern>
+		<template>
+			<srai>COU</srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern>_ SUBS</pattern>
+		<template>
+			<srai>COU</srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern>SUBS *</pattern>
+		<template>
+			<srai>COU</srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern>SUBS</pattern>
+		<template>
+			<srai>COU</srai>
+		</template>
+	</category>
+
+
+</aiml>

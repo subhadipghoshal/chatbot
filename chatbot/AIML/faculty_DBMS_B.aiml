@@ -1,0 +1,6859 @@
+<aiml version="1.0.1" encoding="UTF-8">
+
+<category>
+	<pattern>DBMB</pattern>
+	<template>
+		<random>
+			<li>Mr. Sagar Suraj Lachure teaches DATABASE MANAGEMENT SYSTEMS</li>
+			<li>Mr. Sagar Suraj Lachure</li>
+			<li>DATABASE MANAGEMENT SYSTEMS is taught by Mr. Sagar Suraj Lachure</li>
+		</random>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * DATABASE MANAGEMENT SYSTEM * B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * DATABASE MANAGEMENT SYSTEM * B</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * DATABASE MANAGEMENT SYSTEM * B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * DATABASE MANAGEMENT SYSTEM * B</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * DATABASE MANAGEMENT SYSTEM B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * DATABASE MANAGEMENT SYSTEM B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR DATABASE MANAGEMENT SYSTEM * B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR DATABASE MANAGEMENT SYSTEM * B</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR DATABASE MANAGEMENT SYSTEM * B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR DATABASE MANAGEMENT SYSTEM * B</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR DATABASE MANAGEMENT SYSTEM B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR DATABASE MANAGEMENT SYSTEM B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR * B * DATABASE MANAGEMENT SYSTEM *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR * B * DATABASE MANAGEMENT SYSTEM</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * B * DATABASE MANAGEMENT SYSTEM *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * B * DATABASE MANAGEMENT SYSTEM</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR B * DATABASE MANAGEMENT SYSTEM *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR B * DATABASE MANAGEMENT SYSTEM</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR B * DATABASE MANAGEMENT SYSTEM *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR B * DATABASE MANAGEMENT SYSTEM</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * B DATABASE MANAGEMENT SYSTEM *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * B DATABASE MANAGEMENT SYSTEM</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * B DATABASE MANAGEMENT SYSTEM *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * B DATABASE MANAGEMENT SYSTEM</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DATABASE MANAGEMENT SYSTEM PROFESSOR * B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DATABASE MANAGEMENT SYSTEM PROFESSOR * B</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DATABASE MANAGEMENT SYSTEM PROFESSOR * B</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DATABASE MANAGEMENT SYSTEM PROFESSOR B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DATABASE MANAGEMENT SYSTEM PROFESSOR B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DATABASE MANAGEMENT SYSTEM * B PROFESSOR *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DATABASE MANAGEMENT SYSTEM * B PROFESSOR</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>DATABASE MANAGEMENT SYSTEM * B PROFESSOR *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>DATABASE MANAGEMENT SYSTEM * B PROFESSOR</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ DATABASE MANAGEMENT SYSTEM B * PROFESSOR *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DATABASE MANAGEMENT SYSTEM B * PROFESSOR</pattern>
+
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>DATABASE MANAGEMENT SYSTEM B * PROFESSOR *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>DATABASE MANAGEMENT SYSTEM B * PROFESSOR</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROFESSOR * DATABASE MANAGEMENT SYSTEM *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROFESSOR * DATABASE MANAGEMENT SYSTEM</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR * DATABASE MANAGEMENT SYSTEM *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR * DATABASE MANAGEMENT SYSTEM</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROFESSOR DATABASE MANAGEMENT SYSTEM *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROFESSOR DATABASE MANAGEMENT SYSTEM</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * PROFESSOR DATABASE MANAGEMENT SYSTEM *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR DATABASE MANAGEMENT SYSTEM</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B DATABASE MANAGEMENT SYSTEM PROFESSOR *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B DATABASE MANAGEMENT SYSTEM PROFESSOR</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * DATABASE MANAGEMENT SYSTEM PROFESSOR *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * DATABASE MANAGEMENT SYSTEM PROFESSOR</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * DATABASE MANAGEMENT SYSTEM * B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * DATABASE MANAGEMENT SYSTEM * B</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * DATABASE MANAGEMENT SYSTEM * B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * DATABASE MANAGEMENT SYSTEM * B</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * DATABASE MANAGEMENT SYSTEM B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * DATABASE MANAGEMENT SYSTEM B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF DATABASE MANAGEMENT SYSTEM * B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF DATABASE MANAGEMENT SYSTEM * B</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF DATABASE MANAGEMENT SYSTEM * B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF DATABASE MANAGEMENT SYSTEM * B</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF DATABASE MANAGEMENT SYSTEM B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF DATABASE MANAGEMENT SYSTEM B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF * B * DATABASE MANAGEMENT SYSTEM *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF * B * DATABASE MANAGEMENT SYSTEM</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * B * DATABASE MANAGEMENT SYSTEM *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * B * DATABASE MANAGEMENT SYSTEM</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF B * DATABASE MANAGEMENT SYSTEM *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF B * DATABASE MANAGEMENT SYSTEM</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF B * DATABASE MANAGEMENT SYSTEM *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF B * DATABASE MANAGEMENT SYSTEM</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * B DATABASE MANAGEMENT SYSTEM *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * B DATABASE MANAGEMENT SYSTEM</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * B DATABASE MANAGEMENT SYSTEM *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * B DATABASE MANAGEMENT SYSTEM</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DATABASE MANAGEMENT SYSTEM PROF * B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DATABASE MANAGEMENT SYSTEM PROF * B</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DATABASE MANAGEMENT SYSTEM PROF * B</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DATABASE MANAGEMENT SYSTEM PROF B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DATABASE MANAGEMENT SYSTEM PROF B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DATABASE MANAGEMENT SYSTEM * B PROF *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DATABASE MANAGEMENT SYSTEM * B PROF</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>DATABASE MANAGEMENT SYSTEM * B PROF *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>DATABASE MANAGEMENT SYSTEM * B PROF</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ DATABASE MANAGEMENT SYSTEM B * PROF *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DATABASE MANAGEMENT SYSTEM B * PROF</pattern>
+
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>DATABASE MANAGEMENT SYSTEM B * PROF *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>DATABASE MANAGEMENT SYSTEM B * PROF</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROF * DATABASE MANAGEMENT SYSTEM *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROF * DATABASE MANAGEMENT SYSTEM</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF * DATABASE MANAGEMENT SYSTEM *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF * DATABASE MANAGEMENT SYSTEM</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROF DATABASE MANAGEMENT SYSTEM *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROF DATABASE MANAGEMENT SYSTEM</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * PROF DATABASE MANAGEMENT SYSTEM *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF DATABASE MANAGEMENT SYSTEM</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B DATABASE MANAGEMENT SYSTEM PROF *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B DATABASE MANAGEMENT SYSTEM PROF</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * DATABASE MANAGEMENT SYSTEM PROF *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * DATABASE MANAGEMENT SYSTEM PROF</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * DATABASE MANAGEMENT SYSTEM * B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * DATABASE MANAGEMENT SYSTEM * B</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * DATABASE MANAGEMENT SYSTEM * B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * DATABASE MANAGEMENT SYSTEM * B</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * DATABASE MANAGEMENT SYSTEM B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * DATABASE MANAGEMENT SYSTEM B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER DATABASE MANAGEMENT SYSTEM * B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER DATABASE MANAGEMENT SYSTEM * B</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER DATABASE MANAGEMENT SYSTEM * B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER DATABASE MANAGEMENT SYSTEM * B</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER DATABASE MANAGEMENT SYSTEM B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER DATABASE MANAGEMENT SYSTEM B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER * B * DATABASE MANAGEMENT SYSTEM *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER * B * DATABASE MANAGEMENT SYSTEM</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * B * DATABASE MANAGEMENT SYSTEM *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * B * DATABASE MANAGEMENT SYSTEM</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER B * DATABASE MANAGEMENT SYSTEM *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER B * DATABASE MANAGEMENT SYSTEM</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER B * DATABASE MANAGEMENT SYSTEM *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER B * DATABASE MANAGEMENT SYSTEM</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * B DATABASE MANAGEMENT SYSTEM *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * B DATABASE MANAGEMENT SYSTEM</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * B DATABASE MANAGEMENT SYSTEM *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * B DATABASE MANAGEMENT SYSTEM</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DATABASE MANAGEMENT SYSTEM LECTURER * B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DATABASE MANAGEMENT SYSTEM LECTURER * B</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DATABASE MANAGEMENT SYSTEM LECTURER * B</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DATABASE MANAGEMENT SYSTEM LECTURER B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DATABASE MANAGEMENT SYSTEM LECTURER B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DATABASE MANAGEMENT SYSTEM * B LECTURER *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DATABASE MANAGEMENT SYSTEM * B LECTURER</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>DATABASE MANAGEMENT SYSTEM * B LECTURER *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>DATABASE MANAGEMENT SYSTEM * B LECTURER</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ DATABASE MANAGEMENT SYSTEM B * LECTURER *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DATABASE MANAGEMENT SYSTEM B * LECTURER</pattern>
+
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>DATABASE MANAGEMENT SYSTEM B * LECTURER *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>DATABASE MANAGEMENT SYSTEM B * LECTURER</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LECTURER * DATABASE MANAGEMENT SYSTEM *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECTURER * DATABASE MANAGEMENT SYSTEM</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER * DATABASE MANAGEMENT SYSTEM *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER * DATABASE MANAGEMENT SYSTEM</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECTURER DATABASE MANAGEMENT SYSTEM *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECTURER DATABASE MANAGEMENT SYSTEM</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * LECTURER DATABASE MANAGEMENT SYSTEM *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER DATABASE MANAGEMENT SYSTEM</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B DATABASE MANAGEMENT SYSTEM LECTURER *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B DATABASE MANAGEMENT SYSTEM LECTURER</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * DATABASE MANAGEMENT SYSTEM LECTURER *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * DATABASE MANAGEMENT SYSTEM LECTURER</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * DATABASE MANAGEMENT SYSTEM * B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * DATABASE MANAGEMENT SYSTEM * B</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * DATABASE MANAGEMENT SYSTEM * B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * DATABASE MANAGEMENT SYSTEM * B</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * DATABASE MANAGEMENT SYSTEM B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * DATABASE MANAGEMENT SYSTEM B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT DATABASE MANAGEMENT SYSTEM * B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT DATABASE MANAGEMENT SYSTEM * B</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT DATABASE MANAGEMENT SYSTEM * B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT DATABASE MANAGEMENT SYSTEM * B</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT DATABASE MANAGEMENT SYSTEM B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT DATABASE MANAGEMENT SYSTEM B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT * B * DATABASE MANAGEMENT SYSTEM *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT * B * DATABASE MANAGEMENT SYSTEM</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * B * DATABASE MANAGEMENT SYSTEM *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * B * DATABASE MANAGEMENT SYSTEM</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT B * DATABASE MANAGEMENT SYSTEM *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT B * DATABASE MANAGEMENT SYSTEM</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT B * DATABASE MANAGEMENT SYSTEM *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT B * DATABASE MANAGEMENT SYSTEM</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * B DATABASE MANAGEMENT SYSTEM *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * B DATABASE MANAGEMENT SYSTEM</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * B DATABASE MANAGEMENT SYSTEM *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * B DATABASE MANAGEMENT SYSTEM</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DATABASE MANAGEMENT SYSTEM LECT * B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DATABASE MANAGEMENT SYSTEM LECT * B</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DATABASE MANAGEMENT SYSTEM LECT * B</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DATABASE MANAGEMENT SYSTEM LECT B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DATABASE MANAGEMENT SYSTEM LECT B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DATABASE MANAGEMENT SYSTEM * B LECT *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DATABASE MANAGEMENT SYSTEM * B LECT</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>DATABASE MANAGEMENT SYSTEM * B LECT *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>DATABASE MANAGEMENT SYSTEM * B LECT</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ DATABASE MANAGEMENT SYSTEM B * LECT *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DATABASE MANAGEMENT SYSTEM B * LECT</pattern>
+
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>DATABASE MANAGEMENT SYSTEM B * LECT *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>DATABASE MANAGEMENT SYSTEM B * LECT</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LECT * DATABASE MANAGEMENT SYSTEM *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECT * DATABASE MANAGEMENT SYSTEM</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT * DATABASE MANAGEMENT SYSTEM *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT * DATABASE MANAGEMENT SYSTEM</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECT DATABASE MANAGEMENT SYSTEM *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECT DATABASE MANAGEMENT SYSTEM</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * LECT DATABASE MANAGEMENT SYSTEM *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT DATABASE MANAGEMENT SYSTEM</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B DATABASE MANAGEMENT SYSTEM LECT *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B DATABASE MANAGEMENT SYSTEM LECT</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * DATABASE MANAGEMENT SYSTEM LECT *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * DATABASE MANAGEMENT SYSTEM LECT</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * DATABASE MANAGEMENT SYSTEM * B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * DATABASE MANAGEMENT SYSTEM * B</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * DATABASE MANAGEMENT SYSTEM * B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * DATABASE MANAGEMENT SYSTEM * B</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * DATABASE MANAGEMENT SYSTEM B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * DATABASE MANAGEMENT SYSTEM B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER DATABASE MANAGEMENT SYSTEM * B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER DATABASE MANAGEMENT SYSTEM * B</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER DATABASE MANAGEMENT SYSTEM * B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER DATABASE MANAGEMENT SYSTEM * B</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER DATABASE MANAGEMENT SYSTEM B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER DATABASE MANAGEMENT SYSTEM B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER * B * DATABASE MANAGEMENT SYSTEM *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER * B * DATABASE MANAGEMENT SYSTEM</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * B * DATABASE MANAGEMENT SYSTEM *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * B * DATABASE MANAGEMENT SYSTEM</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER B * DATABASE MANAGEMENT SYSTEM *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER B * DATABASE MANAGEMENT SYSTEM</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER B * DATABASE MANAGEMENT SYSTEM *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER B * DATABASE MANAGEMENT SYSTEM</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * B DATABASE MANAGEMENT SYSTEM *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * B DATABASE MANAGEMENT SYSTEM</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * B DATABASE MANAGEMENT SYSTEM *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * B DATABASE MANAGEMENT SYSTEM</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DATABASE MANAGEMENT SYSTEM TEACHER * B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DATABASE MANAGEMENT SYSTEM TEACHER * B</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DATABASE MANAGEMENT SYSTEM TEACHER * B</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DATABASE MANAGEMENT SYSTEM TEACHER B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DATABASE MANAGEMENT SYSTEM TEACHER B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DATABASE MANAGEMENT SYSTEM * B TEACHER *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DATABASE MANAGEMENT SYSTEM * B TEACHER</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>DATABASE MANAGEMENT SYSTEM * B TEACHER *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>DATABASE MANAGEMENT SYSTEM * B TEACHER</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ DATABASE MANAGEMENT SYSTEM B * TEACHER *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DATABASE MANAGEMENT SYSTEM B * TEACHER</pattern>
+
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>DATABASE MANAGEMENT SYSTEM B * TEACHER *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>DATABASE MANAGEMENT SYSTEM B * TEACHER</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B TEACHER * DATABASE MANAGEMENT SYSTEM *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B TEACHER * DATABASE MANAGEMENT SYSTEM</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER * DATABASE MANAGEMENT SYSTEM *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER * DATABASE MANAGEMENT SYSTEM</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B TEACHER DATABASE MANAGEMENT SYSTEM *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B TEACHER DATABASE MANAGEMENT SYSTEM</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * TEACHER DATABASE MANAGEMENT SYSTEM *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER DATABASE MANAGEMENT SYSTEM</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B DATABASE MANAGEMENT SYSTEM TEACHER *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B DATABASE MANAGEMENT SYSTEM TEACHER</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * DATABASE MANAGEMENT SYSTEM TEACHER *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * DATABASE MANAGEMENT SYSTEM TEACHER</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ FACULTY * DATABASE MANAGEMENT SYSTEM * B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * DATABASE MANAGEMENT SYSTEM * B</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * DATABASE MANAGEMENT SYSTEM * B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * DATABASE MANAGEMENT SYSTEM * B</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * DATABASE MANAGEMENT SYSTEM B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * DATABASE MANAGEMENT SYSTEM B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY DATABASE MANAGEMENT SYSTEM * B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY DATABASE MANAGEMENT SYSTEM * B</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY DATABASE MANAGEMENT SYSTEM * B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY DATABASE MANAGEMENT SYSTEM * B</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY DATABASE MANAGEMENT SYSTEM B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY DATABASE MANAGEMENT SYSTEM B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY * B * DATABASE MANAGEMENT SYSTEM *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY * B * DATABASE MANAGEMENT SYSTEM</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * B * DATABASE MANAGEMENT SYSTEM *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * B * DATABASE MANAGEMENT SYSTEM</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY B * DATABASE MANAGEMENT SYSTEM *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY B * DATABASE MANAGEMENT SYSTEM</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY B * DATABASE MANAGEMENT SYSTEM *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY B * DATABASE MANAGEMENT SYSTEM</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * B DATABASE MANAGEMENT SYSTEM *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * B DATABASE MANAGEMENT SYSTEM</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * B DATABASE MANAGEMENT SYSTEM *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * B DATABASE MANAGEMENT SYSTEM</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DATABASE MANAGEMENT SYSTEM FACULTY * B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DATABASE MANAGEMENT SYSTEM FACULTY * B</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DATABASE MANAGEMENT SYSTEM FACULTY * B</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DATABASE MANAGEMENT SYSTEM FACULTY B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DATABASE MANAGEMENT SYSTEM FACULTY B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DATABASE MANAGEMENT SYSTEM * B FACULTY *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DATABASE MANAGEMENT SYSTEM * B FACULTY</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>DATABASE MANAGEMENT SYSTEM * B FACULTY *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>DATABASE MANAGEMENT SYSTEM * B FACULTY</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ DATABASE MANAGEMENT SYSTEM B * FACULTY *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DATABASE MANAGEMENT SYSTEM B * FACULTY</pattern>
+
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>DATABASE MANAGEMENT SYSTEM B * FACULTY *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>DATABASE MANAGEMENT SYSTEM B * FACULTY</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B FACULTY * DATABASE MANAGEMENT SYSTEM *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B FACULTY * DATABASE MANAGEMENT SYSTEM</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY * DATABASE MANAGEMENT SYSTEM *</pattern>
+	<template><srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY * DATABASE MANAGEMENT SYSTEM</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B FACULTY DATABASE MANAGEMENT SYSTEM *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B FACULTY DATABASE MANAGEMENT SYSTEM</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * FACULTY DATABASE MANAGEMENT SYSTEM *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY DATABASE MANAGEMENT SYSTEM</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B DATABASE MANAGEMENT SYSTEM FACULTY *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B DATABASE MANAGEMENT SYSTEM FACULTY</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * DATABASE MANAGEMENT SYSTEM FACULTY *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * DATABASE MANAGEMENT SYSTEM FACULTY</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ TEACHES DATABASE MANAGEMENT SYSTEM * B</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES DATABASE MANAGEMENT SYSTEM B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHES * B DATABASE MANAGEMENT SYSTEM *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES * B DATABASE MANAGEMENT SYSTEM</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ TEACHES B * DATABASE MANAGEMENT SYSTEM *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES B * DATABASE MANAGEMENT SYSTEM</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DATABASE MANAGEMENT SYSTEM * B * TAUGHT *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>DATABASE MANAGEMENT SYSTEM * B * TAUGHT *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DATABASE MANAGEMENT SYSTEM B * TAUGHT *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>DATABASE MANAGEMENT SYSTEM B * TAUGHT *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DATABASE MANAGEMENT SYSTEM * B TAUGHT *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DATABASE MANAGEMENT SYSTEM * B TAUGHT *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * DATABASE MANAGEMENT SYSTEM * B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * DATABASE MANAGEMENT SYSTEM * B</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * DATABASE MANAGEMENT SYSTEM B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES DATABASE MANAGEMENT SYSTEM * B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES DATABASE MANAGEMENT SYSTEM * B</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES DATABASE MANAGEMENT SYSTEM B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * DBMS * B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * DBMS * B</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * DBMS * B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * DBMS * B</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * DBMS B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * DBMS B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR DBMS * B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR DBMS * B</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR DBMS * B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR DBMS * B</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR DBMS B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR DBMS B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR * B * DBMS *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR * B * DBMS</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * B * DBMS *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * B * DBMS</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR B * DBMS *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR B * DBMS</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR B * DBMS *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR B * DBMS</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * B DBMS *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * B DBMS</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * B DBMS *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * B DBMS</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DBMS PROFESSOR * B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DBMS PROFESSOR * B</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DBMS PROFESSOR * B</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DBMS PROFESSOR B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DBMS PROFESSOR B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DBMS * B PROFESSOR *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DBMS * B PROFESSOR</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>DBMS * B PROFESSOR *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>DBMS * B PROFESSOR</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ DBMS B * PROFESSOR *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DBMS B * PROFESSOR</pattern>
+
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>DBMS B * PROFESSOR *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>DBMS B * PROFESSOR</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROFESSOR * DBMS *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROFESSOR * DBMS</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR * DBMS *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR * DBMS</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROFESSOR DBMS *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROFESSOR DBMS</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * PROFESSOR DBMS *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR DBMS</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B DBMS PROFESSOR *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B DBMS PROFESSOR</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * DBMS PROFESSOR *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * DBMS PROFESSOR</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * DBMS * B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * DBMS * B</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * DBMS * B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * DBMS * B</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * DBMS B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * DBMS B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF DBMS * B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF DBMS * B</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF DBMS * B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF DBMS * B</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF DBMS B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF DBMS B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF * B * DBMS *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF * B * DBMS</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * B * DBMS *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * B * DBMS</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF B * DBMS *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF B * DBMS</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF B * DBMS *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF B * DBMS</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * B DBMS *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * B DBMS</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * B DBMS *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * B DBMS</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DBMS PROF * B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DBMS PROF * B</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DBMS PROF * B</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DBMS PROF B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DBMS PROF B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DBMS * B PROF *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DBMS * B PROF</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>DBMS * B PROF *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>DBMS * B PROF</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ DBMS B * PROF *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DBMS B * PROF</pattern>
+
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>DBMS B * PROF *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>DBMS B * PROF</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROF * DBMS *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROF * DBMS</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF * DBMS *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF * DBMS</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROF DBMS *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROF DBMS</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * PROF DBMS *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF DBMS</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B DBMS PROF *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B DBMS PROF</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * DBMS PROF *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * DBMS PROF</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * DBMS * B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * DBMS * B</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * DBMS * B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * DBMS * B</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * DBMS B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * DBMS B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER DBMS * B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER DBMS * B</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER DBMS * B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER DBMS * B</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER DBMS B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER DBMS B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER * B * DBMS *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER * B * DBMS</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * B * DBMS *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * B * DBMS</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER B * DBMS *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER B * DBMS</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER B * DBMS *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER B * DBMS</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * B DBMS *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * B DBMS</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * B DBMS *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * B DBMS</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DBMS LECTURER * B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DBMS LECTURER * B</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DBMS LECTURER * B</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DBMS LECTURER B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DBMS LECTURER B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DBMS * B LECTURER *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DBMS * B LECTURER</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>DBMS * B LECTURER *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>DBMS * B LECTURER</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ DBMS B * LECTURER *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DBMS B * LECTURER</pattern>
+
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>DBMS B * LECTURER *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>DBMS B * LECTURER</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LECTURER * DBMS *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECTURER * DBMS</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER * DBMS *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER * DBMS</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECTURER DBMS *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECTURER DBMS</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * LECTURER DBMS *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER DBMS</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B DBMS LECTURER *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B DBMS LECTURER</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * DBMS LECTURER *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * DBMS LECTURER</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * DBMS * B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * DBMS * B</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * DBMS * B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * DBMS * B</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * DBMS B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * DBMS B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT DBMS * B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT DBMS * B</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT DBMS * B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT DBMS * B</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT DBMS B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT DBMS B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT * B * DBMS *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT * B * DBMS</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * B * DBMS *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * B * DBMS</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT B * DBMS *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT B * DBMS</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT B * DBMS *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT B * DBMS</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * B DBMS *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * B DBMS</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * B DBMS *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * B DBMS</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DBMS LECT * B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DBMS LECT * B</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DBMS LECT * B</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DBMS LECT B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DBMS LECT B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DBMS * B LECT *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DBMS * B LECT</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>DBMS * B LECT *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>DBMS * B LECT</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ DBMS B * LECT *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DBMS B * LECT</pattern>
+
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>DBMS B * LECT *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>DBMS B * LECT</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LECT * DBMS *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECT * DBMS</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT * DBMS *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT * DBMS</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECT DBMS *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECT DBMS</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * LECT DBMS *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT DBMS</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B DBMS LECT *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B DBMS LECT</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * DBMS LECT *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * DBMS LECT</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * DBMS * B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * DBMS * B</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * DBMS * B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * DBMS * B</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * DBMS B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * DBMS B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER DBMS * B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER DBMS * B</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER DBMS * B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER DBMS * B</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER DBMS B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER DBMS B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER * B * DBMS *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER * B * DBMS</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * B * DBMS *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * B * DBMS</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER B * DBMS *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER B * DBMS</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER B * DBMS *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER B * DBMS</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * B DBMS *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * B DBMS</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * B DBMS *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * B DBMS</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DBMS TEACHER * B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DBMS TEACHER * B</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DBMS TEACHER * B</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DBMS TEACHER B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DBMS TEACHER B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DBMS * B TEACHER *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DBMS * B TEACHER</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>DBMS * B TEACHER *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>DBMS * B TEACHER</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ DBMS B * TEACHER *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DBMS B * TEACHER</pattern>
+
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>DBMS B * TEACHER *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>DBMS B * TEACHER</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B TEACHER * DBMS *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B TEACHER * DBMS</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER * DBMS *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER * DBMS</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B TEACHER DBMS *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B TEACHER DBMS</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * TEACHER DBMS *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER DBMS</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B DBMS TEACHER *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B DBMS TEACHER</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * DBMS TEACHER *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * DBMS TEACHER</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ FACULTY * DBMS * B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * DBMS * B</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * DBMS * B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * DBMS * B</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * DBMS B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * DBMS B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY DBMS * B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY DBMS * B</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY DBMS * B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY DBMS * B</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY DBMS B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY DBMS B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY * B * DBMS *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY * B * DBMS</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * B * DBMS *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * B * DBMS</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY B * DBMS *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY B * DBMS</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY B * DBMS *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY B * DBMS</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * B DBMS *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * B DBMS</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * B DBMS *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * B DBMS</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DBMS FACULTY * B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DBMS FACULTY * B</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DBMS FACULTY * B</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DBMS FACULTY B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DBMS FACULTY B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DBMS * B FACULTY *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DBMS * B FACULTY</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>DBMS * B FACULTY *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>DBMS * B FACULTY</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ DBMS B * FACULTY *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DBMS B * FACULTY</pattern>
+
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>DBMS B * FACULTY *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>DBMS B * FACULTY</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B FACULTY * DBMS *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B FACULTY * DBMS</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY * DBMS *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY * DBMS</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B FACULTY DBMS *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B FACULTY DBMS</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * FACULTY DBMS *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY DBMS</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B DBMS FACULTY *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B DBMS FACULTY</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * DBMS FACULTY *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * DBMS FACULTY</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ TEACHES DBMS * B</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES DBMS B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHES * B DBMS *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES * B DBMS</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ TEACHES B * DBMS *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES B * DBMS</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DBMS * B * TAUGHT *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>DBMS * B * TAUGHT *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DBMS B * TAUGHT *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>DBMS B * TAUGHT *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DBMS * B TAUGHT *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DBMS * B TAUGHT *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * DBMS * B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * DBMS * B</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * DBMS B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES DBMS * B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES DBMS * B</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES DBMS B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * DATABASE MANAGEMENT SYSTEMS * B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * DATABASE MANAGEMENT SYSTEMS * B</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * DATABASE MANAGEMENT SYSTEMS * B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * DATABASE MANAGEMENT SYSTEMS * B</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * DATABASE MANAGEMENT SYSTEMS B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * DATABASE MANAGEMENT SYSTEMS B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR DATABASE MANAGEMENT SYSTEMS * B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR DATABASE MANAGEMENT SYSTEMS * B</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR DATABASE MANAGEMENT SYSTEMS * B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR DATABASE MANAGEMENT SYSTEMS * B</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR DATABASE MANAGEMENT SYSTEMS B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR DATABASE MANAGEMENT SYSTEMS B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR * B * DATABASE MANAGEMENT SYSTEMS *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR * B * DATABASE MANAGEMENT SYSTEMS</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * B * DATABASE MANAGEMENT SYSTEMS *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * B * DATABASE MANAGEMENT SYSTEMS</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR B * DATABASE MANAGEMENT SYSTEMS *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROFESSOR B * DATABASE MANAGEMENT SYSTEMS</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR B * DATABASE MANAGEMENT SYSTEMS *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR B * DATABASE MANAGEMENT SYSTEMS</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * B DATABASE MANAGEMENT SYSTEMS *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROFESSOR * B DATABASE MANAGEMENT SYSTEMS</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * B DATABASE MANAGEMENT SYSTEMS *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROFESSOR * B DATABASE MANAGEMENT SYSTEMS</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DATABASE MANAGEMENT SYSTEMS PROFESSOR * B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DATABASE MANAGEMENT SYSTEMS PROFESSOR * B</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DATABASE MANAGEMENT SYSTEMS PROFESSOR * B</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DATABASE MANAGEMENT SYSTEMS PROFESSOR B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DATABASE MANAGEMENT SYSTEMS PROFESSOR B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DATABASE MANAGEMENT SYSTEMS * B PROFESSOR *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DATABASE MANAGEMENT SYSTEMS * B PROFESSOR</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>DATABASE MANAGEMENT SYSTEMS * B PROFESSOR *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>DATABASE MANAGEMENT SYSTEMS * B PROFESSOR</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ DATABASE MANAGEMENT SYSTEMS B * PROFESSOR *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DATABASE MANAGEMENT SYSTEMS B * PROFESSOR</pattern>
+
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>DATABASE MANAGEMENT SYSTEMS B * PROFESSOR *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>DATABASE MANAGEMENT SYSTEMS B * PROFESSOR</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROFESSOR * DATABASE MANAGEMENT SYSTEMS *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROFESSOR * DATABASE MANAGEMENT SYSTEMS</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR * DATABASE MANAGEMENT SYSTEMS *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR * DATABASE MANAGEMENT SYSTEMS</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROFESSOR DATABASE MANAGEMENT SYSTEMS *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROFESSOR DATABASE MANAGEMENT SYSTEMS</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * PROFESSOR DATABASE MANAGEMENT SYSTEMS *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROFESSOR DATABASE MANAGEMENT SYSTEMS</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B DATABASE MANAGEMENT SYSTEMS PROFESSOR *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B DATABASE MANAGEMENT SYSTEMS PROFESSOR</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * DATABASE MANAGEMENT SYSTEMS PROFESSOR *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * DATABASE MANAGEMENT SYSTEMS PROFESSOR</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * DATABASE MANAGEMENT SYSTEMS * B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * DATABASE MANAGEMENT SYSTEMS * B</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * DATABASE MANAGEMENT SYSTEMS * B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * DATABASE MANAGEMENT SYSTEMS * B</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * DATABASE MANAGEMENT SYSTEMS B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * DATABASE MANAGEMENT SYSTEMS B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF DATABASE MANAGEMENT SYSTEMS * B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF DATABASE MANAGEMENT SYSTEMS * B</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF DATABASE MANAGEMENT SYSTEMS * B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF DATABASE MANAGEMENT SYSTEMS * B</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF DATABASE MANAGEMENT SYSTEMS B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF DATABASE MANAGEMENT SYSTEMS B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF * B * DATABASE MANAGEMENT SYSTEMS *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF * B * DATABASE MANAGEMENT SYSTEMS</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * B * DATABASE MANAGEMENT SYSTEMS *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * B * DATABASE MANAGEMENT SYSTEMS</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF B * DATABASE MANAGEMENT SYSTEMS *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ PROF B * DATABASE MANAGEMENT SYSTEMS</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF B * DATABASE MANAGEMENT SYSTEMS *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF B * DATABASE MANAGEMENT SYSTEMS</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * B DATABASE MANAGEMENT SYSTEMS *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ PROF * B DATABASE MANAGEMENT SYSTEMS</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * B DATABASE MANAGEMENT SYSTEMS *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>PROF * B DATABASE MANAGEMENT SYSTEMS</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DATABASE MANAGEMENT SYSTEMS PROF * B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DATABASE MANAGEMENT SYSTEMS PROF * B</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DATABASE MANAGEMENT SYSTEMS PROF * B</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DATABASE MANAGEMENT SYSTEMS PROF B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DATABASE MANAGEMENT SYSTEMS PROF B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DATABASE MANAGEMENT SYSTEMS * B PROF *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DATABASE MANAGEMENT SYSTEMS * B PROF</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>DATABASE MANAGEMENT SYSTEMS * B PROF *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>DATABASE MANAGEMENT SYSTEMS * B PROF</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ DATABASE MANAGEMENT SYSTEMS B * PROF *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DATABASE MANAGEMENT SYSTEMS B * PROF</pattern>
+
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>DATABASE MANAGEMENT SYSTEMS B * PROF *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>DATABASE MANAGEMENT SYSTEMS B * PROF</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B PROF * DATABASE MANAGEMENT SYSTEMS *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROF * DATABASE MANAGEMENT SYSTEMS</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF * DATABASE MANAGEMENT SYSTEMS *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF * DATABASE MANAGEMENT SYSTEMS</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROF DATABASE MANAGEMENT SYSTEMS *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B PROF DATABASE MANAGEMENT SYSTEMS</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * PROF DATABASE MANAGEMENT SYSTEMS *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * PROF DATABASE MANAGEMENT SYSTEMS</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B DATABASE MANAGEMENT SYSTEMS PROF *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B DATABASE MANAGEMENT SYSTEMS PROF</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * DATABASE MANAGEMENT SYSTEMS PROF *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * DATABASE MANAGEMENT SYSTEMS PROF</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * DATABASE MANAGEMENT SYSTEMS * B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * DATABASE MANAGEMENT SYSTEMS * B</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * DATABASE MANAGEMENT SYSTEMS * B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * DATABASE MANAGEMENT SYSTEMS * B</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * DATABASE MANAGEMENT SYSTEMS B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * DATABASE MANAGEMENT SYSTEMS B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER DATABASE MANAGEMENT SYSTEMS * B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER DATABASE MANAGEMENT SYSTEMS * B</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER DATABASE MANAGEMENT SYSTEMS * B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER DATABASE MANAGEMENT SYSTEMS * B</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER DATABASE MANAGEMENT SYSTEMS B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER DATABASE MANAGEMENT SYSTEMS B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER * B * DATABASE MANAGEMENT SYSTEMS *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER * B * DATABASE MANAGEMENT SYSTEMS</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * B * DATABASE MANAGEMENT SYSTEMS *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * B * DATABASE MANAGEMENT SYSTEMS</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER B * DATABASE MANAGEMENT SYSTEMS *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURER B * DATABASE MANAGEMENT SYSTEMS</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER B * DATABASE MANAGEMENT SYSTEMS *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER B * DATABASE MANAGEMENT SYSTEMS</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * B DATABASE MANAGEMENT SYSTEMS *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECTURER * B DATABASE MANAGEMENT SYSTEMS</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * B DATABASE MANAGEMENT SYSTEMS *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECTURER * B DATABASE MANAGEMENT SYSTEMS</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DATABASE MANAGEMENT SYSTEMS LECTURER * B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DATABASE MANAGEMENT SYSTEMS LECTURER * B</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DATABASE MANAGEMENT SYSTEMS LECTURER * B</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DATABASE MANAGEMENT SYSTEMS LECTURER B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DATABASE MANAGEMENT SYSTEMS LECTURER B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DATABASE MANAGEMENT SYSTEMS * B LECTURER *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DATABASE MANAGEMENT SYSTEMS * B LECTURER</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>DATABASE MANAGEMENT SYSTEMS * B LECTURER *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>DATABASE MANAGEMENT SYSTEMS * B LECTURER</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ DATABASE MANAGEMENT SYSTEMS B * LECTURER *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DATABASE MANAGEMENT SYSTEMS B * LECTURER</pattern>
+
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>DATABASE MANAGEMENT SYSTEMS B * LECTURER *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>DATABASE MANAGEMENT SYSTEMS B * LECTURER</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LECTURER * DATABASE MANAGEMENT SYSTEMS *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECTURER * DATABASE MANAGEMENT SYSTEMS</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER * DATABASE MANAGEMENT SYSTEMS *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER * DATABASE MANAGEMENT SYSTEMS</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECTURER DATABASE MANAGEMENT SYSTEMS *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECTURER DATABASE MANAGEMENT SYSTEMS</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * LECTURER DATABASE MANAGEMENT SYSTEMS *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECTURER DATABASE MANAGEMENT SYSTEMS</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B DATABASE MANAGEMENT SYSTEMS LECTURER *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B DATABASE MANAGEMENT SYSTEMS LECTURER</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * DATABASE MANAGEMENT SYSTEMS LECTURER *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * DATABASE MANAGEMENT SYSTEMS LECTURER</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * DATABASE MANAGEMENT SYSTEMS * B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * DATABASE MANAGEMENT SYSTEMS * B</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * DATABASE MANAGEMENT SYSTEMS * B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * DATABASE MANAGEMENT SYSTEMS * B</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * DATABASE MANAGEMENT SYSTEMS B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * DATABASE MANAGEMENT SYSTEMS B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT DATABASE MANAGEMENT SYSTEMS * B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT DATABASE MANAGEMENT SYSTEMS * B</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT DATABASE MANAGEMENT SYSTEMS * B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT DATABASE MANAGEMENT SYSTEMS * B</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT DATABASE MANAGEMENT SYSTEMS B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT DATABASE MANAGEMENT SYSTEMS B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT * B * DATABASE MANAGEMENT SYSTEMS *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT * B * DATABASE MANAGEMENT SYSTEMS</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * B * DATABASE MANAGEMENT SYSTEMS *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * B * DATABASE MANAGEMENT SYSTEMS</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT B * DATABASE MANAGEMENT SYSTEMS *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECT B * DATABASE MANAGEMENT SYSTEMS</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT B * DATABASE MANAGEMENT SYSTEMS *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT B * DATABASE MANAGEMENT SYSTEMS</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * B DATABASE MANAGEMENT SYSTEMS *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ LECT * B DATABASE MANAGEMENT SYSTEMS</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * B DATABASE MANAGEMENT SYSTEMS *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>LECT * B DATABASE MANAGEMENT SYSTEMS</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DATABASE MANAGEMENT SYSTEMS LECT * B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DATABASE MANAGEMENT SYSTEMS LECT * B</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DATABASE MANAGEMENT SYSTEMS LECT * B</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DATABASE MANAGEMENT SYSTEMS LECT B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DATABASE MANAGEMENT SYSTEMS LECT B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DATABASE MANAGEMENT SYSTEMS * B LECT *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DATABASE MANAGEMENT SYSTEMS * B LECT</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>DATABASE MANAGEMENT SYSTEMS * B LECT *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>DATABASE MANAGEMENT SYSTEMS * B LECT</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ DATABASE MANAGEMENT SYSTEMS B * LECT *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DATABASE MANAGEMENT SYSTEMS B * LECT</pattern>
+
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>DATABASE MANAGEMENT SYSTEMS B * LECT *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>DATABASE MANAGEMENT SYSTEMS B * LECT</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B LECT * DATABASE MANAGEMENT SYSTEMS *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECT * DATABASE MANAGEMENT SYSTEMS</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT * DATABASE MANAGEMENT SYSTEMS *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT * DATABASE MANAGEMENT SYSTEMS</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECT DATABASE MANAGEMENT SYSTEMS *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B LECT DATABASE MANAGEMENT SYSTEMS</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * LECT DATABASE MANAGEMENT SYSTEMS *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * LECT DATABASE MANAGEMENT SYSTEMS</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B DATABASE MANAGEMENT SYSTEMS LECT *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B DATABASE MANAGEMENT SYSTEMS LECT</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * DATABASE MANAGEMENT SYSTEMS LECT *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * DATABASE MANAGEMENT SYSTEMS LECT</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * DATABASE MANAGEMENT SYSTEMS * B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * DATABASE MANAGEMENT SYSTEMS * B</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * DATABASE MANAGEMENT SYSTEMS * B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * DATABASE MANAGEMENT SYSTEMS * B</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * DATABASE MANAGEMENT SYSTEMS B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * DATABASE MANAGEMENT SYSTEMS B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER DATABASE MANAGEMENT SYSTEMS * B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER DATABASE MANAGEMENT SYSTEMS * B</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER DATABASE MANAGEMENT SYSTEMS * B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER DATABASE MANAGEMENT SYSTEMS * B</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER DATABASE MANAGEMENT SYSTEMS B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER DATABASE MANAGEMENT SYSTEMS B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER * B * DATABASE MANAGEMENT SYSTEMS *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER * B * DATABASE MANAGEMENT SYSTEMS</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * B * DATABASE MANAGEMENT SYSTEMS *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * B * DATABASE MANAGEMENT SYSTEMS</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER B * DATABASE MANAGEMENT SYSTEMS *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHER B * DATABASE MANAGEMENT SYSTEMS</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER B * DATABASE MANAGEMENT SYSTEMS *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER B * DATABASE MANAGEMENT SYSTEMS</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * B DATABASE MANAGEMENT SYSTEMS *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHER * B DATABASE MANAGEMENT SYSTEMS</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * B DATABASE MANAGEMENT SYSTEMS *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>TEACHER * B DATABASE MANAGEMENT SYSTEMS</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DATABASE MANAGEMENT SYSTEMS TEACHER * B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DATABASE MANAGEMENT SYSTEMS TEACHER * B</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DATABASE MANAGEMENT SYSTEMS TEACHER * B</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DATABASE MANAGEMENT SYSTEMS TEACHER B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DATABASE MANAGEMENT SYSTEMS TEACHER B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DATABASE MANAGEMENT SYSTEMS * B TEACHER *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DATABASE MANAGEMENT SYSTEMS * B TEACHER</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>DATABASE MANAGEMENT SYSTEMS * B TEACHER *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>DATABASE MANAGEMENT SYSTEMS * B TEACHER</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ DATABASE MANAGEMENT SYSTEMS B * TEACHER *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DATABASE MANAGEMENT SYSTEMS B * TEACHER</pattern>
+
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>DATABASE MANAGEMENT SYSTEMS B * TEACHER *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>DATABASE MANAGEMENT SYSTEMS B * TEACHER</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B TEACHER * DATABASE MANAGEMENT SYSTEMS *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B TEACHER * DATABASE MANAGEMENT SYSTEMS</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER * DATABASE MANAGEMENT SYSTEMS *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER * DATABASE MANAGEMENT SYSTEMS</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B TEACHER DATABASE MANAGEMENT SYSTEMS *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B TEACHER DATABASE MANAGEMENT SYSTEMS</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * TEACHER DATABASE MANAGEMENT SYSTEMS *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * TEACHER DATABASE MANAGEMENT SYSTEMS</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B DATABASE MANAGEMENT SYSTEMS TEACHER *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B DATABASE MANAGEMENT SYSTEMS TEACHER</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * DATABASE MANAGEMENT SYSTEMS TEACHER *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * DATABASE MANAGEMENT SYSTEMS TEACHER</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ FACULTY * DATABASE MANAGEMENT SYSTEMS * B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * DATABASE MANAGEMENT SYSTEMS * B</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * DATABASE MANAGEMENT SYSTEMS * B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * DATABASE MANAGEMENT SYSTEMS * B</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * DATABASE MANAGEMENT SYSTEMS B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * DATABASE MANAGEMENT SYSTEMS B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY DATABASE MANAGEMENT SYSTEMS * B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY DATABASE MANAGEMENT SYSTEMS * B</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY DATABASE MANAGEMENT SYSTEMS * B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY DATABASE MANAGEMENT SYSTEMS * B</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY DATABASE MANAGEMENT SYSTEMS B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY DATABASE MANAGEMENT SYSTEMS B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY * B * DATABASE MANAGEMENT SYSTEMS *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY * B * DATABASE MANAGEMENT SYSTEMS</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * B * DATABASE MANAGEMENT SYSTEMS *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * B * DATABASE MANAGEMENT SYSTEMS</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY B * DATABASE MANAGEMENT SYSTEMS *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ FACULTY B * DATABASE MANAGEMENT SYSTEMS</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY B * DATABASE MANAGEMENT SYSTEMS *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY B * DATABASE MANAGEMENT SYSTEMS</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * B DATABASE MANAGEMENT SYSTEMS *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ FACULTY * B DATABASE MANAGEMENT SYSTEMS</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * B DATABASE MANAGEMENT SYSTEMS *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>FACULTY * B DATABASE MANAGEMENT SYSTEMS</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ DATABASE MANAGEMENT SYSTEMS FACULTY * B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DATABASE MANAGEMENT SYSTEMS FACULTY * B</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DATABASE MANAGEMENT SYSTEMS FACULTY * B</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DATABASE MANAGEMENT SYSTEMS FACULTY B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DATABASE MANAGEMENT SYSTEMS FACULTY B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DATABASE MANAGEMENT SYSTEMS * B FACULTY *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DATABASE MANAGEMENT SYSTEMS * B FACULTY</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>DATABASE MANAGEMENT SYSTEMS * B FACULTY *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>DATABASE MANAGEMENT SYSTEMS * B FACULTY</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+<category>
+	<pattern>_ DATABASE MANAGEMENT SYSTEMS B * FACULTY *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DATABASE MANAGEMENT SYSTEMS B * FACULTY</pattern>
+
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>DATABASE MANAGEMENT SYSTEMS B * FACULTY *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>DATABASE MANAGEMENT SYSTEMS B * FACULTY</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B FACULTY * DATABASE MANAGEMENT SYSTEMS *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B FACULTY * DATABASE MANAGEMENT SYSTEMS</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY * DATABASE MANAGEMENT SYSTEMS *</pattern>
+	<template><srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY * DATABASE MANAGEMENT SYSTEMS</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B FACULTY DATABASE MANAGEMENT SYSTEMS *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B FACULTY DATABASE MANAGEMENT SYSTEMS</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * FACULTY DATABASE MANAGEMENT SYSTEMS *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * FACULTY DATABASE MANAGEMENT SYSTEMS</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ B DATABASE MANAGEMENT SYSTEMS FACULTY *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ B DATABASE MANAGEMENT SYSTEMS FACULTY</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>B * DATABASE MANAGEMENT SYSTEMS FACULTY *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>B * DATABASE MANAGEMENT SYSTEMS FACULTY</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ TEACHES DATABASE MANAGEMENT SYSTEMS * B</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES DATABASE MANAGEMENT SYSTEMS B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ TEACHES * B DATABASE MANAGEMENT SYSTEMS *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES * B DATABASE MANAGEMENT SYSTEMS</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+
+<category>
+	<pattern>_ TEACHES B * DATABASE MANAGEMENT SYSTEMS *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>_ TEACHES B * DATABASE MANAGEMENT SYSTEMS</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DATABASE MANAGEMENT SYSTEMS * B * TAUGHT *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>DATABASE MANAGEMENT SYSTEMS * B * TAUGHT *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DATABASE MANAGEMENT SYSTEMS B * TAUGHT *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>DATABASE MANAGEMENT SYSTEMS B * TAUGHT *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ DATABASE MANAGEMENT SYSTEMS * B TAUGHT *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+<category>
+	<pattern>DATABASE MANAGEMENT SYSTEMS * B TAUGHT *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * DATABASE MANAGEMENT SYSTEMS * B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * DATABASE MANAGEMENT SYSTEMS * B</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES * DATABASE MANAGEMENT SYSTEMS B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES DATABASE MANAGEMENT SYSTEMS * B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES DATABASE MANAGEMENT SYSTEMS * B</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+<category>
+	<pattern>_ LECTURES DATABASE MANAGEMENT SYSTEMS B *</pattern>
+	<template>
+		<srai>DBMB</srai>
+	</template>
+</category>
+
+
+</aiml>

@@ -1,0 +1,102 @@
+<aiml version="1.0.1" encoding="UTF-8">
+
+
+<category>
+    <pattern>HI</pattern>
+     <template>
+         <random>
+             <li>Hi! What can I do for you?</li>
+            <li>Hello! What can I do for you?</li>
+         </random>
+     </template>
+  </category>
+
+  <category>
+     <pattern>HELLO</pattern>
+      <template>
+          <random>
+              <li>Hi! What can I do for you?</li>
+               <li>Hello! What can I do for you?</li>
+          </random>
+        </template>
+  </category>
+
+  <category>
+    <pattern> I AM *</pattern>
+      <template>
+          <random>
+              <li>Hello! <star/></li>
+              <li>Hi! <star/></li>
+          </random>
+      </template>
+  </category>
+
+  <category>
+      <pattern>THIS IS *</pattern>
+      <template>
+          <random>
+              <li>Hello! <star/></li>
+              <li>Hi! <star/></li>
+          </random>
+      </template>
+  </category>
+
+  <category>
+      <pattern>WHO ARE YOU?</pattern>
+      <template>I am liaCT.ai! :) :D</template>
+  </category>
+
+  <category>
+      <pattern>WHO ARE YOU</pattern>
+      <template>I am liaCT.ai! :) :D</template>
+  </category>
+
+  <category>
+      <pattern>WHAT ARE YOU?</pattern>
+      <template>I am your silly lil chatbot! :) :D</template>
+  </category>
+
+
+  <category>
+      <pattern>WHAT ARE YOU</pattern>
+      <template>I am your silly lil chatbot! :) :D</template>
+  </category>
+
+  <category>
+      <pattern>WHAT IS YOUR NAME</pattern>
+      <template>My name is liaCT.ai</template>
+  </category>
+
+  <category>
+      <pattern>WHAT IS YOUR NAME?</pattern>
+      <template>My name is liaCT.ai</template>
+  </category>
+
+   <category>
+      <pattern>MORNING</pattern>
+      <template>
+          Good Morning
+      </template>
+   </category>
+
+   <category>
+      <pattern>_ GOOD MORNING *</pattern>
+      <template><srai>MORNING</srai></template>
+   </category>
+
+   <category>
+      <pattern>_ GOOD MORNING</pattern>
+      <template><srai>MORNING</srai></template>
+   </category>
+
+   <category>
+      <pattern>GOOD MORNING *</pattern>
+      <template><srai>MORNING</srai></template>
+   </category>
+
+   <category>
+      <pattern>GOOD MORNING</pattern>
+      <template><srai>MORNING</srai></template>
+   </category>
+
+</aiml>
